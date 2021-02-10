@@ -2,8 +2,11 @@ import spacy, stanza
 from spacy_stanza import StanzaLanguage
 from spacy.tokenizer import Tokenizer
 
-from sklearn.metrics import make_scorer,confusion_matrix
-from sklearn.metrics import f1_score,classification_report
+#from sklearn.metrics import make_scorer,confusion_matrix
+#from sklearn.metrics import f1_score,classification_report
+
+from seqeval.metrics import classification_report
+from seqeval.metrics import f1_score
 
 import sys
 
@@ -74,10 +77,6 @@ gold_sen, gold_ner = read_file(sys.argv[1])
 matches = 0
 mis_matches = 0
 
-#Making a flat list of NE tags, for evaluations later. 
-flat_ne_tags = [ne for gold_ner_sen in gold_ner for ne in gold_ner_sen]
-
-label_list = list(set(flat_ne_tags)) #for printing confusion matrix
 spacy_netags = [] #will contain spacy preds
 stanza_netags = [] #will contain stanza preds
 
@@ -85,13 +84,15 @@ for sen in gold_sen:
    actual_sen = " ".join(sen)
    doc_spacy = nlp(actual_sen)
    doc_stanza = snlp(actual_sen)
+   temp_tags_spacy = []
+   temp_tags_stanza = []
 
    for token in doc_spacy:
       if token.ent_iob_ and token.ent_type_:
         tag = token.ent_iob_+"-"+token.ent_type_
       else:
         tag = token.ent_iob_
-      spacy_netags.append(tag)
+      temp_tags_spacy.append(tag)
 
    for token in doc_stanza:
       if token.ent_iob_ and token.ent_type_:
@@ -99,28 +100,36 @@ for sen in gold_sen:
       else:
         tag = "O"
 
-      stanza_netags.append(tag)
+      temp_tags_stanza.append(tag)
 
-   if spacy_netags == stanza_netags:
+   if temp_tags_spacy == temp_tags_stanza:
       matches = matches+1
    else:
       mis_matches = mis_matches+1
 
-print(len(flat_ne_tags), len(spacy_netags), len(stanza_netags))
-   
+   spacy_netags.append(temp_tags_spacy)
+   stanza_netags.append(temp_tags_stanza)
+
+#Making a flat list of NE tags, for flat_evaluations if needed. 
+flat_ne_tags = [ne for gold_ner_sen in gold_ner for ne in gold_ner_sen]
+label_list = list(set(flat_ne_tags)) #for printing confusion matrix
+#do the same for flat_spacy_tags, flat_stanza_tags if needed. 
+
 print("***Basic stats: ****")
 print("Num sentences: ", len(gold_sen), "in this genre: ", sys.argv[1].split("onto.")[1])
 print("Num. predictions where stanza and spacy match exactly: ", matches)
 print("Num. predictions where there is a difference between stanza and spacy: ", mis_matches)
 
 print("Classification report for Spacy NER: ")
-print(classification_report(flat_ne_tags, spacy_netags))
+print(classification_report(gold_ner, spacy_netags))
 
 print("Classification report for Stanza NER: ")
-print(classification_report(flat_ne_tags, stanza_netags))
+print(classification_report(gold_ner, stanza_netags))
 
+"""
 print("Confusion matrix for Stanza NER: ")
 print_cm(confusion_matrix(flat_ne_tags, stanza_netags), labels=label_list)
 
 print("Confusion matrix for Spacy NER: ")
 print_cm(confusion_matrix(flat_ne_tags, spacy_netags), labels=label_list)
+"""
