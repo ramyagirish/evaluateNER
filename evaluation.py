@@ -14,7 +14,7 @@ import sys
 
 
 #setting up spacy and stanza 
-nlp = spacy.load("en_core_web_sm") #can try with other models later
+nlp = spacy.load("en_core_web_lg") #can try with other models later
 nlp.tokenizer = Tokenizer(nlp.vocab)
 
 stan = stanza.Pipeline(lang="en", tokenize_pretokenized=True)
@@ -42,7 +42,7 @@ def read_file(filepath):
        else:
           splits = line.strip().split("\t")
           tempsen.append(splits[0])
-          tempnet.append(splits[2])
+          tempnet.append(splits[3]) #change here for 3 col vs 4 col conll format. 
     fh.close()
     print("Num sentences in: ", filepath, ":", len(sentences))
     return sentences, netags
@@ -121,10 +121,10 @@ print("Num. predictions where stanza and spacy match exactly: ", matches)
 print("Num. predictions where there is a difference between stanza and spacy: ", mis_matches)
 
 print("Classification report for Spacy NER: ")
-print(classification_report(gold_ner, spacy_netags))
+print(classification_report(gold_ner, spacy_netags, digits=4))
 
 print("Classification report for Stanza NER: ")
-print(classification_report(gold_ner, stanza_netags))
+print(classification_report(gold_ner, stanza_netags, digits=4))
 
 """
 print("Confusion matrix for Stanza NER: ")

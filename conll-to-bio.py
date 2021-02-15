@@ -35,7 +35,7 @@ def write_bio(fnames, genre, group):
                     elif ori_ner.startswith("(") and ori_ner.endswith(")") and len(ori_ner)>2 and flag == None:
                         ner = "B-" + ori_ner[1:-1]
 
-                    text += "\t".join([word, pos, ner]) + '\n'
+                    text += "\t".join([word, pos, cons, ner]) + '\n'
                 else:
                     text += '\n'
             text += '\n'
