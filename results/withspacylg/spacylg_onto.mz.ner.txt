@@ -1,0 +1,57 @@
+Models loaded, and they assume whitespace tokenized text
+Num sentences in:  bio/test/onto.mz.ner : 780
+***Basic stats: ****
+Num sentences:  780 in this genre:  mz.ner
+Num. predictions where stanza and spacy match exactly:  614
+Num. predictions where there is a difference between stanza and spacy:  166
+Classification report for Spacy NER: 
+              precision    recall  f1-score   support
+
+    CARDINAL       0.78      0.85      0.81       124
+        DATE       0.67      0.89      0.76       108
+       EVENT       0.67      0.25      0.36         8
+         FAC       0.50      0.54      0.52        13
+         GPE       0.96      0.81      0.88       361
+    LANGUAGE       1.00      1.00      1.00         1
+         LAW       0.00      0.00      0.00         1
+         LOC       0.75      0.64      0.69        33
+       MONEY       0.75      0.67      0.71        18
+        NORP       0.95      0.96      0.96        79
+     ORDINAL       0.81      0.88      0.84        24
+         ORG       0.72      0.76      0.74       165
+     PERCENT       0.83      0.83      0.83        12
+      PERSON       0.76      0.89      0.82       180
+    QUANTITY       0.69      0.69      0.69        16
+        TIME       0.50      0.64      0.56        11
+ WORK_OF_ART       0.50      0.22      0.31         9
+
+   micro avg       0.80      0.82      0.81      1163
+   macro avg       0.70      0.68      0.67      1163
+weighted avg       0.81      0.82      0.81      1163
+
+Classification report for Stanza NER: 
+              precision    recall  f1-score   support
+
+    CARDINAL       0.81      0.89      0.85       124
+        DATE       0.68      0.87      0.76       108
+       EVENT       0.71      0.62      0.67         8
+         FAC       0.48      0.77      0.59        13
+         GPE       0.98      0.87      0.92       361
+    LANGUAGE       0.50      1.00      0.67         1
+         LAW       0.00      0.00      0.00         1
+         LOC       0.85      0.67      0.75        33
+       MONEY       0.89      0.89      0.89        18
+        NORP       0.93      0.95      0.94        79
+     ORDINAL       0.92      1.00      0.96        24
+         ORG       0.83      0.87      0.85       165
+     PERCENT       0.83      0.83      0.83        12
+      PERSON       0.86      0.94      0.90       180
+     PRODUCT       0.00      0.00      0.00         0
+    QUANTITY       0.65      0.69      0.67        16
+        TIME       0.57      0.73      0.64        11
+ WORK_OF_ART       0.67      0.22      0.33         9
+
+   micro avg       0.85      0.87      0.86      1163
+   macro avg       0.68      0.71      0.68      1163
+weighted avg       0.86      0.87      0.86      1163
+

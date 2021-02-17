@@ -1,0 +1,53 @@
+Models loaded, and they assume whitespace tokenized text
+Num sentences in:  bio/test/onto.pt.ner : 1217
+***Basic stats: ****
+Num sentences:  1217 in this genre:  pt.ner
+Num. predictions where stanza and spacy match exactly:  1052
+Num. predictions where there is a difference between stanza and spacy:  165
+Classification report for Spacy NER: 
+              precision    recall  f1-score   support
+
+    CARDINAL       0.00      0.00      0.00         0
+        DATE       0.00      0.00      0.00         0
+       EVENT       0.00      0.00      0.00         0
+         FAC       0.00      0.00      0.00         0
+         GPE       0.00      0.00      0.00         0
+    LANGUAGE       0.00      0.00      0.00         0
+         LOC       0.00      0.00      0.00         0
+        NORP       0.00      0.00      0.00         0
+     ORDINAL       0.00      0.00      0.00         0
+         ORG       0.00      0.00      0.00         0
+      PERSON       0.00      0.00      0.00         0
+     PRODUCT       0.00      0.00      0.00         0
+    QUANTITY       0.00      0.00      0.00         0
+        TIME       0.00      0.00      0.00         0
+ WORK_OF_ART       0.00      0.00      0.00         0
+
+   micro avg       0.00      0.00      0.00         0
+   macro avg       0.00      0.00      0.00         0
+weighted avg       0.00      0.00      0.00         0
+
+Classification report for Stanza NER: 
+              precision    recall  f1-score   support
+
+    CARDINAL       0.00      0.00      0.00         0
+        DATE       0.00      0.00      0.00         0
+       EVENT       0.00      0.00      0.00         0
+         FAC       0.00      0.00      0.00         0
+         GPE       0.00      0.00      0.00         0
+    LANGUAGE       0.00      0.00      0.00         0
+         LAW       0.00      0.00      0.00         0
+         LOC       0.00      0.00      0.00         0
+        NORP       0.00      0.00      0.00         0
+     ORDINAL       0.00      0.00      0.00         0
+         ORG       0.00      0.00      0.00         0
+      PERSON       0.00      0.00      0.00         0
+     PRODUCT       0.00      0.00      0.00         0
+    QUANTITY       0.00      0.00      0.00         0
+        TIME       0.00      0.00      0.00         0
+ WORK_OF_ART       0.00      0.00      0.00         0
+
+   micro avg       0.00      0.00      0.00         0
+   macro avg       0.00      0.00      0.00         0
+weighted avg       0.00      0.00      0.00         0
+
