@@ -2,6 +2,10 @@ import spacy, stanza
 from spacy_stanza import StanzaLanguage
 from spacy.tokenizer import Tokenizer
 
+from flair.data import Sentence, Token
+from flair.models import SequenceTagger
+
+
 #from sklearn.metrics import make_scorer,confusion_matrix
 #from sklearn.metrics import f1_score,classification_report
 
@@ -12,15 +16,6 @@ import sys
 
 #TODO: Clean this up and wrap into functions. 
 
-
-#setting up spacy and stanza 
-nlp = spacy.load("en_core_web_lg") #can try with other models later
-nlp.tokenizer = Tokenizer(nlp.vocab)
-
-stan = stanza.Pipeline(lang="en", tokenize_pretokenized=True)
-snlp = StanzaLanguage(stan)
-
-print("Models loaded, and they assume whitespace tokenized text")
 
 """
 Reads an ontonotes test file, and stores it as two lists of lists: one each for sentences (as tokens) and their NER tags.
@@ -70,66 +65,102 @@ def print_cm(cm, labels):
         print(sum) #Prints the total number of instances per cat at the end.
 
 
+def spacy_stanza():
 
-gold_sen, gold_ner = read_file(sys.argv[1])
-#"bio/test/onto.bn.ner"
+    #setting up spacy and stanza
+    nlp = spacy.load("en_core_web_lg") #can try with other models later
+    nlp.tokenizer = Tokenizer(nlp.vocab)
 
-matches = 0
-mis_matches = 0
+    stan = stanza.Pipeline(lang="en", tokenize_pretokenized=True)
+    snlp = StanzaLanguage(stan)
 
-spacy_netags = [] #will contain spacy preds
-stanza_netags = [] #will contain stanza preds
+    print("Models loaded, and they assume whitespace tokenized text")
 
-for sen in gold_sen:
-   actual_sen = " ".join(sen)
-   doc_spacy = nlp(actual_sen)
-   doc_stanza = snlp(actual_sen)
-   temp_tags_spacy = []
-   temp_tags_stanza = []
+    gold_sen, gold_ner = read_file(sys.argv[1])
+    #"bio/test/onto.bn.ner"
 
-   for token in doc_spacy:
-      if token.ent_iob_ and token.ent_type_:
-        tag = token.ent_iob_+"-"+token.ent_type_
-      else:
-        tag = token.ent_iob_
-      temp_tags_spacy.append(tag)
+    matches = 0
+    mis_matches = 0
 
-   for token in doc_stanza:
-      if token.ent_iob_ and token.ent_type_:
-        tag = token.ent_iob_+"-"+token.ent_type_
-      else:
-        tag = "O"
+    spacy_netags = [] #will contain spacy preds
+    stanza_netags = [] #will contain stanza preds
 
-      temp_tags_stanza.append(tag)
+    for sen in gold_sen:
+       actual_sen = " ".join(sen)
+       doc_spacy = nlp(actual_sen)
+       doc_stanza = snlp(actual_sen)
+       temp_tags_spacy = []
+       temp_tags_stanza = []
 
-   if temp_tags_spacy == temp_tags_stanza:
-      matches = matches+1
-   else:
-      mis_matches = mis_matches+1
+       for token in doc_spacy:
+          if token.ent_iob_ and token.ent_type_:
+            tag = token.ent_iob_+"-"+token.ent_type_
+          else:
+            tag = token.ent_iob_
+          temp_tags_spacy.append(tag)
 
-   spacy_netags.append(temp_tags_spacy)
-   stanza_netags.append(temp_tags_stanza)
+       for token in doc_stanza:
+          if token.ent_iob_ and token.ent_type_:
+            tag = token.ent_iob_+"-"+token.ent_type_
+          else:
+            tag = "O"
 
-#Making a flat list of NE tags, for flat_evaluations if needed. 
-flat_ne_tags = [ne for gold_ner_sen in gold_ner for ne in gold_ner_sen]
-label_list = list(set(flat_ne_tags)) #for printing confusion matrix
-#do the same for flat_spacy_tags, flat_stanza_tags if needed. 
+          temp_tags_stanza.append(tag)
 
-print("***Basic stats: ****")
-print("Num sentences: ", len(gold_sen), "in this genre: ", sys.argv[1].split("onto.")[1])
-print("Num. predictions where stanza and spacy match exactly: ", matches)
-print("Num. predictions where there is a difference between stanza and spacy: ", mis_matches)
+       if temp_tags_spacy == temp_tags_stanza:
+          matches = matches+1
+       else:
+          mis_matches = mis_matches+1
 
-print("Classification report for Spacy NER: ")
-print(classification_report(gold_ner, spacy_netags, digits=4))
+       spacy_netags.append(temp_tags_spacy)
+       stanza_netags.append(temp_tags_stanza)
 
-print("Classification report for Stanza NER: ")
-print(classification_report(gold_ner, stanza_netags, digits=4))
+    #Making a flat list of NE tags, for flat_evaluations if needed.
+    flat_ne_tags = [ne for gold_ner_sen in gold_ner for ne in gold_ner_sen]
+    label_list = list(set(flat_ne_tags)) #for printing confusion matrix
+    #do the same for flat_spacy_tags, flat_stanza_tags if needed.
 
-"""
-print("Confusion matrix for Stanza NER: ")
-print_cm(confusion_matrix(flat_ne_tags, stanza_netags), labels=label_list)
+    print("***Basic stats: ****")
+    print("Num sentences: ", len(gold_sen), "in this genre: ", sys.argv[1].split("onto.")[1])
+    print("Num. predictions where stanza and spacy match exactly: ", matches)
+    print("Num. predictions where there is a difference between stanza and spacy: ", mis_matches)
 
-print("Confusion matrix for Spacy NER: ")
-print_cm(confusion_matrix(flat_ne_tags, spacy_netags), labels=label_list)
-"""
+    print("Classification report for Spacy NER: ")
+    print(classification_report(gold_ner, spacy_netags, digits=4))
+
+    print("Classification report for Stanza NER: ")
+    print(classification_report(gold_ner, stanza_netags, digits=4))
+
+    """
+    print("Confusion matrix for Stanza NER: ")
+    print_cm(confusion_matrix(flat_ne_tags, stanza_netags), labels=label_list)
+
+    print("Confusion matrix for Spacy NER: ")
+    print_cm(confusion_matrix(flat_ne_tags, spacy_netags), labels=label_list)
+    """
+
+def flair_eval():
+    tagger = SequenceTagger.load("flair/ner-english-ontonotes")#-fast")
+    gold_sen, gold_ner = read_file(sys.argv[1])
+    flair_netags = []
+
+    #"bio/test/onto.bn.ner"
+    for sen in gold_sen:
+       temp_tags = []
+
+       actual_sen = Sentence(sen) #pass a list of tokens if you want to use pre-tokenized sentence. 
+       tagger.predict(actual_sen)
+
+       for token in actual_sen:
+          tag = token.get_tag('ner').value.replace("E-","I-")
+          temp_tags.append(tag)
+
+       flair_netags.append(temp_tags)
+
+
+    print("***Basic stats: ****")
+    print("Num sentences: ", len(gold_sen), "in this genre: ", sys.argv[1].split("onto.")[1])
+    print("Classification report for Spacy NER: ")
+    print(classification_report(gold_ner, flair_netags, digits=4))
+
+flair_eval()
