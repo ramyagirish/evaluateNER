@@ -1,0 +1,1595 @@
+{
+    "Taiwan": {
+        "GPE": "168",
+        "PERSON": "1"
+    },
+    "Taiwanese": {
+        "NORP": "66"
+    },
+    "Pali": {
+        "GPE": "50"
+    },
+    "Chen": {
+        "PERSON": "28"
+    },
+    "ROC": {
+        "GPE": "20"
+    },
+    "Chinese": {
+        "NORP": "19",
+        "LANGUAGE": "3"
+    },
+    "Dongguan": {
+        "GPE": "18"
+    },
+    "first": {
+        "ORDINAL": "13"
+    },
+    "Japanese": {
+        "NORP": "13",
+        "LANGUAGE": "1"
+    },
+    "Ye": {
+        "PERSON": "12"
+    },
+    "Little Oxford": {
+        "ORG": "12"
+    },
+    "Chen Shui - bian": {
+        "PERSON": "12",
+        "GPE": "1"
+    },
+    "Beijing": {
+        "GPE": "11"
+    },
+    "China": {
+        "GPE": "10"
+    },
+    "Hsu": {
+        "PERSON": "9"
+    },
+    "the Dominican Republic": {
+        "GPE": "7"
+    },
+    "KMT": {
+        "ORG": "7"
+    },
+    "three": {
+        "CARDINAL": "6"
+    },
+    "Chang": {
+        "PERSON": "6"
+    },
+    "Tai": {
+        "PERSON": "6"
+    },
+    "English": {
+        "LANGUAGE": "6"
+    },
+    "Nicaragua": {
+        "GPE": "6"
+    },
+    "Gambia": {
+        "GPE": "6"
+    },
+    "DPP": {
+        "ORG": "6"
+    },
+    "Ruan": {
+        "PERSON": "6"
+    },
+    "the Chinese Communists": {
+        "NORP": "6"
+    },
+    "Taipei": {
+        "GPE": "6"
+    },
+    "Tai Kuo-hui": {
+        "PERSON": "5"
+    },
+    "Japan": {
+        "GPE": "5"
+    },
+    "Western": {
+        "NORP": "5"
+    },
+    "H. D. Ye": {
+        "PERSON": "5"
+    },
+    "TBAD": {
+        "ORG": "5"
+    },
+    "two": {
+        "CARDINAL": "5"
+    },
+    "one": {
+        "CARDINAL": "5"
+    },
+    "Tanshui": {
+        "GPE": "5"
+    },
+    "Mt. Kuanyin": {
+        "LOC": "5"
+    },
+    "Mt. Ali": {
+        "LOC": "5"
+    },
+    "Chilan": {
+        "LOC": "5",
+        "GPE": "1"
+    },
+    "Chang Kwang-chih": {
+        "PERSON": "4"
+    },
+    "Shenzhen": {
+        "GPE": "4"
+    },
+    "Hong Kong": {
+        "GPE": "4"
+    },
+    "Huang": {
+        "PERSON": "4"
+    },
+    "Chad": {
+        "GPE": "4"
+    },
+    "Chou": {
+        "PERSON": "4"
+    },
+    "Pali Rural Township": {
+        "GPE": "4"
+    },
+    "Paralympics": {
+        "EVENT": "4",
+        "ORG": "1"
+    },
+    "Atayal": {
+        "NORP": "4"
+    },
+    "Hsu Tsang-houei": {
+        "PERSON": "3"
+    },
+    "the Academia Sinica": {
+        "ORG": "3"
+    },
+    "the United States": {
+        "GPE": "3"
+    },
+    "Lee Teng-hui": {
+        "PERSON": "3"
+    },
+    "last year": {
+        "DATE": "3"
+    },
+    "Diago Chiu": {
+        "PERSON": "3"
+    },
+    "Lee Teng - hui": {
+        "PERSON": "3"
+    },
+    "four": {
+        "CARDINAL": "3"
+    },
+    "Costa Rica": {
+        "GPE": "3"
+    },
+    "Burkina Faso": {
+        "GPE": "3"
+    },
+    "Los Angeles": {
+        "GPE": "3"
+    },
+    "Gambian": {
+        "NORP": "3"
+    },
+    "Jin": {
+        "PERSON": "3"
+    },
+    "third": {
+        "ORDINAL": "3"
+    },
+    "Liao Tianding": {
+        "PERSON": "3"
+    },
+    "Chiang": {
+        "PERSON": "3"
+    },
+    "Ilan County": {
+        "GPE": "3"
+    },
+    "the last half century": {
+        "DATE": "2"
+    },
+    "West": {
+        "LOC": "2"
+    },
+    "Hakka": {
+        "NORP": "2"
+    },
+    "eight": {
+        "CARDINAL": "2"
+    },
+    "the April 6 Incident": {
+        "EVENT": "2"
+    },
+    "Harvard": {
+        "ORG": "2"
+    },
+    "the 1960s": {
+        "DATE": "2"
+    },
+    "Parkinson": {
+        "PERSON": "2"
+    },
+    "recent years": {
+        "DATE": "2"
+    },
+    "Taoyuan": {
+        "GPE": "2"
+    },
+    "Tokyo": {
+        "GPE": "2"
+    },
+    "Asian": {
+        "NORP": "2"
+    },
+    "Chiang Ching-kuo": {
+        "PERSON": "2"
+    },
+    "50 years": {
+        "DATE": "2"
+    },
+    "62": {
+        "CARDINAL": "2"
+    },
+    "PRC": {
+        "GPE": "2"
+    },
+    "David Mayer": {
+        "PERSON": "2"
+    },
+    "Canada": {
+        "GPE": "2"
+    },
+    "Sylvia Yang": {
+        "PERSON": "2"
+    },
+    "TBAD Women 's Division": {
+        "ORG": "2"
+    },
+    "five": {
+        "CARDINAL": "2",
+        "DATE": "1"
+    },
+    "200": {
+        "CARDINAL": "2"
+    },
+    "Huang Su": {
+        "PERSON": "2"
+    },
+    "One": {
+        "CARDINAL": "2"
+    },
+    "Zhongtang": {
+        "GPE": "2"
+    },
+    "Latin America": {
+        "LOC": "2"
+    },
+    "Africa": {
+        "LOC": "2"
+    },
+    "Hipolito Mejia": {
+        "PERSON": "2"
+    },
+    "13th": {
+        "ORDINAL": "2"
+    },
+    "Tien Hung - mao": {
+        "PERSON": "2"
+    },
+    "14th": {
+        "ORDINAL": "2"
+    },
+    "16th": {
+        "ORDINAL": "2"
+    },
+    "18th": {
+        "ORDINAL": "2"
+    },
+    "20th": {
+        "ORDINAL": "2"
+    },
+    "Yahya Jameh": {
+        "PERSON": "2"
+    },
+    "100": {
+        "CARDINAL": "2"
+    },
+    "29": {
+        "CARDINAL": "2"
+    },
+    "the United Nations": {
+        "ORG": "2"
+    },
+    "second": {
+        "ORDINAL": "2"
+    },
+    "Taiwan News": {
+        "ORG": "2"
+    },
+    "Jin Zhong": {
+        "PERSON": "2"
+    },
+    "OPEN": {
+        "ORG": "2"
+    },
+    "James Soong": {
+        "PERSON": "2"
+    },
+    "Chinese Communist": {
+        "NORP": "2"
+    },
+    "Shanghai": {
+        "GPE": "2"
+    },
+    "1980s": {
+        "DATE": "2"
+    },
+    "American": {
+        "NORP": "2"
+    },
+    "Lee Yuan - tseh": {
+        "PERSON": "2"
+    },
+    "US": {
+        "GPE": "2"
+    },
+    "Tseng Fu - sheng": {
+        "PERSON": "2"
+    },
+    "Ping": {
+        "PERSON": "2"
+    },
+    "the Tanshui River": {
+        "LOC": "2",
+        "GPE": "1"
+    },
+    "Ko": {
+        "PERSON": "2"
+    },
+    "Palifen": {
+        "GPE": "2"
+    },
+    "Shih - san - hang": {
+        "LOC": "2"
+    },
+    "Provincial Highway #15": {
+        "FAC": "2"
+    },
+    "Taipei County": {
+        "GPE": "2"
+    },
+    "Lin Yi - hung": {
+        "PERSON": "2"
+    },
+    "Happy Mountain": {
+        "ORG": "2"
+    },
+    "Sydney": {
+        "GPE": "2"
+    },
+    "Australia": {
+        "GPE": "2"
+    },
+    "Bunun": {
+        "NORP": "2"
+    },
+    "5": {
+        "CARDINAL": "2"
+    },
+    "1": {
+        "CARDINAL": "2"
+    },
+    "ROK": {
+        "GPE": "2"
+    },
+    "Hsinchu County": {
+        "GPE": "2"
+    },
+    "Chenhsipao": {
+        "GPE": "2"
+    },
+    "Mt. Lala": {
+        "LOC": "2"
+    },
+    "Chen Yu - feng": {
+        "PERSON": "2"
+    },
+    "Providence University": {
+        "ORG": "2"
+    },
+    "the Alishan Mountain Railway": {
+        "FAC": "2"
+    },
+    "the Executive Yuan": {
+        "ORG": "2"
+    },
+    "VACRS": {
+        "ORG": "2"
+    },
+    "33": {
+        "CARDINAL": "2"
+    },
+    "Three": {
+        "CARDINAL": "1"
+    },
+    "Laura Li": {
+        "PERSON": "1"
+    },
+    "Jonathan Barnard": {
+        "PERSON": "1"
+    },
+    "The year 2001": {
+        "DATE": "1"
+    },
+    "the first of the year": {
+        "DATE": "1"
+    },
+    "January 9": {
+        "DATE": "1"
+    },
+    "early seventies": {
+        "DATE": "1"
+    },
+    "Homei , Changhua": {
+        "GPE": "1"
+    },
+    "1928": {
+        "DATE": "1"
+    },
+    "France": {
+        "GPE": "1"
+    },
+    "five years": {
+        "DATE": "1"
+    },
+    "1959": {
+        "DATE": "1"
+    },
+    "\" Where Should Chinese Music Go ? \"": {
+        "WORK_OF_ART": "1"
+    },
+    "twelve": {
+        "CARDINAL": "1"
+    },
+    "the mid-1960s": {
+        "DATE": "1"
+    },
+    "Shih Wei-liang": {
+        "PERSON": "1"
+    },
+    "Lu Ping-chuan": {
+        "PERSON": "1"
+    },
+    "the Folk Music Research Workshop": {
+        "ORG": "1"
+    },
+    "the past decade": {
+        "DATE": "1"
+    },
+    "the last few years": {
+        "DATE": "1"
+    },
+    "the National Culture and Arts Foundation": {
+        "ORG": "1"
+    },
+    "Chienkuo High": {
+        "ORG": "1"
+    },
+    "1949": {
+        "DATE": "1"
+    },
+    "year": {
+        "DATE": "1"
+    },
+    "NTU": {
+        "ORG": "1"
+    },
+    "America": {
+        "GPE": "1"
+    },
+    "the Yellow River Valley": {
+        "LOC": "1"
+    },
+    "Fengpitou": {
+        "LOC": "1"
+    },
+    "Kaohsiung": {
+        "GPE": "1"
+    },
+    "century": {
+        "DATE": "1"
+    },
+    "Choshui": {
+        "LOC": "1"
+    },
+    "Tatu": {
+        "LOC": "1"
+    },
+    "more than a decade ago": {
+        "DATE": "1"
+    },
+    "Shangqiu": {
+        "LOC": "1"
+    },
+    "Henan": {
+        "GPE": "1"
+    },
+    "the National Security Council": {
+        "ORG": "1"
+    },
+    "1931": {
+        "DATE": "1"
+    },
+    "Chiang Kai-shek": {
+        "PERSON": "1"
+    },
+    "Lee Teng-hui 's": {
+        "PERSON": "1"
+    },
+    "The Ministry of Education": {
+        "ORG": "1"
+    },
+    "Zheng Chenggong": {
+        "PERSON": "1"
+    },
+    "Koxinga": {
+        "PERSON": "1"
+    },
+    "decades": {
+        "DATE": "1"
+    },
+    "Yale": {
+        "ORG": "1"
+    },
+    "his later years": {
+        "DATE": "1"
+    },
+    "63": {
+        "CARDINAL": "1"
+    },
+    "Pu Hua-chih": {
+        "PERSON": "1"
+    },
+    "Jackie Chen": {
+        "PERSON": "1"
+    },
+    "40 kilometers": {
+        "QUANTITY": "1"
+    },
+    "Guangzhou": {
+        "GPE": "1"
+    },
+    "September": {
+        "DATE": "1"
+    },
+    "Dongguan Primax Electronics Products": {
+        "ORG": "1"
+    },
+    "nine": {
+        "CARDINAL": "1"
+    },
+    "4,000": {
+        "CARDINAL": "1"
+    },
+    "many years": {
+        "DATE": "1"
+    },
+    "the Taiwan Businessmen Association of Dongguan": {
+        "ORG": "1"
+    },
+    "the Dongguan Taiwanese School Preparatory Committee": {
+        "ORG": "1"
+    },
+    "more than 3,000": {
+        "CARDINAL": "1"
+    },
+    "less than 5 %": {
+        "PERCENT": "1"
+    },
+    "Chiang Kai - shek": {
+        "PERSON": "1"
+    },
+    "Norman Hsu": {
+        "PERSON": "1"
+    },
+    "New Zealand": {
+        "GPE": "1"
+    },
+    "1994": {
+        "DATE": "1"
+    },
+    "the Ministry of Education": {
+        "ORG": "1"
+    },
+    "the end of 1999": {
+        "DATE": "1"
+    },
+    "Andrew Yeh": {
+        "PERSON": "1"
+    },
+    "86,000 - square - meter": {
+        "QUANTITY": "1"
+    },
+    "3 November": {
+        "DATE": "1"
+    },
+    "this coming September": {
+        "DATE": "1"
+    },
+    "October": {
+        "DATE": "1"
+    },
+    "400": {
+        "CARDINAL": "1"
+    },
+    "Greater than half": {
+        "CARDINAL": "1"
+    },
+    "Chang Mei - liang": {
+        "PERSON": "1"
+    },
+    "Britain": {
+        "GPE": "1"
+    },
+    "ten - year": {
+        "DATE": "1"
+    },
+    "several hundred thousand NT dollars": {
+        "MONEY": "1"
+    },
+    "an hour or two": {
+        "TIME": "1"
+    },
+    "February 1998": {
+        "DATE": "1"
+    },
+    "Little Oxford 's": {
+        "ORG": "1"
+    },
+    "Norman Hsu 's": {
+        "PERSON": "1"
+    },
+    "15": {
+        "CARDINAL": "1"
+    },
+    "Zhuhai": {
+        "GPE": "1"
+    },
+    "Macau": {
+        "GPE": "1"
+    },
+    "Pearl River": {
+        "LOC": "1"
+    },
+    "six - year": {
+        "DATE": "1"
+    },
+    "RMB 38,000": {
+        "MONEY": "1"
+    },
+    "160,000": {
+        "MONEY": "1"
+    },
+    "the first few years": {
+        "DATE": "1"
+    },
+    "NT$ 60 million": {
+        "MONEY": "1"
+    },
+    "NT$ 20 million": {
+        "MONEY": "1"
+    },
+    "Beidi Temple": {
+        "WORK_OF_ART": "1"
+    },
+    "91": {
+        "CARDINAL": "1"
+    },
+    "92": {
+        "CARDINAL": "1"
+    },
+    "93": {
+        "CARDINAL": "1"
+    },
+    "two years": {
+        "DATE": "1"
+    },
+    "President Chen Travels Abroad": {
+        "WORK_OF_ART": "1"
+    },
+    "Chang Chiung - fang": {
+        "PERSON": "1"
+    },
+    "the Nicaraguan National Assembly": {
+        "FAC": "1",
+        "ORG": "1"
+    },
+    "August 17": {
+        "DATE": "1"
+    },
+    "Ivan Escobar Fornos": {
+        "PERSON": "1"
+    },
+    "Wu Chi - chang": {
+        "PERSON": "1"
+    },
+    "Central News Agency": {
+        "ORG": "1"
+    },
+    "August 25": {
+        "DATE": "1"
+    },
+    "US$ 4.6 million": {
+        "MONEY": "1"
+    },
+    "the International Monetary Fund": {
+        "ORG": "1"
+    },
+    "August 13": {
+        "DATE": "1"
+    },
+    "13 - day": {
+        "DATE": "1"
+    },
+    "Latin American": {
+        "QUANTITY": "1"
+    },
+    "west African": {
+        "NORP": "1"
+    },
+    "Chuang Ming - yao": {
+        "PERSON": "1"
+    },
+    "National Security Council": {
+        "ORG": "1"
+    },
+    "Lin Hsin - yi": {
+        "PERSON": "1"
+    },
+    "Chen Po - chih": {
+        "PERSON": "1"
+    },
+    "Council of Economic Planning and Development": {
+        "ORG": "1"
+    },
+    "Chen Hsi - huang": {
+        "PERSON": "1"
+    },
+    "Council of Agriculture": {
+        "ORG": "1"
+    },
+    "Chung Chin": {
+        "PERSON": "1"
+    },
+    "the Government Information Office": {
+        "ORG": "1"
+    },
+    "Jeffrey Koo": {
+        "PERSON": "1"
+    },
+    "the National Association of Industry and Commerce": {
+        "ORG": "1"
+    },
+    "Wang Yu - tseng": {
+        "PERSON": "1"
+    },
+    "the General Chamber of Commerce of the ROC": {
+        "ORG": "1"
+    },
+    "Lin Kun - chung": {
+        "PERSON": "1"
+    },
+    "the Chinese National Federation of Industries": {
+        "ORG": "1"
+    },
+    "Hung Chi - chang": {
+        "PERSON": "1"
+    },
+    "Helen Chu": {
+        "PERSON": "1"
+    },
+    "Feng Ting - kuo": {
+        "PERSON": "1"
+    },
+    "Li Yin - yun": {
+        "PERSON": "1"
+    },
+    "Li": {
+        "PERSON": "1"
+    },
+    "Washington , DC": {
+        "GPE": "1"
+    },
+    "50": {
+        "CARDINAL": "1"
+    },
+    "17th": {
+        "ORDINAL": "1"
+    },
+    "Arnoldo Aleman": {
+        "PERSON": "1"
+    },
+    "Aleman": {
+        "PERSON": "1"
+    },
+    "the Great Cross of Juan Mora Fernandez": {
+        "WORK_OF_ART": "1"
+    },
+    "the Atlantic Ocean": {
+        "LOC": "1"
+    },
+    "Blaise Compaore": {
+        "PERSON": "1"
+    },
+    "23rd": {
+        "ORDINAL": "1"
+    },
+    "the Gambian parliament": {
+        "ORG": "1"
+    },
+    "Idris Debi": {
+        "PERSON": "1"
+    },
+    "25th": {
+        "ORDINAL": "1"
+    },
+    "Debi": {
+        "PERSON": "1"
+    },
+    "Typhoon Bilis": {
+        "EVENT": "1"
+    },
+    "the US Congress": {
+        "ORG": "1"
+    },
+    "the US State Department": {
+        "ORG": "1"
+    },
+    "the day before": {
+        "DATE": "1"
+    },
+    "500": {
+        "CARDINAL": "1"
+    },
+    "600": {
+        "CARDINAL": "1"
+    },
+    "the US government 's": {
+        "ORG": "1"
+    },
+    "700": {
+        "CARDINAL": "1"
+    },
+    "El Salvador": {
+        "GPE": "1"
+    },
+    "Panama": {
+        "GPE": "1"
+    },
+    "Caribbean": {
+        "LOC": "1"
+    },
+    "Mejia": {
+        "PERSON": "1"
+    },
+    "the UN Security Council": {
+        "ORG": "1"
+    },
+    "2002": {
+        "DATE": "1"
+    },
+    "the past few years": {
+        "DATE": "1"
+    },
+    "Costa Rica 's": {
+        "GPE": "1"
+    },
+    "Miguel Rodriguez": {
+        "PERSON": "1"
+    },
+    "Taiwan Sugar Corporation": {
+        "ORG": "1"
+    },
+    "western Africa": {
+        "LOC": "1"
+    },
+    "African": {
+        "NORP": "1"
+    },
+    "1,000 hectares": {
+        "QUANTITY": "1"
+    },
+    "90 - day": {
+        "DATE": "1"
+    },
+    "First": {
+        "ORDINAL": "1"
+    },
+    "Nicaraguan": {
+        "NORP": "1"
+    },
+    "US$ 100 million": {
+        "MONEY": "1"
+    },
+    "Tien": {
+        "PERSON": "1"
+    },
+    "Antonio Tsai": {
+        "PERSON": "1"
+    },
+    "Tsai": {
+        "PERSON": "1"
+    },
+    "the Ministry of Foreign Affairs": {
+        "ORG": "1"
+    },
+    "Lu Yi - cheng": {
+        "PERSON": "1"
+    },
+    "0.24 %": {
+        "PERCENT": "1"
+    },
+    "0.17 %": {
+        "PERCENT": "1"
+    },
+    "Lu": {
+        "PERSON": "1"
+    },
+    "Democratic Progressive Party": {
+        "ORG": "1"
+    },
+    "18 March": {
+        "DATE": "1"
+    },
+    "Hong Kong 's": {
+        "GPE": "1"
+    },
+    "20 March": {
+        "DATE": "1"
+    },
+    "The New President and Cross-Strait Relations": {
+        "EVENT": "1"
+    },
+    "the China News": {
+        "ORG": "1"
+    },
+    "14 percentage points": {
+        "PERCENT": "1"
+    },
+    "two million": {
+        "CARDINAL": "1"
+    },
+    "Zhu Rongji": {
+        "PERSON": "1"
+    },
+    "a few days": {
+        "DATE": "1"
+    },
+    "Zhu": {
+        "PERSON": "1"
+    },
+    "39 %": {
+        "PERCENT": "1"
+    },
+    "Ruan Ming": {
+        "PERSON": "1"
+    },
+    "Tamkang University 's Department of China Studies": {
+        "ORG": "1"
+    },
+    "Hu Yaobang": {
+        "PERSON": "1"
+    },
+    "Deng Xiaoping": {
+        "PERSON": "1"
+    },
+    "Chinese Communists": {
+        "NORP": "1"
+    },
+    "England": {
+        "GPE": "1"
+    },
+    "the United Kingdom of Great Britain and Northern Ireland": {
+        "GPE": "1"
+    },
+    "Richard Nixon": {
+        "PERSON": "1"
+    },
+    "Chin Heng - wei": {
+        "PERSON": "1"
+    },
+    "Contemporary Monthly": {
+        "ORG": "1"
+    },
+    "Nobel": {
+        "WORK_OF_ART": "1"
+    },
+    "Wei Chengsi": {
+        "PERSON": "1"
+    },
+    "ATV": {
+        "ORG": "1"
+    },
+    "the Tiananmen massacre": {
+        "EVENT": "1"
+    },
+    "Wei": {
+        "PERSON": "1"
+    },
+    "'89": {
+        "DATE": "1"
+    },
+    "Communist Party": {
+        "ORG": "1"
+    },
+    "Chiu Hsiang - chung": {
+        "PERSON": "1"
+    },
+    "the Hong Kong Economic Journal": {
+        "ORG": "1"
+    },
+    "Jiang Zemin 's": {
+        "PERSON": "1"
+    },
+    "the Communist Party": {
+        "ORG": "1"
+    },
+    "Second": {
+        "ORDINAL": "1"
+    },
+    "the People 's Liberation Army": {
+        "ORG": "1"
+    },
+    "Third": {
+        "ORDINAL": "1"
+    },
+    "fourth": {
+        "ORDINAL": "1"
+    },
+    "Chou Chi - ping": {
+        "PERSON": "1"
+    },
+    "Business Weekly": {
+        "ORG": "1"
+    },
+    "Department of Mainland Operations": {
+        "ORG": "1"
+    },
+    "the Straits Exchange Foundation": {
+        "ORG": "1"
+    },
+    "Washington": {
+        "GPE": "1"
+    },
+    "Tseng": {
+        "PERSON": "1"
+    },
+    "Ping Lu": {
+        "PERSON": "1"
+    },
+    "the Chinese Communist Party": {
+        "ORG": "1"
+    },
+    "Lin I - hsien": {
+        "PERSON": "1"
+    },
+    "Phil Newell": {
+        "PERSON": "1"
+    },
+    "Robin Hood": {
+        "PERSON": "1"
+    },
+    "27": {
+        "DATE": "1"
+    },
+    "the Monkey Cave": {
+        "LOC": "1"
+    },
+    "Laochienkeng": {
+        "GPE": "1"
+    },
+    "Liao": {
+        "PERSON": "1"
+    },
+    "1958": {
+        "DATE": "1"
+    },
+    "the 26th day of the 10th month of the lunar calendar": {
+        "DATE": "1"
+    },
+    "60s": {
+        "DATE": "1"
+    },
+    "30 years ago": {
+        "DATE": "1"
+    },
+    "Ketagalan": {
+        "NORP": "1"
+    },
+    "the Taiwan Strait": {
+        "LOC": "1"
+    },
+    "Ta - pen - keng": {
+        "LOC": "1"
+    },
+    "Han Chinese": {
+        "NORP": "1"
+    },
+    "1757": {
+        "DATE": "1"
+    },
+    "Qing": {
+        "NORP": "1"
+    },
+    "1796": {
+        "DATE": "1"
+    },
+    "1895": {
+        "DATE": "1"
+    },
+    "1945": {
+        "DATE": "1"
+    },
+    "the 1970s": {
+        "DATE": "1"
+    },
+    "Chungshan Road": {
+        "FAC": "1"
+    },
+    "the Kuantu Bridge": {
+        "FAC": "1"
+    },
+    "Shilin": {
+        "GPE": "1"
+    },
+    "Peitou": {
+        "GPE": "1"
+    },
+    "1987": {
+        "DATE": "1"
+    },
+    "1997": {
+        "DATE": "1"
+    },
+    "Hsiachuotzu": {
+        "GPE": "1"
+    },
+    "Hsiachuotsu": {
+        "GPE": "1"
+    },
+    "Lin": {
+        "PERSON": "1"
+    },
+    "Taipei City": {
+        "GPE": "1"
+    },
+    "Chen Chien - kuo": {
+        "PERSON": "1"
+    },
+    "30 years": {
+        "DATE": "1"
+    },
+    "the Taipei Happy Mountain Colony": {
+        "ORG": "1"
+    },
+    "1932": {
+        "DATE": "1"
+    },
+    "British": {
+        "NORP": "1"
+    },
+    "Today": {
+        "DATE": "1"
+    },
+    "Li Li - chuan": {
+        "PERSON": "1"
+    },
+    "Linkou": {
+        "GPE": "1"
+    },
+    "Chang Tsu - chou": {
+        "PERSON": "1"
+    },
+    "70s": {
+        "DATE": "1"
+    },
+    "more than 30 years": {
+        "DATE": "1"
+    },
+    "the Kuomintang Public Service Department": {
+        "ORG": "1"
+    },
+    "about 30": {
+        "CARDINAL": "1"
+    },
+    "more than 1000": {
+        "CARDINAL": "1"
+    },
+    "Bali": {
+        "GPE": "1"
+    },
+    "the Taipei Basin": {
+        "LOC": "1"
+    },
+    "39.5 square kilometers": {
+        "QUANTITY": "1"
+    },
+    "just over 28,000": {
+        "CARDINAL": "1"
+    },
+    "Formosa Wonderworld": {
+        "FAC": "1"
+    },
+    "the Liao Tianding Temple": {
+        "FAC": "1"
+    },
+    "the Kuantu Station": {
+        "FAC": "1"
+    },
+    "Pali Rural Township Government": {
+        "ORG": "1"
+    },
+    "098": {
+        "CARDINAL": "1"
+    },
+    "Kuantu Bridge": {
+        "FAC": "1"
+    },
+    "099": {
+        "CARDINAL": "1"
+    },
+    "Tingchuo Village": {
+        "GPE": "1"
+    },
+    "2000 years ago": {
+        "DATE": "1"
+    },
+    "101": {
+        "CARDINAL": "1"
+    },
+    "2000": {
+        "DATE": "1"
+    },
+    "October 29": {
+        "DATE": "1"
+    },
+    "Nearly 4000": {
+        "CARDINAL": "1"
+    },
+    "more than one hundred and twenty": {
+        "CARDINAL": "1"
+    },
+    "an Olympic games": {
+        "EVENT": "1"
+    },
+    "Crescent Moon Dance Troupe": {
+        "ORG": "1"
+    },
+    "Australian": {
+        "NORP": "1"
+    },
+    "the Paralympic Arts Festival": {
+        "EVENT": "1"
+    },
+    "October 18": {
+        "DATE": "1"
+    },
+    "12 - day": {
+        "DATE": "1"
+    },
+    "1.1 million": {
+        "CARDINAL": "1"
+    },
+    "Darwin": {
+        "GPE": "1"
+    },
+    "October 14": {
+        "DATE": "1"
+    },
+    "Crescent Moon Dance Company": {
+        "ORG": "1"
+    },
+    "Standing on the Highest Peak": {
+        "WORK_OF_ART": "1"
+    },
+    "10 - minute": {
+        "TIME": "1"
+    },
+    "three minutes": {
+        "TIME": "1"
+    },
+    "The Crescent Moon Dance Company": {
+        "ORG": "1"
+    },
+    "four years": {
+        "DATE": "1"
+    },
+    "the Sydney City Hall": {
+        "FAC": "1"
+    },
+    "October 19": {
+        "DATE": "1"
+    },
+    "64": {
+        "CARDINAL": "1"
+    },
+    "Chiang Chih - chung": {
+        "PERSON": "1"
+    },
+    "57.28 meters": {
+        "QUANTITY": "1"
+    },
+    "F12": {
+        "CARDINAL": "1"
+    },
+    "Sanmin Rural Township": {
+        "GPE": "1"
+    },
+    "Kaohsiung County": {
+        "GPE": "1"
+    },
+    "Chou Chang - sheng": {
+        "PERSON": "1"
+    },
+    "Lin Yen - hung": {
+        "PERSON": "1"
+    },
+    "9": {
+        "CARDINAL": "1"
+    },
+    "4": {
+        "CARDINAL": "1"
+    },
+    "Li Ching - chung": {
+        "PERSON": "1"
+    },
+    "Lu Li - hua": {
+        "PERSON": "1"
+    },
+    "South Korea": {
+        "GPE": "1"
+    },
+    "South Korean": {
+        "NORP": "1"
+    },
+    "Chang Chin - ju": {
+        "PERSON": "1"
+    },
+    "Lai Chun - piao": {
+        "PERSON": "1"
+    },
+    "Robert Taylor": {
+        "PERSON": "1"
+    },
+    "Bible": {
+        "WORK_OF_ART": "1"
+    },
+    "60 meters": {
+        "QUANTITY": "1"
+    },
+    "Hsiuluan Village": {
+        "GPE": "1"
+    },
+    "Hsiuluan": {
+        "GPE": "1"
+    },
+    "Every ten to 20 meters": {
+        "QUANTITY": "1"
+    },
+    "three to four meters": {
+        "QUANTITY": "1"
+    },
+    "40 meters": {
+        "QUANTITY": "1"
+    },
+    "Taoyuan County 's": {
+        "GPE": "1"
+    },
+    "the Shihmen Reservoir": {
+        "LOC": "1"
+    },
+    "the Lanyang River": {
+        "LOC": "1"
+    },
+    "Hsinchu": {
+        "GPE": "1"
+    },
+    "Miaoli": {
+        "GPE": "1"
+    },
+    "Ilan Counties": {
+        "GPE": "1"
+    },
+    "Thirty million years ago": {
+        "DATE": "1"
+    },
+    "six": {
+        "CARDINAL": "1"
+    },
+    "North America": {
+        "LOC": "1"
+    },
+    "Two": {
+        "CARDINAL": "1"
+    },
+    "1,300 to 2,600 meters": {
+        "QUANTITY": "1"
+    },
+    "over 100": {
+        "CARDINAL": "1"
+    },
+    "East Asia 's": {
+        "LOC": "1"
+    },
+    "30 to 40 meters": {
+        "QUANTITY": "1"
+    },
+    "more than 70 %": {
+        "PERCENT": "1"
+    },
+    "80": {
+        "CARDINAL": "1"
+    },
+    "21 September earthquake of 1999": {
+        "EVENT": "1"
+    },
+    "the past million years": {
+        "DATE": "1"
+    },
+    "the 19th century": {
+        "DATE": "1"
+    },
+    "a million years": {
+        "DATE": "1"
+    },
+    "the Sino - Japanese war": {
+        "EVENT": "1"
+    },
+    "1894": {
+        "DATE": "1"
+    },
+    "1896": {
+        "DATE": "1"
+    },
+    "Yushan": {
+        "GPE": "1"
+    },
+    "1899": {
+        "DATE": "1"
+    },
+    "1912": {
+        "DATE": "1"
+    },
+    "Mt. Taiping": {
+        "LOC": "1"
+    },
+    "Mt. Pahsien": {
+        "LOC": "1"
+    },
+    "Nantou": {
+        "GPE": "1"
+    },
+    "1950s": {
+        "DATE": "1"
+    },
+    "two - thirds": {
+        "CARDINAL": "1"
+    },
+    "the 300,000 hectares": {
+        "QUANTITY": "1"
+    },
+    "70 - 80 %": {
+        "PERCENT": "1"
+    },
+    "The Alishan Mountain Railway": {
+        "FAC": "1"
+    },
+    "Yang Kuo - chen": {
+        "PERSON": "1"
+    },
+    "Yang": {
+        "PERSON": "1"
+    },
+    "1971": {
+        "DATE": "1"
+    },
+    "the Meiji Shrine": {
+        "FAC": "1"
+    },
+    "11": {
+        "CARDINAL": "1"
+    },
+    "16 to 24 meters": {
+        "QUANTITY": "1"
+    },
+    "over 1,500 years old": {
+        "DATE": "1"
+    },
+    "the Central Range": {
+        "LOC": "1"
+    },
+    "the Taiwan Forestry Bureau -LRB- TFB -RRB-": {
+        "ORG": "1"
+    },
+    "more than 300,000": {
+        "CARDINAL": "1"
+    },
+    "over 1,000 years": {
+        "DATE": "1"
+    },
+    "TFB": {
+        "ORG": "1"
+    },
+    "Liu Chin": {
+        "PERSON": "1"
+    },
+    "1989": {
+        "DATE": "1"
+    },
+    "20 million": {
+        "CARDINAL": "1"
+    },
+    "Mt. Hsiukulan": {
+        "LOC": "1"
+    },
+    "the 10,000 - plus hectares": {
+        "QUANTITY": "1"
+    },
+    "Mt. Chilan": {
+        "LOC": "1"
+    },
+    "million year - old": {
+        "DATE": "1"
+    },
+    "less than a century": {
+        "DATE": "1"
+    },
+    "the Vocational Assistance Commission for Retired Servicemen -LRB- VACRS -RRB-": {
+        "ORG": "1"
+    },
+    "almost 6,000 hectares": {
+        "QUANTITY": "1"
+    },
+    "the millennium year": {
+        "DATE": "1"
+    },
+    "three in the afternoon": {
+        "TIME": "1"
+    },
+    "31": {
+        "CARDINAL": "1"
+    },
+    "Jimmy Lin": {
+        "PERSON": "1"
+    },
+    "34": {
+        "CARDINAL": "1"
+    },
+    "1915": {
+        "DATE": "1"
+    },
+    "70 centimeters": {
+        "QUANTITY": "1"
+    },
+    "150 centimeters": {
+        "QUANTITY": "1"
+    },
+    "300 years old": {
+        "DATE": "1"
+    },
+    "20 years": {
+        "DATE": "1"
+    }
+}

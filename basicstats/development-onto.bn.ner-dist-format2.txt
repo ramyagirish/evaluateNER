@@ -1,0 +1,2955 @@
+{
+    "Clinton": {
+        "PERSON": "33"
+    },
+    "today": {
+        "DATE": "33"
+    },
+    "Florida": {
+        "GPE": "32"
+    },
+    "Israeli": {
+        "NORP": "30"
+    },
+    "Bush": {
+        "PERSON": "30"
+    },
+    "first": {
+        "ORDINAL": "27"
+    },
+    "Palestinian": {
+        "NORP": "26"
+    },
+    "two": {
+        "CARDINAL": "25"
+    },
+    "Milosevic": {
+        "PERSON": "22"
+    },
+    "Gore": {
+        "PERSON": "22"
+    },
+    "U.S.": {
+        "GPE": "21"
+    },
+    "Washington": {
+        "GPE": "20"
+    },
+    "Israel": {
+        "GPE": "19"
+    },
+    "the United States": {
+        "GPE": "19"
+    },
+    "Kostunica": {
+        "PERSON": "19"
+    },
+    "Yemen": {
+        "GPE": "18"
+    },
+    "Palestinians": {
+        "NORP": "17"
+    },
+    "Belgrade": {
+        "GPE": "17"
+    },
+    "Serbia": {
+        "GPE": "17"
+    },
+    "Yugoslavia": {
+        "GPE": "17"
+    },
+    "one": {
+        "CARDINAL": "15"
+    },
+    "tonight": {
+        "TIME": "15"
+    },
+    "Iraq": {
+        "GPE": "12"
+    },
+    "China": {
+        "GPE": "11"
+    },
+    "Slobodan Milosevic": {
+        "PERSON": "11"
+    },
+    "Cole": {
+        "PRODUCT": "10"
+    },
+    "New York": {
+        "GPE": "10"
+    },
+    "Chinese": {
+        "NORP": "9",
+        "LANGUAGE": "3"
+    },
+    "Western": {
+        "NORP": "9"
+    },
+    "Al Gore": {
+        "PERSON": "9"
+    },
+    "Republican": {
+        "NORP": "9"
+    },
+    "Russian": {
+        "NORP": "9"
+    },
+    "American": {
+        "NORP": "9"
+    },
+    "Baghdad": {
+        "GPE": "9"
+    },
+    "Gaza": {
+        "GPE": "8"
+    },
+    "Zimbabwe": {
+        "GPE": "8"
+    },
+    "NBC": {
+        "ORG": "8"
+    },
+    "VOA News": {
+        "ORG": "8"
+    },
+    "the West Bank": {
+        "GPE": "7"
+    },
+    "The World": {
+        "ORG": "7",
+        "WORK_OF_ART": "1"
+    },
+    "Yugoslav": {
+        "NORP": "7"
+    },
+    "last night": {
+        "TIME": "7"
+    },
+    "George W. Bush": {
+        "PERSON": "7"
+    },
+    "Vojislav Kostunica": {
+        "PERSON": "7"
+    },
+    "Saturday": {
+        "DATE": "7"
+    },
+    "NBC News": {
+        "ORG": "7"
+    },
+    "17": {
+        "CARDINAL": "7"
+    },
+    "the `` USS Cole ''": {
+        "PRODUCT": "7"
+    },
+    "Aden": {
+        "GPE": "7"
+    },
+    "Navy": {
+        "ORG": "7"
+    },
+    "FBI": {
+        "ORG": "7"
+    },
+    "VOA": {
+        "ORG": "7"
+    },
+    "Yasser Arafat": {
+        "PERSON": "7"
+    },
+    "Hanky": {
+        "PERSON": "7"
+    },
+    "yesterday": {
+        "DATE": "7"
+    },
+    "Iraqi": {
+        "NORP": "7"
+    },
+    "Ehud Barak": {
+        "PERSON": "6"
+    },
+    "Jewish": {
+        "NORP": "6"
+    },
+    "West": {
+        "LOC": "6"
+    },
+    "Jerusalem": {
+        "GPE": "6"
+    },
+    "US": {
+        "GPE": "6"
+    },
+    "Russia": {
+        "GPE": "6"
+    },
+    "Today": {
+        "DATE": "6",
+        "WORK_OF_ART": "1"
+    },
+    "the Supreme Court": {
+        "ORG": "6",
+        "FAC": "3"
+    },
+    "the U.S. Supreme Court": {
+        "ORG": "6"
+    },
+    "the Gaza Strip": {
+        "GPE": "5"
+    },
+    "First": {
+        "ORDINAL": "5"
+    },
+    "Italy": {
+        "GPE": "5"
+    },
+    "French": {
+        "NORP": "5",
+        "LANGUAGE": "2"
+    },
+    "Israelis": {
+        "NORP": "5"
+    },
+    "Bosnia": {
+        "GPE": "5"
+    },
+    "Madeleine Albright": {
+        "PERSON": "5"
+    },
+    "Mugabe": {
+        "PERSON": "5"
+    },
+    "State": {
+        "ORG": "5"
+    },
+    "Yesterday": {
+        "DATE": "5"
+    },
+    "tomorrow": {
+        "DATE": "5"
+    },
+    "three": {
+        "CARDINAL": "5"
+    },
+    "second": {
+        "ORDINAL": "5"
+    },
+    "North Korea": {
+        "GPE": "5"
+    },
+    "Monday": {
+        "DATE": "5"
+    },
+    "Sunday": {
+        "DATE": "5"
+    },
+    "Montenegro": {
+        "GPE": "5"
+    },
+    "O'Conner": {
+        "PERSON": "5"
+    },
+    "CNN": {
+        "ORG": "5"
+    },
+    "Cairo": {
+        "GPE": "4"
+    },
+    "Arab": {
+        "NORP": "4"
+    },
+    "BBC News": {
+        "ORG": "4"
+    },
+    "World": {
+        "ORG": "4"
+    },
+    "Gao Xingjian": {
+        "PERSON": "4"
+    },
+    "London": {
+        "GPE": "4"
+    },
+    "four": {
+        "CARDINAL": "4"
+    },
+    "Bagella": {
+        "GPE": "4"
+    },
+    "Harare": {
+        "GPE": "4"
+    },
+    "Texas": {
+        "GPE": "4"
+    },
+    "Leon County Circuit Court": {
+        "ORG": "4"
+    },
+    "Virginia": {
+        "GPE": "4"
+    },
+    "Friday": {
+        "DATE": "4"
+    },
+    "Soviet": {
+        "NORP": "4"
+    },
+    "Social Security": {
+        "ORG": "4"
+    },
+    "ABC": {
+        "ORG": "4"
+    },
+    "ABC News": {
+        "ORG": "4"
+    },
+    "Yemeni": {
+        "NORP": "4"
+    },
+    "Americans": {
+        "NORP": "4"
+    },
+    "100": {
+        "CARDINAL": "4"
+    },
+    "North Korean": {
+        "NORP": "4"
+    },
+    "Barry Wood": {
+        "PERSON": "4"
+    },
+    "Balkans": {
+        "LOC": "4"
+    },
+    "Ford": {
+        "ORG": "4"
+    },
+    "Firestone": {
+        "ORG": "4"
+    },
+    "Mideast": {
+        "LOC": "4"
+    },
+    "One": {
+        "CARDINAL": "4"
+    },
+    "ten months": {
+        "DATE": "4"
+    },
+    "Betsy": {
+        "PERSON": "4"
+    },
+    "Flowers": {
+        "PERSON": "4"
+    },
+    "Andrew Luster": {
+        "PERSON": "4"
+    },
+    "Mexico": {
+        "GPE": "4"
+    },
+    "West Bank": {
+        "GPE": "3"
+    },
+    "Lisa Mullins": {
+        "PERSON": "3"
+    },
+    "Rome": {
+        "GPE": "3"
+    },
+    "France": {
+        "GPE": "3"
+    },
+    "1989": {
+        "DATE": "3"
+    },
+    "a day": {
+        "DATE": "3"
+    },
+    "The Hague": {
+        "GPE": "3"
+    },
+    "Kosovo": {
+        "GPE": "3"
+    },
+    "Nato": {
+        "ORG": "3"
+    },
+    "UN": {
+        "ORG": "3"
+    },
+    "Tribunal": {
+        "ORG": "3"
+    },
+    "last month": {
+        "DATE": "3"
+    },
+    "BBC": {
+        "ORG": "3"
+    },
+    "Foreign": {
+        "ORG": "3"
+    },
+    "Tallahassee": {
+        "GPE": "3"
+    },
+    "this morning": {
+        "TIME": "3"
+    },
+    "Congress": {
+        "ORG": "3"
+    },
+    "Vladimir Putin": {
+        "PERSON": "3"
+    },
+    "Brian": {
+        "PERSON": "3"
+    },
+    "Democratic": {
+        "NORP": "3"
+    },
+    "25": {
+        "CARDINAL": "3"
+    },
+    "Hispanic": {
+        "NORP": "3"
+    },
+    "the Florida Supreme Court": {
+        "ORG": "3"
+    },
+    "day": {
+        "DATE": "3"
+    },
+    "Olson": {
+        "PERSON": "3"
+    },
+    "Mississippi": {
+        "GPE": "3"
+    },
+    "the `` USS Cole": {
+        "PRODUCT": "3"
+    },
+    "next week": {
+        "DATE": "3"
+    },
+    "40": {
+        "CARDINAL": "3"
+    },
+    "Lemieux": {
+        "PERSON": "3"
+    },
+    "Northern Ireland": {
+        "GPE": "3"
+    },
+    "Wednesday": {
+        "DATE": "3"
+    },
+    "The United States": {
+        "GPE": "3"
+    },
+    "Albright": {
+        "PERSON": "3"
+    },
+    "George W Bush": {
+        "PERSON": "3"
+    },
+    "Times": {
+        "ORG": "3"
+    },
+    "Chicago": {
+        "GPE": "3"
+    },
+    "years": {
+        "DATE": "3"
+    },
+    "Venezuelan": {
+        "NORP": "3"
+    },
+    "the White House": {
+        "FAC": "3",
+        "ORG": "1"
+    },
+    "Egyptian": {
+        "NORP": "3"
+    },
+    "Hosni Mubarak": {
+        "PERSON": "3"
+    },
+    "Saddam Hussein 's": {
+        "PERSON": "3"
+    },
+    "Enron": {
+        "ORG": "3"
+    },
+    "Murdoch": {
+        "PERSON": "3"
+    },
+    "Saddam Hussein": {
+        "PERSON": "3"
+    },
+    "Elizabeth": {
+        "PERSON": "3"
+    },
+    "Peter Arnett": {
+        "PERSON": "3"
+    },
+    "Egypt": {
+        "GPE": "2"
+    },
+    "Mubarak": {
+        "PERSON": "2"
+    },
+    "Thursday": {
+        "DATE": "2"
+    },
+    "September": {
+        "DATE": "2"
+    },
+    "Italian": {
+        "NORP": "2"
+    },
+    "Abruzzo": {
+        "GPE": "2"
+    },
+    "Italians": {
+        "NORP": "2"
+    },
+    "two years ago": {
+        "DATE": "2"
+    },
+    "Gregory Lee": {
+        "PERSON": "2"
+    },
+    "Sartre": {
+        "PERSON": "2"
+    },
+    "Beckett": {
+        "PERSON": "2"
+    },
+    "James Cawling": {
+        "PERSON": "2"
+    },
+    "the night": {
+        "TIME": "2"
+    },
+    "Greg Barrow": {
+        "PERSON": "2"
+    },
+    "Jeb Sharp": {
+        "PERSON": "2"
+    },
+    "Dayton": {
+        "GPE": "2"
+    },
+    "Bass": {
+        "PERSON": "2"
+    },
+    "Germany": {
+        "GPE": "2"
+    },
+    "World War I": {
+        "EVENT": "2"
+    },
+    "British": {
+        "NORP": "2"
+    },
+    "next month": {
+        "DATE": "2"
+    },
+    "Yale": {
+        "ORG": "2"
+    },
+    "the Hague Tribunal": {
+        "ORG": "2"
+    },
+    "Carla Del Ponte": {
+        "PERSON": "2"
+    },
+    "1980": {
+        "DATE": "2"
+    },
+    "Grant Ferrett": {
+        "PERSON": "2"
+    },
+    "245": {
+        "CARDINAL": "2"
+    },
+    "8 %": {
+        "PERCENT": "2"
+    },
+    "last week": {
+        "DATE": "2"
+    },
+    "White House": {
+        "ORG": "2"
+    },
+    "Dick Cheney": {
+        "PERSON": "2"
+    },
+    "three - week": {
+        "DATE": "2"
+    },
+    "Clark Boyd": {
+        "PERSON": "2"
+    },
+    "N. Sander Sauls": {
+        "PERSON": "2"
+    },
+    "Palm Beach": {
+        "GPE": "2"
+    },
+    "George W. Bush 's": {
+        "PERSON": "2"
+    },
+    "Sauls": {
+        "PERSON": "2"
+    },
+    "Earlier today": {
+        "TIME": "2"
+    },
+    "fifty": {
+        "CARDINAL": "2"
+    },
+    "January": {
+        "DATE": "2"
+    },
+    "Communist": {
+        "NORP": "2"
+    },
+    "the weekend": {
+        "DATE": "2"
+    },
+    "Ben": {
+        "PERSON": "2"
+    },
+    "election night": {
+        "TIME": "2"
+    },
+    "Tuesday": {
+        "DATE": "2"
+    },
+    "Kerry Sanders": {
+        "PERSON": "2"
+    },
+    "George Bush 's": {
+        "PERSON": "2"
+    },
+    "every day": {
+        "DATE": "2"
+    },
+    "15 %": {
+        "PERCENT": "2"
+    },
+    "Cuban": {
+        "NORP": "2"
+    },
+    "Jackie Judd": {
+        "PERSON": "2"
+    },
+    "Al Gore 's": {
+        "PERSON": "2"
+    },
+    "God": {
+        "PERSON": "2"
+    },
+    "the U.S. Constitution": {
+        "LAW": "2"
+    },
+    "The `` USS Cole ''": {
+        "PRODUCT": "2"
+    },
+    "John M Wethy": {
+        "PERSON": "2"
+    },
+    "several weeks": {
+        "DATE": "2"
+    },
+    "Pentagon": {
+        "FAC": "2",
+        "ORG": "1"
+    },
+    "Bill Clinton": {
+        "PERSON": "2"
+    },
+    "Arkansas": {
+        "GPE": "2"
+    },
+    "Morton Dean": {
+        "PERSON": "2"
+    },
+    "Dover Air Force Base": {
+        "FAC": "2"
+    },
+    "John Miller": {
+        "PERSON": "2"
+    },
+    "dozens": {
+        "CARDINAL": "2"
+    },
+    "Osama Bin Laden": {
+        "PERSON": "2"
+    },
+    "Bin Laden 's": {
+        "PERSON": "2"
+    },
+    "Dozens": {
+        "CARDINAL": "2"
+    },
+    "Joe Johns": {
+        "PERSON": "2"
+    },
+    "five": {
+        "CARDINAL": "2"
+    },
+    "Justice Department": {
+        "ORG": "2"
+    },
+    "Rick Pildes": {
+        "PERSON": "2"
+    },
+    "Jim Miklaszewski": {
+        "PERSON": "2"
+    },
+    "Islamic": {
+        "NORP": "2"
+    },
+    "North": {
+        "GPE": "2"
+    },
+    "Alicia Reu": {
+        "PERSON": "2"
+    },
+    "August": {
+        "DATE": "2"
+    },
+    "South Korean": {
+        "NORP": "2"
+    },
+    "June": {
+        "DATE": "2"
+    },
+    "at least nine": {
+        "CARDINAL": "2"
+    },
+    "Eve Connan": {
+        "PERSON": "2"
+    },
+    "weeks": {
+        "DATE": "2"
+    },
+    "third": {
+        "ORDINAL": "2"
+    },
+    "Serbian": {
+        "NORP": "2"
+    },
+    "Shlomo Ben - Ami": {
+        "PERSON": "2"
+    },
+    "Mark Rengav": {
+        "PERSON": "2"
+    },
+    "Peter Hymline": {
+        "PERSON": "2"
+    },
+    "Bill Clinton 's": {
+        "PERSON": "2"
+    },
+    "Newsweek": {
+        "ORG": "2"
+    },
+    "Phillies": {
+        "ORG": "2"
+    },
+    "Bowa": {
+        "PERSON": "2"
+    },
+    "2003": {
+        "DATE": "2"
+    },
+    "118": {
+        "CARDINAL": "2"
+    },
+    "Norwegian": {
+        "NORP": "2"
+    },
+    "The Balkan Stability Pact": {
+        "ORG": "2"
+    },
+    "20": {
+        "CARDINAL": "2"
+    },
+    "more than one hundred": {
+        "CARDINAL": "2"
+    },
+    "Petro Basque": {
+        "ORG": "2"
+    },
+    "Eve Cornet": {
+        "PERSON": "2"
+    },
+    "Hillary Rodham Clinton": {
+        "PERSON": "2"
+    },
+    "Syria": {
+        "GPE": "2"
+    },
+    "Bill Tucker": {
+        "PERSON": "2"
+    },
+    "San Diego": {
+        "GPE": "2"
+    },
+    "nine": {
+        "CARDINAL": "2"
+    },
+    "Kuwait": {
+        "GPE": "2"
+    },
+    "Ali": {
+        "PERSON": "2"
+    },
+    "Sam Waksal": {
+        "PERSON": "2"
+    },
+    "ImClone": {
+        "ORG": "2"
+    },
+    "Connecticut": {
+        "GPE": "2"
+    },
+    "1993": {
+        "DATE": "2"
+    },
+    "Star TV": {
+        "ORG": "2"
+    },
+    "FCC": {
+        "ORG": "2"
+    },
+    "Bob Glascoff": {
+        "PERSON": "2"
+    },
+    "Headliners": {
+        "WORK_OF_ART": "2"
+    },
+    "Bill Daley": {
+        "PERSON": "2"
+    },
+    "this half hour": {
+        "TIME": "2"
+    },
+    "Monica Lewinsky": {
+        "PERSON": "2"
+    },
+    "Denise Dillon": {
+        "PERSON": "2"
+    },
+    "Spalla": {
+        "PERSON": "2"
+    },
+    "Venezuela": {
+        "GPE": "2"
+    },
+    "Castro": {
+        "PERSON": "2"
+    },
+    "Tens of thousands": {
+        "CARDINAL": "2"
+    },
+    "Serb": {
+        "NORP": "2"
+    },
+    "Igor Ivanov": {
+        "PERSON": "2"
+    },
+    "European": {
+        "NORP": "2"
+    },
+    "Jonathan Mann": {
+        "PERSON": "2"
+    },
+    "Two": {
+        "CARDINAL": "2"
+    },
+    "Afghanistan": {
+        "GPE": "2"
+    },
+    "Richard Blystone": {
+        "PERSON": "2"
+    },
+    "Lebanon": {
+        "GPE": "2"
+    },
+    "Kim Jong - il": {
+        "PERSON": "2"
+    },
+    "North Korea 's": {
+        "GPE": "2"
+    },
+    "the last few moments": {
+        "TIME": "2"
+    },
+    "morning": {
+        "TIME": "2"
+    },
+    "Elizabeth Smart": {
+        "PERSON": "2"
+    },
+    "William": {
+        "PERSON": "2"
+    },
+    "the day": {
+        "DATE": "2"
+    },
+    "Motorola": {
+        "ORG": "2"
+    },
+    "the end of the year": {
+        "DATE": "2"
+    },
+    "AMR": {
+        "ORG": "2"
+    },
+    "Geraldo Rivera": {
+        "PERSON": "2"
+    },
+    "the Central Command": {
+        "ORG": "2"
+    },
+    "Geraldo": {
+        "PERSON": "2"
+    },
+    "MSNBC": {
+        "ORG": "2"
+    },
+    "Croatia": {
+        "GPE": "2"
+    },
+    "Los Angeles": {
+        "GPE": "2"
+    },
+    "Bill Curtis": {
+        "PERSON": "2"
+    },
+    "A&E": {
+        "ORG": "2"
+    },
+    "Barak": {
+        "PERSON": "1"
+    },
+    "Middle East": {
+        "LOC": "1"
+    },
+    "East Jerusalem": {
+        "GPE": "1"
+    },
+    "Sayeb Erekat": {
+        "PERSON": "1"
+    },
+    "this Settlers ' Council": {
+        "ORG": "1"
+    },
+    "Yahudi Tayar": {
+        "PERSON": "1"
+    },
+    "More than 300": {
+        "CARDINAL": "1"
+    },
+    "Gaza Strip": {
+        "GPE": "1"
+    },
+    "the Palestinian Television and Radio": {
+        "ORG": "1"
+    },
+    "Hisham Mekki": {
+        "PERSON": "1"
+    },
+    "Gaza City": {
+        "GPE": "1"
+    },
+    "the Adriatic Sea": {
+        "LOC": "1"
+    },
+    "Mt. Corno": {
+        "LOC": "1"
+    },
+    "Apennines": {
+        "LOC": "1"
+    },
+    "Carlos Depalazai": {
+        "PERSON": "1"
+    },
+    "Carlo": {
+        "PERSON": "1"
+    },
+    "Abrutzi": {
+        "GPE": "1"
+    },
+    "about 160 US dollars": {
+        "MONEY": "1"
+    },
+    "a minute": {
+        "TIME": "1"
+    },
+    "Florence": {
+        "GPE": "1"
+    },
+    "Naples": {
+        "GPE": "1"
+    },
+    "Tony Kahn": {
+        "PERSON": "1"
+    },
+    "the Nobel Prize for Literature": {
+        "WORK_OF_ART": "1"
+    },
+    "Gao Xingjian 's": {
+        "PERSON": "1"
+    },
+    "1988": {
+        "DATE": "1"
+    },
+    "the University of Lyons": {
+        "ORG": "1"
+    },
+    "Lee": {
+        "PERSON": "1"
+    },
+    "Xingjian": {
+        "PERSON": "1"
+    },
+    "Samuel Beckett": {
+        "PERSON": "1"
+    },
+    "Irish": {
+        "LANGUAGE": "1"
+    },
+    "Unesco": {
+        "PERSON": "1"
+    },
+    "the first half of the twentieth century": {
+        "DATE": "1"
+    },
+    "Gao": {
+        "PERSON": "1"
+    },
+    "Tianenmen": {
+        "EVENT": "1"
+    },
+    "1981": {
+        "DATE": "1"
+    },
+    "` Bus Stop '": {
+        "WORK_OF_ART": "1"
+    },
+    "Waiting for Godot": {
+        "WORK_OF_ART": "1"
+    },
+    "couple of years": {
+        "DATE": "1"
+    },
+    "Tiananmen": {
+        "FAC": "1"
+    },
+    "a great day": {
+        "DATE": "1"
+    },
+    "the past 60 to 70 years": {
+        "DATE": "1"
+    },
+    "University of Lyons": {
+        "ORG": "1"
+    },
+    "Provence": {
+        "GPE": "1"
+    },
+    "Israeli Army": {
+        "ORG": "1"
+    },
+    "another day": {
+        "DATE": "1"
+    },
+    "Jericho": {
+        "GPE": "1"
+    },
+    "A day": {
+        "DATE": "1"
+    },
+    "Kilo": {
+        "GPE": "1"
+    },
+    "Five years ago today": {
+        "DATE": "1"
+    },
+    "Dayton Ohio": {
+        "GPE": "1"
+    },
+    "Five years later": {
+        "DATE": "1"
+    },
+    "Vojislav Kostinica": {
+        "PERSON": "1"
+    },
+    "the International War Crimes Tribunal": {
+        "ORG": "1"
+    },
+    "six weeks": {
+        "DATE": "1"
+    },
+    "more than a decade": {
+        "DATE": "1"
+    },
+    "Five years ago": {
+        "DATE": "1"
+    },
+    "Two years ago": {
+        "DATE": "1"
+    },
+    "March of last year": {
+        "DATE": "1"
+    },
+    "Gary Bass": {
+        "PERSON": "1"
+    },
+    "Stay , the Hand of Vengeance": {
+        "WORK_OF_ART": "1"
+    },
+    "Vojislov Kostunica": {
+        "PERSON": "1"
+    },
+    "the Ottoman Empire": {
+        "ORG": "1"
+    },
+    "Eva Barnetts": {
+        "PERSON": "1"
+    },
+    "Jim Landel": {
+        "PERSON": "1"
+    },
+    "Delponte": {
+        "PERSON": "1"
+    },
+    "Bosnian - Serb": {
+        "NORP": "1"
+    },
+    "Radavan Karadzic": {
+        "PERSON": "1"
+    },
+    "1995": {
+        "DATE": "1"
+    },
+    "Shrabanitca": {
+        "GPE": "1"
+    },
+    "Eva Barnett": {
+        "PERSON": "1"
+    },
+    "Karadzic": {
+        "PERSON": "1"
+    },
+    "Hague": {
+        "ORG": "1"
+    },
+    "the US Congress": {
+        "ORG": "1"
+    },
+    "one hundred million dollars": {
+        "MONEY": "1"
+    },
+    "March 31st": {
+        "DATE": "1"
+    },
+    "Robert Mugabe": {
+        "PERSON": "1"
+    },
+    "three days": {
+        "DATE": "1"
+    },
+    "Army": {
+        "ORG": "1"
+    },
+    "several days": {
+        "DATE": "1"
+    },
+    "Nearly four months": {
+        "DATE": "1"
+    },
+    "Africa": {
+        "LOC": "1"
+    },
+    "Simba Makoni": {
+        "PERSON": "1"
+    },
+    "the selling season": {
+        "DATE": "1"
+    },
+    "just a few days": {
+        "DATE": "1"
+    },
+    "Howard Setoli": {
+        "PERSON": "1"
+    },
+    "eighteen months": {
+        "DATE": "1"
+    },
+    "This year": {
+        "DATE": "1"
+    },
+    "Next year": {
+        "DATE": "1"
+    },
+    "12 %": {
+        "PERCENT": "1"
+    },
+    "two decades": {
+        "DATE": "1"
+    },
+    "Gregor Cragey": {
+        "PERSON": "1"
+    },
+    "just 15 minutes": {
+        "TIME": "1"
+    },
+    "the Oval Office": {
+        "FAC": "1"
+    },
+    "The Yugoslav Army": {
+        "ORG": "1"
+    },
+    "hour": {
+        "TIME": "1"
+    },
+    "Evan Holf": {
+        "PERSON": "1"
+    },
+    "the week": {
+        "DATE": "1"
+    },
+    "the past three weeks": {
+        "DATE": "1"
+    },
+    "roughly 14000": {
+        "CARDINAL": "1"
+    },
+    "Miami Dade": {
+        "GPE": "1"
+    },
+    "1.16 million": {
+        "CARDINAL": "1"
+    },
+    "Late this afternoon": {
+        "TIME": "1"
+    },
+    "Today Show": {
+        "WORK_OF_ART": "1"
+    },
+    "McClain": {
+        "GPE": "1"
+    },
+    "two days ago": {
+        "DATE": "1"
+    },
+    "the next day or two": {
+        "DATE": "1"
+    },
+    "December 12th": {
+        "DATE": "1"
+    },
+    "Palm Beach County": {
+        "GPE": "1"
+    },
+    "Robert Riche": {
+        "PERSON": "1"
+    },
+    "Riche": {
+        "PERSON": "1"
+    },
+    "the next four years": {
+        "DATE": "1"
+    },
+    "The US Supreme Court": {
+        "ORG": "1"
+    },
+    "Vladimir Lenin": {
+        "PERSON": "1"
+    },
+    "Joseph Stalin": {
+        "PERSON": "1"
+    },
+    "Ben Ginsberg": {
+        "PERSON": "1"
+    },
+    "earlier today": {
+        "TIME": "1"
+    },
+    "this afternoon": {
+        "TIME": "1"
+    },
+    "10,750": {
+        "CARDINAL": "1"
+    },
+    "U.S. Supreme Court": {
+        "ORG": "1"
+    },
+    "last - minute": {
+        "TIME": "1"
+    },
+    "almost three million": {
+        "CARDINAL": "1"
+    },
+    "the Sunshine State": {
+        "GPE": "1"
+    },
+    "45 %": {
+        "PERCENT": "1"
+    },
+    "the age of 65": {
+        "DATE": "1"
+    },
+    "Al Gore .": {
+        "PERSON": "1"
+    },
+    "$ 2.4 trillion": {
+        "MONEY": "1"
+    },
+    "more than 550": {
+        "CARDINAL": "1"
+    },
+    "Jorge Ramos": {
+        "PERSON": "1"
+    },
+    "the Tom Brokaw": {
+        "PERSON": "1"
+    },
+    "Spanish": {
+        "LANGUAGE": "1"
+    },
+    "Illinois": {
+        "GPE": "1"
+    },
+    "Elian Gonzalez": {
+        "PERSON": "1"
+    },
+    "Joe Lieberman": {
+        "PERSON": "1"
+    },
+    "African - American": {
+        "NORP": "1"
+    },
+    "10": {
+        "CARDINAL": "1"
+    },
+    "Jeb Bush": {
+        "PERSON": "1"
+    },
+    "Anaheim": {
+        "GPE": "1"
+    },
+    "evening": {
+        "TIME": "1"
+    },
+    "the United States Supreme Court": {
+        "ORG": "1"
+    },
+    "an hour and a half": {
+        "TIME": "1"
+    },
+    "hours": {
+        "TIME": "1"
+    },
+    "the Supreme Court of the United States": {
+        "ORG": "1"
+    },
+    "Ted Olson": {
+        "PERSON": "1"
+    },
+    "only 56 seconds": {
+        "TIME": "1"
+    },
+    "Sandra Day O'Connor": {
+        "PERSON": "1"
+    },
+    "century - old": {
+        "DATE": "1"
+    },
+    "Ruth Bader Ginsburg": {
+        "PERSON": "1"
+    },
+    "Rehnquist": {
+        "PERSON": "1"
+    },
+    "Laurence Tribe": {
+        "PERSON": "1"
+    },
+    "O'Connor": {
+        "PERSON": "1"
+    },
+    "Antonin Scalia": {
+        "PERSON": "1"
+    },
+    "Tribe": {
+        "PERSON": "1"
+    },
+    "the Florida Constitution": {
+        "LAW": "1"
+    },
+    "Breyer": {
+        "PERSON": "1"
+    },
+    "Charlie": {
+        "PERSON": "1"
+    },
+    "John M. Wethy": {
+        "PERSON": "1"
+    },
+    "at least 25 %": {
+        "PERCENT": "1"
+    },
+    "80": {
+        "CARDINAL": "1"
+    },
+    "several months earlier": {
+        "DATE": "1"
+    },
+    "ten months earlier": {
+        "DATE": "1"
+    },
+    "the millennium": {
+        "DATE": "1"
+    },
+    "Jordan": {
+        "GPE": "1"
+    },
+    "Seattle": {
+        "GPE": "1"
+    },
+    "the `` USS The Sullivans": {
+        "PRODUCT": "1"
+    },
+    "months": {
+        "DATE": "1"
+    },
+    "Chappaqua": {
+        "GPE": "1"
+    },
+    "Defense": {
+        "ORG": "1"
+    },
+    "William Cohen": {
+        "PERSON": "1"
+    },
+    "Mark Fitzgerald": {
+        "PERSON": "1"
+    },
+    "well over 100": {
+        "CARDINAL": "1"
+    },
+    "Operation Determined Response": {
+        "EVENT": "1"
+    },
+    "anti-American": {
+        "NORP": "1"
+    },
+    "Half": {
+        "CARDINAL": "1"
+    },
+    "500": {
+        "CARDINAL": "1"
+    },
+    "Ten": {
+        "CARDINAL": "1"
+    },
+    "`` USS Cole ''": {
+        "PRODUCT": "1"
+    },
+    "Delaware": {
+        "GPE": "1"
+    },
+    "at least half a dozen": {
+        "CARDINAL": "1"
+    },
+    "six or more": {
+        "CARDINAL": "1"
+    },
+    "Al Zaharah Street": {
+        "FAC": "1"
+    },
+    "half a mile": {
+        "QUANTITY": "1"
+    },
+    "the last few days": {
+        "DATE": "1"
+    },
+    "the day of the bombing": {
+        "DATE": "1"
+    },
+    "Nissan": {
+        "ORG": "1"
+    },
+    "about a mile": {
+        "QUANTITY": "1"
+    },
+    "six miles": {
+        "QUANTITY": "1"
+    },
+    "35 miles": {
+        "QUANTITY": "1"
+    },
+    "a few weeks before": {
+        "DATE": "1"
+    },
+    "Gulf": {
+        "LOC": "1"
+    },
+    "316": {
+        "CARDINAL": "1"
+    },
+    "the Department of Defense": {
+        "ORG": "1"
+    },
+    "the Strategic Information and Operation Center": {
+        "ORG": "1"
+    },
+    "Kenya": {
+        "GPE": "1"
+    },
+    "Tanzania": {
+        "GPE": "1"
+    },
+    "The Justice Department": {
+        "ORG": "1"
+    },
+    "Osama bin Laden": {
+        "PERSON": "1"
+    },
+    "the Naval Academy 's": {
+        "ORG": "1"
+    },
+    "Notre Dame": {
+        "ORG": "1"
+    },
+    "the last two weeks": {
+        "DATE": "1"
+    },
+    "Constitution": {
+        "WORK_OF_ART": "1"
+    },
+    "The U.S. Supreme Court": {
+        "ORG": "1"
+    },
+    "Jim": {
+        "PERSON": "1"
+    },
+    "60 - foot": {
+        "QUANTITY": "1"
+    },
+    "Sean Powell": {
+        "PERSON": "1"
+    },
+    "$ 150 million": {
+        "MONEY": "1"
+    },
+    "Saleh": {
+        "PERSON": "1"
+    },
+    "Tom": {
+        "PERSON": "1"
+    },
+    "Mario Lemieux": {
+        "PERSON": "1"
+    },
+    "National Ice Hockey League": {
+        "ORG": "1"
+    },
+    "the Pittsburgh Penguins": {
+        "ORG": "1"
+    },
+    "NHL": {
+        "ORG": "1"
+    },
+    "35 - year - old": {
+        "DATE": "1"
+    },
+    "three and one half years ago": {
+        "DATE": "1"
+    },
+    "613": {
+        "CARDINAL": "1"
+    },
+    "745": {
+        "CARDINAL": "1"
+    },
+    "Penguins": {
+        "ORG": "1"
+    },
+    "Stanley Cup": {
+        "EVENT": "1"
+    },
+    "1991": {
+        "DATE": "1"
+    },
+    "92": {
+        "DATE": "1"
+    },
+    "200": {
+        "CARDINAL": "1"
+    },
+    "South Korea": {
+        "GPE": "1"
+    },
+    "South Korea 's": {
+        "GPE": "1"
+    },
+    "Seoul": {
+        "GPE": "1"
+    },
+    "five decades": {
+        "DATE": "1"
+    },
+    "One hundred": {
+        "CARDINAL": "1"
+    },
+    "South Koreans": {
+        "NORP": "1"
+    },
+    "Pyongyang": {
+        "GPE": "1"
+    },
+    "four days": {
+        "DATE": "1"
+    },
+    "some $ 800,000": {
+        "MONEY": "1"
+    },
+    "nearly $ 1.6 million": {
+        "MONEY": "1"
+    },
+    "Hong Kong": {
+        "GPE": "1"
+    },
+    "early Monday": {
+        "TIME": "1"
+    },
+    "the Palestinian authority": {
+        "ORG": "1"
+    },
+    "The United Nations": {
+        "ORG": "1"
+    },
+    "Bosnia - Herzegovina": {
+        "GPE": "1"
+    },
+    "Britain": {
+        "GPE": "1"
+    },
+    "Ireland": {
+        "GPE": "1"
+    },
+    "Good Friday": {
+        "DATE": "1"
+    },
+    "East Belfast": {
+        "GPE": "1"
+    },
+    "Arafat": {
+        "PERSON": "1"
+    },
+    "Jeff Finch": {
+        "PERSON": "1"
+    },
+    "less than three months": {
+        "DATE": "1"
+    },
+    "Democratic Opposition of Serbia": {
+        "ORG": "1"
+    },
+    "DOS": {
+        "ORG": "1"
+    },
+    "only hours": {
+        "TIME": "1"
+    },
+    "about 65 %": {
+        "PERCENT": "1"
+    },
+    "250": {
+        "CARDINAL": "1"
+    },
+    "Serbian Parliament": {
+        "ORG": "1"
+    },
+    "The Socialist Party": {
+        "ORG": "1"
+    },
+    "13 %": {
+        "PERCENT": "1"
+    },
+    "Parliament": {
+        "ORG": "1"
+    },
+    "late Sunday": {
+        "TIME": "1"
+    },
+    "60 %": {
+        "PERCENT": "1"
+    },
+    "Zuan Jinjich": {
+        "PERSON": "1"
+    },
+    "Dave Deforest": {
+        "PERSON": "1"
+    },
+    "the White house": {
+        "FAC": "1"
+    },
+    "Sayeeb Erekat": {
+        "PERSON": "1"
+    },
+    "Bowling Airbase": {
+        "FAC": "1"
+    },
+    "three months": {
+        "DATE": "1"
+    },
+    "State Department": {
+        "ORG": "1"
+    },
+    "Richard Boucher": {
+        "PERSON": "1"
+    },
+    "the Security Council": {
+        "ORG": "1"
+    },
+    "December": {
+        "DATE": "1"
+    },
+    "the International Energy Agency": {
+        "ORG": "1"
+    },
+    "two days earlier": {
+        "DATE": "1"
+    },
+    "the Socialist Party of Serbia": {
+        "ORG": "1"
+    },
+    "SPS": {
+        "ORG": "1"
+    },
+    "a week and a day": {
+        "DATE": "1"
+    },
+    "daily": {
+        "DATE": "1"
+    },
+    "CNN USA Today Gallup": {
+        "ORG": "1"
+    },
+    "49 %": {
+        "PERCENT": "1"
+    },
+    "42 %": {
+        "PERCENT": "1"
+    },
+    "the New York Times": {
+        "ORG": "1"
+    },
+    "Washington Post": {
+        "ORG": "1"
+    },
+    "The Philadelphia Inquirer": {
+        "ORG": "1"
+    },
+    "The Denver Post": {
+        "ORG": "1"
+    },
+    "The San Jose California Mercury News": {
+        "ORG": "1"
+    },
+    "The Chicago Tribune": {
+        "ORG": "1"
+    },
+    "Tribune": {
+        "ORG": "1"
+    },
+    "decades": {
+        "DATE": "1"
+    },
+    "Philadelphia": {
+        "GPE": "1"
+    },
+    "Larry Bowa": {
+        "PERSON": "1"
+    },
+    "2001": {
+        "DATE": "1"
+    },
+    "World Series Championship": {
+        "EVENT": "1"
+    },
+    "54 - year - old": {
+        "DATE": "1"
+    },
+    "two year": {
+        "DATE": "1"
+    },
+    "Terry Francona": {
+        "PERSON": "1"
+    },
+    "October the 1st": {
+        "DATE": "1"
+    },
+    "Kursk": {
+        "PRODUCT": "1"
+    },
+    "the Barents Sea": {
+        "LOC": "1"
+    },
+    "Stability Pact for South Eastern Europe": {
+        "ORG": "1"
+    },
+    "Bodo Hombak": {
+        "PERSON": "1"
+    },
+    "Romanian": {
+        "NORP": "1"
+    },
+    "Bucharest": {
+        "GPE": "1"
+    },
+    "last year": {
+        "DATE": "1"
+    },
+    "Johns Hopkins University": {
+        "ORG": "1"
+    },
+    "Steve Hanky": {
+        "PERSON": "1"
+    },
+    "a few weeks": {
+        "DATE": "1"
+    },
+    "Europe": {
+        "LOC": "1"
+    },
+    "German": {
+        "NORP": "1"
+    },
+    "the Yugoslav Republic of Montenegro": {
+        "GPE": "1"
+    },
+    "the next month": {
+        "DATE": "1"
+    },
+    "Last week": {
+        "DATE": "1"
+    },
+    "the Yugoslav Central Bank": {
+        "ORG": "1"
+    },
+    "30": {
+        "CARDINAL": "1"
+    },
+    "Balkan": {
+        "LOC": "1"
+    },
+    "Bulgaria": {
+        "GPE": "1"
+    },
+    "South American": {
+        "NORP": "1"
+    },
+    "Hector Rodriguez": {
+        "PERSON": "1"
+    },
+    "the Venezuelan Consumer Protection Agency": {
+        "ORG": "1"
+    },
+    "Bridgeton Firestone": {
+        "ORG": "1"
+    },
+    "Some 46": {
+        "CARDINAL": "1"
+    },
+    "Brazilian": {
+        "NORP": "1"
+    },
+    "more than 86,000 liters": {
+        "QUANTITY": "1"
+    },
+    "San Sebastian": {
+        "GPE": "1"
+    },
+    "Sao Paulo": {
+        "GPE": "1"
+    },
+    "sixth": {
+        "ORDINAL": "1"
+    },
+    "this year": {
+        "DATE": "1"
+    },
+    "James O'Brien": {
+        "PERSON": "1"
+    },
+    "1999": {
+        "DATE": "1"
+    },
+    "O'Brian": {
+        "PERSON": "1"
+    },
+    "Slobodan Milosevic 's": {
+        "PERSON": "1"
+    },
+    "Kim Jong Il": {
+        "PERSON": "1"
+    },
+    "Cold War": {
+        "EVENT": "1"
+    },
+    "Jo Myong Rok": {
+        "PERSON": "1"
+    },
+    "4 - day": {
+        "DATE": "1"
+    },
+    "US Air Force": {
+        "ORG": "1"
+    },
+    "Susan Mcdoogle": {
+        "PERSON": "1"
+    },
+    "White Water Real Estate": {
+        "ORG": "1"
+    },
+    "Gallup": {
+        "ORG": "1"
+    },
+    "Hillary Clinton": {
+        "PERSON": "1"
+    },
+    "19 %": {
+        "PERCENT": "1"
+    },
+    "Oprah Winfrey": {
+        "PERSON": "1"
+    },
+    "Margaret Thatcher": {
+        "PERSON": "1"
+    },
+    "4 %": {
+        "PERCENT": "1"
+    },
+    "6 %": {
+        "PERCENT": "1"
+    },
+    "Pope John Paul": {
+        "PERSON": "1"
+    },
+    "Clintons": {
+        "PERSON": "1"
+    },
+    "2.85 million dollar": {
+        "MONEY": "1"
+    },
+    "Washington DC": {
+        "GPE": "1"
+    },
+    "January 20th": {
+        "DATE": "1"
+    },
+    "February 6th": {
+        "DATE": "1"
+    },
+    "Colombia": {
+        "GPE": "1"
+    },
+    "at least twelve": {
+        "CARDINAL": "1"
+    },
+    "as many days": {
+        "DATE": "1"
+    },
+    "Lockerby": {
+        "GPE": "1"
+    },
+    "Libyan": {
+        "NORP": "1"
+    },
+    "Scottish": {
+        "NORP": "1"
+    },
+    "Pan Am Flight 103": {
+        "PRODUCT": "1"
+    },
+    "William Taylor": {
+        "PERSON": "1"
+    },
+    "about two hours": {
+        "TIME": "1"
+    },
+    "earlier Wednesday": {
+        "TIME": "1"
+    },
+    "Ben - Ami": {
+        "PERSON": "1"
+    },
+    "more than 365": {
+        "CARDINAL": "1"
+    },
+    "late September": {
+        "DATE": "1"
+    },
+    "the 1967 Middle East war": {
+        "EVENT": "1"
+    },
+    "Red Sea": {
+        "LOC": "1"
+    },
+    "Taba": {
+        "GPE": "1"
+    },
+    "Claudia Kennedy": {
+        "PERSON": "1"
+    },
+    "African": {
+        "NORP": "1"
+    },
+    "Nigeria": {
+        "GPE": "1"
+    },
+    "late August": {
+        "DATE": "1"
+    },
+    "31 - year - old": {
+        "DATE": "1"
+    },
+    "March": {
+        "DATE": "1"
+    },
+    "Three": {
+        "CARDINAL": "1"
+    },
+    "Nigerians": {
+        "NORP": "1"
+    },
+    "Pakistan": {
+        "GPE": "1"
+    },
+    "9 / 11": {
+        "DATE": "1"
+    },
+    "`` Tantrika '' Traveling the Road of Divine Love": {
+        "WORK_OF_ART": "1"
+    },
+    "the `` USS Abraham Lincoln ''": {
+        "PRODUCT": "1"
+    },
+    "24": {
+        "CARDINAL": "1"
+    },
+    "about 24 hours": {
+        "TIME": "1"
+    },
+    "24 hours": {
+        "TIME": "1"
+    },
+    "24 - hour": {
+        "TIME": "1"
+    },
+    "the `` USS Nassau ''": {
+        "PRODUCT": "1"
+    },
+    "Ariel Sharon": {
+        "PERSON": "1"
+    },
+    "Mahmoud Abbas": {
+        "PERSON": "1"
+    },
+    "Mike Hanna": {
+        "PERSON": "1"
+    },
+    "Mike": {
+        "PERSON": "1"
+    },
+    "Wall Street": {
+        "FAC": "1",
+        "ORG": "1"
+    },
+    "more then a year": {
+        "DATE": "1"
+    },
+    "75.62": {
+        "CARDINAL": "1"
+    },
+    "almost nine": {
+        "CARDINAL": "1"
+    },
+    "almost eight": {
+        "CARDINAL": "1"
+    },
+    "11th": {
+        "ORDINAL": "1"
+    },
+    "Health South": {
+        "ORG": "1"
+    },
+    "50th": {
+        "ORDINAL": "1"
+    },
+    "America": {
+        "GPE": "1"
+    },
+    "507 days": {
+        "DATE": "1"
+    },
+    "The SE KRE": {
+        "ORG": "1"
+    },
+    "$ 1.5 billion": {
+        "MONEY": "1"
+    },
+    "two months ago": {
+        "DATE": "1"
+    },
+    "Dixie Chicks": {
+        "ORG": "1"
+    },
+    "Chad Myers": {
+        "PERSON": "1"
+    },
+    "L.a.": {
+        "GPE": "1"
+    },
+    "San Francisco": {
+        "GPE": "1"
+    },
+    "72": {
+        "CARDINAL": "1"
+    },
+    "just about every day": {
+        "DATE": "1"
+    },
+    "18 , 19 , 20 years old": {
+        "DATE": "1"
+    },
+    "the past week": {
+        "ORDINAL": "1",
+        "DATE": "1"
+    },
+    "the last five minutes": {
+        "TIME": "1"
+    },
+    "five days": {
+        "DATE": "1"
+    },
+    "Richmond": {
+        "GPE": "1"
+    },
+    "WRBA": {
+        "ORG": "1"
+    },
+    "Hawaii": {
+        "GPE": "1"
+    },
+    "5,000": {
+        "CARDINAL": "1"
+    },
+    "Eight": {
+        "CARDINAL": "1"
+    },
+    "ten": {
+        "CARDINAL": "1"
+    },
+    "half": {
+        "CARDINAL": "1"
+    },
+    "Lincoln": {
+        "PRODUCT": "1"
+    },
+    "Everett": {
+        "GPE": "1"
+    },
+    "Leon": {
+        "PERSON": "1"
+    },
+    "Ali Abbas": {
+        "PERSON": "1"
+    },
+    "Mark Webster": {
+        "PERSON": "1"
+    },
+    "ITN": {
+        "ORG": "1"
+    },
+    "Two weeks": {
+        "DATE": "1"
+    },
+    "Tom and Jerry": {
+        "WORK_OF_ART": "1"
+    },
+    "three weeks": {
+        "DATE": "1"
+    },
+    "Manchester United": {
+        "ORG": "1"
+    },
+    "David Beckham": {
+        "PERSON": "1"
+    },
+    "Manhattan": {
+        "GPE": "1"
+    },
+    "earlier this year": {
+        "DATE": "1"
+    },
+    "Waksal": {
+        "PERSON": "1"
+    },
+    "$ 3.5 million": {
+        "MONEY": "1"
+    },
+    "75 years": {
+        "DATE": "1"
+    },
+    "about six to seven years": {
+        "DATE": "1"
+    },
+    "Martha Stewart": {
+        "PERSON": "1"
+    },
+    "10:00 a.m.": {
+        "TIME": "1"
+    },
+    "Newsnight": {
+        "WORK_OF_ART": "1"
+    },
+    "Beth Nissen": {
+        "PERSON": "1"
+    },
+    "early April": {
+        "DATE": "1"
+    },
+    "Jennifer O'Conner": {
+        "PERSON": "1"
+    },
+    "7": {
+        "DATE": "1"
+    },
+    "7 - year - old": {
+        "DATE": "1"
+    },
+    "three days later": {
+        "DATE": "1"
+    },
+    "Thomas": {
+        "PERSON": "1"
+    },
+    "a few months before": {
+        "DATE": "1"
+    },
+    "Two weeks .": {
+        "DATE": "1"
+    },
+    "The British Broadcasting Company": {
+        "ORG": "1"
+    },
+    "Rupert Murdoch": {
+        "PERSON": "1"
+    },
+    "1994": {
+        "DATE": "1"
+    },
+    "BBC World Service": {
+        "ORG": "1"
+    },
+    "Star": {
+        "ORG": "1"
+    },
+    "STAR TV": {
+        "ORG": "1"
+    },
+    "A year later": {
+        "DATE": "1"
+    },
+    "Rupert Murdoch 's": {
+        "PERSON": "1"
+    },
+    "News Corp.": {
+        "ORG": "1"
+    },
+    "Next month": {
+        "DATE": "1"
+    },
+    "Two months": {
+        "DATE": "1"
+    },
+    "more than $ 150 million": {
+        "MONEY": "1"
+    },
+    "a year": {
+        "DATE": "1"
+    },
+    "Pascagoula": {
+        "GPE": "1"
+    },
+    "Nine years ago today": {
+        "DATE": "1"
+    },
+    "January 1992": {
+        "DATE": "1"
+    },
+    "Gennifer Flowers": {
+        "PERSON": "1"
+    },
+    "12 - year": {
+        "DATE": "1"
+    },
+    "Arkansas State": {
+        "GPE": "1"
+    },
+    "Hillary": {
+        "PERSON": "1"
+    },
+    "`` Larry King Live ''": {
+        "WORK_OF_ART": "1"
+    },
+    "1998": {
+        "DATE": "1"
+    },
+    "Republicans": {
+        "NORP": "1"
+    },
+    "Commerce": {
+        "ORG": "1"
+    },
+    "16 years": {
+        "DATE": "1"
+    },
+    "New Zealand": {
+        "GPE": "1"
+    },
+    "Rodney Sutton": {
+        "PERSON": "1"
+    },
+    "seven - year - old": {
+        "DATE": "1"
+    },
+    "839": {
+        "CARDINAL": "1"
+    },
+    "nine hours": {
+        "TIME": "1"
+    },
+    "hundreds": {
+        "CARDINAL": "1"
+    },
+    "Sutton": {
+        "PERSON": "1"
+    },
+    "Robert Ray": {
+        "PERSON": "1"
+    },
+    "this hour": {
+        "TIME": "1"
+    },
+    "August 1998": {
+        "DATE": "1"
+    },
+    "Paula Jones": {
+        "PERSON": "1"
+    },
+    "five - year": {
+        "DATE": "1"
+    },
+    "seven years": {
+        "DATE": "1"
+    },
+    "Whitewater": {
+        "ORG": "1"
+    },
+    "Travelgate": {
+        "EVENT": "1"
+    },
+    "The `` Jingle Cats ''": {
+        "ORG": "1"
+    },
+    "that time of year": {
+        "DATE": "1"
+    },
+    "The Jingle Cats": {
+        "ORG": "1"
+    },
+    "Mike Spalla": {
+        "PERSON": "1"
+    },
+    "Jingle Bells": {
+        "WORK_OF_ART": "1"
+    },
+    "`` meowy Christmas ''": {
+        "WORK_OF_ART": "1"
+    },
+    "Here Comes Santa Claws": {
+        "WORK_OF_ART": "1"
+    },
+    "Jingle Babies": {
+        "ORG": "1"
+    },
+    "Jingle Dogs": {
+        "ORG": "1"
+    },
+    "Headline News": {
+        "WORK_OF_ART": "1"
+    },
+    "the holidays": {
+        "DATE": "1"
+    },
+    "Duma": {
+        "ORG": "1"
+    },
+    "The Upper House": {
+        "ORG": "1"
+    },
+    "Bangladeshi": {
+        "NORP": "1"
+    },
+    "at least 37": {
+        "CARDINAL": "1"
+    },
+    "Thanksgiving": {
+        "DATE": "1"
+    },
+    "Tipper": {
+        "PERSON": "1"
+    },
+    "annual": {
+        "DATE": "1"
+    },
+    "this weekend": {
+        "DATE": "1"
+    },
+    "Four": {
+        "CARDINAL": "1"
+    },
+    "Fidel Castro": {
+        "PERSON": "1"
+    },
+    "Caracas": {
+        "GPE": "1"
+    },
+    "five - day": {
+        "DATE": "1"
+    },
+    "Hundreds": {
+        "CARDINAL": "1"
+    },
+    "Venezuelans": {
+        "NORP": "1"
+    },
+    "the Venezuelan Congress": {
+        "ORG": "1"
+    },
+    "Cuba": {
+        "GPE": "1"
+    },
+    "Yugoslavian": {
+        "NORP": "1"
+    },
+    "Putin": {
+        "PERSON": "1"
+    },
+    "Ivanov": {
+        "PERSON": "1"
+    },
+    "Borislav": {
+        "PERSON": "1"
+    },
+    "Borislav Milosevic": {
+        "PERSON": "1"
+    },
+    "Alessio Vinci": {
+        "PERSON": "1"
+    },
+    "the long years": {
+        "DATE": "1"
+    },
+    "the Democratic Party of Serbia": {
+        "ORG": "1"
+    },
+    "ten years": {
+        "DATE": "1"
+    },
+    "these years": {
+        "DATE": "1"
+    },
+    "56": {
+        "DATE": "1"
+    },
+    "1974": {
+        "DATE": "1"
+    },
+    "Tito": {
+        "PERSON": "1"
+    },
+    "the months": {
+        "DATE": "1"
+    },
+    "European Union": {
+        "ORG": "1"
+    },
+    "NATO": {
+        "ORG": "1"
+    },
+    "all day": {
+        "DATE": "1"
+    },
+    "216": {
+        "CARDINAL": "1"
+    },
+    "Norfolk": {
+        "GPE": "1"
+    },
+    "five - week": {
+        "DATE": "1"
+    },
+    "`` Blue Marlin ''": {
+        "PRODUCT": "1"
+    },
+    "39": {
+        "CARDINAL": "1"
+    },
+    "last month 's": {
+        "DATE": "1"
+    },
+    "U.S. Navy": {
+        "ORG": "1"
+    },
+    "6": {
+        "CARDINAL": "1"
+    },
+    "seven": {
+        "CARDINAL": "1"
+    },
+    "28": {
+        "CARDINAL": "1"
+    },
+    "33": {
+        "CARDINAL": "1"
+    },
+    "the Portsmouth Naval Hospital": {
+        "FAC": "1"
+    },
+    "ex-Saudi": {
+        "NORP": "1"
+    },
+    "Taliban": {
+        "ORG": "1"
+    },
+    "Bin Laden": {
+        "PERSON": "1"
+    },
+    "Holly Firfer": {
+        "PERSON": "1"
+    },
+    "Judy Fortin": {
+        "PERSON": "1"
+    },
+    "Arab League": {
+        "ORG": "1"
+    },
+    "Palestinian Authority": {
+        "ORG": "1"
+    },
+    "Mediterranean": {
+        "LOC": "1"
+    },
+    "four - year": {
+        "DATE": "1"
+    },
+    "a decade ago": {
+        "DATE": "1"
+    },
+    "Yasser Arafat 's": {
+        "PERSON": "1"
+    },
+    "Fateh": {
+        "ORG": "1"
+    },
+    "Dan Meridor": {
+        "PERSON": "1"
+    },
+    "Palestine": {
+        "GPE": "1"
+    },
+    "Overnight": {
+        "TIME": "1"
+    },
+    "Hezbollah": {
+        "ORG": "1"
+    },
+    "May": {
+        "DATE": "1"
+    },
+    "The U.N. General Assembly": {
+        "ORG": "1"
+    },
+    "46": {
+        "CARDINAL": "1"
+    },
+    "Six": {
+        "CARDINAL": "1"
+    },
+    "earlier in the day": {
+        "TIME": "1"
+    },
+    "16 - year - old": {
+        "DATE": "1"
+    },
+    "The United Nations Security Council": {
+        "ORG": "1"
+    },
+    "Security Council": {
+        "ORG": "1"
+    },
+    "two days": {
+        "DATE": "1"
+    },
+    "the Cold War": {
+        "EVENT": "1"
+    },
+    "Iran": {
+        "GPE": "1"
+    },
+    "12 miles": {
+        "QUANTITY": "1"
+    },
+    "Saddam Hussein International Airport": {
+        "FAC": "1"
+    },
+    "Baghdad International Airport": {
+        "FAC": "1"
+    },
+    "A week": {
+        "DATE": "1"
+    },
+    "Larry Eustachy": {
+        "PERSON": "1"
+    },
+    "Iowa State": {
+        "ORG": "1"
+    },
+    "Eustachy": {
+        "PERSON": "1"
+    },
+    "$ 960,000": {
+        "MONEY": "1"
+    },
+    "Abu Abbas": {
+        "PERSON": "1"
+    },
+    "late Monday night": {
+        "TIME": "1"
+    },
+    "the `` Achille Lauro ''": {
+        "PRODUCT": "1"
+    },
+    "1985": {
+        "DATE": "1"
+    },
+    "Klinghoffer": {
+        "PERSON": "1"
+    },
+    "Iraqis": {
+        "NORP": "1"
+    },
+    "some 20 years ago": {
+        "DATE": "1"
+    },
+    "Basra": {
+        "GPE": "1"
+    },
+    "Andrew Coburn": {
+        "PERSON": "1"
+    },
+    "Edward Chin": {
+        "PERSON": "1"
+    },
+    "Jane Fonda": {
+        "PERSON": "1"
+    },
+    "4 - year - old": {
+        "DATE": "1"
+    },
+    "Federal Heights": {
+        "GPE": "1"
+    },
+    "10:00 Eastern time": {
+        "TIME": "1"
+    },
+    "VITAC": {
+        "ORG": "1"
+    },
+    "Employee of the Year": {
+        "WORK_OF_ART": "1"
+    },
+    "Carrie Lee": {
+        "PERSON": "1"
+    },
+    "Carrie": {
+        "PERSON": "1"
+    },
+    "Renay": {
+        "PERSON": "1"
+    },
+    "Coca Cola": {
+        "ORG": "1"
+    },
+    "6.1 %": {
+        "PERCENT": "1"
+    },
+    "Intel": {
+        "ORG": "1"
+    },
+    "Microsoft": {
+        "ORG": "1"
+    },
+    "the recent quarter": {
+        "DATE": "1"
+    },
+    "3,000": {
+        "CARDINAL": "1"
+    },
+    "Texas Instruments": {
+        "ORG": "1"
+    },
+    "20 %": {
+        "PERCENT": "1"
+    },
+    "another cent": {
+        "MONEY": "1"
+    },
+    "6:00 today": {
+        "TIME": "1"
+    },
+    "16.8 %": {
+        "PERCENT": "1"
+    },
+    "Mosul": {
+        "GPE": "1"
+    },
+    "F Tomcats": {
+        "PRODUCT": "1"
+    },
+    "13": {
+        "CARDINAL": "1"
+    },
+    "Kurdish": {
+        "NORP": "1"
+    },
+    "Fox News": {
+        "ORG": "1"
+    },
+    "The Central Command": {
+        "ORG": "1"
+    },
+    "Rivera": {
+        "PERSON": "1"
+    },
+    "Arnett": {
+        "PERSON": "1"
+    },
+    "National Geographic": {
+        "ORG": "1"
+    },
+    "the Daily Mirror": {
+        "ORG": "1"
+    },
+    "Michael Wolf": {
+        "PERSON": "1"
+    },
+    "`` New York ''": {
+        "ORG": "1"
+    },
+    "`` New York": {
+        "ORG": "1"
+    },
+    "Qatar": {
+        "GPE": "1"
+    },
+    "Michael": {
+        "PERSON": "1"
+    },
+    "At least ten": {
+        "CARDINAL": "1"
+    },
+    "at least five": {
+        "CARDINAL": "1"
+    },
+    "Benton Harbor": {
+        "GPE": "1"
+    },
+    "Pope John Paul II": {
+        "PERSON": "1"
+    },
+    "Dubrovnik": {
+        "GPE": "1"
+    },
+    "Marija Petkovic": {
+        "PERSON": "1"
+    },
+    "1920s": {
+        "DATE": "1"
+    },
+    "South America": {
+        "LOC": "1"
+    },
+    "Croatian": {
+        "NORP": "1"
+    },
+    "70,000": {
+        "CARDINAL": "1"
+    },
+    "Freddie Mac": {
+        "ORG": "1",
+        "PERSON": "1"
+    },
+    "Rhonda Schaffler": {
+        "PERSON": "1"
+    },
+    "New York Stock Exchange": {
+        "FAC": "1"
+    },
+    "this month": {
+        "DATE": "1"
+    },
+    "U.S. Treasury": {
+        "ORG": "1"
+    },
+    "John Snow": {
+        "PERSON": "1"
+    },
+    "another 6.5 %": {
+        "PERCENT": "1"
+    },
+    "207 %": {
+        "PERCENT": "1"
+    },
+    "about 20 %": {
+        "PERCENT": "1"
+    },
+    "the last few years": {
+        "DATE": "1"
+    },
+    "Freddie Mac 's": {
+        "ORG": "1"
+    },
+    "the same day": {
+        "DATE": "1"
+    },
+    "$ 24 million": {
+        "MONEY": "1"
+    },
+    "more than $ 6 million": {
+        "MONEY": "1"
+    },
+    "Dog Chapman": {
+        "PERSON": "1"
+    },
+    "Mexican": {
+        "NORP": "1"
+    },
+    "Dwayne Dog Chapman": {
+        "PERSON": "1"
+    },
+    "Chapman": {
+        "PERSON": "1"
+    },
+    "Los Angeles International Airport": {
+        "FAC": "1"
+    },
+    "Ventura County": {
+        "GPE": "1"
+    },
+    "Kearn County": {
+        "GPE": "1"
+    },
+    "California": {
+        "GPE": "1"
+    },
+    "about 100 miles": {
+        "QUANTITY": "1"
+    },
+    "Heidi": {
+        "PERSON": "1"
+    },
+    "Selsun Blue": {
+        "PRODUCT": "1"
+    },
+    "Selsun Blue .": {
+        "PRODUCT": "1"
+    },
+    "Scott Peterson": {
+        "PERSON": "1"
+    },
+    "Max Factor": {
+        "PERSON": "1"
+    },
+    "five months": {
+        "DATE": "1"
+    },
+    "Larry King Live": {
+        "WORK_OF_ART": "1"
+    },
+    "Roger John Diamond": {
+        "PERSON": "1"
+    },
+    "Andrew Luster 's": {
+        "PERSON": "1"
+    },
+    "10:00 Eastern": {
+        "TIME": "1"
+    },
+    "A Twisted Mind , The Andrew Luster Story": {
+        "WORK_OF_ART": "1"
+    },
+    "CBS News Productions": {
+        "ORG": "1"
+    },
+    "Nancy Grace": {
+        "PERSON": "1"
+    },
+    "Atlanta": {
+        "GPE": "1"
+    },
+    "Chris Picksly": {
+        "PERSON": "1"
+    },
+    "Michael Wellner": {
+        "PERSON": "1"
+    },
+    "NYU": {
+        "ORG": "1"
+    },
+    "Canada TV": {
+        "ORG": "1"
+    },
+    "more than 100 kilometers": {
+        "QUANTITY": "1"
+    },
+    "23 , 25 miles": {
+        "QUANTITY": "1"
+    },
+    "Royal Caribbean": {
+        "ORG": "1"
+    },
+    "Raidience of the Seas": {
+        "PRODUCT": "1"
+    },
+    "almost an hour": {
+        "TIME": "1"
+    }
+}
