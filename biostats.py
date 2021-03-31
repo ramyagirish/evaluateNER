@@ -89,5 +89,56 @@ def get_entity_level_stats():
             fhw.close()
             fh.close()
 
+"""
+Get NE category level stats for train/test/dev splits, for all partitions of the data (6)
+"""
+def get_cat_level_stats():
+    maindir = "basicstats/"
+    master_dict = {} #{split: {genre: {tag: count}}}
+    for subdir in subdirs:
+        master_dict[subdir] = {}
+        for afile in filepaths:
+            fh = open(maindir + subdir + "-" + afile + "-dist.txt", encoding="utf-8")
+            genre = afile.replace("onto.", "").replace(".ner", "")
+            tags_dict = {}
+            for line in fh:
+                temp = line.strip().split("\t")
+                (entity, tag) = eval(temp[0])
+                entity_tag_count = temp[1]
+                tags_dict[tag] = tags_dict.get(tag,0) +1
+            fh.close()
+            master_dict[subdir][genre] = tags_dict
+    return master_dict
 
-get_entity_level_stats()
+def print_ent_stats_table():
+    master_dict = get_cat_level_stats()
+    necats = ["PERSON", "NORP", "FAC", "ORG", "GPE", "LOC", "PRODUCT", "EVENT",
+              "WORK_OF_ART", "LAW", "LANGUAGE", "DATE", "TIME", "PERCENT",
+              "MONEY", "QUANTITY", "ORDINAL", "CARDINAL"]
+    genres = ["bc", "bn", "mz", "nw", "tc", "wb"]
+    fw = open("basicstats/necounts.csv", "w")
+    fw.write("necats,"+ ",".join(genres)+"\n")
+
+    for subdir in subdirs:
+        fw.write(subdir.upper() + "\n\n")
+        for cat in necats:
+            templist = []
+            for genre in genres:
+                if cat in master_dict[subdir][genre]:
+                    templist.append(str(master_dict[subdir][genre][cat]))
+                else:
+                    templist.append("0")
+            fw.write(cat+","+",".join(templist)+"\n")
+        fw.write("\n\n")
+
+
+    fw.close()
+
+
+import pprint
+
+#get_entity_pair_counts()
+#get_entity_level_stats()
+
+get_cat_level_stats()
+print_ent_stats_table()
