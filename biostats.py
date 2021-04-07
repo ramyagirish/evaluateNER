@@ -2,6 +2,40 @@ import os, json
 dir = "C:/Users/vajjalas/Downloads/NERProject_Materials/bio/bio/"
 subdirs = ["train", "test", "development"]
 filepaths = ["onto.bc.ner", "onto.bn.ner", "onto.mz.ner", "onto.nw.ner", "onto.tc.ner", "onto.wb.ner"]
+maindir = "basicstats/"
+
+"""
+Get stats on number of entities per sentence.
+input: bio format data in "dir"
+output: dict showing num sentences with 1-N entities, for each partition.
+"""
+def get_sent_ent_counts():
+    for subdir in subdirs:
+        for afile in filepaths:
+            fh = open(os.path.join(dir, subdir, afile), encoding="utf-8")
+            mydict = {}  # keys are <1--N> values are number of sentences with 1-N entities.
+            fh.readline()
+            tempents = []
+            temptoks = []
+            numsents = 0
+            for line in fh:
+                if line.strip() is not "":
+                    splits = line.strip().split("\t")
+                    word =splits[0]
+                    tag = splits[3]
+                    if "B-" in tag:
+                        tempents.append(tag)
+                    temptoks.append(word)
+                else:
+                    #if len(tempents) == 0:
+                        #print(" ".join(temptoks))
+                        #print(" ".join(tempents))
+                    numsents +=1
+                    mydict[len(tempents)] = mydict.get(len(tempents),0)+1
+                    tempents = []
+                    temptoks =[]
+            print("For ", subdir+"/"+afile+ " : num. sents: ", numsents, " and sent stats: ")
+            print(dict(sorted(mydict.items())))
 
 """
 Gets Stats of the form "('Rumsfeld', 'PERSON')	57" for a given BIO formatted file. 
@@ -70,7 +104,6 @@ Why?: I initially did not have a clear idea of what I wanted to see. I now want 
 def get_entity_level_stats():
     #initial form: ('Iran', 'PERSON')	1, ('Iran', 'GPE')	49 etc
     #final form: {'Iran': {'Person':1, 'GPE', '49'}}
-    maindir = "basicstats/"
     for subdir in subdirs:
         for afile in filepaths:
             fh = open(maindir+subdir+"-"+afile+"-dist.txt", encoding="utf-8")
@@ -93,7 +126,6 @@ def get_entity_level_stats():
 Get NE category level stats for train/test/dev splits, for all partitions of the data (6)
 """
 def get_cat_level_stats():
-    maindir = "basicstats/"
     master_dict = {} #{split: {genre: {tag: count}}}
     for subdir in subdirs:
         master_dict[subdir] = {}
@@ -134,11 +166,28 @@ def print_ent_stats_table():
 
     fw.close()
 
+def get_entity_length_stats():
+    master_dict = {} #{split: {genre: {entity: {token_length:count}}}}}
+    for subdir in subdirs:
+        master_dict[subdir] = {}
+        for afile in filepaths:
+            fh = open(maindir + subdir + "-" + afile + "-dist.txt", encoding="utf-8")
+            genre = afile.replace("onto.", "").replace(".ner", "")
+            tags_dict = {}
+            for line in fh:
+                temp = line.strip().split("\t")
+                (entity, tag) = eval(temp[0])
+                entity_tag_count = temp[1]
+                tags_dict[tag] = tags_dict.get(tag,0) +1
+            fh.close()
+            master_dict[subdir][genre] = tags_dict
+    return master_dict
 
-import pprint
 
 #get_entity_pair_counts()
 #get_entity_level_stats()
 
-get_cat_level_stats()
-print_ent_stats_table()
+#get_cat_level_stats()
+#print_ent_stats_table()
+
+get_sent_ent_counts()
