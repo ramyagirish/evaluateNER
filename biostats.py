@@ -38,6 +38,54 @@ def get_sent_ent_counts():
             print(dict(sorted(mydict.items())))
 
 """
+Get stats about number of NEs for varying length (in tokens)
+input: bio
+output: {number:number of entities with that length}
+"""
+def get_ent_len_stats():
+     for subdir in subdirs:
+            for afile in filepaths:
+                fh = open(os.path.join(dir, subdir, afile), encoding="utf-8")
+                mydict = {}  # keys are <1--N> values are number of entities with length 1-N.
+                fh.readline()
+                tempents = []
+                temptoks = []
+                entname = ""
+                numsents = 0
+                for line in fh:
+                    if line.strip() is not "":
+                        splits = line.strip().split("\t")
+                        tok = splits[0]
+                        tag = splits[3]
+                        if "B-" in tag:
+                            if tempents:
+                                mydict[len(tempents)] = mydict.get(len(tempents), 0) + 1
+                            tempents = [] #new entity is starting
+                            tempents.append(tag)
+                            temptoks.append(tok)
+                        elif tempents and "I-" in tag: #old entity is continuing
+                            tempents.append(tag)
+                            temptoks.append(tok)
+                        else: #tag has to be O if both thes conditions are not true?
+                            if tempents: #so close tempents
+                                mydict[len(tempents)] = mydict.get(len(tempents), 0) + 1
+                            if len(tempents) > 20:
+                                print(" ".join(temptoks))
+                                print(" ".join(tempents))
+                            tempents = []
+                            temptoks = []
+                        #temptoks.append(word)
+                    else:
+                        # if len(tempents) == 0:
+                        # print(" ".join(temptoks))
+                        # print(" ".join(tempents))
+                        numsents += 1
+                        tempents = []
+                        temptoks = []
+                print("For ", subdir + "/" + afile + " : num. sents: ", numsents, " and ent len stats: ")
+                print(dict(sorted(mydict.items())))
+
+"""
 Gets Stats of the form "('Rumsfeld', 'PERSON')	57" for a given BIO formatted file. 
 Why?: Sometimes, the same word may be tagged differently!
 """
@@ -190,4 +238,5 @@ def get_entity_length_stats():
 #get_cat_level_stats()
 #print_ent_stats_table()
 
-get_sent_ent_counts()
+#get_sent_ent_counts()
+get_ent_len_stats()

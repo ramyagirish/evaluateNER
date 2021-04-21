@@ -5,8 +5,8 @@ between train-dev and train-test sets, within and across genres.
 import os
 
 """
-Reads the stats files created from biostats.py and stores it 
-in an appropriate DS
+Reads the stats files created from biostats.py/get_entity_pair_counts()
+and stores it in an appropriate DS
 """
 def read_file(file_path):
     fh = open(file_path, encoding="utf-8")
