@@ -1,0 +1,2912 @@
+('two', 'CARDINAL')	164
+('Japan', 'GPE')	164
+('Iraq', 'GPE')	158
+('US', 'GPE')	154
+('one', 'CARDINAL')	123
+('first', 'ORDINAL')	115
+('Bush', 'PERSON')	84
+('American', 'NORP')	77
+('al - Jazeera TV', 'ORG')	72
+('today', 'DATE')	71
+('Iraqi', 'NORP')	71
+('Russia', 'GPE')	71
+('Democrats', 'NORP')	70
+('Japanese', 'NORP')	64
+('four', 'CARDINAL')	58
+('Koizumi', 'PERSON')	53
+('China', 'GPE')	51
+('Republican', 'NORP')	51
+('CNN', 'ORG')	47
+('Wal - Mart', 'ORG')	47
+('Republicans', 'NORP')	45
+('UN', 'ORG')	43
+('John Bolton', 'PERSON')	43
+('Russian', 'NORP')	42
+('Putin', 'PERSON')	42
+('Senate', 'ORG')	41
+('the United States', 'GPE')	39
+('three', 'CARDINAL')	38
+('Congress', 'ORG')	38
+('tonight', 'TIME')	36
+('Washington', 'GPE')	33
+('Afghanistan', 'GPE')	30
+('the White House', 'ORG')	28
+('One', 'CARDINAL')	28
+('Hardball', 'WORK_OF_ART')	28
+('Iraqis', 'NORP')	28
+('New York', 'GPE')	27
+('Lebanon', 'GPE')	27
+('The New York Times', 'ORG')	26
+('Late Edition', 'WORK_OF_ART')	26
+('Ohio', 'GPE')	25
+('British', 'NORP')	23
+('Tim', 'PERSON')	23
+('second', 'ORDINAL')	22
+('Zheng Bing', 'PERSON')	22
+('Dan', 'PERSON')	22
+('Karl Rove', 'PERSON')	22
+('Democratic', 'NORP')	22
+('CIA', 'ORG')	22
+('Littlejohn', 'PERSON')	22
+('Iran', 'GPE')	21
+('the Eighth Route Army', 'ORG')	20
+('Baghdad', 'GPE')	19
+('Americans', 'NORP')	19
+('Virginia', 'GPE')	19
+('Supreme Court', 'ORG')	19
+('five', 'CARDINAL')	18
+('Yasukuni Shrine', 'WORK_OF_ART')	18
+('Tangshan', 'GPE')	18
+('America', 'GPE')	17
+('this week', 'DATE')	17
+('Lebanese', 'NORP')	17
+('Rwanda', 'GPE')	17
+('Wolf', 'PERSON')	16
+('New Jersey', 'GPE')	16
+('the Hundred Regiments Offensive', 'EVENT')	15
+('First', 'ORDINAL')	15
+('Afghan', 'NORP')	15
+('Democrat', 'NORP')	15
+('Guantanamo', 'FAC')	15
+('Asian', 'NORP')	15
+('South Korea', 'GPE')	15
+('United States', 'GPE')	15
+('Imette', 'PERSON')	15
+('Saddam Hussein', 'PERSON')	15
+('Anderson', 'PERSON')	15
+('Chinese', 'NORP')	14
+('Arab', 'NORP')	14
+('yesterday', 'DATE')	14
+('White House', 'ORG')	14
+('the Supreme Court', 'ORG')	14
+('David', 'PERSON')	14
+('Chris', 'PERSON')	14
+('Larry', 'PERSON')	14
+('Williams', 'PERSON')	14
+('this year', 'DATE')	13
+('six', 'CARDINAL')	13
+('ten', 'CARDINAL')	13
+('New Orleans', 'GPE')	13
+('Linda', 'PERSON')	13
+('Bolton', 'PERSON')	13
+('Schumer', 'PERSON')	13
+('House', 'ORG')	13
+('Syrian', 'NORP')	13
+('Discovery', 'PRODUCT')	13
+('Russians', 'NORP')	13
+('Taliban', 'ORG')	12
+('APEC', 'ORG')	12
+('the United Nations', 'ORG')	12
+('night', 'TIME')	12
+('California', 'GPE')	12
+('republican', 'NORP')	12
+('nine eleven', 'EVENT')	12
+('democrat', 'NORP')	12
+('Syria', 'GPE')	12
+('BBC', 'ORG')	11
+('next year', 'DATE')	11
+('the Great Tangshan Earthquake', 'EVENT')	11
+('Andrea', 'PERSON')	11
+('McCain', 'PERSON')	11
+('Joe Lieberman', 'PERSON')	11
+('Nixon', 'PERSON')	11
+('Mike', 'PERSON')	11
+('Palmeiro', 'PERSON')	11
+('Islamic', 'NORP')	11
+('Kyl', 'PERSON')	11
+('Lieberman', 'PERSON')	11
+('Rick', 'PERSON')	11
+('Mike Wallace', 'PERSON')	11
+('Newsnight', 'WORK_OF_ART')	11
+('Britain', 'GPE')	10
+('Focus Today', 'ORG')	10
+('Qatar', 'GPE')	10
+('Two', 'CARDINAL')	10
+('seven', 'CARDINAL')	10
+('London', 'GPE')	10
+('last week', 'DATE')	10
+('Roh Moo - hyun', 'PERSON')	10
+('Sunday', 'DATE')	10
+('Qinglong', 'GPE')	10
+('John', 'PERSON')	10
+('Dobson', 'PERSON')	10
+('Rove', 'PERSON')	10
+('McConnell', 'PERSON')	10
+('John McCain', 'PERSON')	10
+('Christianity', 'NORP')	10
+('Deep Throat', 'PERSON')	10
+('Between You and Me', 'WORK_OF_ART')	10
+('North China', 'LOC')	9
+('the Zhengtai Railway', 'FAC')	9
+("Shi'nao Mountain", 'LOC')	9
+('Middle East', 'LOC')	9
+('last night', 'TIME')	9
+('Pusan', 'GPE')	9
+('the Security Council', 'ORG')	9
+('tomorrow', 'DATE')	9
+('Taylor', 'PERSON')	9
+('fourteen', 'DATE')	9
+('a year', 'DATE')	9
+('George Bush', 'PERSON')	9
+('State', 'ORG')	9
+('years', 'DATE')	9
+('New York Times', 'ORG')	9
+('Melanie', 'PERSON')	9
+('number one', 'CARDINAL')	9
+('FBI', 'ORG')	9
+('Three Sixty', 'WORK_OF_ART')	9
+('Peng Dehuai', 'PERSON')	8
+('third', 'ORDINAL')	8
+('Blair', 'PERSON')	8
+('Beijing', 'GPE')	8
+('Friday', 'DATE')	8
+('fourteen year old', 'DATE')	8
+('MSNBC', 'ORG')	8
+('Paul', 'PERSON')	8
+('Hillary Clinton', 'PERSON')	8
+('Bill Safire', 'PERSON')	8
+('Paul Hackett', 'PERSON')	8
+('New York City', 'GPE')	8
+('Christian', 'NORP')	8
+('Afghans', 'NORP')	8
+('Bob Woodward', 'PERSON')	8
+('Watergate', 'EVENT')	8
+('NASA', 'ORG')	8
+('Eli Lilly', 'ORG')	8
+('anti-Japanese', 'NORP')	7
+('fifteen', 'CARDINAL')	7
+('Taiwan', 'GPE')	7
+('evening', 'TIME')	7
+('the Afghan war', 'EVENT')	7
+('twelve', 'CARDINAL')	7
+('the Iraq war', 'EVENT')	7
+('Asia', 'LOC')	7
+('the Soviet Union', 'GPE')	7
+("Zheng Bing 's", 'PERSON')	7
+('Deng', 'PERSON')	7
+('Monday', 'DATE')	7
+('Minnesota', 'GPE')	7
+('John Roberts', 'PERSON')	7
+('Africa', 'LOC')	7
+('Constitution', 'LAW')	7
+('The Wall Street Journal', 'ORG')	7
+('the Middle East', 'LOC')	7
+('Bob Shrum', 'PERSON')	7
+('Bob', 'PERSON')	7
+('Dick Cheney', 'PERSON')	7
+('Cheney', 'PERSON')	7
+('NFL', 'ORG')	7
+('Atlanta', 'GPE')	7
+('John King', 'PERSON')	7
+('democrats', 'NORP')	7
+('Jack Hannah', 'PERSON')	7
+('Alito', 'PERSON')	7
+('Rumsfeld', 'PERSON')	6
+('al - Qaeda', 'ORG')	6
+('1 degree below zero', 'QUANTITY')	6
+('Sino - Japanese', 'NORP')	6
+('Russian - Japanese', 'NORP')	6
+('Today', 'DATE')	6
+('Japanese - Russian', 'NORP')	6
+('Yongji', 'GPE')	6
+('Zhaizi Village', 'GPE')	6
+('Wang Chunqing', 'PERSON')	6
+('Jia Bangyou', 'PERSON')	6
+('Katrina', 'EVENT')	6
+('Thursday', 'DATE')	6
+('Duncan', 'PERSON')	6
+('Connecticut', 'GPE')	6
+('Ben Ginsberg', 'PERSON')	6
+('Hillary', 'PERSON')	6
+('Meet the Press', 'ORG')	6
+('Dana', 'PERSON')	6
+('Hackett', 'PERSON')	6
+('msnbc', 'ORG')	6
+('March', 'DATE')	6
+('Ed', 'PERSON')	6
+('Debra Lafave', 'PERSON')	6
+('Mark Felt', 'PERSON')	6
+('Frist', 'PERSON')	6
+('Abizaid', 'PERSON')	6
+('Erica', 'PERSON')	6
+('David Gergen', 'PERSON')	6
+('The Hundred Regiments Offensive', 'EVENT')	5
+('European', 'NORP')	5
+('Eighth Route Army', 'ORG')	5
+('a minute', 'TIME')	5
+('Second', 'ORDINAL')	5
+('8 degrees', 'QUANTITY')	5
+('9 degrees', 'QUANTITY')	5
+('13 degrees', 'QUANTITY')	5
+('5', 'CARDINAL')	5
+('Junichiro Koizumi', 'PERSON')	5
+('Putin', 'GPE')	5
+('last year', 'DATE')	5
+('five years', 'DATE')	5
+('that day', 'DATE')	5
+('the National Seismology Bureau', 'ORG')	5
+('Qinglong County', 'GPE')	5
+('Ran Guangqi', 'PERSON')	5
+('240,000', 'CARDINAL')	5
+('Davis', 'PERSON')	5
+('morning', 'TIME')	5
+('Miers', 'PERSON')	5
+('Tuesday', 'DATE')	5
+('Harriet Miers', 'PERSON')	5
+('the White House', 'GPE')	5
+('Pakistan', 'GPE')	5
+('the Judiciary Committee', 'ORG')	5
+('Minnesota', 'LOC')	5
+('the White House', 'FAC')	5
+('North Korea', 'GPE')	5
+('Clinton', 'PERSON')	5
+('Rice', 'PERSON')	5
+('Florida', 'GPE')	5
+('the Republican party', 'ORG')	5
+('the Republican Party', 'ORG')	5
+('Bill Bennett', 'PERSON')	5
+('Court', 'ORG')	5
+('the United States of America', 'GPE')	5
+('Treasury', 'ORG')	5
+('Tom Kean', 'PERSON')	5
+('Judy Miller', 'PERSON')	5
+('Schmidt', 'PERSON')	5
+('an hour', 'TIME')	5
+('three years', 'DATE')	5
+('Ed Rogers', 'PERSON')	5
+('Darryl Littlejohn', 'PERSON')	5
+('Imette St. Guillen', 'PERSON')	5
+('democratic', 'NORP')	5
+('Charlie Cook', 'PERSON')	5
+('Iranians', 'NORP')	5
+('Saddam', 'PERSON')	5
+('Casey', 'PERSON')	5
+('Los Angeles', 'GPE')	5
+('Charlie', 'PERSON')	5
+('this past week', 'DATE')	5
+('a moment', 'TIME')	5
+('this hour', 'TIME')	5
+('Tonight', 'TIME')	5
+('fifteen year old', 'DATE')	5
+('Rick Sanchez', 'PERSON')	5
+('Hannah', 'PERSON')	5
+('constitution', 'LAW')	5
+('Tookie', 'PERSON')	5
+('Owens', 'PERSON')	5
+('Taihang Mountain', 'LOC')	4
+('May', 'DATE')	4
+('Zhu De', 'PERSON')	4
+('Yangquan', 'GPE')	4
+('Shijiazhuang', 'GPE')	4
+('12', 'CARDINAL')	4
+('March 19', 'DATE')	4
+('Wu', 'PERSON')	4
+('Western', 'NORP')	4
+('bin Laden', 'PERSON')	4
+('Israel', 'GPE')	4
+('Arabs', 'NORP')	4
+('Tokyo', 'GPE')	4
+('Paris', 'GPE')	4
+('fifth', 'ORDINAL')	4
+('WW II', 'EVENT')	4
+('Wang', 'PERSON')	4
+('Northern Territories', 'LOC')	4
+('February', 'DATE')	4
+('the end of the year', 'DATE')	4
+('Hua Guofeng', 'PERSON')	4
+('Mei Shirong', 'PERSON')	4
+('United Nations', 'ORG')	4
+('Wang Chengmin', 'PERSON')	4
+('The Kailuan Mine Bureau', 'ORG')	4
+('the Kailuan Mine Bureau', 'ORG')	4
+('CCP', 'ORG')	4
+('New York', 'LOC')	4
+("Harriet Miers '", 'PERSON')	4
+('James Dobson', 'PERSON')	4
+('Monica', 'PERSON')	4
+('Manhunt Sex Offenders on the Loose', 'WORK_OF_ART')	4
+('Jim Dobson', 'PERSON')	4
+('NBC', 'ORG')	4
+('FDR', 'PERSON')	4
+('David Shuster', 'PERSON')	4
+('thirty years', 'DATE')	4
+('Steve McMahon', 'PERSON')	4
+('the Democratic Party', 'ORG')	4
+('Ben', 'PERSON')	4
+('every day', 'DATE')	4
+('Morgan', 'PERSON')	4
+('World War Two', 'EVENT')	4
+('Shia', 'NORP')	4
+('Jon Kyl', 'PERSON')	4
+('fourteen', 'CARDINAL')	4
+('next week', 'DATE')	4
+('The Washington Post', 'ORG')	4
+('the Pentagon Papers', 'WORK_OF_ART')	4
+('George W Bush', 'PERSON')	4
+('Harry Reid', 'PERSON')	4
+('Bill', 'PERSON')	4
+('Times', 'ORG')	4
+('two thousand four', 'DATE')	4
+('Iranian', 'NORP')	4
+('Secondly', 'ORDINAL')	4
+('Ken Blackwell', 'PERSON')	4
+('Ronald Reagan', 'PERSON')	4
+('Pentagon', 'ORG')	4
+('Canseco', 'PERSON')	4
+('two thousand eight', 'DATE')	4
+('Joe Biden', 'PERSON')	4
+('Islam', 'NORP')	4
+('David Broder', 'PERSON')	4
+('the New York Times', 'ORG')	4
+('dozens', 'CARDINAL')	4
+('Zarqawi', 'PERSON')	4
+('Arizona', 'GPE')	4
+('Scott McClellan', 'PERSON')	4
+('Tennessee', 'GPE')	4
+('Felt', 'PERSON')	4
+('Rehnquist', 'PERSON')	4
+('Wayne Hale', 'PERSON')	4
+('Egypt', 'GPE')	4
+('the week', 'DATE')	4
+("Miles O'Brien", 'PERSON')	4
+('Emile Lahoud', 'PERSON')	4
+('Jacksboro Tennessee', 'GPE')	4
+('Tim Kaine', 'PERSON')	4
+('Margaret', 'PERSON')	4
+('Terri', 'PERSON')	4
+('Dershowitz', 'PERSON')	4
+('Sam', 'PERSON')	4
+('Wallace', 'PERSON')	4
+("Wal - Mart 's", 'ORG')	4
+('Kyra', 'PERSON')	4
+('Andy', 'PERSON')	4
+('Tookie Williams', 'PERSON')	4
+('Lora', 'PERSON')	4
+('twenty years', 'DATE')	4
+('Linda Hamilton', 'PERSON')	4
+('Beef', 'WORK_OF_ART')	4
+('1940', 'DATE')	3
+('German', 'NORP')	3
+('France', 'GPE')	3
+('Chongqing', 'GPE')	3
+('War of Resistance against Japan', 'EVENT')	3
+('Taiyuan', 'GPE')	3
+('the 129th Division', 'ORG')	3
+('Zhengtai', 'GPE')	3
+('Shanxi', 'GPE')	3
+('Xu Xiaobing', 'PERSON')	3
+('August 17', 'DATE')	3
+('Qatari', 'NORP')	3
+('1996', 'DATE')	3
+('West', 'LOC')	3
+('al - Jazeera', 'ORG')	3
+('the Yangtze River', 'LOC')	3
+('4', 'CARDINAL')	3
+('2', 'CARDINAL')	3
+('Moscow', 'GPE')	3
+('8', 'CARDINAL')	3
+('Jin Xide', 'PERSON')	3
+('South Korean', 'NORP')	3
+('Liu', 'PERSON')	3
+('one day', 'DATE')	3
+('Siberia', 'LOC')	3
+('Xing', 'PERSON')	3
+('Taro Aso', 'PERSON')	3
+('Shikotan', 'LOC')	3
+('the Khabomai Rocks', 'LOC')	3
+('two years', 'DATE')	3
+("'99", 'DATE')	3
+('six years', 'DATE')	3
+('50 yuan', 'MONEY')	3
+('ten years', 'DATE')	3
+('Tianjin', 'GPE')	3
+('Kailuan', 'GPE')	3
+('Victoria Habathee', 'PERSON')	3
+('Joe', 'PERSON')	3
+('LSU', 'ORG')	3
+('New Orleans', 'LOC')	3
+('Richmond', 'LOC')	3
+('thirty thousand', 'CARDINAL')	3
+('India', 'GPE')	3
+('Jay Sekulow', 'PERSON')	3
+('Elliot Minkford', 'PERSON')	3
+('Jay', 'PERSON')	3
+('Jim', 'PERSON')	3
+('Brenda Groney', 'PERSON')	3
+('Mark McKenzie', 'PERSON')	3
+('Roberts', 'PERSON')	3
+('FEMA', 'ORG')	3
+('Homeland Security', 'ORG')	3
+('six months', 'DATE')	3
+('Reagan', 'PERSON')	3
+('Andrea Mitchell', 'PERSON')	3
+('state', 'ORG')	3
+('months', 'DATE')	3
+('the last two years', 'DATE')	3
+('a Supreme Court', 'ORG')	3
+('this weekend', 'DATE')	3
+('Chicago', 'GPE')	3
+('Melanie Morgan', 'PERSON')	3
+('Paul Rieckhoff', 'PERSON')	3
+('January', 'DATE')	3
+('the green zone', 'LOC')	3
+('ten days', 'DATE')	3
+('sixty percent', 'PERCENT')	3
+('a hundred percent', 'PERCENT')	3
+('French', 'NORP')	3
+('November', 'DATE')	3
+('John Harwood', 'PERSON')	3
+('Dana Priest', 'PERSON')	3
+('Pentagon Papers', 'WORK_OF_ART')	3
+('Meet The Press', 'ORG')	3
+('July', 'DATE')	3
+('Chuck', 'PERSON')	3
+('Plame', 'PERSON')	3
+('a second', 'TIME')	3
+('Levin', 'PERSON')	3
+('Joe Leiberman', 'PERSON')	3
+('Independence Day', 'EVENT')	3
+('Lee Hamilton', 'PERSON')	3
+('Richard Clarke', 'PERSON')	3
+('three thousand', 'CARDINAL')	3
+('the Pulitzer Prize', 'WORK_OF_ART')	3
+('Bennett', 'PERSON')	3
+('thirty', 'CARDINAL')	3
+('Wall Street Journal', 'ORG')	3
+('Fourteen', 'CARDINAL')	3
+('Jean Schmidt', 'PERSON')	3
+('GOP', 'ORG')	3
+('twenty', 'CARDINAL')	3
+('Sherrod Brown', 'PERSON')	3
+('the Washington Post', 'ORG')	3
+('Mike Gowan', 'PERSON')	3
+('Gitmo', 'FAC')	3
+('Washington Post', 'ORG')	3
+('Rafael Palmeiro', 'PERSON')	3
+('Tom Davis', 'PERSON')	3
+('Giuliani', 'PERSON')	3
+('Bill Frist', 'PERSON')	3
+('Bill Clinton', 'PERSON')	3
+('two thousand and eight', 'DATE')	3
+('Michigan', 'GPE')	3
+('Illinois', 'GPE')	3
+('the Patriot Act', 'LAW')	3
+('Gail', 'PERSON')	3
+('two miles', 'QUANTITY')	3
+('Sally', 'PERSON')	3
+('Karen Wells', 'PERSON')	3
+('James Eckert', 'PERSON')	3
+('two thousand six', 'DATE')	3
+('Europeans', 'NORP')	3
+("Saddam Hussein 's", 'PERSON')	3
+('September eleventh', 'EVENT')	3
+('Hispanic', 'NORP')	3
+('Elisabeth Bumiller', 'PERSON')	3
+('Elisabeth', 'PERSON')	3
+('Conrad Burns', 'PERSON')	3
+('Matt Cooper', 'PERSON')	3
+('Richard Nixon', 'PERSON')	3
+('England', 'GPE')	3
+('Frederika Whitfield', 'PERSON')	3
+('August fifteenth', 'DATE')	3
+('the thirty days', 'DATE')	3
+('George Casey', 'PERSON')	3
+('tens of thousands', 'CARDINAL')	3
+('a year ago', 'DATE')	3
+('Muslim', 'NORP')	3
+('the United States Senate', 'ORG')	3
+('the top of the hour', 'TIME')	3
+('Patricia Whitfield', 'PERSON')	3
+('John Abizaid', 'PERSON')	3
+('Kennedy', 'PERSON')	3
+('Donald Rumsfeld', 'PERSON')	3
+('Sunni Arab', 'NORP')	3
+('twenty one', 'CARDINAL')	3
+('anti-Syrian', 'NORP')	3
+('Lahoud', 'PERSON')	3
+('the years', 'DATE')	3
+('Columbine', 'ORG')	3
+('Ethan', 'PERSON')	3
+('John Corzine', 'PERSON')	3
+('Mark Warner', 'PERSON')	3
+('Jeff', 'PERSON')	3
+('millions', 'CARDINAL')	3
+('Erica Hill', 'PERSON')	3
+('Jansen Jones', 'PERSON')	3
+('fifty years', 'DATE')	3
+('the Columbus Zoo', 'ORG')	3
+('Kagame', 'PERSON')	3
+('seventeen percent', 'PERCENT')	3
+('Bill Goodman', 'PERSON')	3
+('Brownbeck', 'PERSON')	3
+('Harriet Myers', 'PERSON')	3
+('Tomorrow night', 'TIME')	3
+('Samuel Alito', 'PERSON')	3
+('CBS', 'ORG')	3
+('Walton', 'PERSON')	3
+('LA', 'GPE')	3
+('thousands', 'CARDINAL')	3
+('American Morning', 'WORK_OF_ART')	3
+('Kim', 'PERSON')	3
+('Ben Nelson', 'PERSON')	3
+('Mickey Roarke', 'PERSON')	3
+('the University of Medicine and Dentistry', 'ORG')	3
+('Shriport', 'GPE')	3
+('the Monument to the Hundred Regiments Offensive', 'WORK_OF_ART')	2
+('the War of Resistance against Japan', 'EVENT')	2
+("the Eighth Route Army 's", 'ORG')	2
+('Yichang', 'GPE')	2
+("Yan'an", 'GPE')	2
+('4th', 'ORDINAL')	2
+('50', 'CARDINAL')	2
+('Zhuanbi Village', 'GPE')	2
+('Zhao Yemin', 'PERSON')	2
+('the Shanxi - Chahar - Hebei Military District', 'GPE')	2
+('the night of August 20', 'DATE')	2
+('eight', 'CARDINAL')	2
+('20', 'CARDINAL')	2
+('the Tongpu Railway', 'FAC')	2
+('Pinghan', 'GPE')	2
+('105', 'CARDINAL')	2
+('20s', 'DATE')	2
+('Yangquan , Shanxi', 'GPE')	2
+('more than 400,000', 'CARDINAL')	2
+('16', 'CARDINAL')	2
+('Mao Zedong', 'PERSON')	2
+('More than 60 years', 'DATE')	2
+('World War II', 'EVENT')	2
+('China News', 'ORG')	2
+('Xu Li', 'PERSON')	2
+('Wang Shilin', 'PERSON')	2
+('CCTV Focus Today', 'ORG')	2
+('November 22', 'DATE')	2
+('Daily Mirror', 'ORG')	2
+('Ruan Zongze', 'PERSON')	2
+('the Daily Mirror', 'ORG')	2
+('10 Downing Street', 'ORG')	2
+('Arabic - language', 'LANGUAGE')	2
+('Kabul', 'GPE')	2
+('1995', 'DATE')	2
+('Saudi Arabia', 'GPE')	2
+('7 billion US dollars', 'MONEY')	2
+('Israeli', 'NORP')	2
+('the , Iraq war', 'EVENT')	2
+('anti-American', 'NORP')	2
+('Osama bin Laden', 'PERSON')	2
+('Arabic', 'LANGUAGE')	2
+('Arabic', 'NORP')	2
+('Ezzat', 'PERSON')	2
+('Fallujah', 'GPE')	2
+('2001', 'DATE')	2
+('the Kosovo war', 'EVENT')	2
+('Yugoslavia', 'GPE')	2
+('Tomorrow', 'DATE')	2
+('South', 'LOC')	2
+('the day after tomorrow', 'DATE')	2
+('6 degrees', 'QUANTITY')	2
+('Harbin', 'GPE')	2
+('Changchun', 'GPE')	2
+('11 degrees below zero', 'QUANTITY')	2
+("Xi'an", 'GPE')	2
+('1', 'CARDINAL')	2
+('10 degrees', 'QUANTITY')	2
+('Nanjing', 'GPE')	2
+('6', 'CARDINAL')	2
+('Taipei', 'GPE')	2
+('18', 'CARDINAL')	2
+('24 degrees', 'QUANTITY')	2
+('Guangzhou', 'GPE')	2
+('Dalian', 'GPE')	2
+('4 degrees', 'QUANTITY')	2
+('Luoyang', 'GPE')	2
+('3', 'CARDINAL')	2
+('Bangkok', 'GPE')	2
+('25', 'CARDINAL')	2
+('New Delhi', 'GPE')	2
+('Seoul', 'GPE')	2
+('7', 'CARDINAL')	2
+('14 degrees', 'QUANTITY')	2
+('1 degree', 'QUANTITY')	2
+('Vienna', 'GPE')	2
+('2 degrees', 'QUANTITY')	2
+('Seattle', 'GPE')	2
+('Abramov', 'PERSON')	2
+('Pusan , South Korea', 'GPE')	2
+('Korean', 'NORP')	2
+('WTO', 'ORG')	2
+('this afternoon', 'TIME')	2
+('Liu Jiangyong', 'PERSON')	2
+('the end of this year', 'DATE')	2
+('the Cold War', 'EVENT')	2
+('Diaoyu Island', 'LOC')	2
+('Takeshima Day', 'EVENT')	2
+('Dokdo Island', 'LOC')	2
+('four years', 'DATE')	2
+('60th', 'ORDINAL')	2
+('Shinzo Abe', 'PERSON')	2
+('Toshihiro Nikai', 'PERSON')	2
+('September next year', 'DATE')	2
+('the weekend', 'DATE')	2
+('11', 'CARDINAL')	2
+('the Academy of Social Sciences', 'ORG')	2
+('Far East', 'LOC')	2
+('Gorbachev', 'PERSON')	2
+('one twenty - second', 'CARDINAL')	2
+('more than 200', 'CARDINAL')	2
+('Iturup', 'LOC')	2
+('Pacific Ocean', 'LOC')	2
+('Chishima Islands', 'LOC')	2
+('Soviet Union', 'GPE')	2
+('Sakhalin', 'LOC')	2
+('Soviet', 'NORP')	2
+('the Pacific Ocean', 'LOC')	2
+('several hundred', 'CARDINAL')	2
+('the Peasants Association', 'ORG')	2
+('the Yellow River', 'LOC')	2
+('two months', 'DATE')	2
+('80', 'CARDINAL')	2
+('150,000 yuan', 'MONEY')	2
+('65,000 yuan', 'MONEY')	2
+('a month', 'DATE')	2
+('hundred', 'CARDINAL')	2
+('Huang Xiangning', 'PERSON')	2
+('Liu Yingyong', 'PERSON')	2
+('Seismology Bureau', 'ORG')	2
+('the Seismology Bureau', 'ORG')	2
+('the Party Central Committee', 'ORG')	2
+('Mao', 'PERSON')	2
+('Zhangjiakou', 'GPE')	2
+('the Qinglong County Scientific Committee', 'ORG')	2
+('Zha Zhiyuan', 'PERSON')	2
+('Tangshan Second Middle School', 'ORG')	2
+('late July or early August', 'DATE')	2
+('7.0', 'CARDINAL')	2
+('Qinglong', 'PERSON')	2
+('470,000', 'CARDINAL')	2
+('10,000', 'CARDINAL')	2
+('the Great Tangshan earthquake', 'EVENT')	2
+('a thousand days', 'DATE')	2
+('one hour', 'TIME')	2
+('more than a thousand', 'CARDINAL')	2
+('the Lu jiatuo Mine', 'FAC')	2
+('1976', 'DATE')	2
+("New Orleans '", 'GPE')	2
+('Saturday', 'DATE')	2
+('Joe Tackapena', 'PERSON')	2
+('Jordan', 'PERSON')	2
+('Howard Osofsky', 'PERSON')	2
+('LSU medical school', 'ORG')	2
+('twenty four hour', 'DATE')	2
+('half', 'CARDINAL')	2
+('two hundred and forty nine', 'CARDINAL')	2
+('nine eleven', 'DATE')	2
+('Taylor Biehl', 'PERSON')	2
+('Monica Sharp', 'PERSON')	2
+('Ben Folly', 'PERSON')	2
+('Jeffrey Nichols', 'PERSON')	2
+('Joseph Duncan', 'PERSON')	2
+('Pakistan', 'LOC')	2
+('eighth', 'CARDINAL')	2
+('Nathan Hecht', 'PERSON')	2
+('Chuck Schummer', 'PERSON')	2
+('Chaste', 'PERSON')	2
+('Dylan', 'PERSON')	2
+('Roe v Wade', 'LAW')	2
+('Harvard', 'ORG')	2
+('New York City', 'LOC')	2
+('Tennessee', 'LOC')	2
+('Abrams Report', 'WORK_OF_ART')	2
+('Chris Dodd', 'PERSON')	2
+('David Gregory', 'PERSON')	2
+('Norm Coleman', 'PERSON')	2
+('the Foreign Relations Committee', 'ORG')	2
+('Trent Lott', 'PERSON')	2
+('Third World', 'LOC')	2
+('Zionism', 'NORP')	2
+('Kofi Annan', 'PERSON')	2
+('Chris Chris', 'PERSON')	2
+('the State Department', 'ORG')	2
+('Senate Foreign Relations Committee', 'ORG')	2
+("John Bolton 's", 'PERSON')	2
+('Washington', 'ORG')	2
+('thirty - eight', 'CARDINAL')	2
+('The United Nations', 'ORG')	2
+('the Third World', 'LOC')	2
+('Condi Rice', 'PERSON')	2
+('Howard Dean', 'PERSON')	2
+('Bobby', 'PERSON')	2
+('a year from now', 'DATE')	2
+('Patrick Fitzgerald', 'PERSON')	2
+('Steve', 'PERSON')	2
+('Joe Wilson', 'PERSON')	2
+('Sherman Adams', 'PERSON')	2
+('Move America Forward', 'ORG')	2
+('ten days ago', 'DATE')	2
+('a hundred and twenty - five degrees', 'QUANTITY')	2
+('the Green Zone', 'LOC')	2
+('nineteen eighty three', 'DATE')	2
+('the minute', 'TIME')	2
+('Rieckhoff', 'PERSON')	2
+('Humvees', 'PRODUCT')	2
+('Tim Russert', 'PERSON')	2
+('eight am Eastern', 'TIME')	2
+('Wimbledon', 'EVENT')	2
+('this day', 'DATE')	2
+('this Sunday', 'DATE')	2
+('Mitch McConnell', 'PERSON')	2
+('CNBC', 'ORG')	2
+('Daniel Ellsberg', 'PERSON')	2
+('the Geneva convention', 'LOC')	2
+('September', 'DATE')	2
+('this White House', 'ORG')	2
+('the Geneva Conventions', 'LAW')	2
+('hundreds', 'CARDINAL')	2
+('NSA', 'ORG')	2
+('the Banking Committee', 'ORG')	2
+('Snow', 'PERSON')	2
+('The Los Angeles Times', 'ORG')	2
+('thirteen', 'CARDINAL')	2
+('the Kerry - Feingold amendment', 'LAW')	2
+('Kerry', 'PERSON')	2
+('Feingold', 'PERSON')	2
+('Rhode Island', 'GPE')	2
+('next summer', 'DATE')	2
+('Ted Kennedy', 'PERSON')	2
+('@SWIFT', 'ORG')	2
+('two thousand and three', 'DATE')	2
+('Last week', 'DATE')	2
+('Carter', 'PERSON')	2
+('the last fifty years', 'DATE')	2
+('Agnew', 'PERSON')	2
+('USA Today', 'ORG')	2
+('Katharine Graham', 'PERSON')	2
+('Hill', 'ORG')	2
+('Chuck Schumer', 'PERSON')	2
+('Tricia', 'PERSON')	2
+('Ellsberg', 'PERSON')	2
+('Vietnam', 'GPE')	2
+('Tuesday night', 'TIME')	2
+('the Iraq War', 'EVENT')	2
+('Tom DeLay', 'PERSON')	2
+('the House of Representatives', 'ORG')	2
+('Mike Dukakis', 'PERSON')	2
+('Blackwell', 'PERSON')	2
+('Columbus', 'GPE')	2
+('Bob Taft', 'PERSON')	2
+('Bill Berger', 'PERSON')	2
+('Guantanamo', 'LOC')	2
+('Jose Conseco', 'PERSON')	2
+('six hours', 'TIME')	2
+('Collette Cassidy', 'PERSON')	2
+('Haditha', 'GPE')	2
+('Columbia', 'PRODUCT')	2
+('three weeks', 'DATE')	2
+('Canadian', 'NORP')	2
+('Jose', 'PERSON')	2
+('Major League Baseball', 'ORG')	2
+('Steven Lynch', 'PERSON')	2
+('Massachusetts', 'GPE')	2
+('Boston', 'GPE')	2
+('Lynch', 'PERSON')	2
+('ten day', 'DATE')	2
+('the Hall of Fame', 'ORG')	2
+('Sox', 'ORG')	2
+("the Player 's Association", 'ORG')	2
+('gallop', 'ORG')	2
+('Rudy Giuliani', 'PERSON')	2
+('Biden', 'PERSON')	2
+('less than half', 'CARDINAL')	2
+('Jesse Jackson', 'PERSON')	2
+('Dwight Eisenhower', 'PERSON')	2
+('a Republican party', 'ORG')	2
+('Jimmy Carter', 'PERSON')	2
+('two thousand', 'DATE')	2
+('Pennsylvania', 'GPE')	2
+('the Abrams report', 'WORK_OF_ART')	2
+('David Golden', 'PERSON')	2
+('Brooklyn', 'GPE')	2
+('Ray Kelly', 'PERSON')	2
+('Gail Abramson', 'PERSON')	2
+('Janna Spillbore', 'PERSON')	2
+('Janna', 'PERSON')	2
+('that night', 'TIME')	2
+('ten years ago', 'DATE')	2
+('Abrams report', 'WORK_OF_ART')	2
+('sixteen years old', 'DATE')	2
+('twelve years old', 'DATE')	2
+('Ocala', 'LOC')	2
+('fourteen years old', 'DATE')	2
+('ten years later', 'DATE')	2
+('Afghanistan', 'LOC')	2
+('New Mexico', 'LOC')	2
+('the New Mexico Department of Public Safety', 'ORG')	2
+('a decade ago', 'DATE')	2
+('Wednesday', 'DATE')	2
+('Baghdad', 'LOC')	2
+('Tanya Kach', 'PERSON')	2
+('Hose', 'PERSON')	2
+('two thousand two', 'DATE')	2
+('Rahman', 'PERSON')	2
+('Alex Thier', 'PERSON')	2
+('two thousand three', 'DATE')	2
+('sixty eight degrees', 'QUANTITY')	2
+('West Virginia', 'GPE')	2
+('Condoleezza Rice', 'PERSON')	2
+('the National Journal', 'ORG')	2
+('a few weeks ago', 'DATE')	2
+('hundreds of thousands', 'CARDINAL')	2
+('Sunnis', 'NORP')	2
+('Paul Tagliabue', 'PERSON')	2
+('two thousand one', 'DATE')	2
+('two three', 'CARDINAL')	2
+('David Broder Elisabeth Bumiller Charlie Cook John Harwood', 'PERSON')	2
+('eighty', 'CARDINAL')	2
+('The Post', 'ORG')	2
+('Bill Paxon', 'PERSON')	2
+('Maryland', 'GPE')	2
+('twenty - four', 'CARDINAL')	2
+('fifty - two', 'CARDINAL')	2
+('Newt Gingrich', 'PERSON')	2
+('these days', 'DATE')	2
+('secondly', 'ORDINAL')	2
+('Villanova', 'ORG')	2
+('Judith Miller', 'PERSON')	2
+('Valerie Plame', 'PERSON')	2
+('eighteen months', 'DATE')	2
+('number two', 'CARDINAL')	2
+('Hale', 'PERSON')	2
+('more than thirty years', 'DATE')	2
+('Woodward', 'PERSON')	2
+('five years ago', 'DATE')	2
+('William Rehnquist', 'PERSON')	2
+('Late Edition with Wolf Blitzer', 'WORK_OF_ART')	2
+('just a moment', 'TIME')	2
+('Hussain Osmond', 'PERSON')	2
+('Mowaffak al - Rubaie', 'PERSON')	2
+('Muslims', 'NORP')	2
+('the spring', 'DATE')	2
+('Jaafari', 'PERSON')	2
+('a hundred thirty - nine thousand', 'CARDINAL')	2
+('December', 'DATE')	2
+('two hundred thousand plus', 'CARDINAL')	2
+('daily', 'DATE')	2
+('John Kyl', 'PERSON')	2
+('Army', 'ORG')	2
+('Italian', 'NORP')	2
+('July twenty - first', 'DATE')	2
+('a week from tomorrow', 'DATE')	2
+('Wolf Blitzer', 'PERSON')	2
+('Earth', 'LOC')	2
+('Atlantis', 'PRODUCT')	2
+('the middle east', 'LOC')	2
+('this morning', 'TIME')	2
+('six month', 'DATE')	2
+('defense', 'ORG')	2
+('only a few months', 'DATE')	2
+('Syrians', 'NORP')	2
+('Hezbollah', 'ORG')	2
+('Palestinians', 'NORP')	2
+('David Mattingly', 'PERSON')	2
+('about two hours', 'TIME')	2
+('Ken Bruce', 'PERSON')	2
+('Nathan', 'PERSON')	2
+('Steele', 'PERSON')	2
+('Heidi Collins', 'PERSON')	2
+('Eric Harris', 'PERSON')	2
+('Jeff Greenfield', 'PERSON')	2
+('DC', 'GPE')	2
+('Michael Bloomberg', 'PERSON')	2
+('Russian', 'LANGUAGE')	2
+('Doug Forrester', 'PERSON')	2
+('about fifty million dollars', 'MONEY')	2
+('Schwartzeneggar', 'PERSON')	2
+('republicans', 'NORP')	2
+("Terri Schiavo 's", 'PERSON')	2
+('a fifteen year old', 'DATE')	2
+('Jansen', 'PERSON')	2
+('Schiavo', 'PERSON')	2
+('Schindlers', 'PERSON')	2
+('Akagera National Park', 'FAC')	2
+('Hutu', 'NORP')	2
+('Tutsi', 'NORP')	2
+('Jack', 'PERSON')	2
+('Maureen Dowd', 'PERSON')	2
+('The White House', 'ORG')	2
+('Anderson Cooper', 'PERSON')	2
+('Indiana', 'GPE')	2
+('Tom Forman', 'PERSON')	2
+('Yoo', 'PERSON')	2
+('Texas', 'GPE')	2
+('Sam Brownbeck', 'PERSON')	2
+('Kansas', 'GPE')	2
+('Donnybrook', 'EVENT')	2
+('Litos', 'PERSON')	2
+('fifteen years', 'DATE')	2
+('Scalia', 'PERSON')	2
+('Roe vs. Wade', 'LAW')	2
+('Sixty Minutes', 'WORK_OF_ART')	2
+('George W. Bush', 'PERSON')	2
+('Miami', 'GPE')	2
+('The United States', 'GPE')	2
+('English', 'LANGUAGE')	2
+('Buff', 'PERSON')	2
+('Erin Brown', 'PERSON')	2
+('Paula', 'PERSON')	2
+('Halloween', 'DATE')	2
+('a Wal - Mart', 'ORG')	2
+('Galloway', 'PERSON')	2
+('pro-Wal-Mart', 'ORG')	2
+('Tom Foreman', 'PERSON')	2
+('Sam Walton', 'PERSON')	2
+('GM', 'ORG')	2
+('one point three million', 'CARDINAL')	2
+('the Big Easy', 'GPE')	2
+('Dan Simon', 'PERSON')	2
+('the West Bank', 'LOC')	2
+('Rusty Amarante', 'PERSON')	2
+('Elizabeth', 'PERSON')	2
+('Candy Crowley', 'PERSON')	2
+('Sam Alito', 'PERSON')	2
+('Nelson', 'PERSON')	2
+('Chris Lawrence', 'PERSON')	2
+('fifteen', 'DATE')	2
+("Tookie Williams '", 'PERSON')	2
+('Lewis Yablonsky', 'PERSON')	2
+('Gangsters', 'WORK_OF_ART')	2
+('Lora Owens', 'PERSON')	2
+('Albert Owens', 'PERSON')	2
+('Albert', 'PERSON')	2
+('winter', 'DATE')	2
+('Bill Neely', 'PERSON')	2
+('Kashmir', 'LOC')	2
+('Dylan Lauren', 'PERSON')	2
+('five', 'DATE')	2
+('those days', 'DATE')	2
+('the age of twenty two', 'DATE')	2
+('Mickey', 'PERSON')	2
+('Terminator', 'WORK_OF_ART')	2
+('Bruce Abbot', 'PERSON')	2
+('Peter Horton', 'PERSON')	2
+('Rod Stewart', 'PERSON')	2
+('Monday night', 'TIME')	2
+('Sharon Stone', 'PERSON')	2
+('five million dollars', 'MONEY')	2
+('The Complete Wellness Approach', 'ORG')	2
+('FX', 'ORG')	2
+('Beauty and the Beast', 'WORK_OF_ART')	2
+('every year', 'DATE')	2
+('Across China', 'ORG')	1
+('WW II Landmarks on the Great Earth of China : Eternal Memories of Taihang Mountain', 'WORK_OF_ART')	1
+('the Great Wall', 'WORK_OF_ART')	1
+('Zhuanbi Village , Wuxiang County', 'GPE')	1
+('Shanxi Province', 'GPE')	1
+('Mediterranean Sea', 'LOC')	1
+('Czechoslovakia', 'GPE')	1
+('Poland', 'GPE')	1
+('Netherlands', 'GPE')	1
+('Belgium', 'GPE')	1
+('the end of 1940', 'DATE')	1
+('Hong Kong', 'GPE')	1
+('KMT', 'ORG')	1
+('Hayao Tada', 'PERSON')	1
+('North China Area Army', 'ORG')	1
+('December 1939', 'DATE')	1
+('Lu Zhengcao', 'PERSON')	1
+('the Jizhong Military District', 'GPE')	1
+('Jizhong', 'GPE')	1
+('the Chinese Communist Party', 'ORG')	1
+('July 22 , 1940', 'DATE')	1
+('Zuo Quan', 'PERSON')	1
+('August 20', 'DATE')	1
+('August 20 to September 10', 'DATE')	1
+('The Zhengtai Railway', 'FAC')	1
+('Zhengding , Hebei', 'GPE')	1
+('243 kilometers', 'QUANTITY')	1
+('the Niangziguan Pass', 'LOC')	1
+('Jingjing', 'GPE')	1
+('8th', 'ORDINAL')	1
+('93rd', 'ORDINAL')	1
+('a night in late July 1940', 'DATE')	1
+('Shaanxi', 'GPE')	1
+('Xiao Jianghe', 'PERSON')	1
+('that dark night', 'TIME')	1
+('the following morning', 'TIME')	1
+('10:00 p.m. on August 20 , 1940', 'TIME')	1
+("the County People 's Armed Forces Commission", 'ORG')	1
+('Hedi', 'GPE')	1
+('Wudu', 'GPE')	1
+('Nie Rongzhen', 'PERSON')	1
+('Division', 'ORG')	1
+('Liu Bocheng', 'PERSON')	1
+('Deng Xiaoping', 'PERSON')	1
+('the 1st Dare - to - Die Corps', 'ORG')	1
+('9th', 'ORDINAL')	1
+('Pingding', 'GPE')	1
+('Liaoxian', 'GPE')	1
+('Yushe', 'GPE')	1
+('Pingliao', 'GPE')	1
+('Yuliao', 'GPE')	1
+('less than four hours', 'TIME')	1
+('three hours', 'TIME')	1
+('More than two hundred', 'CARDINAL')	1
+('this night', 'TIME')	1
+('the 120th Division', 'ORG')	1
+('He Long', 'PERSON')	1
+('Guan Xiangying', 'PERSON')	1
+('Yangfangkou', 'GPE')	1
+('Kangjiahui', 'GPE')	1
+('Fengrui Village', 'GPE')	1
+('the Tongpu railway', 'FAC')	1
+('Xinxian', 'GPE')	1
+('Jingle', 'GPE')	1
+('Fenyang', 'GPE')	1
+('Yang', 'GPE')	1
+('Lishi', 'GPE')	1
+('Pingsui', 'GPE')	1
+('Beining', 'GPE')	1
+('Baijin', 'GPE')	1
+('Jinpu', 'GPE')	1
+('Deshi', 'GPE')	1
+('the afternoon of August 22', 'DATE')	1
+('30', 'CARDINAL')	1
+('the Zhengtai Line', 'FAC')	1
+('15', 'CARDINAL')	1
+('Lugou Bridge - Handan', 'FAC')	1
+('Datong - Hongdong', 'FAC')	1
+('Tonghu County', 'GPE')	1
+('Tianjin - Dezhou', 'FAC')	1
+('the Jinpu Line', 'FAC')	1
+('100', 'CARDINAL')	1
+('That afternoon', 'TIME')	1
+('Hundred Regiments Offensive', 'EVENT')	1
+('the Central Military Commission', 'ORG')	1
+('more than 200,000', 'CARDINAL')	1
+('no less than 400,000', 'CARDINAL')	1
+('600,000 - plus', 'CARDINAL')	1
+('August 21 , 1940', 'DATE')	1
+('385th Brigade', 'ORG')	1
+('the 14th Regiment', 'ORG')	1
+('Chen Xilian', 'PERSON')	1
+('less than a night', 'TIME')	1
+('The night before', 'TIME')	1
+('seven days and nights', 'DATE')	1
+('the 23rd', 'DATE')	1
+('Several days', 'DATE')	1
+('Zhengding', 'GPE')	1
+('Jinxi', 'GPE')	1
+('three to four thousand', 'CARDINAL')	1
+('the 72nd Regiment', 'ORG')	1
+('a day and a night', 'DATE')	1
+('60', 'CARDINAL')	1
+('Xingtai', 'GPE')	1
+('Neiqiu', 'GPE')	1
+('a few days', 'DATE')	1
+('Yangquan City', 'GPE')	1
+('15 to 16 years', 'DATE')	1
+('three and a half months', 'DATE')	1
+('August 20 to September 10 , 1940', 'DATE')	1
+('Tongpu', 'GPE')	1
+('Pinghai', 'GPE')	1
+('Jinfu', 'GPE')	1
+('September 22 to early October', 'DATE')	1
+('October 6 to December 4', 'DATE')	1
+('The Eighth Route Army', 'ORG')	1
+('Taihang', 'GPE')	1
+('Taiyue', 'GPE')	1
+('Pingxi', 'GPE')	1
+('Beiyue', 'GPE')	1
+('Peng', 'PERSON')	1
+('Dehuai', 'PERSON')	1
+('the three and a half months', 'DATE')	1
+('August 20 to December 5 , 1940', 'DATE')	1
+('1,824', 'CARDINAL')	1
+('46,480', 'CARDINAL')	1
+('Four hundred seventy - four kilometers', 'QUANTITY')	1
+('1,502 kilometers', 'QUANTITY')	1
+('Chiang Kai - Shek', 'PERSON')	1
+('CPC', 'ORG')	1
+('June 30 , 1987', 'DATE')	1
+('1993', 'DATE')	1
+('Honghecao Village', 'GPE')	1
+('the Hundred Regiments Offensive Museum', 'FAC')	1
+("Nie Rongzhen 's", 'PERSON')	1
+('Li Jingtang', 'PERSON')	1
+('Taihong Mountain', 'LOC')	1
+('two hundred thousand', 'CARDINAL')	1
+('Chinese Expeditionary Force', 'ORG')	1
+('The Burma Road', 'FAC')	1
+('The Tengchong Battle', 'EVENT')	1
+('60 years ago', 'DATE')	1
+('Across the Strait', 'ORG')	1
+('CCTV International Channel', 'ORG')	1
+('Lianhsing 94', 'PRODUCT')	1
+('Hot Topic Analysis', 'ORG')	1
+('120 million', 'CARDINAL')	1
+('CCTV', 'ORG')	1
+('Guardian', 'ORG')	1
+('the China Institute of International Studies', 'ORG')	1
+('Wu Huixuan', 'PERSON')	1
+('CIR', 'ORG')	1
+('Exclusive report : Bush Planned to Bomb his Arab Ally', 'WORK_OF_ART')	1
+('April 16 , 2004', 'DATE')	1
+('Doha', 'GPE')	1
+("the al - Jazeera 's", 'ORG')	1
+('Yuan', 'PERSON')	1
+('Mirror', 'ORG')	1
+('the first night', 'TIME')	1
+('Downing Street', 'ORG')	1
+('Official Secrets Act Section 5', 'LAW')	1
+('15 minutes', 'TIME')	1
+('April 16 of last year', 'DATE')	1
+('Afghan war', 'EVENT')	1
+('Iraq war', 'EVENT')	1
+('Jazeera', 'ORG')	1
+('Al - Jazeera TV', 'ORG')	1
+('November 1996', 'DATE')	1
+('50 million', 'CARDINAL')	1
+('September 2001', 'DATE')	1
+('9 / 11', 'EVENT')	1
+('October 7', 'DATE')	1
+('Gulf', 'LOC')	1
+('Arabic language', 'LANGUAGE')	1
+('27', 'CARDINAL')	1
+('20,000 US dollars', 'MONEY')	1
+('the end of November 1996', 'DATE')	1
+('Arabic Language TV Station', 'ORG')	1
+('followed', 'NORP')	1
+('er', 'CARDINAL')	1
+('Hamad', 'PERSON')	1
+('1927', 'DATE')	1
+('more than 50 billion RMB', 'MONEY')	1
+('the 9 / 11', 'EVENT')	1
+('Palestine', 'NORP')	1
+('Barak', 'PERSON')	1
+('the Arabic language', 'LANGUAGE')	1
+('Basra', 'GPE')	1
+('Mosul', 'GPE')	1
+('Powell', 'PERSON')	1
+('Osama', 'PERSON')	1
+("bin Laden 's", 'PERSON')	1
+('Chinese', 'LANGUAGE')	1
+('al Jazeera TV', 'ORG')	1
+('2003', 'DATE')	1
+('April 8', 'DATE')	1
+('Sudanese', 'NORP')	1
+('the year 1999', 'DATE')	1
+('Westerners', 'NORP')	1
+('Hubei', 'GPE')	1
+('Hunan', 'GPE')	1
+('Eastern China', 'LOC')	1
+('tonight through tomorrow', 'TIME')	1
+('the Huang - Huai', 'GPE')	1
+('the Jiang - Huai', 'GPE')	1
+('Xinjiang', 'GPE')	1
+('14 degrees below zero', 'QUANTITY')	1
+('6 degrees below zero', 'QUANTITY')	1
+('5 degrees below zero', 'QUANTITY')	1
+('17', 'CARDINAL')	1
+('26 degrees', 'QUANTITY')	1
+('Changzhou', 'GPE')	1
+('11 degrees', 'QUANTITY')	1
+('32 degrees', 'QUANTITY')	1
+('10', 'CARDINAL')	1
+('24 degree', 'QUANTITY')	1
+('2 degrees below zero', 'QUANTITY')	1
+('3 degrees', 'QUANTITY')	1
+('Chechen', 'NORP')	1
+('Alkhanov', 'PERSON')	1
+('Kadyrov', 'PERSON')	1
+('13th', 'ORDINAL')	1
+("Informal APEC Leaders ' Meeting", 'EVENT')	1
+('the Chinese International Channel', 'ORG')	1
+('October 17 this year', 'DATE')	1
+('the four years', 'DATE')	1
+('the afternoon', 'TIME')	1
+('40th', 'ORDINAL')	1
+('fortieth', 'ORDINAL')	1
+('South Korean - Japanese', 'NORP')	1
+('pre-Cold - War', 'EVENT')	1
+("Japan 's Defense Agency", 'ORG')	1
+('JDA', 'ORG')	1
+('Cold War', 'EVENT')	1
+('1957', 'DATE')	1
+('January to August this year', 'DATE')	1
+('3.2 %', 'PERCENT')	1
+('5.8 %', 'PERCENT')	1
+('previous years', 'DATE')	1
+('more than 25 %', 'PERCENT')	1
+('More than 25 % .', 'PERCENT')	1
+('the first half of last year', 'DATE')	1
+('8.2 %', 'PERCENT')	1
+('0.4 %', 'PERCENT')	1
+('February 2005', 'DATE')	1
+('Spring Festival', 'EVENT')	1
+('March 16 , 2005', 'DATE')	1
+('Shimane Prefecture', 'GPE')	1
+('February 22', 'DATE')	1
+('90 kilometers', 'QUANTITY')	1
+('Utsuryo Island', 'LOC')	1
+('April 1 , 2005', 'DATE')	1
+('Ministry of Education', 'ORG')	1
+('Fusosha Publishing House', 'ORG')	1
+('April 5', 'DATE')	1
+("South Korea 's", 'GPE')	1
+('the Yasukuni Shrine', 'WORK_OF_ART')	1
+('2001 to 2005', 'DATE')	1
+('these four years', 'DATE')	1
+('Jin', 'PERSON')	1
+('Asahi Shimbun', 'ORG')	1
+('Tokyo Shimbun', 'ORG')	1
+('Yomiuri Simbun', 'ORG')	1
+('the Liberal Democratic Party', 'ORG')	1
+('the Japan Business Federation', 'ORG')	1
+('the Japan Committee for Economic Development', 'ORG')	1
+('September 11', 'DATE')	1
+('200 %', 'PERCENT')	1
+('East China Sea', 'LOC')	1
+('Japanese - Korean', 'NORP')	1
+('Toshihiro Nikai .', 'PERSON')	1
+('Nikai', 'PERSON')	1
+('Eastern China Sea', 'LOC')	1
+('100 percent', 'PERCENT')	1
+('Sadakazu Tanigaki', 'PERSON')	1
+('100 billion US dollars', 'MONEY')	1
+('2012', 'DATE')	1
+('20th', 'ORDINAL')	1
+("200 billion US dollars '", 'MONEY')	1
+('200 billion US dollars', 'MONEY')	1
+('33rd', 'ORDINAL')	1
+("Roh Moo - hyun 's", 'PERSON')	1
+('Latin American', 'NORP')	1
+('10 days', 'DATE')	1
+('Gansu', 'GPE')	1
+('zero degree', 'QUANTITY')	1
+('9 degrees below zero', 'QUANTITY')	1
+('12 degrees', 'QUANTITY')	1
+('Shanghai', 'GPE')	1
+('15 degrees', 'QUANTITY')	1
+('22 degrees', 'QUANTITY')	1
+('34 degrees', 'QUANTITY')	1
+('13', 'CARDINAL')	1
+('29 degrees', 'QUANTITY')	1
+('7 degrees', 'QUANTITY')	1
+('Haneda Airport', 'FAC')	1
+('November 20', 'DATE')	1
+('three - day', 'DATE')	1
+('more than one hundred', 'CARDINAL')	1
+('Xing Guangcheng', 'PERSON')	1
+('Wang Xinsheng', 'PERSON')	1
+('Beijing University', 'ORG')	1
+('two and a half hours', 'TIME')	1
+('Business Federation', 'ORG')	1
+('Yeltsin', 'PERSON')	1
+('post-APEC', 'ORG')	1
+('Aso', 'PERSON')	1
+('Primakov', 'PERSON')	1
+('interesting', 'GPE')	1
+('Siberian', 'NORP')	1
+('the second half of 2004', 'DATE')	1
+('March of that year', 'DATE')	1
+('the spring of 2005', 'DATE')	1
+('150th', 'ORDINAL')	1
+('September 2 , 2004', 'DATE')	1
+('April 2005', 'DATE')	1
+('June', 'DATE')	1
+('the year', 'DATE')	1
+('May 2005', 'DATE')	1
+('these five years', 'DATE')	1
+('the 60 years', 'DATE')	1
+("Hashimoto Ryutaro 's", 'PERSON')	1
+('Russia', 'PERSON')	1
+('1 %', 'PERCENT')	1
+('700 million US dollars', 'MONEY')	1
+('the 1990s', 'DATE')	1
+('700-plus million', 'MONEY')	1
+('ten billion', 'MONEY')	1
+("last year 's", 'DATE')	1
+('more than 9 billion', 'MONEY')	1
+('100 trillion', 'MONEY')	1
+('200 billion', 'MONEY')	1
+('one nineteenth', 'CARDINAL')	1
+('more than 100', 'CARDINAL')	1
+('the 1970s', 'DATE')	1
+('Tanaka Kakuei', 'PERSON')	1
+('more than 60', 'CARDINAL')	1
+('more than 700', 'CARDINAL')	1
+('1855', 'DATE')	1
+('1875', 'DATE')	1
+('1905', 'DATE')	1
+('the Russo - Japanese War', 'EVENT')	1
+('the Northern Territories', 'LOC')	1
+('WWII', 'EVENT')	1
+('the Yalta Agreement', 'LAW')	1
+('Article 2 of the San Francisco Treaty', 'LAW')	1
+('the Kuril Islands', 'LOC')	1
+('the Pact of Neutrality', 'LAW')	1
+('Northeast China', 'LOC')	1
+('the Kwantung Army', 'ORG')	1
+('100,000', 'CARDINAL')	1
+('200,000', 'CARDINAL')	1
+('Kunashir', 'LOC')	1
+('about 5,000 square kilometers', 'QUANTITY')	1
+('Southern Chishima', 'LOC')	1
+('August 1945', 'DATE')	1
+('Hiroshima', 'GPE')	1
+('Nagasaki', 'GPE')	1
+('Sakhalin Island', 'LOC')	1
+('1955', 'DATE')	1
+('Kunashiri', 'LOC')	1
+('1956', 'DATE')	1
+('more than 50 years', 'DATE')	1
+('many years', 'DATE')	1
+('100 billion', 'MONEY')	1
+('Toyota Motor', 'ORG')	1
+('St. Petersburg', 'GPE')	1
+('June of 2004', 'DATE')	1
+('the Shanxi Yongji Peasants Association', 'ORG')	1
+('3,800', 'CARDINAL')	1
+('PRC', 'GPE')	1
+('1,000 yuan', 'MONEY')	1
+('19', 'CARDINAL')	1
+('10,000 yuan', 'MONEY')	1
+('Party', 'ORG')	1
+('13 kilometers', 'QUANTITY')	1
+('The Yongji Peasants Association', 'ORG')	1
+("'97", 'DATE')	1
+('the Zhaizi Technical Center', 'ORG')	1
+('that Zhaizi Technical Center', 'ORG')	1
+('eight li', 'QUANTITY')	1
+('More than 400', 'CARDINAL')	1
+('10 in the morning', 'TIME')	1
+('five in the afternoon', 'TIME')	1
+('The next year', 'DATE')	1
+('more than 60,000 yuan', 'MONEY')	1
+("the end of '98", 'DATE')	1
+("December of '98", 'DATE')	1
+("'98", 'DATE')	1
+('1,300 yuan', 'MONEY')	1
+('that year', 'DATE')	1
+('4,000 yuan', 'MONEY')	1
+('Yongji city', 'GPE')	1
+('150,000', 'MONEY')	1
+('this 150,000 yuan', 'MONEY')	1
+('A year', 'DATE')	1
+('the 150,000 yuan', 'MONEY')	1
+('one year', 'DATE')	1
+('this 65,000 yuan', 'MONEY')	1
+('the six years', 'DATE')	1
+('1999', 'DATE')	1
+('110,000 yuan', 'MONEY')	1
+('The first year', 'DATE')	1
+('the second year', 'DATE')	1
+('several tens of thousands', 'MONEY')	1
+('Bing Zheng', 'PERSON')	1
+('the Chunlei kindergarten', 'FAC')	1
+('20 - some', 'DATE')	1
+('80 %', 'PERCENT')	1
+('120', 'CARDINAL')	1
+('Lunar January 1 , 2003', 'DATE')	1
+('263', 'CARDINAL')	1
+('June 7 of last year', 'DATE')	1
+("the Yongji Peasants ' Association", 'ORG')	1
+('the Civil Administration Bureau', 'ORG')	1
+('Yongji City', 'GPE')	1
+('November 2004', 'DATE')	1
+('the Zhaizi Village Paint Plant', 'ORG')	1
+('300', 'CARDINAL')	1
+('300 yuan', 'MONEY')	1
+('20 - plus', 'CARDINAL')	1
+('10 - year', 'DATE')	1
+("One's_", 'CARDINAL')	1
+('two - yuan', 'MONEY')	1
+('more than 200,000', 'MONEY')	1
+('200,000 - plus', 'MONEY')	1
+('3:42 on July 28 , 1976', 'TIME')	1
+('the morning of the 28th', 'TIME')	1
+('the National Earthquake Administration', 'ORG')	1
+('10:30 p.m.', 'TIME')	1
+("Mei Shirong 's", 'PERSON')	1
+('Hua', 'PERSON')	1
+('July 14', 'DATE')	1
+("the Party Central Committee 's State Council", 'ORG')	1
+('the Earthquake Administration', 'ORG')	1
+('Jiang Qing', 'PERSON')	1
+('Ji Dengkui', 'PERSON')	1
+('Wu De', 'PERSON')	1
+('January 20 , 1977', 'DATE')	1
+('450', 'CARDINAL')	1
+('Committee', 'ORG')	1
+('The National Seismology Bureau', 'ORG')	1
+('Third', 'ORDINAL')	1
+('Bohai', 'GPE')	1
+('Hebei Province', 'GPE')	1
+('115 km', 'QUANTITY')	1
+('twentieth', 'ORDINAL')	1
+('April of 1996', 'DATE')	1
+('August 20 , 1976', 'DATE')	1
+('the Hebei Science Committee', 'ORG')	1
+("the United Nations '", 'ORG')	1
+('Kohl', 'PERSON')	1
+('Conference on Women', 'EVENT')	1
+('The following year', 'DATE')	1
+('July 14 , 1976', 'DATE')	1
+('two evenings', 'DATE')	1
+('Tian Jinwu', 'PERSON')	1
+('8.0', 'CARDINAL')	1
+("Wang Chunqing 's", 'PERSON')	1
+('July 25', 'DATE')	1
+('July 26', 'DATE')	1
+('November 8 , 1976', 'DATE')	1
+('seventeenth', 'ORDINAL')	1
+('180,000', 'CARDINAL')	1
+('7,300', 'CARDINAL')	1
+('Kailuan Mine Bureau', 'ORG')	1
+('0.07 %', 'PERCENT')	1
+('40 minutes', 'TIME')	1
+('more than forty minutes', 'TIME')	1
+('Eight', 'CARDINAL')	1
+('9', 'CARDINAL')	1
+('More than 70 %', 'PERCENT')	1
+('about half', 'CARDINAL')	1
+('the Lu jiatuo mine', 'FAC')	1
+('thousand', 'CARDINAL')	1
+('More than a thousand', 'CARDINAL')	1
+('8:00 a.m.', 'TIME')	1
+("the Lu jiatuo Mine 's", 'FAC')	1
+('July 28 at 3:42', 'TIME')	1
+('Hebei', 'GPE')	1
+('the Tangshan Earthquake Monitoring Network', 'ORG')	1
+('Tansghan', 'GPE')	1
+('July 28 , 1976', 'DATE')	1
+('3:42', 'TIME')	1
+('Tangshan City', 'GPE')	1
+('Fengnan', 'GPE')	1
+('7.8', 'CARDINAL')	1
+('5.0', 'CARDINAL')	1
+('6.0', 'CARDINAL')	1
+('the Gang of Four', 'ORG')	1
+('two', 'FAC')	1
+('to', 'DATE')	1
+('Zhou', 'PERSON')	1
+("'80s", 'DATE')	1
+('Quanzhou', 'GPE')	1
+('Associated Press television', 'ORG')	1
+('Carl Kitnea', 'PERSON')	1
+('Lance Schilling', 'PERSON')	1
+('Robert Evangelist', 'PERSON')	1
+('Smith', 'PERSON')	1
+('January eleventh', 'DATE')	1
+('Marlon Defillo', 'PERSON')	1
+('two thousand', 'CARDINAL')	1
+('Associated Press', 'WORK_OF_ART')	1
+('America', 'LOC')	1
+('Defillo', 'PERSON')	1
+('three quarters', 'CARDINAL')	1
+('AP', 'ORG')	1
+('hurricane Katrina', 'EVENT')	1
+('three hundred', 'CARDINAL')	1
+('Hurricane Andrew', 'EVENT')	1
+('Dave Binelli', 'PERSON')	1
+('the Police Association of New Orleans', 'ORG')	1
+('Eddie Jordan', 'PERSON')	1
+('Victoria Habathee Joe Tackapena', 'PERSON')	1
+('next', 'TIME')	1
+('Richmond', 'GPE')	1
+('weeks ago', 'DATE')	1
+('Evangelical Christian', 'NORP')	1
+('Virginia Commonwealth University', 'ORG')	1
+('September fifth', 'DATE')	1
+('last Thursday', 'DATE')	1
+('Matthews County Virgina', 'LOC')	1
+('seventy miles', 'QUANTITY')	1
+('thirty eight year old', 'DATE')	1
+('Benjamin Folly', 'PERSON')	1
+('nine thirty', 'TIME')	1
+('Matt Biehl Taylor', 'PERSON')	1
+('Folly', 'PERSON')	1
+('VCU', 'ORG')	1
+('Madison high school', 'ORG')	1
+('ten or fifteen minutes', 'TIME')	1
+('Jesse Schultz', 'PERSON')	1
+('George Peterson', 'PERSON')	1
+('Matt Biehl', 'PERSON')	1
+('Richmond Virginia', 'LOC')	1
+('ten thirty am', 'TIME')	1
+('September eighteenth', 'DATE')	1
+('later', 'TIME')	1
+('fifty seven year old', 'DATE')	1
+('two days after', 'DATE')	1
+('Linda Sharp Monica', 'PERSON')	1
+('sharpe', 'PERSON')	1
+('fifty seven', 'DATE')	1
+('Illinois', 'LOC')	1
+('that morning', 'TIME')	1
+('Sharp', 'PERSON')	1
+('White House', 'GPE')	1
+('California', 'LOC')	1
+('Terry Bowen', 'PERSON')	1
+('forty four', 'DATE')	1
+('five nine one seventy five', 'QUANTITY')	1
+('Bowen', 'PERSON')	1
+('California Department of Justice', 'ORG')	1
+('Bill Fitzgerald', 'PERSON')	1
+('India', 'LOC')	1
+('fifty million dollars', 'MONEY')	1
+('hurricanes Katrina', 'EVENT')	1
+('Rita', 'EVENT')	1
+('Louisiana', 'GPE')	1
+('the French quarter', 'LOC')	1
+('Thousands', 'CARDINAL')	1
+('Colorado', 'LOC')	1
+('twenty inches', 'QUANTITY')	1
+('the Abrams Report', 'WORK_OF_ART')	1
+('Dan Abrams', 'PERSON')	1
+('Evangelical', 'NORP')	1
+('Focus On The Family', 'ORG')	1
+('the Senate Judiciary Committee', 'ORG')	1
+('Arlen Specter', 'PERSON')	1
+('the Conservative American Center for Law and Justice', 'ORG')	1
+('the Liberal People for the American Way', 'ORG')	1
+('the Texas Supreme Court', 'ORG')	1
+('Face The Nation', 'WORK_OF_ART')	1
+('Senate judiciary', 'ORG')	1
+('Schummer', 'PERSON')	1
+('Specter', 'PERSON')	1
+("George W Bush 's", 'PERSON')	1
+('Roe versus Wade', 'LAW')	1
+('decade', 'DATE')	1
+('Elliot', 'PERSON')	1
+('thirteen year old', 'DATE')	1
+('Slade', 'PERSON')	1
+('seven weeks', 'DATE')	1
+('Montana', 'LOC')	1
+('Becker County Minnesota', 'LOC')	1
+('March of this year', 'DATE')	1
+('Washington state', 'LOC')	1
+('April fifth', 'DATE')	1
+('fifteen thousand dollars', 'MONEY')	1
+('April eighteenth', 'DATE')	1
+('May third', 'DATE')	1
+('May fifteenth', 'DATE')	1
+('Brenda', 'PERSON')	1
+('Slade Groney', 'PERSON')	1
+('Idaho', 'LOC')	1
+('Mark McKenzie Russell Vancamp', 'PERSON')	1
+('Vancamp', 'PERSON')	1
+('twenty five year', 'DATE')	1
+('Russell Vancamp', 'PERSON')	1
+('Clifford Willard', 'PERSON')	1
+('fifty two', 'DATE')	1
+('five eight one fifty', 'QUANTITY')	1
+('the California Department of Justice', 'ORG')	1
+('minute', 'DATE')	1
+('SMU', 'ORG')	1
+("John Roberts '", 'PERSON')	1
+('the Justice Department', 'ORG')	1
+('Court of Appeals', 'ORG')	1
+('twenty two', 'CARDINAL')	1
+('New york', 'GPE')	1
+('Phil', 'PERSON')	1
+('Susan Kissler', 'PERSON')	1
+('Homeland security', 'ORG')	1
+('Jeff Morris', 'PERSON')	1
+('Socrates New York', 'LOC')	1
+('Jihadists', 'NORP')	1
+('NYC', 'LOC')	1
+('PJ Williamson', 'PERSON')	1
+('Sherry Sharrows', 'PERSON')	1
+('Belleville Illinois', 'LOC')	1
+('Scott Peterson', 'PERSON')	1
+('Michael Jackson', 'PERSON')	1
+('MSNBC First Look', 'WORK_OF_ART')	1
+('early oh seven', 'DATE')	1
+('only a year and a few months', 'DATE')	1
+('fifty - six', 'CARDINAL')	1
+('more than fifty - six', 'CARDINAL')	1
+('September fourteenth through the sixteenth', 'DATE')	1
+('these six weeks', 'DATE')	1
+('Mississippi', 'GPE')	1
+('like seventeen months', 'DATE')	1
+('Coleman', 'PERSON')	1
+('a John Bolton', 'PERSON')	1
+('Zimbabwe', 'GPE')	1
+('Sudan', 'GPE')	1
+('Human Rights Commission', 'ORG')	1
+('a couple more years', 'DATE')	1
+('many many years', 'DATE')	1
+('nineteen ninety - one', 'DATE')	1
+('Malloch Brown', 'PERSON')	1
+('Kim Jong', 'PERSON')	1
+('the eve', 'DATE')	1
+('Barbara Boxer', 'PERSON')	1
+('UN', 'FAC')	1
+('Brabara Boxer', 'PERSON')	1
+('the Human Rights Commission', 'ORG')	1
+('one hundred and sixty - nine million', 'CARDINAL')	1
+('twenty - four million', 'CARDINAL')	1
+('George Washington', 'PERSON')	1
+('John Rutledge', 'PERSON')	1
+('two hundred and forty - three', 'CARDINAL')	1
+('a hundred and forty', 'CARDINAL')	1
+('a hundred and five', 'CARDINAL')	1
+('James Hormel', 'PERSON')	1
+('Luxembourg', 'GPE')	1
+('Roger Gregory', 'PERSON')	1
+('an African - American', 'NORP')	1
+('the fourth Circuit', 'ORG')	1
+('Charles Pickering', 'PERSON')	1
+('William Pryor', 'PERSON')	1
+('Labor Department', 'ORG')	1
+('Eugene Scalia', 'PERSON')	1
+('Antonin Scalia', 'PERSON')	1
+('Otto Reich', 'PERSON')	1
+('Nicaragua', 'GPE')	1
+('This spring', 'DATE')	1
+('The Secretariat Building', 'FAC')	1
+('later this fall', 'DATE')	1
+('NBC News', 'ORG')	1
+('Adlai Stevenson', 'PERSON')	1
+('the Cuban Missile Crisis', 'EVENT')	1
+('Daniel Patrick Moynihan', 'PERSON')	1
+('anti-Israel', 'GPE')	1
+('Iran Iraq North Korea', 'GPE')	1
+('Brits', 'NORP')	1
+('a hundred ninety', 'CARDINAL')	1
+('Annan', 'PERSON')	1
+('another Korean war', 'EVENT')	1
+('North Korean', 'NORP')	1
+('Jack Daniels', 'PRODUCT')	1
+('Two months', 'DATE')	1
+('Democratic Party', 'ORG')	1
+('Progress For America', 'ORG')	1
+('The Republican Party', 'ORG')	1
+('five percent', 'PERCENT')	1
+('every night', 'TIME')	1
+('Frank Rizzo', 'PERSON')	1
+('Jack Kennedy', 'PERSON')	1
+('a year and a half from now', 'DATE')	1
+('January of oh seven', 'DATE')	1
+('November of oh six', 'DATE')	1
+('weekend', 'DATE')	1
+('sixty', 'CARDINAL')	1
+('like three hundred years', 'DATE')	1
+('a week ago', 'DATE')	1
+('Daley', 'PERSON')	1
+('Iran - Contra Watergate', 'EVENT')	1
+('Eisenhower', 'PERSON')	1
+('last couple of days', 'DATE')	1
+('ten years from now', 'DATE')	1
+('the past week', 'DATE')	1
+('this period in time', 'DATE')	1
+('Lewinsky', 'PERSON')	1
+('early two thousand seven', 'DATE')	1
+("San Francisco 's", 'GPE')	1
+('KSFL AM five seventy', 'ORG')	1
+('a half dozen', 'CARDINAL')	1
+('a week', 'DATE')	1
+('Operation Truth', 'ORG')	1
+('twenty - five pounds', 'QUANTITY')	1
+('ten days later', 'DATE')	1
+('Central Baghdad', 'LOC')	1
+('DOD', 'ORG')	1
+('Bejing', 'GPE')	1
+('Beirut', 'GPE')	1
+('The day', 'DATE')	1
+('thirty - three', 'CARDINAL')	1
+('about six', 'CARDINAL')	1
+('Colin Powell', 'PERSON')	1
+('Shinseki', 'PERSON')	1
+('several hundred thousand', 'CARDINAL')	1
+('Bill Kristol John McCain', 'PERSON')	1
+('Humvee', 'PRODUCT')	1
+('twenty - two', 'CARDINAL')	1
+('Jordan', 'GPE')	1
+('William Smart', 'PERSON')	1
+('Greg', 'PERSON')	1
+('Pam', 'PERSON')	1
+('Bill Flin', 'PERSON')	1
+('Pamela Smart', 'PERSON')	1
+('Rita Cosbey', 'PERSON')	1
+('Billy Flin', 'PERSON')	1
+('Patric Randell', 'PERSON')	1
+('two thousand eighteen', 'DATE')	1
+('June two thousand five', 'DATE')	1
+('Raymond Fowler', 'PERSON')	1
+('Two months later', 'DATE')	1
+('eighteen year', 'DATE')	1
+('Vance Ladamie', 'PERSON')	1
+('capital hill', 'ORG')	1
+('Kentucky', 'GPE')	1
+('the Democratic Senatorial Campaign Committee', 'ORG')	1
+('America The Last Best Hope', 'WORK_OF_ART')	1
+('William Safire', 'PERSON')	1
+('Meet the Press Minute', 'WORK_OF_ART')	1
+('thirty five years ago this week', 'DATE')	1
+('Papers', 'WORK_OF_ART')	1
+('May twentieth nineteen seventy three', 'DATE')	1
+('the White house the Supreme Court', 'ORG')	1
+("the Supreme Court 's", 'ORG')	1
+('Guantanamo', 'EVENT')	1
+('article three of the Geneva convention', 'LAW')	1
+('the coming weeks', 'DATE')	1
+('the next couple of months', 'DATE')	1
+('a few years ago', 'DATE')	1
+('Breyer', 'PERSON')	1
+('Mitch', 'PERSON')	1
+('Lindsey Graham', 'PERSON')	1
+('the Geneva Convention', 'LAW')	1
+('Gonzales', 'PERSON')	1
+('two years later', 'DATE')	1
+('The House of Representatives', 'ORG')	1
+('the Terrorist Finance Tracking Program', 'ORG')	1
+('Peter King', 'PERSON')	1
+('January first', 'DATE')	1
+('Pat Roberts', 'PERSON')	1
+('the Senate Intelligence Committee', 'ORG')	1
+('Journal', 'ORG')	1
+('the Department of Defense', 'ORG')	1
+('Fitzgerald', 'PERSON')	1
+('Two weeks ago', 'DATE')	1
+('Jack Reed', 'PERSON')	1
+('the Reed - Levin amendment', 'LAW')	1
+('the Levin - Reed resolution', 'LAW')	1
+('two thousand and six', 'DATE')	1
+('the first month', 'DATE')	1
+('April of two thousand three', 'DATE')	1
+('Mitch McConnell Chuck Schumer George Bush', 'PERSON')	1
+('Ned Lamont', 'PERSON')	1
+('Lamont', 'PERSON')	1
+('the Democratic Senate Campaign Committee', 'ORG')	1
+('Roll Call Newspaper', 'ORG')	1
+('Hillary Ted Kennedy Harry', 'PERSON')	1
+('New York', 'PERSON')	1
+('all day Friday', 'DATE')	1
+('Bill Bennett William Safire', 'PERSON')	1
+('Stuart Levy', 'PERSON')	1
+('the Nine Eleven Commission', 'ORG')	1
+('Nine Eleven Commission', 'ORG')	1
+('Roger Cressey', 'PERSON')	1
+('NSC', 'ORG')	1
+('Two hundred and thirty years ago', 'DATE')	1
+('Long Island', 'GPE')	1
+('King', 'PERSON')	1
+('Spiro Agnew', 'PERSON')	1
+('September eleven', 'EVENT')	1
+('Danny Pearl', 'PERSON')	1
+('September twenty - fourth two thousand one', 'DATE')	1
+('the Rose Garden', 'FAC')	1
+('EU', 'ORG')	1
+('GB', 'GPE')	1
+('two years earlier', 'DATE')	1
+('two hundred years', 'DATE')	1
+('James Wilson', 'PERSON')	1
+('Jack Murtha /.', 'PERSON')	1
+('William Bennett', 'PERSON')	1
+('Jim Risen', 'PERSON')	1
+('The New York Times the Supreme Court', 'ORG')	1
+('nineteen ninety two', 'DATE')	1
+('the Boston Globe', 'ORG')	1
+('Dean', 'PERSON')	1
+('Billy Carter', 'PERSON')	1
+('the Libyan Embassy', 'ORG')	1
+('Libyans', 'NORP')	1
+('Safire', 'PERSON')	1
+('Des Moines', 'GPE')	1
+('Pat Buchanan', 'PERSON')	1
+('Pulitzers', 'WORK_OF_ART')	1
+('eight months', 'DATE')	1
+("Dana Priest 's", 'PERSON')	1
+('Security Agency', 'ORG')	1
+('two hundred and forty', 'CARDINAL')	1
+('this Bill of Rights', 'LAW')	1
+('a First Amendment', 'LAW')	1
+('John Harwood /.', 'PERSON')	1
+('eighty five days', 'DATE')	1
+('Wall Street Journal NBC', 'ORG')	1
+('Fifty - five', 'CARDINAL')	1
+('a couple of days', 'DATE')	1
+('National Drug Control Policy', 'LAW')	1
+('Risen', 'PERSON')	1
+('Lichtblau', 'PERSON')	1
+('@AIPAC', 'ORG')	1
+('the Espionage Act', 'LAW')	1
+('the last couple of days', 'DATE')	1
+('the last week', 'DATE')	1
+('six years ago', 'DATE')	1
+('Scalia Thomas Alito', 'PERSON')	1
+('about fifteen thirty seconds', 'TIME')	1
+('July fourth', 'DATE')	1
+('Meet The Press Minute', 'WORK_OF_ART')	1
+('thirty five years ago', 'DATE')	1
+('Sunday morning June thirteenth nineteen seventy one', 'DATE')	1
+('the Watergate scandal', 'EVENT')	1
+('Vietnam Archive Pentagon Study Traces three Decades of Growing US Involvement', 'WORK_OF_ART')	1
+('several years later', 'DATE')	1
+('the Watergate case', 'EVENT')	1
+('July fourth', 'EVENT')	1
+('up to twenty five', 'CARDINAL')	1
+('AAV', 'PRODUCT')	1
+('Euphrates', 'LOC')	1
+('GOPed', 'ORG')	1
+('thirty points', 'QUANTITY')	1
+('Rebuplican', 'NORP')	1
+('only four percentage points', 'PERCENT')	1
+('more than twenty years', 'DATE')	1
+('the Cincinnati Inquirer', 'ORG')	1
+('seven month', 'DATE')	1
+('half a million dollars', 'MONEY')	1
+('forty eight hours', 'DATE')	1
+('twenty year old', 'DATE')	1
+('forty eight percent', 'PERCENT')	1
+('Cincinnati', 'GPE')	1
+('thirteen hours', 'TIME')	1
+('the next year or so', 'DATE')	1
+("Rob Portman 's", 'PERSON')	1
+('Rob Portman', 'PERSON')	1
+('House of Representatives', 'ORG')	1
+('Raphael Romero', 'PERSON')	1
+('Ken', 'PERSON')	1
+('every morning', 'TIME')	1
+('half trillion dollar', 'MONEY')	1
+('Taft', 'PERSON')	1
+('the last forty eight hours', 'DATE')	1
+('Marines', 'NORP')	1
+('Defense', 'ORG')	1
+('the Oversight Committee', 'ORG')	1
+("the Bureau of Worker 's Comp", 'ORG')	1
+('AFL - CIO', 'ORG')	1
+('DNC', 'ORG')	1
+('the Ohio Democratic Party', 'ORG')	1
+('Guantanamo Bay', 'LOC')	1
+('this Monday', 'DATE')	1
+('everyday', 'DATE')	1
+('that hour', 'TIME')	1
+('more than fifty', 'CARDINAL')	1
+('the last three months', 'DATE')	1
+('more than thirty', 'CARDINAL')	1
+('the last months', 'DATE')	1
+('the Holy Koran', 'WORK_OF_ART')	1
+('Mecca', 'GPE')	1
+('Jay Hood', 'PERSON')	1
+('an Abu Ghraib', 'FAC')	1
+('five hundred', 'CARDINAL')	1
+('Cleveland Ohio', 'GPE')	1
+('Steven Robinson', 'PERSON')	1
+('@NASA', 'ORG')	1
+("Martha Stewart 's", 'PERSON')	1
+('the end of the month', 'DATE')	1
+('major league baseball', 'ORG')	1
+('the Baltimore Orioles', 'ORG')	1
+('Major league baseball', 'ORG')	1
+('ten days this week', 'DATE')	1
+('Ben Johnson', 'PERSON')	1
+('Olympic', 'EVENT')	1
+('eighty - eight', 'DATE')	1
+('Yesterday', 'DATE')	1
+('Juiced', 'WORK_OF_ART')	1
+('the House uh Government Reform Committee', 'ORG')	1
+('Ray Garibaldi', 'PERSON')	1
+('eighteen year old', 'DATE')	1
+('from eighteen to twenty one', 'DATE')	1
+('schedule three', 'LAW')	1
+('over two point eight million dollars', 'MONEY')	1
+('Jose Canseco', 'PERSON')	1
+('one hundred percent', 'PERCENT')	1
+('Bud Segal', 'PERSON')	1
+('MLB Major League Baseball', 'ORG')	1
+('all these years', 'DATE')	1
+('Sosa', 'PERSON')	1
+('Maguire', 'PERSON')	1
+('the fifties and sixties', 'DATE')	1
+('under two hundred pounds', 'QUANTITY')	1
+('the International Olympic Commission', 'ORG')	1
+('Henry Waxman', 'PERSON')	1
+('the Clean Sports Act', 'LAW')	1
+('Hillary Rodham Clinton', 'PERSON')	1
+('earlier today', 'TIME')	1
+("New York University 's Graduate School in Public Service", 'ORG')	1
+('Fifty - two forty - eight', 'CARDINAL')	1
+('forty - eight percent', 'PERCENT')	1
+('forty', 'CARDINAL')	1
+('nineteen ninety four', 'DATE')	1
+('sixty four percent', 'PERCENT')	1
+('fifty one', 'CARDINAL')	1
+('fifty', 'CARDINAL')	1
+('nineteen fifty - two', 'DATE')	1
+('Truman', 'PERSON')	1
+('the Family Research Council', 'ORG')	1
+('Second Justice Sunday', 'EVENT')	1
+('Harball', 'WORK_OF_ART')	1
+('fifty three percent', 'PERCENT')	1
+('forty - three', 'CARDINAL')	1
+('fifty forty - five', 'CARDINAL')	1
+("Ed Rogers '", 'PERSON')	1
+('nineteen eighty', 'DATE')	1
+('John Dingle', 'PERSON')	1
+('Peewee Herman', 'PERSON')	1
+('The Daily Show with Jon Stewart', 'WORK_OF_ART')	1
+('John Kerry', 'PERSON')	1
+('The Daily Show', 'WORK_OF_ART')	1
+('February and March of two thousand and eight', 'DATE')	1
+('Bob McCain', 'PERSON')	1
+('Shrum', 'PERSON')	1
+('Tom Cruise', 'PERSON')	1
+('Jack Bauer', 'PERSON')	1
+('Republicans', 'ORG')	1
+('Memphis', 'LOC')	1
+('a Democratic party', 'ORG')	1
+('The Jack Bauer', 'PERSON')	1
+('Winston Giuliani Churchill', 'PERSON')	1
+('Republican Democrat', 'NORP')	1
+('Howard', 'PERSON')	1
+('tomorrow night', 'TIME')	1
+('five and seven eastern', 'TIME')	1
+('hours ago', 'TIME')	1
+('twenty four year old', 'DATE')	1
+('Guillen', 'PERSON')	1
+('WCBS', 'ORG')	1
+('New York Sun', 'WORK_OF_ART')	1
+('two fifteen this afternoon', 'TIME')	1
+('Three', 'CARDINAL')	1
+('Earlier', 'TIME')	1
+('Joe Hines', 'PERSON')	1
+('the Falls bar', 'LOC')	1
+('twenty percent', 'PERCENT')	1
+('Alexandra', 'PERSON')	1
+("Kevin O'Donnell", 'PERSON')	1
+('Alexandra St. Guillen', 'PERSON')	1
+('St. Guillen', 'PERSON')	1
+('Davidson', 'PERSON')	1
+('in a minute', 'TIME')	1
+('twenty four', 'CARDINAL')	1
+('the Falls bar', 'ORG')	1
+('the end of the night', 'TIME')	1
+('Falls', 'ORG')	1
+('Winstar', 'PRODUCT')	1
+('seven thirty one PM less than an hour', 'TIME')	1
+('seven thirty PM', 'TIME')	1
+('Daily News', 'ORG')	1
+("Imette St. Guillen 's", 'PERSON')	1
+('Charles Heinz', 'PERSON')	1
+('twenty per cent', 'PERCENT')	1
+("Kevin O'Donnell Littlejohn", 'PERSON')	1
+('Rita', 'PERSON')	1
+('Danny Dorian', 'PERSON')	1
+('Kwan', 'PERSON')	1
+('five or six days later', 'DATE')	1
+('That Ray Kelly', 'PERSON')	1
+('Gail Abramstein /.', 'PERSON')	1
+('Davidson Golden', 'PERSON')	1
+('seven years', 'DATE')	1
+('less than a week', 'DATE')	1
+('thirty forty', 'CARDINAL')	1
+('Benny Whitehorse', 'PERSON')	1
+('thirty eight', 'DATE')	1
+('five eleven one seventy two', 'QUANTITY')	1
+('This week', 'DATE')	1
+('Alyssa Rayburger', 'PERSON')	1
+('Alabama', 'LOC')	1
+('Al - Qaida', 'ORG')	1
+('Zakary As - Mazawi', 'PERSON')	1
+('four months', 'DATE')	1
+('fourth', 'CARDINAL')	1
+('Tom Fox', 'PERSON')	1
+('two weeks ago', 'DATE')	1
+('hours earlier', 'TIME')	1
+('Pittsburgh', 'LOC')	1
+('Nickie', 'PERSON')	1
+('Thomas Hose', 'PERSON')	1
+('Kach', 'PERSON')	1
+('WPXI', 'ORG')	1
+("Thomas Hose 's", 'PERSON')	1
+('Eckert', 'PERSON')	1
+('Karen', 'PERSON')	1
+('fifty', 'DATE')	1
+('twenty one year old', 'DATE')	1
+('two hundred dollar', 'MONEY')	1
+('Allegheny County', 'GPE')	1
+('eighteen', 'DATE')	1
+('Pennsylvania', 'LOC')	1
+('four or five years ago', 'DATE')	1
+('eighteen years old', 'DATE')	1
+('twenty four', 'DATE')	1
+('Lent', 'EVENT')	1
+('Abrams', 'PERSON')	1
+('Abdul Rahman', 'PERSON')	1
+('fifteen years ago', 'DATE')	1
+('Germany', 'LOC')	1
+('Bible', 'WORK_OF_ART')	1
+('Kabul', 'LOC')	1
+('Abdul Ruf', 'PERSON')	1
+('Islam', 'GPE')	1
+('the United States Institute of Peace', 'ORG')	1
+('article two point two', 'LAW')	1
+('article seven', 'LAW')	1
+('the universal declaration of human rights', 'LAW')	1
+('Article three', 'LAW')	1
+('article one thirty', 'LAW')	1
+('Jason Huser', 'PERSON')	1
+('twenty five', 'DATE')	1
+('six four one sixty five', 'QUANTITY')	1
+('Chicago', 'LOC')	1
+('the Smoking Gun', 'WORK_OF_ART')	1
+('Fox News', 'ORG')	1
+('Steve Robbins', 'PERSON')	1
+('the Secret Service', 'ORG')	1
+('IRS', 'ORG')	1
+('Vermont', 'LOC')	1
+('Christine McGuinness', 'PERSON')	1
+('San Francisco', 'LOC')	1
+('Jonathan Rasmussen', 'PERSON')	1
+('Christopher Frank', 'PERSON')	1
+('Christopher', 'PERSON')	1
+('First Look', 'WORK_OF_ART')	1
+('Jim Russert', 'PERSON')	1
+('Elisabeth Bumiller White', 'PERSON')	1
+('the Wall Street Journal', 'LAW')	1
+('the fourth year', 'DATE')	1
+('Hussein', 'PERSON')	1
+('April oh three', 'DATE')	1
+('thousands and thousands and thousands', 'CARDINAL')	1
+('Fedayeen', 'NORP')	1
+('June of two thousand one', 'DATE')	1
+('Vladimir Putin', 'PERSON')	1
+('Kremlin', 'ORG')	1
+('Bushehr', 'GPE')	1
+('the P five the permanent five', 'ORG')	1
+('Germany', 'GPE')	1
+('the United Nations Security Council', 'ORG')	1
+('ten or twenty years', 'DATE')	1
+('the chapter seven resolution', 'LAW')	1
+('Chapter seven resolution', 'LAW')	1
+('the last uh couple of years', 'DATE')	1
+('its fourth year', 'DATE')	1
+('two thousand three hundred and sixteen', 'CARDINAL')	1
+('seventeen thousand two hundred seventy - one', 'CARDINAL')	1
+('Hundred and thirty thousand', 'CARDINAL')	1
+('three and a half years ago', 'DATE')	1
+('United States of America', 'GPE')	1
+('Lisa Myers', 'PERSON')	1
+('Sabri', 'PERSON')	1
+('Naji Sabri', 'PERSON')	1
+('+French', 'NORP')	1
+('more than six months', 'DATE')	1
+('March of oh three', 'DATE')	1
+('Sunni Shia Kurds', 'NORP')	1
+('three years later', 'DATE')	1
+('Tommy Franks', 'PERSON')	1
+('Cobra Two', 'WORK_OF_ART')	1
+('November of oh three', 'DATE')	1
+('fifty billion dollars', 'MONEY')	1
+('three hundred and fifty billion dollars', 'MONEY')	1
+('the billions of dollars', 'MONEY')	1
+('Kuwait', 'GPE')	1
+('that Middle East', 'LOC')	1
+('the September eleventh event', 'EVENT')	1
+('January of oh nine', 'DATE')	1
+('the next year', 'DATE')	1
+('Iraqis Sunni', 'NORP')	1
+('Kurds', 'NORP')	1
+('American Christian', 'NORP')	1
+('twenty - five years', 'DATE')	1
+('Christianity', 'GPE')	1
+('fifty one years', 'DATE')	1
+('Europe', 'LOC')	1
+('Christians', 'NORP')	1
+('four years ago', 'DATE')	1
+('fifty one', 'DATE')	1
+('Fred Barns', 'PERSON')	1
+('the Wall Street Journal', 'ORG')	1
+('the other day', 'DATE')	1
+('Laura Bush', 'PERSON')	1
+('Five hundred thousand', 'CARDINAL')	1
+('Mexico', 'GPE')	1
+('the Wall Street Journal NBC', 'ORG')	1
+('eighty - eight percent', 'PERCENT')	1
+('sixty - two percent', 'PERCENT')	1
+('the early days', 'DATE')	1
+('African - Americans', 'NORP')	1
+('Florida Florida Florida', 'GPE')	1
+('Two thousand four', 'DATE')	1
+('Ohio Ohio Ohio', 'GPE')	1
+('New Mexico', 'GPE')	1
+('Colorado', 'GPE')	1
+('last Sunday', 'DATE')	1
+('this Wednesday', 'DATE')	1
+('David Broder /?', 'PERSON')	1
+('Deborah Howell', 'PERSON')	1
+('The White House /?', 'ORG')	1
+('couple', 'CARDINAL')	1
+('the Dubai Ports World', 'ORG')	1
+('Capitol', 'ORG')	1
+('Pennsylvania Avenue', 'FAC')	1
+('the Republican Congressional Campaign Committee', 'ORG')	1
+('Ed Gillespie', 'PERSON')	1
+('Vin Weber', 'PERSON')	1
+('Andy Card Karl Rove Dan Bartlett', 'PERSON')	1
+('Andy Card', 'PERSON')	1
+('twenty - six percent', 'PERCENT')	1
+('Sixty - two percent', 'PERCENT')	1
+('thirty - seven percent', 'PERCENT')	1
+('Fifty percent', 'PERCENT')	1
+('this fall', 'DATE')	1
+('Maria Cantwell', 'PERSON')	1
+('Vermont', 'GPE')	1
+('Cook', 'PERSON')	1
+('Montana', 'GPE')	1
+('Lincoln Chafee', 'PERSON')	1
+('Mike DeWine', 'PERSON')	1
+('Santorum', 'PERSON')	1
+('Jim Talent', 'PERSON')	1
+('Missouri', 'GPE')	1
+('sixth', 'ORDINAL')	1
+('eighty - five percent', 'PERCENT')	1
+('one two', 'CARDINAL')	1
+('about three dozen', 'CARDINAL')	1
+('eleven', 'CARDINAL')	1
+('nineteen ninety - four', 'DATE')	1
+('thirty - five', 'CARDINAL')	1
+('Gingrich', 'PERSON')	1
+('two thousand nine', 'DATE')	1
+('Cool Hand Luke', 'WORK_OF_ART')	1
+('Palestinian', 'NORP')	1
+('John uh Harwood', 'PERSON')	1
+('October', 'DATE')	1
+('NBC Wall Street Journal', 'ORG')	1
+('Duke', 'ORG')	1
+('Patriots', 'ORG')	1
+('Shreveport Louisianna', 'GPE')	1
+('Shreveport', 'GPE')	1
+('Georgetown', 'ORG')	1
+('David +Broder /?', 'PERSON')	1
+('BC', 'ORG')	1
+('Elisabeth Bumiller John Harwood David Broder Charlie Cook', 'PERSON')	1
+('the entire hour', 'TIME')	1
+('one PM eastern', 'TIME')	1
+('Dateline NBC', 'ORG')	1
+('Judith Miller Karl Rove', 'PERSON')	1
+('the Secret Man', 'WORK_OF_ART')	1
+('Bill Keller', 'PERSON')	1
+('the White house', 'ORG')	1
+('democrats republicans', 'NORP')	1
+('ninety', 'CARDINAL')	1
+('Newsweek', 'ORG')	1
+('Carl Novak', 'PERSON')	1
+('Bob Novak', 'PERSON')	1
+('Scott', 'PERSON')	1
+('McClellan', 'PERSON')	1
+('Ron Zeigler', 'PERSON')	1
+('Deep Throat Mark Felt', 'PERSON')	1
+('Hal Holbrook', 'PERSON')	1
+("All The President 's Men", 'WORK_OF_ART')	1
+('Carl Bernstein', 'PERSON')	1
+("All the President 's Men", 'WORK_OF_ART')	1
+('Carl', 'PERSON')	1
+('Berstein', 'PERSON')	1
+('Al Patrick Grey', 'PERSON')	1
+('Kremlin', 'FAC')	1
+('nineteen seventy eight', 'DATE')	1
+('Richard Cohen', 'PERSON')	1
+('twenty years ago', 'DATE')	1
+("Carl Berstein 's", 'PERSON')	1
+('Richard', 'PERSON')	1
+('Cohen', 'PERSON')	1
+('tonight at seven', 'TIME')	1
+('eight', 'TIME')	1
+('the War on Terror', 'EVENT')	1
+('tonight seven eastern', 'TIME')	1
+('Reliable Sources', 'WORK_OF_ART')	1
+('about three or four years', 'DATE')	1
+('nineteen eighty four', 'DATE')	1
+('the Deep Throat', 'PERSON')	1
+('J Edgar Hoover', 'PERSON')	1
+('Hoover', 'PERSON')	1
+('the age of ninety one', 'DATE')	1
+('Vanity Fair', 'ORG')	1
+('Ben Bradley', 'PERSON')	1
+('Post', 'ORG')	1
+('Bob Barnett', 'PERSON')	1
+("Mark Felt 's", 'PERSON')	1
+('Air Force One', 'PRODUCT')	1
+('the Brethren', 'WORK_OF_ART')	1
+('Lewis Powell', 'PERSON')	1
+('Scott Armstrong', 'PERSON')	1
+('Tom Hanks', 'PERSON')	1
+('Clark Kent Irven', 'PERSON')	1
+('John McGlaughlin', 'PERSON')	1
+('Discovery Shuttle', 'PRODUCT')	1
+('Wayne Hail', 'PERSON')	1
+('nine AM', 'TIME')	1
+('five PM', 'TIME')	1
+('eight PM', 'TIME')	1
+('Frederika Witfield', 'PERSON')	1
+('Italy', 'GPE')	1
+('Osmond', 'PERSON')	1
+('Suffix', 'GPE')	1
+('Ahmed Chalabi', 'PERSON')	1
+('Chalabi', 'PERSON')	1
+('Mumbai India', 'GPE')	1
+('seven feet', 'QUANTITY')	1
+('one thousand', 'CARDINAL')	1
+('Frederika', 'PERSON')	1
+('thirty days', 'DATE')	1
+('mid August August fifteenth', 'DATE')	1
+('thirty day', 'DATE')	1
+('the Iraqi Sunnis', 'NORP')	1
+('a couple of days a few days', 'DATE')	1
+('Sunni uh Arabs', 'NORP')	1
+('an additional thirty days', 'DATE')	1
+('an extra six months', 'DATE')	1
+('Sunni Kurds', 'NORP')	1
+('Arab Kaldo - Assyrians', 'NORP')	1
+('the Los Angeles Times', 'ORG')	1
+('Sabians Yazidis', 'NORP')	1
+('a hundred thirty nine thousand or so', 'CARDINAL')	1
+('earlier in the week', 'DATE')	1
+('the Ministerial Committee for National Security', 'ORG')	1
+('the first half of next year', 'DATE')	1
+('the end of next year', 'DATE')	1
+('next summer a year from now', 'DATE')	1
+('more than a third', 'CARDINAL')	1
+('Interior', 'ORG')	1
+('Ministry of Defense', 'ORG')	1
+('a hundred and seventy thousand', 'CARDINAL')	1
+('the fifteenth of uh October', 'DATE')	1
+('the fifteenth of October', 'DATE')	1
+('this Saddam Hussein', 'PERSON')	1
+('Milosevic', 'PERSON')	1
+('at least five', 'CARDINAL')	1
+('ages', 'DATE')	1
+('weeks', 'DATE')	1
+('al - Rubaie', 'PERSON')	1
+('Ibrahim al Jaafari', 'PERSON')	1
+('Ministerial Committee for National Security', 'ORG')	1
+('eight point five million', 'CARDINAL')	1
+('Mowaffak Al Rubaie', 'PERSON')	1
+('Ahmed Nazif', 'PERSON')	1
+('the spring and summer next year', 'DATE')	1
+('US Army', 'ORG')	1
+('Governmental Affairs Committees', 'ORG')	1
+('the Senate Armed Services Committee', 'ORG')	1
+('next spring', 'DATE')	1
+('a hundred thirty - nine', 'CARDINAL')	1
+('Sharm - el - Sheikh', 'GPE')	1
+('the past few years', 'DATE')	1
+('FISA', 'LAW')	1
+('well over a hundred', 'CARDINAL')	1
+('Capitol Hill', 'LOC')	1
+('the last couple of week', 'DATE')	1
+('Islamist', 'NORP')	1
+('Collins Susan Collins', 'PERSON')	1
+('the fall', 'DATE')	1
+('Senator Kyl', 'PERSON')	1
+('Middle Eastern', 'NORP')	1
+('earlier in the month', 'DATE')	1
+('an extra day', 'DATE')	1
+('Atanta', 'GPE')	1
+('the US Senate', 'ORG')	1
+('the two thirds', 'CARDINAL')	1
+('John Shannon', 'PERSON')	1
+('this past Tuesday', 'DATE')	1
+('the Johnson Space Center', 'ORG')	1
+('Houston Texas', 'GPE')	1
+('twenty - five thousand uh feet', 'QUANTITY')	1
+('seventeen thousand miles', 'QUANTITY')	1
+('a week from today', 'DATE')	1
+('Bob Dougherty', 'PERSON')	1
+('The Los Angles Times', 'ORG')	1
+('twenty - one years old', 'DATE')	1
+('Ebay', 'ORG')	1
+('a hundred', 'CARDINAL')	1
+('almost twenty years old', 'DATE')	1
+('late seventies', 'DATE')	1
+('early eighties', 'DATE')	1
+('eBay', 'ORG')	1
+('September November December', 'DATE')	1
+('the next hour', 'TIME')	1
+('Akmed Alze', 'PERSON')	1
+('Great Britian', 'GPE')	1
+('noon', 'TIME')	1
+('nine am', 'TIME')	1
+('Los Angelas', 'GPE')	1
+('seven pm', 'TIME')	1
+('Bayreuth', 'GPE')	1
+('eight pm', 'TIME')	1
+('Abizaid', 'GPE')	1
+('Edward Kennedy', 'PERSON')	1
+('one thousand seven hundred thirty four', 'CARDINAL')	1
+('eighteen hours', 'TIME')	1
+('/.', 'GPE')	1
+('At least nineteen', 'CARDINAL')	1
+('Frederica', 'PERSON')	1
+('late edition', 'WORK_OF_ART')	1
+('hundred thousand', 'CARDINAL')	1
+('only one', 'CARDINAL')	1
+('earlier this week', 'DATE')	1
+('Capital Hill', 'LOC')	1
+('about nine hours', 'TIME')	1
+('nine second', 'TIME')	1
+('twenty - first', 'ORDINAL')	1
+('about twenty thousand', 'CARDINAL')	1
+('one - tenth of one percent', 'PERCENT')	1
+('about a thousand', 'CARDINAL')	1
+('somewhere less than ten thousand', 'CARDINAL')	1
+('hundred or so', 'CARDINAL')	1
+('North', 'LOC')	1
+('Karl Levin', 'PERSON')	1
+('mid - east', 'LOC')	1
+('June twentieth', 'DATE')	1
+('seventeen seventy five seventeen seventy six', 'DATE')	1
+('fourth of July', 'DATE')	1
+('The Sunday Times of London', 'ORG')	1
+('Sunni', 'NORP')	1
+('Abu Musab al - Zarqawi', 'PERSON')	1
+('the last several months', 'DATE')	1
+('North Africa', 'LOC')	1
+('Saudi', 'NORP')	1
+('Afghanistan Pakistan', 'GPE')	1
+('Arabian', 'NORP')	1
+('Porter Goss', 'PERSON')	1
+('Osama Bin Laden', 'PERSON')	1
+('Pakistani', 'NORP')	1
+('CNN USA Today Gallup', 'ORG')	1
+('thirty nine percent', 'PERCENT')	1
+('seventy one percent', 'PERCENT')	1
+('Iraq Afghanistan', 'GPE')	1
+('middle east', 'LOC')	1
+('this fourth of July weekend', 'DATE')	1
+('only a couple months ago', 'DATE')	1
+('the senate arms services committee', 'ORG')	1
+('Karl Levitt', 'PERSON')	1
+('Frederica Whitfield', 'PERSON')	1
+('Five', 'CARDINAL')	1
+('Alabaman', 'NORP')	1
+('Natalie Halloway', 'PERSON')	1
+('Aruba', 'GPE')	1
+('the Senate Arms Services Committee', 'ORG')	1
+('Karl Levit', 'PERSON')	1
+('the Senate Select Intelligence committee', 'ORG')	1
+('twenty six point two miles', 'QUANTITY')	1
+('seventy five percent', 'PERCENT')	1
+('Jihadist', 'NORP')	1
+('the past several weeks', 'DATE')	1
+('Larry King', 'PERSON')	1
+('armed services', 'ORG')	1
+('intelligence', 'ORG')	1
+('jihadist', 'NORP')	1
+('twenty six mile', 'QUANTITY')	1
+('the last five minutes', 'TIME')	1
+('the last five miles', 'QUANTITY')	1
+('August the fifteenth', 'DATE')	1
+('congress', 'ORG')	1
+('white house', 'ORG')	1
+('moveon dot org', 'ORG')	1
+('Micheal Moore', 'PERSON')	1
+('the Lebanese Army', 'ORG')	1
+('a Maronite Christian', 'NORP')	1
+('nineteen ninety eight', 'DATE')	1
+('last November', 'DATE')	1
+('two thousand seven', 'DATE')	1
+('Earlier this year', 'DATE')	1
+('Saud', 'PERSON')	1
+('Damascus', 'GPE')	1
+('pro-Syrian Lebanese', 'NORP')	1
+('recent weeks', 'DATE')	1
+('Interpol', 'ORG')	1
+('the nine eleven', 'EVENT')	1
+('June tenth', 'DATE')	1
+('a few years back', 'DATE')	1
+('another three years', 'DATE')	1
+('these past few weeks', 'DATE')	1
+('two weeks', 'DATE')	1
+('fifteen fifty nine', 'CARDINAL')	1
+('non-Lebanese', 'NORP')	1
+('a few moments', 'TIME')	1
+('Ibrahim al - Jaafari', 'PERSON')	1
+('years later', 'DATE')	1
+('Paducah Jonesborough', 'GPE')	1
+("a little after two o'clock today", 'DATE')	1
+('Jacksborough Tennessee', 'GPE')	1
+('Jacksboro', 'GPE')	1
+('thirteen hundred', 'CARDINAL')	1
+("a little after two o'clock", 'TIME')	1
+("Shortly after two o'clock", 'TIME')	1
+('a long night', 'TIME')	1
+('a long couple of days', 'DATE')	1
+('those terrible moments', 'TIME')	1
+('Jacksboro Tennesse', 'GPE')	1
+('Ethan Riggs', 'PERSON')	1
+('Nathan Lawson', 'PERSON')	1
+('an hour and half two hours', 'TIME')	1
+('a bizarre day', 'DATE')	1
+('a tragic day', 'DATE')	1
+('Springfield Pearl Red Lake Minnesota', 'GPE')	1
+('this past March', 'DATE')	1
+('age eleven to eighteen', 'DATE')	1
+('Dylan Clebold', 'PERSON')	1
+('Columbine High School', 'ORG')	1
+('thirteen months', 'DATE')	1
+('Clebold', 'PERSON')	1
+('Harris', 'PERSON')	1
+('Littleton Colorado', 'GPE')	1
+('nineteen ninety - eight', 'DATE')	1
+('Jeff Weiss', 'PERSON')	1
+('Red Lake Minnesota', 'GPE')	1
+('nine', 'CARDINAL')	1
+('Marilyn Manson', 'PERSON')	1
+('Kip Kinkel', 'PERSON')	1
+('Springfield Oregon', 'GPE')	1
+('Manson', 'PERSON')	1
+('Luke Woodham', 'PERSON')	1
+('Pearl Mississippi', 'GPE')	1
+('an off - year', 'DATE')	1
+('the Associated Press', 'ORG')	1
+('just last night', 'TIME')	1
+('Mike Bloomberg', 'PERSON')	1
+('five billion dollar', 'MONEY')	1
+('seventy million dollars', 'MONEY')	1
+('Cantonese', 'LANGUAGE')	1
+('about three hundred million', 'CARDINAL')	1
+('two hundred million', 'CARDINAL')	1
+('about a hundred million dollars', 'MONEY')	1
+('nineteen sixty', 'DATE')	1
+('Arnold Schwartzeneggar', 'PERSON')	1
+("eleven o'clock eastern", 'TIME')	1
+('Cincinatti', 'GPE')	1
+('nearly a million', 'CARDINAL')	1
+('day', 'DATE')	1
+('December of two thousand six', 'DATE')	1
+('the UN Security Council', 'ORG')	1
+('some one hundred fifty - seven thousand', 'CARDINAL')	1
+('twenty - two thousand', 'CARDINAL')	1
+('Australia', 'GPE')	1
+('Australian', 'NORP')	1
+('Seventeen', 'CARDINAL')	1
+('Salem Oregon', 'GPE')	1
+('forty dollars', 'MONEY')	1
+('Three hundred forty million smackers /.', 'MONEY')	1
+('this Christmas', 'DATE')	1
+('Terri Schiavo', 'PERSON')	1
+('Bountiful Utah', 'GPE')	1
+('about twenty minutes', 'TIME')	1
+('fifteen to twenty minutes', 'TIME')	1
+('only fifteen years old', 'DATE')	1
+('the morning', 'TIME')	1
+('one morning', 'TIME')	1
+('the University of Utah', 'ORG')	1
+('John Jones', 'PERSON')	1
+('Utah', 'GPE')	1
+('Bountiful', 'GPE')	1
+('more than seven months', 'DATE')	1
+('March thirty - first thirteen days', 'DATE')	1
+('Memory Lapse', 'WORK_OF_ART')	1
+('Teri', 'PERSON')	1
+('Michael', 'PERSON')	1
+('Michael Schiavo', 'PERSON')	1
+('Michael Hirsch', 'PERSON')	1
+('Terri the Truth', 'WORK_OF_ART')	1
+('that same month', 'DATE')	1
+('Omaha Nebraska', 'GPE')	1
+('Mary Schindler', 'PERSON')	1
+('the Terri Schindler Schiavo foundation', 'ORG')	1
+('African', 'LOC')	1
+('Eight hundred thousand', 'CARDINAL')	1
+('Rwandans', 'NORP')	1
+('over two - thirds', 'CARDINAL')	1
+('Akagera', 'FAC')	1
+('hours and hours', 'TIME')	1
+('An estimated eleven feet', 'QUANTITY')	1
+('perhaps fourteen thousand pounds', 'QUANTITY')	1
+('April', 'DATE')	1
+('Kigali', 'GPE')	1
+('eleven years ago', 'DATE')	1
+('ten and a half years ago', 'DATE')	1
+('this last year', 'DATE')	1
+('sixty - seven percent', 'PERCENT')	1
+('one hour /.', 'TIME')	1
+('about eight thousand feet', 'QUANTITY')	1
+('the four and three and four years old', 'DATE')	1
+('eight to ten week old', 'DATE')	1
+('John Dick', 'PERSON')	1
+('Lake Akagera National Park', 'FAC')	1
+('Rosamond Carr', 'PERSON')	1
+('about forty - five years', 'DATE')	1
+('almost one point four million dollars', 'MONEY')	1
+('about an hour', 'TIME')	1
+('Kasenji', 'GPE')	1
+('the Democratic Republic of Congo', 'GPE')	1
+('Tutsis', 'NORP')	1
+('Hutus', 'NORP')	1
+('the last eh ten years', 'DATE')	1
+('about three hundred and seventy', 'CARDINAL')	1
+('Uganda', 'GPE')	1
+('about another three hundred', 'CARDINAL')	1
+('Kinsey', 'PERSON')	1
+('the second hour', 'TIME')	1
+('Second hour', 'TIME')	1
+('Anderson Cooper Three Sixty', 'WORK_OF_ART')	1
+('Eastern Europe', 'LOC')	1
+('November twenty - eighth', 'DATE')	1
+('22', 'CARDINAL')	1
+('Campbell County Comprehensive High School', 'FAC')	1
+('Knoxville', 'GPE')	1
+('Gary Seal', 'PERSON')	1
+('Jim Pierce', 'PERSON')	1
+("a little after two o'clock today", 'TIME')	1
+('the last hour', 'TIME')	1
+('the year prior', 'DATE')	1
+('the rest of the week', 'DATE')	1
+('a heartbeat', 'TIME')	1
+('Spider Marks', 'PERSON')	1
+('more than sixty percent', 'PERCENT')	1
+('Marks', 'PERSON')	1
+('Mark Jacobson', 'PERSON')	1
+('earlier this evening', 'TIME')	1
+('John Yoo', 'PERSON')	1
+('University of California Berkeley', 'ORG')	1
+('from two thousand and one to two thousand and three', 'DATE')	1
+('the American Enterprise Institute', 'ORG')	1
+('Alan Dershowitz', 'PERSON')	1
+('The Case for Peace How the Arab Israeli Conflict can be Resolved', 'WORK_OF_ART')	1
+('the Center for Contitutional Rights', 'ORG')	1
+('Professor Yoo', 'PERSON')	1
+('Alan', 'PERSON')	1
+('Geneva convention', 'LAW')	1
+('England', 'PERSON')	1
+('the second world war', 'EVENT')	1
+('the Vietnam war', 'EVENT')	1
+('the Korean war', 'EVENT')	1
+('Abu Ghraib', 'FAC')	1
+('Hepburn Tracy', 'PERSON')	1
+('tomorrow', 'TIME')	1
+('forty - six percent', 'PERCENT')	1
+('Jerry Kilgore', 'PERSON')	1
+('fifty - four percent', 'PERCENT')	1
+('just forty - three percent', 'PERCENT')	1
+('Ninety - one percent', 'PERCENT')	1
+('Ninety - nine percent', 'PERCENT')	1
+('New Jeresey', 'GPE')	1
+('Constituional', 'LAW')	1
+('Maine', 'GPE')	1
+("Arnold Schwarzenegger 's", 'PERSON')	1
+('supreme court', 'ORG')	1
+('Larry King Live', 'WORK_OF_ART')	1
+('Robert', 'PERSON')	1
+('White house', 'ORG')	1
+('Nixon Ford Reagen', 'PERSON')	1
+("Harvard 's JFK school", 'ORG')	1
+('US News and World Report', 'WORK_OF_ART')	1
+('Charles Schumer', 'PERSON')	1
+('Harriet Myerrs', 'PERSON')	1
+('Pat Robertson', 'PERSON')	1
+('Ruth Bader Ginsburgh', 'PERSON')	1
+('fifty - five years old', 'DATE')	1
+('several decades', 'DATE')	1
+('some forty - one', 'CARDINAL')	1
+('senate', 'ORG')	1
+('Thomas', 'PERSON')	1
+('the supreme court', 'ORG')	1
+('Brown versus Board of Education', 'LAW')	1
+("Harriet Myers '", 'PERSON')	1
+('Olympia Snow Susan Colins', 'PERSON')	1
+('Lincoln Chaffey', 'PERSON')	1
+('Brownback', 'PERSON')	1
+('Joseph Wilson', 'PERSON')	1
+('John Mccaine', 'PERSON')	1
+('Larry Larry Larry', 'PERSON')	1
+('CBS News', 'ORG')	1
+('nineteen sixty eight', 'DATE')	1
+('Duponts', 'WORK_OF_ART')	1
+('Peabodies', 'WORK_OF_ART')	1
+('Scalito', 'PERSON')	1
+('Roe', 'PERSON')	1
+('Wade', 'PERSON')	1
+('Libby', 'PERSON')	1
+('Scooter Libby', 'PERSON')	1
+('Tim Russet', 'PERSON')	1
+('June Miller', 'PERSON')	1
+('Westmoreland', 'PERSON')	1
+('a hundred and twenty million dollars', 'MONEY')	1
+('hour and a half', 'TIME')	1
+('Westmorland', 'PERSON')	1
+('nineteen fifty - seven', 'DATE')	1
+('Eleanor Roosevelt', 'PERSON')	1
+('Westbrooke Peggler', 'PERSON')	1
+('nineteen hundred and fifty seven', 'DATE')	1
+('ABC', 'ORG')	1
+('the next morning', 'TIME')	1
+('years ago', 'DATE')	1
+('Donald Reegan', 'PERSON')	1
+('about a month ago', 'DATE')	1
+('Nancy', 'PERSON')	1
+('Clint Hill', 'PERSON')	1
+('JFK', 'PERSON')	1
+('seventy - five', 'DATE')	1
+('about three minutes', 'TIME')	1
+('Abe Lincoln', 'PERSON')	1
+('Martha Washington', 'PERSON')	1
+('a long time ago', 'DATE')	1
+('Patricia Nixon', 'PERSON')	1
+('Julie', 'PERSON')	1
+('Pat Nixon', 'PERSON')	1
+('Gloria Steinam', 'PERSON')	1
+('Pat', 'PERSON')	1
+('Wallace Wallace Wallace Mike Wallace', 'PERSON')	1
+('Toronto Canada', 'GPE')	1
+('Canada', 'GPE')	1
+('Walter Cronkite', 'PERSON')	1
+('Charles uh Kerald', 'PERSON')	1
+('Eric Severide', 'PERSON')	1
+('Cronkite Severide Kerald', 'PERSON')	1
+('Bakersfield California', 'GPE')	1
+('George Tennet', 'PERSON')	1
+('Jay Georgia', 'GPE')	1
+('interview', 'ORDINAL')	1
+('sixtieth', 'ORDINAL')	1
+('very', 'DATE')	1
+('fifty five', 'DATE')	1
+('Malcolm X', 'PERSON')	1
+('Topeka Kansas', 'GPE')	1
+('Orlando Florida', 'GPE')	1
+('Mike and Buffy', 'WORK_OF_ART')	1
+('Buff Cobb', 'PERSON')	1
+('New Hampshire', 'GPE')	1
+('Regis and uh Kathy', 'WORK_OF_ART')	1
+('Regis and Kelly', 'WORK_OF_ART')	1
+('Detroit', 'GPE')	1
+('The Insider', 'WORK_OF_ART')	1
+('Jeff Wygan', 'PERSON')	1
+('Smoke Free Kids', 'ORG')	1
+('a minute and a half', 'TIME')	1
+('Eighty - seven', 'DATE')	1
+('seventy - two', 'DATE')	1
+('eighty - seven', 'DATE')	1
+("Johnny Carson 's", 'PERSON')	1
+('Carson', 'PERSON')	1
+('Mike Wallace /.', 'PERSON')	1
+('take the A train', 'WORK_OF_ART')	1
+('the Harlem Jazz Band', 'ORG')	1
+('Bob Shapiro', 'PERSON')	1
+('Kira Phillips', 'PERSON')	1
+('Kira', 'PERSON')	1
+('Kyra Phillips', 'PERSON')	1
+('One point three million', 'CARDINAL')	1
+('Route 80', 'FAC')	1
+('Ron Galloway', 'PERSON')	1
+('- mart', 'ORG')	1
+('less than fourteen thousand dollars', 'MONEY')	1
+('twenty - seven million dollars', 'MONEY')	1
+('one hundred billion dollars', 'MONEY')	1
+('a billion', 'CARDINAL')	1
+('hour', 'TIME')	1
+('Medi - Cal', 'ORG')	1
+('anti-Wal-Mart', 'ORG')	1
+('Honduras', 'GPE')	1
+('Bangladesh', 'GPE')	1
+('as little as fifteen cents', 'MONEY')	1
+('seven days', 'DATE')	1
+('more than eighteen billion dollars', 'MONEY')	1
+("the People 's Republic", 'GPE')	1
+('Washington DC', 'GPE')	1
+('Tim Kane', 'PERSON')	1
+('Heritage', 'ORG')	1
+('more than one point two million', 'CARDINAL')	1
+('Wal - Mart Watch', 'ORG')	1
+('Roosevelt', 'PERSON')	1
+('George Miller', 'PERSON')	1
+('Andy Serwer', 'PERSON')	1
+('Fortune Magazine', 'ORG')	1
+('Waltons', 'PERSON')	1
+('the past ten years', 'DATE')	1
+('Delta', 'ORG')	1
+('Delphi', 'ORG')	1
+('a US Steel', 'ORG')	1
+('four bucks', 'MONEY')	1
+('Number two', 'CARDINAL')	1
+('hundreds of millions', 'CARDINAL')	1
+('nineteen ninety - two', 'DATE')	1
+('this month', 'DATE')	1
+('Headline News', 'WORK_OF_ART')	1
+('Ramadan', 'DATE')	1
+('Twenty - seven', 'CARDINAL')	1
+('forty - five miles', 'QUANTITY')	1
+('Balad', 'GPE')	1
+('Ramadi', 'GPE')	1
+('Bagram Afghanistan', 'GPE')	1
+('Omar al - Farouq', 'PERSON')	1
+('Al - Farouq', 'PERSON')	1
+('Indonesia', 'GPE')	1
+('Detroit Michigan', 'GPE')	1
+('Rosa Parks', 'PERSON')	1
+('Al Sharpton', 'PERSON')	1
+('Parks', 'PERSON')	1
+('Civil Rights', 'ORG')	1
+('nineteen fifty - five', 'DATE')	1
+('the age of ninety - two', 'DATE')	1
+('afternoon', 'TIME')	1
+("The World Ca n't Wait", 'ORG')	1
+('more than two months', 'DATE')	1
+('the Gulf Coast', 'LOC')	1
+('Charles Dickens', 'PERSON')	1
+('A Tale of Two Cities', 'WORK_OF_ART')	1
+('nineteenth century', 'DATE')	1
+('Hurricane Katrina', 'EVENT')	1
+('Don', 'PERSON')	1
+('Joy Paolo', 'PERSON')	1
+('Algiers Point', 'LOC')	1
+('Paolos', 'PERSON')	1
+('Lower Ninth Ward', 'LOC')	1
+('Algiers', 'LOC')	1
+("Daisy Peters 's", 'PERSON')	1
+('Daisy', 'PERSON')	1
+('Paolo', 'PERSON')	1
+('Kim Bondy', 'PERSON')	1
+('two thousand and one', 'DATE')	1
+("Kim Bondy 's", 'PERSON')	1
+('two and a half weeks', 'DATE')	1
+('Thanksgiving', 'DATE')	1
+('Rusty', 'PERSON')	1
+('Elizabeth English', 'PERSON')	1
+('Bondy', 'PERSON')	1
+("American Morning 's", 'WORK_OF_ART')	1
+("Soledad O'Brien", 'PERSON')	1
+('seven am eastern', 'TIME')	1
+('Jeffrey Wasserstein', 'PERSON')	1
+('Wasserstein', 'PERSON')	1
+('Green party', 'ORG')	1
+('Nebraska', 'GPE')	1
+('oh four', 'DATE')	1
+('oh six', 'DATE')	1
+('Roe', 'LAW')	1
+('Dick Durbin', 'PERSON')	1
+('South Asian', 'LOC')	1
+('Jamie Foxx', 'PERSON')	1
+('Stanley Tookie Williams', 'PERSON')	1
+('nineteen eighty - one', 'DATE')	1
+('Edgar Medina', 'PERSON')	1
+('a hundred fifty thousand', 'CARDINAL')	1
+('Wes McBride', 'PERSON')	1
+('twenty - six years', 'DATE')	1
+('LA County', 'GPE')	1
+('Seven Eleven', 'ORG')	1
+('December thirteenth', 'DATE')	1
+('Fred Jackson', 'PERSON')	1
+('Stan', 'PERSON')	1
+('Jackson', 'PERSON')	1
+('nineteen sixty - seven', 'DATE')	1
+('a Nobel Peace prize', 'WORK_OF_ART')	1
+('the California Department of uh Corrections', 'ORG')	1
+('Amity', 'ORG')	1
+('Phoenix program', 'ORG')	1
+('a period of twenty years', 'DATE')	1
+('Schwarzenegger', 'PERSON')	1
+('the California Department of Corrections', 'ORG')	1
+('twenty - five years ago', 'DATE')	1
+('Phillips', 'PERSON')	1
+('Lora Tookie', 'PERSON')	1
+("last month 's", 'DATE')	1
+('week', 'DATE')	1
+('the Himalaya Mountains', 'LOC')	1
+('eighty thousand', 'CARDINAL')	1
+('Another eight hundred thousand', 'CARDINAL')	1
+('More than two million', 'CARDINAL')	1
+('ITV', 'ORG')	1
+('the Kashmir region', 'LOC')	1
+('days', 'DATE')	1
+('Save the Children', 'ORG')	1
+('two hundred', 'CARDINAL')	1
+('six thousand feet', 'QUANTITY')	1
+('Seven', 'CARDINAL')	1
+('hours', 'TIME')	1
+('about two weeks', 'DATE')	1
+('Twenty thousand', 'CARDINAL')	1
+('ITV News', 'ORG')	1
+('Naganari', 'GPE')	1
+('the United Arab Emirates', 'ORG')	1
+('seventh', 'ORDINAL')	1
+('one hundred eighty', 'CARDINAL')	1
+('African', 'NORP')	1
+('Rockettes', 'ORG')	1
+('annual Christmas', 'DATE')	1
+('six two', 'CARDINAL')	1
+('Willy Wonka and the Chocolate Factory', 'WORK_OF_ART')	1
+('Ralph Lauren', 'PERSON')	1
+('Dylan the Candy Bar', 'ORG')	1
+('Charlie and the Chocolate Factory', 'WORK_OF_ART')	1
+('FAO Schwartz', 'ORG')	1
+('Niketown', 'ORG')	1
+('a good twenty', 'CARDINAL')	1
+("Dylan 's Candy Bars", 'FAC')	1
+('Houston Orlando', 'GPE')	1
+('Roosevelt Field', 'GPE')	1
+("Dylan 's Candy Bars", 'ORG')	1
+('a special hour', 'TIME')	1
+('Something like eight to twenty years', 'DATE')	1
+('first day', 'DATE')	1
+('the Chesapeake Bay', 'LOC')	1
+('Salisbury Maryland', 'GPE')	1
+('a hundred and seventy pounds', 'QUANTITY')	1
+('twenty two years old', 'DATE')	1
+('Washington College', 'ORG')	1
+('Chestertown Maryland', 'GPE')	1
+('Greta Rideout', 'PERSON')	1
+('John Rideout', 'PERSON')	1
+('James Cameron', 'PERSON')	1
+('sixteen', 'DATE')	1
+('twelve', 'DATE')	1
+('the bottom of the hour', 'TIME')	1
+('Roseanne Barr', 'PERSON')	1
+('Sunday night', 'TIME')	1
+('Colin Powell Robert Downey Jr.', 'PERSON')	1
+('Months', 'DATE')	1
+('1984', 'DATE')	1
+('more than ten - fifteen years', 'DATE')	1
+('Linda Hamilton /.', 'PERSON')	1
+('a couple moments', 'TIME')	1
+('years before', 'DATE')	1
+('at least two', 'CARDINAL')	1
+('a year and a half', 'DATE')	1
+('every single day', 'DATE')	1
+('months on end', 'DATE')	1
+('five minutes', 'TIME')	1
+('the Complete Wellness Approach', 'ORG')	1
+('Eli Lily and company', 'ORG')	1
+('Betty Breeland', 'PERSON')	1
+('the day', 'DATE')	1
+('a half an hour', 'TIME')	1
+('Ron Pearlman', 'PERSON')	1
+('Complete Wellness', 'ORG')	1
+('The University of Medicine and Dentistry', 'ORG')	1
+('Scottsdale Arizona', 'GPE')	1
+('Hamilton', 'PERSON')	1
+("Tom Cruise 's", 'PERSON')	1
+('zero', 'CARDINAL')	1
+('Boulder Colorado', 'GPE')	1
+('fourteen hours', 'TIME')	1
+('Bruce', 'PERSON')	1
+('the first year', 'DATE')	1
+('Redwing Minnesota', 'GPE')	1
+('eight years', 'DATE')	1
+('nineteen eighty - two', 'DATE')	1
+('Tag the Assassination Game', 'WORK_OF_ART')	1
+('Kallabassas California', 'GPE')	1
+('about twenty - five', 'DATE')	1
+('Kallabassas', 'GPE')	1
+('Tacoma Washington', 'GPE')	1
+('Robert Downey Jr. Colin Powell', 'PERSON')	1
+('Kroten New York', 'GPE')	1
+('sixty years old', 'DATE')	1
+('the Jerry Springer Show', 'WORK_OF_ART')	1
+('A whole lifetime', 'DATE')	1
+('University of Medicine and Dentistry', 'ORG')	1
+('Piscataway New Jersey piscataway Piscataway New Jersey', 'GPE')	1
+("the Eli Lilly company 's", 'ORG')	1
+('Indianapolis Indiana', 'GPE')	1
+('Piscataway New Jersey', 'GPE')	1
+('University', 'ORG')	1
+('Indianapolis', 'GPE')	1
+('Sarasota Florida', 'GPE')	1
+('thirty - two', 'DATE')	1
+('Shriport Louisiana', 'GPE')	1
+('Shriport Shriport', 'GPE')	1
+('Colin Powell Robert Downey Jr. Sharon Stone', 'PERSON')	1

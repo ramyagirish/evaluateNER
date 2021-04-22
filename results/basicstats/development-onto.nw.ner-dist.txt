@@ -1,0 +1,2569 @@
+('China', 'GPE')	93
+('U.S.', 'GPE')	81
+('Sony', 'ORG')	44
+('one', 'CARDINAL')	38
+('Taiwan', 'GPE')	36
+('two', 'CARDINAL')	35
+('Chinese', 'NORP')	35
+('Xinhua News Agency', 'ORG')	32
+('first', 'ORDINAL')	30
+('Congress', 'ORG')	30
+('Hong Kong', 'GPE')	30
+('Japan', 'GPE')	29
+('today', 'DATE')	27
+('Friday', 'DATE')	25
+('Beijing', 'GPE')	25
+('New York', 'GPE')	24
+('ANC', 'ORG')	24
+('Bush', 'PERSON')	23
+('1987', 'DATE')	23
+('five', 'CARDINAL')	23
+('three', 'CARDINAL')	22
+('Justin', 'ORG')	20
+('Keating', 'PERSON')	19
+('Treasury', 'ORG')	18
+('Washington', 'GPE')	18
+('last year', 'DATE')	18
+('American', 'NORP')	18
+('Korean', 'NORP')	18
+('Japanese', 'NORP')	17
+('PASOK', 'ORG')	16
+('NBC', 'ORG')	16
+('this year', 'DATE')	14
+('Farmers', 'ORG')	14
+('Greece', 'GPE')	14
+('IRS', 'ORG')	14
+('Red Cross', 'ORG')	14
+('September', 'DATE')	13
+('US', 'GPE')	13
+('SAR', 'GPE')	13
+('Fed', 'ORG')	12
+('Houston', 'GPE')	12
+('Hungarian', 'NORP')	12
+('Today', 'DATE')	11
+('recent years', 'DATE')	11
+('Papandreou', 'PERSON')	11
+('Radio Free Europe', 'ORG')	11
+('Senate', 'ORG')	10
+('1990', 'DATE')	10
+('August', 'DATE')	10
+('Axa', 'ORG')	10
+('1988', 'DATE')	10
+('second', 'ORDINAL')	10
+('S&P', 'ORG')	10
+('Finland', 'GPE')	10
+('the Straits Foundation', 'ORG')	10
+('Brady', 'PERSON')	9
+('Tokyo', 'GPE')	9
+('1982', 'DATE')	9
+('Denver', 'GPE')	9
+('France', 'GPE')	9
+('four', 'CARDINAL')	9
+('Britain', 'GPE')	9
+('the Straits Association', 'ORG')	9
+('morning', 'TIME')	8
+('Sunday', 'DATE')	8
+('SEC', 'ORG')	8
+('last month', 'DATE')	8
+('GM', 'ORG')	8
+('British', 'NORP')	8
+('Kaye', 'PERSON')	8
+('last week', 'DATE')	8
+('10', 'CARDINAL')	8
+('six', 'CARDINAL')	8
+('Poland', 'GPE')	8
+('Hungary', 'GPE')	8
+('Greenspan', 'PERSON')	7
+('One', 'CARDINAL')	7
+('Dallas', 'GPE')	7
+('Calif.', 'GPE')	7
+('UAL', 'ORG')	7
+('1989', 'DATE')	7
+('Reagan', 'PERSON')	7
+('California', 'GPE')	7
+("Hong Kong 's", 'GPE')	7
+('Budapest', 'GPE')	7
+('Article II', 'LAW')	7
+('Zemin Jiang', 'PERSON')	7
+('Taiwanese', 'NORP')	7
+('Cuba', 'GPE')	7
+('October 1987', 'DATE')	6
+('Chicago', 'GPE')	6
+('Thursday', 'DATE')	6
+('Hollywood', 'GPE')	6
+('House', 'ORG')	6
+('Hoylake', 'ORG')	6
+('annual', 'DATE')	6
+('1986', 'DATE')	6
+('eight', 'CARDINAL')	6
+('Ohio', 'GPE')	6
+('Lincoln', 'ORG')	6
+('McCain', 'PERSON')	6
+('yesterday', 'DATE')	6
+('Merc', 'ORG')	6
+('Soviet', 'NORP')	6
+('Moscow', 'GPE')	6
+('San Francisco', 'GPE')	6
+('South Korea', 'GPE')	6
+('Trudeau', 'PERSON')	6
+('English', 'NORP')	6
+('Hills', 'PERSON')	6
+('the Southern Anhui Incident', 'EVENT')	6
+('Jiangsu province', 'GPE')	6
+('Straits', 'LOC')	6
+('the Government Office', 'ORG')	6
+('Xiamen', 'GPE')	6
+('ABC', 'ORG')	5
+('Europe', 'LOC')	5
+('Los Angeles', 'GPE')	5
+('weekly', 'DATE')	5
+('West Germany', 'GPE')	5
+('B.A.T', 'ORG')	5
+('Rosenblatt', 'PERSON')	5
+('third', 'ORDINAL')	5
+('a year earlier', 'DATE')	5
+('Koskotas', 'PERSON')	5
+('Communist', 'NORP')	5
+('Greek', 'NORP')	5
+('Lomas', 'ORG')	5
+('July', 'DATE')	5
+('a year ago', 'DATE')	5
+('daily', 'DATE')	5
+('Southeast Asia', 'LOC')	5
+('Thailand', 'GPE')	5
+('Malaysia', 'GPE')	5
+('London', 'GPE')	5
+('5', 'CARDINAL')	5
+('Sisulu', 'PERSON')	5
+('Pretoria', 'GPE')	5
+('Lockheed', 'ORG')	5
+('12', 'CARDINAL')	5
+('Apple', 'ORG')	5
+('Czechoslovakia', 'GPE')	5
+('Singapore', 'GPE')	5
+('England', 'GPE')	5
+('Korea', 'GPE')	5
+('Guangxi', 'GPE')	5
+('the New Fourth Army', 'ORG')	5
+('Jian Song', 'PERSON')	5
+('Jiaju Hou', 'PERSON')	5
+('This year', 'DATE')	5
+('Shantou', 'GPE')	5
+('the Import and Export Bank of China', 'ORG')	5
+('August 31st', 'DATE')	5
+('April 23rd', 'DATE')	5
+('Red Cross Society', 'ORG')	5
+('the Latin American Unification Association', 'ORG')	5
+('the weekend', 'DATE')	4
+('Monday', 'DATE')	4
+('this week', 'DATE')	4
+('evening', 'TIME')	4
+('New Zealand', 'GPE')	4
+('the White House', 'ORG')	4
+('1979', 'DATE')	4
+('Giant', 'ORG')	4
+('Dow Jones', 'ORG')	4
+('Warner', 'ORG')	4
+('June', 'DATE')	4
+('50 %', 'PERCENT')	4
+('Spain', 'GPE')	4
+('nine', 'CARDINAL')	4
+('James', 'PERSON')	4
+('Communist Party', 'ORG')	4
+('Two', 'CARDINAL')	4
+('Parliament', 'ORG')	4
+('Minnesota', 'GPE')	4
+('night', 'TIME')	4
+('8', 'CARDINAL')	4
+('Qintex', 'ORG')	4
+('Democratic', 'NORP')	4
+('DeConcini', 'PERSON')	4
+('Guangdong', 'GPE')	4
+('Shane Longman', 'ORG')	4
+('2', 'CARDINAL')	4
+('3', 'CARDINAL')	4
+('seven', 'CARDINAL')	4
+('hundreds', 'CARDINAL')	4
+('Italy', 'GPE')	4
+('Campeau', 'ORG')	4
+('First Boston', 'ORG')	4
+('the year', 'DATE')	4
+('250', 'CARDINAL')	4
+('Labor', 'ORG')	4
+('8 %', 'PERCENT')	4
+('Macintosh', 'ORG')	4
+('Soviets', 'NORP')	4
+('Constitution', 'LAW')	4
+('fiscal 1990', 'DATE')	4
+('Katzenstein', 'PERSON')	4
+('the World Bank', 'ORG')	4
+('GAF', 'ORG')	4
+('the Chaidamu Basin', 'LOC')	4
+('Shanxi', 'GPE')	4
+('Zhuhai', 'GPE')	4
+('the same period last year', 'DATE')	4
+('Haiti', 'GPE')	4
+('6th', 'ORDINAL')	4
+('The Straits Association', 'ORG')	4
+('Va.', 'GPE')	3
+('Detroit', 'GPE')	3
+('the mid-1980s', 'DATE')	3
+('1983', 'DATE')	3
+('Canadian', 'NORP')	3
+('Wednesday', 'DATE')	3
+('190.58', 'CARDINAL')	3
+('early October', 'DATE')	3
+('year', 'DATE')	3
+('fifth', 'ORDINAL')	3
+('Matsushita', 'ORG')	3
+('35 %', 'PERCENT')	3
+('Time', 'ORG')	3
+('April', 'DATE')	3
+('Peugeot', 'ORG')	3
+('Greeks', 'NORP')	3
+('Mass.', 'GPE')	3
+('New Democracy', 'ORG')	3
+('First', 'ORDINAL')	3
+('1992', 'DATE')	3
+('1981', 'DATE')	3
+('190', 'CARDINAL')	3
+('Democrats', 'NORP')	3
+('Skinner', 'PERSON')	3
+('AGF', 'ORG')	3
+('My First Sony', 'PRODUCT')	3
+('Manhattan', 'GPE')	3
+('Americans', 'NORP')	3
+('1', 'CARDINAL')	3
+('5 %', 'PERCENT')	3
+('Hammond', 'ORG')	3
+('recent months', 'DATE')	3
+('MGM / UA', 'ORG')	3
+('Australia', 'GPE')	3
+('the 1960s', 'DATE')	3
+('FCC', 'ORG')	3
+('Common Cause', 'ORG')	3
+('the Senate Ethics Committee', 'ORG')	3
+('the Justice Department', 'ORG')	3
+('Arizona', 'GPE')	3
+('Glenn', 'PERSON')	3
+('the Bank Board', 'ORG')	3
+('Cranston', 'PERSON')	3
+('tomorrow', 'DATE')	3
+('June 4', 'DATE')	3
+('Indonesia', 'GPE')	3
+('Playmates', 'ORG')	3
+('Michelle', 'PERSON')	3
+('Max', 'PERSON')	3
+('America', 'GPE')	3
+('the Supreme Court', 'ORG')	3
+('dozens', 'CARDINAL')	3
+('D.', 'NORP')	3
+('a year', 'DATE')	3
+('the past year', 'DATE')	3
+('Philadelphia', 'GPE')	3
+('annually', 'DATE')	3
+('South Africa', 'GPE')	3
+('half', 'CARDINAL')	3
+('the Soviet Union', 'GPE')	3
+('Mandela', 'PERSON')	3
+('Prime', 'ORG')	3
+('the Federal Reserve', 'ORG')	3
+('December', 'DATE')	3
+('9 %', 'PERCENT')	3
+('five - year', 'DATE')	3
+('10 minutes', 'TIME')	3
+('500', 'CARDINAL')	3
+('an hour', 'TIME')	3
+('MMI', 'ORG')	3
+('25', 'CARDINAL')	3
+('Nedelya', 'ORG')	3
+('U.N.', 'ORG')	3
+('250', 'MONEY')	3
+('15', 'CARDINAL')	3
+('Egypt', 'GPE')	3
+('Article II of the Constitution', 'LAW')	3
+('Contras', 'ORG')	3
+('Gorbachev', 'PERSON')	3
+('Mexico', 'GPE')	3
+('$ 100 million', 'MONEY')	3
+('Egyptian', 'NORP')	3
+('A Wild Sheep Chase', 'WORK_OF_ART')	3
+('Seoul', 'GPE')	3
+('1985', 'DATE')	3
+('Sonnett', 'PERSON')	3
+('Baldwin', 'PERSON')	3
+('Saudi Arabia', 'GPE')	3
+('17', 'CARDINAL')	3
+('State', 'ORG')	3
+('September 1st', 'DATE')	3
+('Li Luo', 'PERSON')	3
+('Romania', 'GPE')	3
+('Romanian', 'NORP')	3
+('the Military Armistice Commission', 'ORG')	3
+('Fangchenggang City', 'GPE')	3
+('Holland', 'GPE')	3
+('Nanjing', 'GPE')	3
+('Shanxi province', 'GPE')	3
+('Mid-west', 'LOC')	3
+('Xianglong Dai', 'PERSON')	3
+('Yuzhen Ma', 'PERSON')	3
+('Shenzhen', 'GPE')	3
+('16 %', 'PERCENT')	3
+('Peng Li', 'PERSON')	3
+('Guantanamo', 'GPE')	3
+('two years ago', 'DATE')	2
+('Mullins', 'PERSON')	2
+('afternoon', 'TIME')	2
+('last night', 'TIME')	2
+('Oct. 19', 'DATE')	2
+('13 %', 'PERCENT')	2
+('the years', 'DATE')	2
+('97 %', 'PERCENT')	2
+('30 %', 'PERCENT')	2
+('the past six years', 'DATE')	2
+('the next few years', 'DATE')	2
+('the past four years', 'DATE')	2
+('15 %', 'PERCENT')	2
+('Beverly Hills', 'GPE')	2
+('Calif', 'GPE')	2
+('Aspen', 'ORG')	2
+('2569.26', 'CARDINAL')	2
+('0.9 %', 'PERCENT')	2
+('0.5 %', 'PERCENT')	2
+('North American', 'NORP')	2
+('12.6 %', 'PERCENT')	2
+('Boeing', 'ORG')	2
+('fiscal year', 'DATE')	2
+('Siemens', 'ORG')	2
+('Munich', 'GPE')	2
+('four years', 'DATE')	2
+('$ 1 billion', 'MONEY')	2
+('Axa - Midi Group', 'ORG')	2
+('$ 2.25 billion', 'MONEY')	2
+('Cie . Financiere de Paribas', 'ORG')	2
+('Citicorp', 'ORG')	2
+('Bebear', 'PERSON')	2
+('75 %', 'PERCENT')	2
+('U.S. News & World Report', 'ORG')	2
+('week', 'DATE')	2
+('McGraw - Hill Inc.', 'ORG')	2
+('Texas Instruments', 'ORG')	2
+('23,000', 'MONEY')	2
+('Postal Service', 'ORG')	2
+('the first half of 1989', 'DATE')	2
+('French', 'NORP')	2
+('Dassault', 'ORG')	2
+('Paris', 'GPE')	2
+('three - month', 'DATE')	2
+('New Democracy Party', 'ORG')	2
+('General Dynamics Corp.', 'ORG')	2
+('Mitsotakis', 'PERSON')	2
+('NATO', 'ORG')	2
+('Palestinian', 'NORP')	2
+('Panama', 'GPE')	2
+('Democrat', 'NORP')	2
+('American', 'ORG')	2
+('10 %', 'PERCENT')	2
+('Paribas', 'ORG')	2
+('Savoca', 'PERSON')	2
+('Lomas Financial Corp.', 'ORG')	2
+('$ 145 million', 'MONEY')	2
+('Merrill Lynch', 'ORG')	2
+('Lazard', 'ORG')	2
+('Iken', 'PERSON')	2
+('last May', 'DATE')	2
+('Eslinger', 'PERSON')	2
+('Walkman', 'PRODUCT')	2
+('Baxley', 'PERSON')	2
+('12 - year', 'DATE')	2
+('11.9 %', 'PERCENT')	2
+('Cadillac', 'ORG')	2
+('Lexus', 'ORG')	2
+('Last year', 'DATE')	2
+('Honda', 'ORG')	2
+('Chrysler', 'ORG')	2
+('Fidelity', 'ORG')	2
+('six years', 'DATE')	2
+('CBS', 'ORG')	2
+('$ 1.5 billion', 'MONEY')	2
+('Australian', 'NORP')	2
+('next month', 'DATE')	2
+('$ 200 million', 'MONEY')	2
+('Holston', 'PERSON')	2
+('Wright', 'PERSON')	2
+('years', 'DATE')	2
+('800', 'CARDINAL')	2
+('Markey', 'PERSON')	2
+('third - quarter', 'DATE')	2
+('First Chicago', 'ORG')	2
+('$ 3 billion', 'MONEY')	2
+('$ 1 million', 'MONEY')	2
+('Michigan', 'GPE')	2
+('Wertheimer', 'PERSON')	2
+('Wall Street Journal', 'ORG')	2
+('Riegle', 'PERSON')	2
+('months', 'DATE')	2
+('MMS', 'ORG')	2
+('0.4 %', 'PERCENT')	2
+('summer', 'DATE')	2
+('Matchbox', 'ORG')	2
+('56 %', 'PERCENT')	2
+('Kwan', 'PERSON')	2
+('five days', 'DATE')	2
+("`` Capital City ''", 'WORK_OF_ART')	2
+('Capital City', 'WORK_OF_ART')	2
+('another million', 'CARDINAL')	2
+('a fraction of a second', 'TIME')	2
+("Shane Longman 's", 'ORG')	2
+('Declan', 'PERSON')	2
+('11', 'CARDINAL')	2
+('Thames', 'ORG')	2
+('Journal', 'ORG')	2
+('Investcorp', 'ORG')	2
+('Sports Unlimited', 'ORG')	2
+('Richardson', 'PERSON')	2
+('1973', 'DATE')	2
+('more than 50', 'CARDINAL')	2
+('Sam Nunn', 'PERSON')	2
+('Edward Kennedy', 'PERSON')	2
+('Nunn', 'PERSON')	2
+('17,500', 'MONEY')	2
+('a GI Bill', 'LAW')	2
+('4', 'CARDINAL')	2
+('Stanford', 'ORG')	2
+('10,000', 'MONEY')	2
+('Szanton', 'PERSON')	2
+('Gary Wilber', 'PERSON')	2
+('this fall', 'DATE')	2
+('DLC', 'ORG')	2
+('two hours', 'TIME')	2
+('the 1980s', 'DATE')	2
+('La.', 'GPE')	2
+('Umkhonto we Sizwe', 'ORG')	2
+('Lusaka', 'GPE')	2
+('30 years', 'DATE')	2
+('Nelson Mandela', 'PERSON')	2
+('South African', 'NORP')	2
+('N.J.', 'GPE')	2
+('Air Force', 'ORG')	2
+('the Air Force', 'ORG')	2
+('Aermacchi', 'ORG')	2
+('one - day', 'DATE')	2
+('$ 500 million', 'MONEY')	2
+('25 %', 'PERCENT')	2
+('Goldman', 'ORG')	2
+('30 - year', 'DATE')	2
+('103 12/32', 'CARDINAL')	2
+('7.82 %', 'PERCENT')	2
+('Technical Data Global Markets Group', 'ORG')	2
+('$ 550 million', 'MONEY')	2
+('November', 'DATE')	2
+('$ 1.2 billion', 'MONEY')	2
+('the end of July', 'DATE')	2
+('more than $ 500 million', 'MONEY')	2
+('the day', 'DATE')	2
+('Big Board', 'ORG')	2
+('30', 'CARDINAL')	2
+('Capitol Hill', 'ORG')	2
+('White House', 'ORG')	2
+('May 1988', 'DATE')	2
+('400', 'CARDINAL')	2
+('Dow Industrials', 'ORG')	2
+('Lutsenko', 'PERSON')	2
+('5,000', 'CARDINAL')	2
+('about 10,000', 'CARDINAL')	2
+('De Beers', 'ORG')	2
+('100', 'CARDINAL')	2
+('year - long', 'DATE')	2
+('Kremlin', 'ORG')	2
+('1,000', 'CARDINAL')	2
+('Trinity', 'ORG')	2
+('the first quarter of 1990', 'DATE')	2
+('Warsaw', 'GPE')	2
+('these days', 'DATE')	2
+('Eastern Europe', 'LOC')	2
+('0.8 %', 'PERCENT')	2
+('the previous three months', 'DATE')	2
+('D.C.', 'GPE')	2
+('next year', 'DATE')	2
+('Carnegie - Mellon', 'ORG')	2
+('$ 2 billion', 'MONEY')	2
+('N.Y.', 'GPE')	2
+('Egnuss', 'PERSON')	2
+('Arnold', 'GPE')	2
+('Atlanta', 'GPE')	2
+('Oct. 13', 'DATE')	2
+('Iran', 'GPE')	2
+('Madison', 'PERSON')	2
+('Section 605', 'LAW')	2
+('now', 'DATE')	2
+('Nicaraguan', 'NORP')	2
+('East Germans', 'NORP')	2
+("next week 's", 'DATE')	2
+('Salinas', 'PERSON')	2
+('The White House', 'ORG')	2
+('CIA', 'ORG')	2
+('Tuesday', 'DATE')	2
+('Candlestick Park', 'FAC')	2
+('14', 'CARDINAL')	2
+('Giants', 'ORG')	2
+('Miami', 'GPE')	2
+('Superdome', 'FAC')	2
+('Kodansha', 'ORG')	2
+('You Gotta Have Wa', 'WORK_OF_ART')	2
+('17.95', 'MONEY')	2
+('Nipponese', 'NORP')	2
+('earlier this year', 'DATE')	2
+('parliament', 'ORG')	2
+('Nagymaros', 'GPE')	2
+('6,000', 'CARDINAL')	2
+('the previous year', 'DATE')	2
+('more than $ 10,000', 'MONEY')	2
+('the last week', 'DATE')	2
+('recent days', 'DATE')	2
+('ABA', 'ORG')	2
+('Ross', 'PERSON')	2
+("the Justice Department 's", 'ORG')	2
+('Sacramento', 'GPE')	2
+('Darkhorse', 'ORG')	2
+('March 1988', 'DATE')	2
+('Samnick', 'PERSON')	2
+('Title X', 'LAW')	2
+('Hampton', 'PERSON')	2
+('Murray', 'PERSON')	2
+('Dorothy L. Sayers', 'PERSON')	2
+('Aslacton', 'GPE')	2
+('Hammond', 'PERSON')	2
+('St. Mary Abbot', 'ORG')	2
+('Great Torrington', 'GPE')	2
+('five years', 'DATE')	2
+('Taipei', 'GPE')	2
+('Turkey', 'GPE')	2
+('Honecker', 'PERSON')	2
+('Baker', 'PERSON')	2
+('German', 'NORP')	2
+('Webster', 'PERSON')	2
+('Zhiren Li', 'PERSON')	2
+('Russian', 'NORP')	2
+('Georgina', 'PERSON')	2
+('Mirosoviki', 'PERSON')	2
+('Shellbo', 'PERSON')	2
+('9.725', 'CARDINAL')	2
+('9.787', 'CARDINAL')	2
+('seventh', 'ORDINAL')	2
+('the Ministry of Foreign Affairs', 'ORG')	2
+('Asia', 'LOC')	2
+('Nanning', 'GPE')	2
+('Fangchenggang', 'GPE')	2
+('the State Council', 'ORG')	2
+('100,000 tons', 'QUANTITY')	2
+("Ge'ermu", 'GPE')	2
+('150,000 tons', 'QUANTITY')	2
+('the Asian Development Bank', 'ORG')	2
+('January 5th', 'DATE')	2
+('50th', 'ORDINAL')	2
+('the Nanjing Military District', 'GPE')	2
+('PLA', 'ORG')	2
+('the Overseas Chinese Association', 'ORG')	2
+('Taiyuan', 'GPE')	2
+('Shanxi Province', 'GPE')	2
+('1997', 'DATE')	2
+('Shanghai', 'GPE')	2
+('the whole year', 'DATE')	2
+('Yongkang Zhou', 'PERSON')	2
+('Bangguo Wu', 'PERSON')	2
+('Customs', 'ORG')	2
+('the past half year', 'DATE')	2
+('Cray Inc.', 'ORG')	2
+('The " 863 Program "', 'ORG')	2
+('ten', 'CARDINAL')	2
+('Hainan', 'GPE')	2
+('Shantou City', 'GPE')	2
+('13.6 %', 'PERCENT')	2
+('Fenglingdu', 'GPE')	2
+('the 30th', 'DATE')	2
+('Haitian', 'NORP')	2
+('90th', 'ORDINAL')	2
+('Zhengying Qian', 'PERSON')	2
+("the Straits Foundation 's", 'ORG')	2
+('the " QianDao Lake Incident "', 'EVENT')	2
+('Rumao Xie', 'PERSON')	2
+('Zhongnanhai', 'GPE')	2
+('Huaqing Liu', 'PERSON')	2
+('Shantou University', 'ORG')	2
+("People 's Congress", 'ORG')	2
+('Jiyun Tian', 'PERSON')	2
+('West Samoa', 'GPE')	2
+('Cuban', 'NORP')	2
+('Federal Reserve', 'ORG')	1
+('Alan Greenspan', 'PERSON')	1
+('Nicholas Brady', 'PERSON')	1
+('David Mullins', 'PERSON')	1
+('the New York Times', 'ORG')	1
+('the Washington Post', 'ORG')	1
+('Richard Darman', 'PERSON')	1
+('Week', 'WORK_OF_ART')	1
+('Darman', 'PERSON')	1
+('Manuel Johnson', 'PERSON')	1
+('5 p.m. EST', 'TIME')	1
+('the trading day', 'DATE')	1
+('the evening', 'TIME')	1
+('the night', 'TIME')	1
+('1.7 %', 'PERCENT')	1
+('early Monday', 'DATE')	1
+('early afternoon', 'TIME')	1
+('Robert Glauber', 'PERSON')	1
+('Brady Commission', 'ORG')	1
+('Richard Breeden', 'PERSON')	1
+('Camp David', 'FAC')	1
+('Michael Boskin', 'PERSON')	1
+('David Mulford', 'PERSON')	1
+('the Business Council', 'ORG')	1
+('Hot Springs', 'GPE')	1
+('the following day', 'DATE')	1
+('American Bankers Association', 'ORG')	1
+('10 a.m. this morning', 'TIME')	1
+('Oct. 20 , 1987', 'DATE')	1
+('508', 'CARDINAL')	1
+('the next morning', 'TIME')	1
+('1960s', 'DATE')	1
+('the mid-1970s', 'DATE')	1
+('Metropolitan Detroit', 'ORG')	1
+('the early 1980s', 'DATE')	1
+('14 %', 'PERCENT')	1
+('76 %', 'PERCENT')	1
+('400 %', 'PERCENT')	1
+('between 1982 and the peak year of 1986', 'DATE')	1
+('the past five years', 'DATE')	1
+('as much as 5 %', 'PERCENT')	1
+('more than 20 %', 'PERCENT')	1
+('More than 42,000', 'CARDINAL')	1
+('2.5 % to 3 %', 'PERCENT')	1
+('the peak year', 'DATE')	1
+('4 %', 'PERCENT')	1
+('between 1983 and 1987', 'DATE')	1
+('the most recent year', 'DATE')	1
+('the boom years', 'DATE')	1
+('more than 75 %', 'PERCENT')	1
+('several billion dollars', 'MONEY')	1
+('as early as next year', 'DATE')	1
+('mid-1980s', 'DATE')	1
+('15 % to 19 %', 'PERCENT')	1
+('low to mid-20 %', 'PERCENT')	1
+('a couple of years', 'DATE')	1
+('three - year', 'DATE')	1
+('Leinberger', 'PERSON')	1
+('10.06.89 NAV:22.15', 'CARDINAL')	1
+('Giant Group Ltd.', 'ORG')	1
+('Aspen Airways', 'ORG')	1
+('United Express', 'ORG')	1
+("UAL Corp. 's United Airlines", 'ORG')	1
+('Burt Sugarman', 'PERSON')	1
+('Avmark Inc.', 'ORG')	1
+('Arlington', 'GPE')	1
+('about $ 46 million', 'MONEY')	1
+('Black Monday', 'EVENT')	1
+('late morning', 'TIME')	1
+('$ 6.79 billion', 'MONEY')	1
+('three months', 'DATE')	1
+('later this week', 'DATE')	1
+('General Motors', 'ORG')	1
+('up to five', 'CARDINAL')	1
+('the mid-1990s', 'DATE')	1
+('Peter Gruber', 'PERSON')	1
+('Jon Peters', 'PERSON')	1
+('Hooker', 'ORG')	1
+('$ 409 million', 'MONEY')	1
+('Bonwit Teller', 'ORG')	1
+('B. Altman', 'ORG')	1
+('America West', 'ORG')	1
+('Saatchi & Saatchi', 'ORG')	1
+('British Aerospace', 'ORG')	1
+('Thomson - CSF', 'ORG')	1
+('Four', 'CARDINAL')	1
+('251,170,000', 'CARDINAL')	1
+('1406.29', 'CARDINAL')	1
+('78.06', 'CARDINAL')	1
+('211.96', 'CARDINAL')	1
+('7.29', 'CARDINAL')	1
+('Shearson Lehman Hutton Treasury', 'ORG')	1
+('3421.29', 'CARDINAL')	1
+('129.87', 'CARDINAL')	1
+('0.01', 'CARDINAL')	1
+('129.25', 'CARDINAL')	1
+('0.28', 'CARDINAL')	1
+('142.10 yen', 'MONEY')	1
+('2.07', 'CARDINAL')	1
+('1.8740 marks', 'MONEY')	1
+('0.0343', 'CARDINAL')	1
+('Matsushita Electric Industrial Co. of Japan', 'ORG')	1
+('Siemens AG', 'ORG')	1
+('100 million - mark', 'MONEY')	1
+('$ 52.2 million', 'MONEY')	1
+('74.9 %', 'PERCENT')	1
+('Matsushita Electronic Components Co.', 'ORG')	1
+('25.1 %', 'PERCENT')	1
+('Siemens Matsushita Components G.m.b . H .', 'ORG')	1
+('Oct. 1 , 1990', 'DATE')	1
+('the following Oct. 1', 'DATE')	1
+('around 750 million marks', 'MONEY')	1
+('one billion marks', 'MONEY')	1
+('Austria', 'GPE')	1
+('Axa - Midi Assurances', 'ORG')	1
+('$ 4.5 billion', 'MONEY')	1
+('Farmers Group Inc.', 'ORG')	1
+('James Goldsmith', 'PERSON')	1
+('B.A.T Industries PLC', 'ORG')	1
+('Goldsmith', 'PERSON')	1
+('Hoylake Investments Ltd.', 'ORG')	1
+('$ 5.5 billion', 'MONEY')	1
+('about $ 1 billion', 'MONEY')	1
+('Claude Bebear', 'PERSON')	1
+('Credit Lyonnais', 'ORG')	1
+('Societe Generale', 'ORG')	1
+('BankAmerica Corp.', 'ORG')	1
+('more than $ 2.5 billion', 'MONEY')	1
+('# 13.35 billion', 'MONEY')	1
+('$ 20.71 billion', 'MONEY')	1
+('Roger Rosenblatt', 'PERSON')	1
+('2.3 million', 'CARDINAL')	1
+('U.S. News', 'ORG')	1
+("Time Warner Inc. 's Time", 'ORG')	1
+('4.4 million', 'CARDINAL')	1
+("Washington Post Co. 's Newsweek", 'ORG')	1
+('3.3 million', 'CARDINAL')	1
+('Mortimer B. Zuckerman', 'PERSON')	1
+('Michael Ruby', 'PERSON')	1
+('Merrill McLoughlin', 'PERSON')	1
+('Ruby', 'PERSON')	1
+('McLoughlin', 'PERSON')	1
+('Zuckerman', 'PERSON')	1
+('Business Week', 'ORG')	1
+('Texas Instruments Inc.', 'ORG')	1
+('approximately 140,000', 'CARDINAL')	1
+('Oct. 20', 'DATE')	1
+('Corporate Elite', 'WORK_OF_ART')	1
+('15 - second', 'TIME')	1
+('about $ 4', 'MONEY')	1
+("Business Week 's", 'ORG')	1
+('Three', 'CARDINAL')	1
+('as many as 650', 'CARDINAL')	1
+('Recognition Equipment Inc.', 'ORG')	1
+('the U.S. Postal Service', 'ORG')	1
+('William G. Moore Jr.', 'PERSON')	1
+('Robert W. Reedy', 'PERSON')	1
+('Peter E. Voss', 'PERSON')	1
+('Voss', 'PERSON')	1
+('11,000', 'MONEY')	1
+('Recognition', 'ORG')	1
+('20,000', 'MONEY')	1
+('Moore', 'PERSON')	1
+('Reedy', 'PERSON')	1
+('Sept. 27', 'DATE')	1
+('the District of Columbia', 'ORG')	1
+('last October', 'DATE')	1
+('$ 400 million', 'MONEY')	1
+('Recognition Equipment', 'ORG')	1
+('the Postal Service', 'ORG')	1
+('an additional 120 days', 'DATE')	1
+('The Postal Service', 'ORG')	1
+('Oct. 7', 'DATE')	1
+('Avions Marcel Dassault - Breguet Aviation S.A.', 'ORG')	1
+('839 million francs', 'MONEY')	1
+('$ 129.6 million', 'MONEY')	1
+('425 million francs', 'MONEY')	1
+('the first half', 'DATE')	1
+('8.734 billion francs', 'MONEY')	1
+('about 12 %', 'PERCENT')	1
+('9.934 billion francs', 'MONEY')	1
+('20 billion francs', 'MONEY')	1
+('the second half of the year', 'DATE')	1
+('428 million francs', 'MONEY')	1
+('18.819 billion francs', 'MONEY')	1
+('full - year', 'DATE')	1
+('19 - day', 'DATE')	1
+('Peugeot S.A.', 'ORG')	1
+('Finance Ministry', 'ORG')	1
+('Mulhouse', 'GPE')	1
+('589', 'CARDINAL')	1
+('193', 'CARDINAL')	1
+('the Ministry of Finance', 'ORG')	1
+('Frenchman', 'NORP')	1
+('Ministry', 'ORG')	1
+('Nov. 5', 'DATE')	1
+('eight - year', 'DATE')	1
+('Andreas Papandreou', 'PERSON')	1
+('mid-June', 'DATE')	1
+('Constantine Mitsotakis', 'PERSON')	1
+('Coalition of the Left and Progress', 'ORG')	1
+('pro-Soviet', 'NORP')	1
+('Euro', 'NORP')	1
+('the Hellenic Left', 'ORG')	1
+('decades', 'DATE')	1
+('George Koskotas', 'PERSON')	1
+('the Bank of Crete', 'ORG')	1
+('Salem', 'GPE')	1
+('$ 23 million', 'MONEY')	1
+('Bank of Crete', 'ORG')	1
+('734,000', 'MONEY')	1
+('$ 57 million', 'MONEY')	1
+('$ 210 million', 'MONEY')	1
+('millions of drachmas', 'MONEY')	1
+('EYP', 'ORG')	1
+('F - 16 Fighting Falcon', 'PRODUCT')	1
+('Mirage 2000', 'PRODUCT')	1
+('U.S.based', 'GPE')	1
+('Avions Marcel Dassault', 'ORG')	1
+('General Dynamics', 'ORG')	1
+('Coalition of the Left', 'ORG')	1
+('Progress', 'ORG')	1
+('May 1990', 'DATE')	1
+('Mohammed Rashid', 'PERSON')	1
+('Pan American Airways', 'ORG')	1
+('Rashid', 'PERSON')	1
+('early next year', 'DATE')	1
+('March', 'DATE')	1
+('Carpenter', 'PERSON')	1
+('National Review', 'ORG')	1
+('Athens', 'GPE')	1
+('1987 October', 'DATE')	1
+('Friday the 13th', 'DATE')	1
+('An hour', 'TIME')	1
+('$ 5.4 billion', 'MONEY')	1
+('Transportation', 'ORG')	1
+('KLM', 'ORG')	1
+('British Airways', 'ORG')	1
+('James Oberstar', 'PERSON')	1
+("Public Works and Transportation Committee 's", 'ORG')	1
+('United Air Lines', 'ORG')	1
+('up to 50 days', 'DATE')	1
+('Danny Rostenkowski', 'PERSON')	1
+("The Big Board 's", 'ORG')	1
+('the Chicago Board of Trade', 'ORG')	1
+('Assurances Generales de France', 'ORG')	1
+('Cie. de Navigation Mixte', 'ORG')	1
+('about 8 %', 'PERCENT')	1
+('Bourse', 'ORG')	1
+('Navigation Mixte', 'ORG')	1
+('recent weeks', 'DATE')	1
+('Antonio L. Savoca', 'PERSON')	1
+('66 years old', 'DATE')	1
+('Atlantic Research Corp.', 'ORG')	1
+('William H. Borten', 'PERSON')	1
+('Sequa', 'ORG')	1
+('Lazard Freres & Co.', 'ORG')	1
+('Merrill Lynch Capital Markets', 'ORG')	1
+('Equitable Lomas Leasing Co.', 'ORG')	1
+('several months', 'DATE')	1
+('Sept. 1', 'DATE')	1
+('Chapter 11 of the federal Bankruptcy Code', 'LAW')	1
+('Sept. 24', 'DATE')	1
+('$ 1.45 billion', 'MONEY')	1
+('Last April', 'DATE')	1
+('Steven B. Iken', 'PERSON')	1
+('Justin Products Inc.', 'ORG')	1
+('some 40 %', 'PERCENT')	1
+('Sony Corp.', 'ORG')	1
+("`` My Own ''", 'PRODUCT')	1
+('61 - year - old', 'DATE')	1
+('Leonard Kaye', 'PERSON')	1
+('about $ 25 million', 'MONEY')	1
+('about $ 16 billion', 'MONEY')	1
+('Lewis H. Eslinger', 'PERSON')	1
+("Rubik 's Cube", 'PRODUCT')	1
+('John E. Sprizzo', 'PERSON')	1
+('Capetronic Inc.', 'ORG')	1
+('about 40', 'CARDINAL')	1
+('more than $ 3 million', 'MONEY')	1
+('over a million', 'CARDINAL')	1
+('Charles E. Baxley', 'PERSON')	1
+('last winter', 'DATE')	1
+('the Federal Trade Commission', 'ORG')	1
+('U.S. Justice Department', 'ORG')	1
+('more than $ 70,000', 'MONEY')	1
+('10.5 %', 'PERCENT')	1
+('the first year', 'DATE')	1
+('each of the next 11 years', 'DATE')	1
+('each fall', 'DATE')	1
+('about 41.4 billion Canadian dollars', 'MONEY')	1
+('US$ 35.2 billion', 'MONEY')	1
+('General Motors Corp.', 'ORG')	1
+('year - ago', 'DATE')	1
+('160,510', 'CARDINAL')	1
+('the first 10 days of October', 'DATE')	1
+('10.4 %', 'PERCENT')	1
+('86,555', 'CARDINAL')	1
+('Oct. 1', 'DATE')	1
+('26.3 %', 'PERCENT')	1
+("last year 's", 'DATE')	1
+('Tom Kelly', 'PERSON')	1
+('Bill Wink Chevrolet', 'ORG')	1
+('Dearborn', 'GPE')	1
+('Mich', 'GPE')	1
+('seasonally', 'DATE')	1
+('5.8 million', 'CARDINAL')	1
+('almost eight million', 'CARDINAL')	1
+('late last week', 'DATE')	1
+('24.3 %', 'PERCENT')	1
+('28.7 %', 'PERCENT')	1
+('3.2 %', 'PERCENT')	1
+('Toyota Motor Corp', 'ORG')	1
+('Toyota', 'ORG')	1
+('month - end', 'DATE')	1
+('Ford Motor Co.', 'ORG')	1
+('1.8 %', 'PERCENT')	1
+('2.4 %', 'PERCENT')	1
+('Chrysler Corp.', 'ORG')	1
+('7.5 %', 'PERCENT')	1
+('all year', 'DATE')	1
+('4.3 %', 'PERCENT')	1
+("Honda Motor Co. 's", 'ORG')	1
+('21.7 %', 'PERCENT')	1
+('Marysville', 'GPE')	1
+('Accords', 'ORG')	1
+('earlier this fall', 'DATE')	1
+('between 4 % and 9 %', 'PERCENT')	1
+('999 %', 'PERCENT')	1
+('Hammond Co.', 'ORG')	1
+('Newport Beach', 'GPE')	1
+('Fidelity National Financial Inc.', 'ORG')	1
+('Oct. 31', 'DATE')	1
+('Irvine', 'GPE')	1
+('23.57 %', 'PERCENT')	1
+('Securities and Exchange Commission', 'ORG')	1
+('20 years', 'DATE')	1
+('National Broadcasting Co.', 'ORG')	1
+('General Electric Co.', 'ORG')	1
+("Qintex Australia Ltd. 's", 'ORG')	1
+('MGM / UA Communications Co', 'ORG')	1
+('CBS Inc.', 'ORG')	1
+('Capital Cities / ABC Inc.', 'ORG')	1
+('Motion Picture Association', 'ORG')	1
+('Jack Valenti', 'PERSON')	1
+('Paramount Communications Inc.', 'ORG')	1
+('Fries Entertainment Inc.', 'ORG')	1
+('Warner Communications Inc.', 'ORG')	1
+('MCA Inc.', 'ORG')	1
+('Valenti', 'PERSON')	1
+('Robert Wright', 'PERSON')	1
+("Sony Corp. 's", 'ORG')	1
+('Columbia Pictures Entertainment Inc.', 'ORG')	1
+('$ 3.4 billion', 'MONEY')	1
+('Guber Peters Entertainment Co.', 'ORG')	1
+('Walter Cronkite', 'PERSON')	1
+('the Sony / Columbia Broadcast System Trinitron Evening News', 'ORG')	1
+('Dan Rather', 'PERSON')	1
+('J.B. Holston', 'PERSON')	1
+("last week 's", 'DATE')	1
+('Broadcasting', 'ORG')	1
+('non-U.S.', 'GPE')	1
+('light years', 'DATE')	1
+('the summer', 'DATE')	1
+('Time Inc.', 'ORG')	1
+('Home Box Office', 'ORG')	1
+('HBO', 'ORG')	1
+('Time - Warner', 'ORG')	1
+('Columbia', 'ORG')	1
+('William Lilley III', 'PERSON')	1
+('Policy Communications', 'ORG')	1
+('100 %', 'PERCENT')	1
+('Moonlighting', 'WORK_OF_ART')	1
+('several years', 'DATE')	1
+('Six years ago', 'DATE')	1
+('Federal Communications Commission', 'ORG')	1
+('Brookings Institution', 'ORG')	1
+('just eight days', 'DATE')	1
+('Ronald Reagan', 'PERSON')	1
+('Edward J. Markey', 'PERSON')	1
+('D', 'NORP')	1
+('Alfred C. Sikes', 'PERSON')	1
+('sixty - day', 'DATE')	1
+('-- Rollin S. Trexler .', 'PERSON')	1
+('-- C.E. Friedman .', 'PERSON')	1
+('First Chicago Corp.', 'ORG')	1
+('$ 23.3 million', 'MONEY')	1
+('First National Bank', 'ORG')	1
+('$ 48 billion', 'MONEY')	1
+('79 %', 'PERCENT')	1
+('$ 1.7 billion', 'MONEY')	1
+('the quarter', 'DATE')	1
+('$ 60.4 million', 'MONEY')	1
+('First Chicago Investment Advisors', 'ORG')	1
+('24 %', 'PERCENT')	1
+("last year 's third quarter", 'DATE')	1
+('$ 38.2 million', 'MONEY')	1
+('$ 50.5 million', 'MONEY')	1
+("First Chicago 's", 'ORG')	1
+('32 %', 'PERCENT')	1
+('$ 34 million', 'MONEY')	1
+('$ 25.7 million', 'MONEY')	1
+('Charles Keating', 'PERSON')	1
+('$ 1.1 billion', 'MONEY')	1
+('Lincoln Savings & Loan Association', 'ORG')	1
+('Fred Wertheimer', 'PERSON')	1
+('Dennis DeConcini', 'PERSON')	1
+('Alan Cranston', 'PERSON')	1
+('John Glenn', 'PERSON')	1
+('Donald Riegle', 'PERSON')	1
+('GOP', 'ORG')	1
+('John McCain', 'PERSON')	1
+('April 1987', 'DATE')	1
+("the Federal Home Loan Bank Board 's", 'ORG')	1
+('the next two years', 'DATE')	1
+('May 1987', 'DATE')	1
+('American Continental Corp.', 'ORG')	1
+('this April 13', 'DATE')	1
+('the next day', 'DATE')	1
+('Resolution Trust Corp.', 'ORG')	1
+('Sept. 15', 'DATE')	1
+('as much as $ 2.5 billion', 'MONEY')	1
+('the past two years', 'DATE')	1
+('the Senate Banking Committee', 'ORG')	1
+('76,000', 'MONEY')	1
+('about two weeks', 'DATE')	1
+('48,000', 'MONEY')	1
+('only last month', 'DATE')	1
+('13,433', 'MONEY')	1
+('American Continental', 'ORG')	1
+('Cat Cay', 'GPE')	1
+('Bahamas', 'GPE')	1
+('from 1984 through 1986', 'DATE')	1
+('112,000', 'MONEY')	1
+('850,000', 'MONEY')	1
+('47,000', 'MONEY')	1
+('85,000', 'MONEY')	1
+('that year', 'DATE')	1
+('200,000', 'MONEY')	1
+('the National Council on Public Policy', 'ORG')	1
+('34,000', 'MONEY')	1
+('James Wright', 'PERSON')	1
+('Wilson Abney', 'PERSON')	1
+('the Federal Bureau of Investigation', 'ORG')	1
+('about $ 9 billion', 'MONEY')	1
+('$ 7.6 billion', 'MONEY')	1
+('MMS International', 'ORG')	1
+('Michael Englund', 'PERSON')	1
+('Englund', 'PERSON')	1
+('the next six or seven months', 'DATE')	1
+('Robert H. Chandross', 'PERSON')	1
+("Lloyd 's Bank", 'ORG')	1
+('as much as 4 %', 'PERCENT')	1
+('Gary Ciminero', 'PERSON')	1
+('Fleet / Norstar Financial Group', 'ORG')	1
+('as much as 0.5 %', 'PERCENT')	1
+('1,350,000', 'CARDINAL')	1
+('about 75 %', 'PERCENT')	1
+('Toys Council', 'ORG')	1
+('Dennis Ting', 'PERSON')	1
+('David Yeh', 'PERSON')	1
+('International Matchbox Group Ltd', 'ORG')	1
+('the past decade', 'DATE')	1
+('South China', 'LOC')	1
+('Henry Hu', 'PERSON')	1
+('Wah Shing Toys Consolidated Ltd', 'ORG')	1
+('19 %', 'PERCENT')	1
+('HK$ 10.05 billion', 'MONEY')	1
+('US$ 1.29 billion', 'MONEY')	1
+('HK$ 15.92 billion', 'MONEY')	1
+("1989 's first seven months", 'DATE')	1
+('29 %', 'PERCENT')	1
+('HK$ 3.87 billion', 'MONEY')	1
+('HK$ 11.28 billion', 'MONEY')	1
+('an estimated 120,000', 'CARDINAL')	1
+('supplier', 'GPE')	1
+('Edmund Young', 'PERSON')	1
+('Perfecta Enterprises Ltd.', 'ORG')	1
+('Wah Shing', 'ORG')	1
+('Kader Industrial Co.', 'ORG')	1
+('Ting', 'PERSON')	1
+('the Philippines', 'GPE')	1
+('the European Community', 'ORG')	1
+('Portugal', 'GPE')	1
+('Worlds of Wonder Inc.', 'ORG')	1
+('Coleco Industries Inc', 'ORG')	1
+('Teenage Mutant Ninja Turtles', 'PRODUCT')	1
+('Playmates Holdings Ltd', 'ORG')	1
+('mid-1988', 'DATE')	1
+('15 - centimeter', 'QUANTITY')	1
+('Paul Kwan', 'PERSON')	1
+('10 million', 'CARDINAL')	1
+('Ninja Turtles', 'PRODUCT')	1
+('the Christmas season', 'DATE')	1
+('about 60 %', 'PERCENT')	1
+('the Ninja Turtles', 'PRODUCT')	1
+('Nintendo Entertainment System', 'ORG')	1
+('Nintendo Co.', 'ORG')	1
+('Nintendo', 'ORG')	1
+('late last year', 'DATE')	1
+('only three days', 'DATE')	1
+('a few months', 'DATE')	1
+('three weeks ago', 'DATE')	1
+('Thames Television', 'ORG')	1
+('the crash of 1987', 'EVENT')	1
+('1929', 'DATE')	1
+('# 500 million', 'MONEY')	1
+('the final 13th week', 'DATE')	1
+('monthly', 'DATE')	1
+('Columbia', 'GPE')	1
+('the week', 'DATE')	1
+('Porsche', 'ORG')	1
+('Dieppe', 'GPE')	1
+('a good day', 'DATE')	1
+('# 8 million', 'MONEY')	1
+('$ 12.4 million', 'MONEY')	1
+('Dealers', 'WORK_OF_ART')	1
+('Another half million quid', 'MONEY')	1
+("`` Capital City 's ''", 'WORK_OF_ART')	1
+('Yank', 'NORP')	1
+('Donald Taffner', 'PERSON')	1
+("Three 's Company", 'WORK_OF_ART')	1
+('Too Close for Comfort', 'WORK_OF_ART')	1
+('Check It Out', 'WORK_OF_ART')	1
+('Taffner', 'PERSON')	1
+('Carry On', 'WORK_OF_ART')	1
+('Joanna Kanska', 'PERSON')	1
+('Zsa Zsa Gabor', 'PERSON')	1
+('William Armstrong', 'PERSON')	1
+('Hans Conreid', 'PERSON')	1
+('Douglas Hodge', 'PERSON')	1
+('James Farentino', 'PERSON')	1
+('Rolf Saxon', 'PERSON')	1
+('Tommy Noonan', 'PERSON')	1
+('Dorian Healy', 'PERSON')	1
+('Huntz Hall', 'PERSON')	1
+('Bowery Boys', 'WORK_OF_ART')	1
+('Carry On Trading', 'WORK_OF_ART')	1
+('Dai - Ichi Kangyo Bank', 'ORG')	1
+('Zsa Zsa', 'PERSON')	1
+("Huntz Hall 's", 'PERSON')	1
+('Rustin', 'PERSON')	1
+('Sports & Recreation Inc.', 'ORG')	1
+('$ 40 million', 'MONEY')	1
+('Sports & Recreation', 'ORG')	1
+('10 - year - old', 'DATE')	1
+('Oliver E. Richardson', 'PERSON')	1
+('Tampa', 'GPE')	1
+('Fla.', 'GPE')	1
+('$ 59 million', 'MONEY')	1
+('the year ended July 31', 'DATE')	1
+("Sports & Recreation 's", 'ORG')	1
+('Brunswick Corp.', 'ORG')	1
+('Skokie', 'GPE')	1
+('Ill', 'GPE')	1
+('Kenneth Starr', 'PERSON')	1
+('Supreme Court', 'ORG')	1
+('Roe', 'PERSON')	1
+('Wade', 'PERSON')	1
+('1976', 'DATE')	1
+('William Rehnquist', 'PERSON')	1
+('last July', 'DATE')	1
+('Missouri', 'GPE')	1
+('only three', 'CARDINAL')	1
+("the Supreme Court 's", 'ORG')	1
+('Hodgson', 'PERSON')	1
+('Nov. 29', 'DATE')	1
+('a decade', 'DATE')	1
+('this spring', 'DATE')	1
+('Ga .', 'GPE')	1
+('Dave McCurdy', 'PERSON')	1
+('Okla.', 'GPE')	1
+('Claiborne Pell', 'PERSON')	1
+('Barbara Mikulski', 'PERSON')	1
+('Christopher Dodd', 'PERSON')	1
+('the Senate Labor Committee', 'ORG')	1
+('20 %', 'PERCENT')	1
+('several hundred thousand', 'CARDINAL')	1
+('Yale', 'ORG')	1
+('thousands', 'CARDINAL')	1
+('Carter', 'PERSON')	1
+('National Service : What Would It Mean', 'WORK_OF_ART')	1
+('Lexington Books', 'ORG')	1
+('Drug Emporium Inc.', 'ORG')	1
+('39 years old', 'DATE')	1
+('Philip T. Wilber', 'PERSON')	1
+('Robert E. Lyons III', 'PERSON')	1
+('39', 'DATE')	1
+('the early 1970s', 'DATE')	1
+('A quarter of a century ago', 'DATE')	1
+('the 1970s', 'DATE')	1
+('a couple of years ago', 'DATE')	1
+('The Democratic Leadership Council', 'ORG')	1
+('100', 'MONEY')	1
+('the end of each year', 'DATE')	1
+('17 - to 18 - year - olds', 'DATE')	1
+('Pentagon', 'ORG')	1
+('Labor Committee', 'ORG')	1
+('Chris Dodd', 'PERSON')	1
+('Kennedy', 'PERSON')	1
+('Dale Bumpers', 'PERSON')	1
+('VISTA', 'ORG')	1
+('Retired Senior Volunteer', 'ORG')	1
+('Foster Grandparent', 'ORG')	1
+('Senior Companion', 'ORG')	1
+('$ 330 million', 'MONEY')	1
+('the Gallup Poll', 'ORG')	1
+('Points of Light', 'ORG')	1
+('$ 25 million', 'MONEY')	1
+('the millions', 'CARDINAL')	1
+('Chapman', 'PERSON')	1
+('Indianapolis', 'GPE')	1
+('Hudson Institute', 'ORG')	1
+('Hoover Institution', 'ORG')	1
+('Freeport - McMoRan Inc.', 'ORG')	1
+('Sunshine Bridge', 'FAC')	1
+('Donaldsonville', 'GPE')	1
+('Freeport - McMoRan Resource Partners Limited Partnership', 'ORG')	1
+('More than 400,000 pounds', 'QUANTITY')	1
+('the past seven years', 'DATE')	1
+('Uncle Sam', 'GPE')	1
+('more than 700,000 pounds', 'QUANTITY')	1
+('Freeport - McMoRan', 'ORG')	1
+('Freeport Uranium Recovery Co.', 'ORG')	1
+('Freeport - McMoRan Resource Partners', 'ORG')	1
+('Walter Sisulu', 'PERSON')	1
+('the African National Congress', 'ORG')	1
+('26 years', 'DATE')	1
+('77 - year - old', 'DATE')	1
+('1963', 'DATE')	1
+('1960', 'DATE')	1
+('Elias Motsoaledi', 'PERSON')	1
+('Zambia', 'GPE')	1
+('Cassim Saloojee', 'PERSON')	1
+('the Holy Cross Anglican Church', 'ORG')	1
+('Soweto', 'GPE')	1
+('F.W. de Klerk', 'PERSON')	1
+('the Pan Africanist Congress', 'ORG')	1
+('the days', 'DATE')	1
+('Peter Mokaba', 'PERSON')	1
+('the South African Youth Congress', 'ORG')	1
+("last night 's", 'TIME')	1
+('Andrew Mlangeni', 'PERSON')	1
+('Umkhonto', 'ORG')	1
+('63', 'DATE')	1
+('American Physicians Service Group Inc.', 'ORG')	1
+('about 42 %', 'PERCENT')	1
+('Prime Medical Services Inc.', 'ORG')	1
+('about $ 5 million', 'MONEY')	1
+('Texas American Energy Corp', 'ORG')	1
+('American Physicians', 'ORG')	1
+('Texas American', 'ORG')	1
+('Bedminster', 'GPE')	1
+('the year ended June 30', 'DATE')	1
+('$ 3 million', 'MONEY')	1
+('$ 13.8 million', 'MONEY')	1
+('Lockheed Aeronautical Systems Co.', 'ORG')	1
+('Lockheed Corp.', 'ORG')	1
+('Aermacchi S.p . A.', 'ORG')	1
+('Varese', 'GPE')	1
+('The Air Force', 'ORG')	1
+('540', 'CARDINAL')	1
+('$ 1.5 billion to $ 2 billion', 'MONEY')	1
+('between 1994 and 2004', 'DATE')	1
+('the T - 37', 'PRODUCT')	1
+('Cessna Aircraft Co.', 'ORG')	1
+('Navy', 'ORG')	1
+('an additional 340', 'CARDINAL')	1
+('T34C', 'PRODUCT')	1
+('Beech Aircraft Corp.', 'ORG')	1
+('Raytheon Corp', 'ORG')	1
+('MB - 339', 'PRODUCT')	1
+('Marietta', 'GPE')	1
+('Ga.', 'GPE')	1
+('Burbank', 'GPE')	1
+('Kysor Industrial Corp.', 'ORG')	1
+('between two cents and four cents', 'MONEY')	1
+('61 cents', 'MONEY')	1
+('between 25 cents and 30 cents', 'MONEY')	1
+('year - earlier third - quarter', 'DATE')	1
+('$ 4.1 million', 'MONEY')	1
+('Kysor', 'ORG')	1
+('fourth - quarter', 'DATE')	1
+('between 30 cents and 50 cents', 'MONEY')	1
+('$ 200 billion', 'MONEY')	1
+('Martin D. Sass', 'PERSON')	1
+('nearly $ 4 billion', 'MONEY')	1
+('Oct. 19 , 1987 ,', 'DATE')	1
+('John Lonski', 'PERSON')	1
+("Moody 's Investors Service Inc", 'ORG')	1
+("Southland Corp. 's", 'ORG')	1
+('16 3/4 %', 'PERCENT')	1
+('2002', 'DATE')	1
+('less than two years ago', 'DATE')	1
+('Goldman , Sachs & Co.', 'ORG')	1
+('just 30 cents', 'MONEY')	1
+('Southland', 'ORG')	1
+('7 - 11', 'ORG')	1
+('less than $ 2 billion', 'MONEY')	1
+('the start of this decade', 'DATE')	1
+('Campeau Corp.', 'ORG')	1
+('Bloomingdales', 'PERSON')	1
+('Ethan Allen', 'ORG')	1
+('TW Services', 'ORG')	1
+('York International', 'ORG')	1
+('at least $ 7 billion', 'MONEY')	1
+('Michael Harkins', 'PERSON')	1
+('Levy Harkins', 'PERSON')	1
+('R. Douglas Carleton', 'PERSON')	1
+('First Boston Corp.', 'ORG')	1
+('$ 7 billion', 'MONEY')	1
+('$ 475 million', 'MONEY')	1
+('Ohio Mattress', 'ORG')	1
+('King Penniman', 'PERSON')	1
+('McCarthy , Crisanti & Maffei', 'ORG')	1
+('Xerox Financial Services', 'ORG')	1
+('Moody', 'ORG')	1
+('24', 'CARDINAL')	1
+('the 17th consecutive day Friday', 'DATE')	1
+('more than 2 1/2', 'CARDINAL')	1
+('about $ 25', 'MONEY')	1
+('1,000', 'MONEY')	1
+('March 31 , 1987', 'DATE')	1
+('about 0.7', 'CARDINAL')	1
+('7.16 %', 'PERCENT')	1
+('Maria Ramirez', 'PERSON')	1
+('Drexel Burnham Lambert Inc', 'ORG')	1
+('the months ahead', 'DATE')	1
+('William Sullivan', 'PERSON')	1
+('Dean Witter Reynolds Inc.', 'ORG')	1
+('Robert Dow', 'PERSON')	1
+('Lord , Abbett & Co.', 'ORG')	1
+('$ 4 billion', 'MONEY')	1
+('the past month', 'DATE')	1
+('more than $ 2 billion', 'MONEY')	1
+('$ 375 million', 'MONEY')	1
+('Petrolane Gas Services L.P.', 'ORG')	1
+('Turner Broadcasting System Inc .', 'ORG')	1
+('Drexel', 'ORG')	1
+('$ 50 million', 'MONEY')	1
+('$ 4.8 billion', 'MONEY')	1
+('Carleton', 'PERSON')	1
+('Turner', 'PERSON')	1
+('Raymond Minella', 'PERSON')	1
+('Merrill Lynch & Co', 'ORG')	1
+('billions', 'CARDINAL')	1
+('Michael McNamara', 'PERSON')	1
+('Kemper Financial Services', 'ORG')	1
+('McNamara', 'PERSON')	1
+('Olympia & York', 'ORG')	1
+('Minella', 'PERSON')	1
+('its worst years', 'DATE')	1
+('two months', 'DATE')	1
+('Integrated Resources Inc.', 'ORG')	1
+('Southmark Corp.', 'ORG')	1
+('about $ 1.3 billion', 'MONEY')	1
+('seven - year', 'DATE')	1
+('more than 5.5', 'CARDINAL')	1
+('Resorts International Inc.', 'ORG')	1
+("Moody 's", 'ORG')	1
+('the Federal Deposit Insurance Corp', 'ORG')	1
+('James Grant', 'PERSON')	1
+("Grant 's Interest Rate Observer", 'ORG')	1
+('6 p.m. EDT', 'TIME')	1
+('100 27/32', 'CARDINAL')	1
+('2 1/2', 'CARDINAL')	1
+('March 31 , 1987 ,', 'DATE')	1
+('midday', 'TIME')	1
+('Government National Mortgage Association', 'ORG')	1
+('Ginnie Mae', 'ORG')	1
+('98 25/32', 'CARDINAL')	1
+('7/8', 'CARDINAL')	1
+('about 9.28 %', 'PERCENT')	1
+('about 1/2', 'CARDINAL')	1
+('3/4', 'CARDINAL')	1
+('the Tennessee Valley Authority', 'ORG')	1
+('TVA', 'ORG')	1
+('$ 750 million', 'MONEY')	1
+('10 - year', 'DATE')	1
+('as much as 3/4', 'CARDINAL')	1
+('Roger Lowenstein', 'PERSON')	1
+('this morning', 'TIME')	1
+('the Chicago Mercantile Exchange', 'ORG')	1
+('40', 'CARDINAL')	1
+('the New York Stock Exchange', 'ORG')	1
+('early - morning', 'TIME')	1
+('The Big Board', 'ORG')	1
+('one - hour', 'TIME')	1
+('the Brady Task Force', 'ORG')	1
+('Standard & Poor', 'ORG')	1
+('from 2:07 p.m. to 2:30 p.m. CDT', 'TIME')	1
+('from 2:45 p.m. until the close of trading a half - hour later', 'TIME')	1
+("the Big Board 's", 'ORG')	1
+('Sidecar', 'PRODUCT')	1
+('Howard Dubnow', 'PERSON')	1
+('about 15 minutes', 'TIME')	1
+('the last half - hour', 'TIME')	1
+('Dubnow', 'PERSON')	1
+('80 % to 90 %', 'PERCENT')	1
+("the Chicago Board of Trade 's", 'ORG')	1
+('a year later', 'DATE')	1
+('the next year', 'DATE')	1
+('Federal', 'ORG')	1
+('Stanley Sporkin', 'PERSON')	1
+("the New York Stock Exchange 's", 'ORG')	1
+("the Brady Task Force 's", 'ORG')	1
+('January 1988', 'DATE')	1
+('the Working Group on the Financial Markets', 'ORG')	1
+('the Working Group', 'ORG')	1
+('the Securities and Exchange Commission', 'ORG')	1
+('the Commodity Futures Trading Commission', 'ORG')	1
+('several more months', 'DATE')	1
+('more than 250', 'CARDINAL')	1
+('this century', 'DATE')	1
+('about 100', 'CARDINAL')	1
+('half hour', 'TIME')	1
+('NYSE', 'ORG')	1
+('the Big Board', 'ORG')	1
+('Brady Task Force', 'ORG')	1
+('Jan. 1988', 'DATE')	1
+('CFTC', 'ORG')	1
+('Nikolai I. Lutsenko', 'PERSON')	1
+('Nika TV', 'ORG')	1
+('about a year', 'DATE')	1
+('John Denver', 'PERSON')	1
+('Colorado', 'GPE')	1
+('Nika', 'ORG')	1
+("South Africa 's", 'GPE')	1
+('National Union of Mineworkers', 'ORG')	1
+('De Beers Consolidated Mines Ltd.', 'ORG')	1
+('17 %', 'PERCENT')	1
+('37.6 %', 'PERCENT')	1
+('Socialist Party', 'ORG')	1
+('Liberal Democratic Party', 'ORG')	1
+('Tsuruo Yamaguchi', 'PERSON')	1
+('the Socialist Party', 'ORG')	1
+('8 million yen', 'MONEY')	1
+('about $ 55,000', 'MONEY')	1
+('The World Wide Fund for Nature', 'ORG')	1
+('Argentina', 'GPE')	1
+('Convention on International Trade in Endangered Species', 'EVENT')	1
+('Lausanne', 'GPE')	1
+('Simon Lyster', 'PERSON')	1
+('$ 5 billion', 'MONEY')	1
+('the 1990s', 'DATE')	1
+('Labor Party', 'ORG')	1
+('A few hours', 'TIME')	1
+('earlier this month', 'DATE')	1
+('Tories', 'ORG')	1
+('Visa', 'ORG')	1
+('25 pence', 'MONEY')	1
+('39 cents', 'MONEY')	1
+('about $ 155', 'MONEY')	1
+('Co-operative Bank', 'ORG')	1
+('29.8 %', 'PERCENT')	1
+('China Daily', 'ORG')	1
+('last December', 'DATE')	1
+('The State Statistical Bureau', 'ORG')	1
+('more than 1 billion yuan', 'MONEY')	1
+('$ 270 million', 'MONEY')	1
+('the first half of the year', 'DATE')	1
+('20.7 %', 'PERCENT')	1
+('about 11.5 %', 'PERCENT')	1
+('Russian Orthodox', 'NORP')	1
+('400th', 'ORDINAL')	1
+('15th - century', 'DATE')	1
+('Uspensky Cathedral', 'ORG')	1
+('34 - foot', 'QUANTITY')	1
+('$ 7.7 million', 'MONEY')	1
+('Buddha', 'PERSON')	1
+('Sik Chi Wan', 'PERSON')	1
+('the Po Lin Monastery', 'ORG')	1
+('Trinity Industries Inc.', 'ORG')	1
+('Norfolk Southern Corp', 'ORG')	1
+('more than $ 40 million', 'MONEY')	1
+('1,450', 'CARDINAL')	1
+('Norfolk Southern', 'ORG')	1
+('Norfolk', 'GPE')	1
+('the Central Intelligence Agency', 'ORG')	1
+('Szabad Europa Radio', 'ORG')	1
+('Barnabas de Bueky', 'PERSON')	1
+('55 - year - old', 'DATE')	1
+('the East Bloc', 'LOC')	1
+('Andrew Deak', 'PERSON')	1
+('the Technical University', 'ORG')	1
+('The British Broadcasting Corp.', 'ORG')	1
+('State Department', 'ORG')	1
+('Voice of America', 'ORG')	1
+('only a few hours a day each', 'TIME')	1
+('Hungarian', 'LANGUAGE')	1
+('Rupert Murdoch', 'PERSON')	1
+('Robert Maxwell', 'PERSON')	1
+('the `` Great Eastern Beyond', 'LOC')	1
+('Radio Liberty', 'ORG')	1
+('more than 19 hours', 'TIME')	1
+('60 million', 'CARDINAL')	1
+('23', 'CARDINAL')	1
+('Bulgarian', 'LANGUAGE')	1
+('Belorussian', 'LANGUAGE')	1
+('Kazakh', 'LANGUAGE')	1
+('Kirghiz', 'LANGUAGE')	1
+('Warsaw Pact', 'LAW')	1
+('Months', 'DATE')	1
+('Socialist', 'ORG')	1
+('the Hungarian Ministry of Foreign Affairs', 'ORG')	1
+("Radio Free Europe 's", 'ORG')	1
+('the Ministry of Telecommunications', 'ORG')	1
+('Geza Szocs', 'PERSON')	1
+('the `` Dark Ages of the 20th Century', 'DATE')	1
+('post-World War II', 'EVENT')	1
+('late - night', 'TIME')	1
+('midnight', 'TIME')	1
+('The End of the Day', 'WORK_OF_ART')	1
+('11 p.m', 'TIME')	1
+('Sunday Journal', 'WORK_OF_ART')	1
+('Hungarian Radio', 'ORG')	1
+('Nagykanizsa', 'GPE')	1
+('Nyiregyhaza', 'GPE')	1
+('40 - minute', 'TIME')	1
+('Newsreel', 'WORK_OF_ART')	1
+('35 - minute', 'TIME')	1
+("The March of Time ''", 'WORK_OF_ART')	1
+('The Pet Shop Boys', 'ORG')	1
+('Deak', 'PERSON')	1
+('Apple Computer Inc.', 'ORG')	1
+('from Oct. 14 to Dec. 31.', 'DATE')	1
+('a $ 150 rebate', 'MONEY')	1
+('IIGS', 'PRODUCT')	1
+('Monitor', 'PRODUCT')	1
+('200', 'MONEY')	1
+('Plus', 'PRODUCT')	1
+('SE', 'PRODUCT')	1
+('SE / 30 cpu', 'PRODUCT')	1
+('300', 'MONEY')	1
+('IIcx', 'PRODUCT')	1
+('6 % to 13 %', 'PERCENT')	1
+('the second quarter', 'DATE')	1
+('0.7 %', 'PERCENT')	1
+('the National Statistics Institute', 'ORG')	1
+('the first - quarter', 'DATE')	1
+('1.3 %', 'PERCENT')	1
+('a quarter', 'DATE')	1
+('3 %', 'PERCENT')	1
+('3.8 %', 'PERCENT')	1
+('Jack White', 'PERSON')	1
+('the Indiana Highway Department', 'ORG')	1
+('four - foot - high', 'QUANTITY')	1
+('Richmond', 'GPE')	1
+('Ind.', 'GPE')	1
+('the G Street Bridge', 'FAC')	1
+('Garret Boone', 'PERSON')	1
+('Earlham College', 'ORG')	1
+('Hartford', 'GPE')	1
+('Conn.', 'GPE')	1
+('the Charter Oak Bridge', 'FAC')	1
+('Peninsula', 'GPE')	1
+('the Key Bridge', 'FAC')	1
+('Scypher Corp.', 'ORG')	1
+('the Cup - Tote', 'PRODUCT')	1
+('Claire Marvin', 'PERSON')	1
+('Leningrad', 'GPE')	1
+('Mutchin Institute', 'ORG')	1
+('Dan Droz', 'PERSON')	1
+('Droz', 'PERSON')	1
+('TWO', 'CARDINAL')	1
+('Eggers Group', 'ORG')	1
+('1920s', 'DATE')	1
+("'30s", 'DATE')	1
+('six - inch', 'QUANTITY')	1
+('Eggers', 'ORG')	1
+('Minneapolis', 'GPE')	1
+('Eggers', 'PERSON')	1
+('Brooklyn', 'GPE')	1
+('up to 1,000', 'CARDINAL')	1
+('FALL', 'DATE')	1
+('off - year', 'DATE')	1
+('Odd - year', 'DATE')	1
+('the 1989 fall', 'DATE')	1
+('80', 'CARDINAL')	1
+('Patrick McGuigan', 'PERSON')	1
+('Family , Law and Democracy Report', 'ORG')	1
+('any odd - year this decade', 'DATE')	1
+('Maine', 'GPE')	1
+('Cruise', 'PRODUCT')	1
+('North Dakota', 'GPE')	1
+("next year 's", 'DATE')	1
+('David Schmidt', 'PERSON')	1
+('Citizen Lawmakers', 'WORK_OF_ART')	1
+('McGuigan', 'PERSON')	1
+('Oklahoma', 'GPE')	1
+('David Magleby', 'PERSON')	1
+('Brigham Young University', 'ORG')	1
+("Christie 's", 'ORG')	1
+('21', 'CARDINAL')	1
+("Alfred Stieglitz 's", 'PERSON')	1
+('Equivalents', 'WORK_OF_ART')	1
+('396,000', 'MONEY')	1
+('Beth Gates - Warren', 'PERSON')	1
+("Sotheby 's", 'ORG')	1
+('Robert Persky', 'PERSON')	1
+('the Photograph Collector', 'ORG')	1
+('Stieglitz', 'PERSON')	1
+('Man Ray', 'PERSON')	1
+('Miles Barth', 'PERSON')	1
+('the International Center of Photography', 'ORG')	1
+('$ 300 million', 'MONEY')	1
+('Joel Gross', 'PERSON')	1
+('Donaldson , Lufkin & Jenrette Inc', 'ORG')	1
+('30 cents', 'MONEY')	1
+('25', 'MONEY')	1
+('Andrea West', 'PERSON')	1
+('American Telephone & Telegraph Co.', 'ORG')	1
+('West', 'PERSON')	1
+('Jack Lawless', 'PERSON')	1
+("US Sprint 's", 'ORG')	1
+('Columbia Hospital', 'ORG')	1
+('Milwaukee', 'GPE')	1
+("Mary Ann O'Loughlin", 'PERSON')	1
+('Hammacher Schlemmer & Co.', 'ORG')	1
+('Christmas', 'DATE')	1
+('6,500', 'MONEY')	1
+('Beth Israel Medical Center', 'ORG')	1
+('Tokio Marine & Fire Insurance', 'ORG')	1
+('Tiny Tots Inc.', 'ORG')	1
+('Campbell', 'GPE')	1
+('1,200', 'CARDINAL')	1
+('each week', 'DATE')	1
+('Jack Mogavero', 'PERSON')	1
+('General Health Care Corp.', 'ORG')	1
+('Piscataway', 'GPE')	1
+('N.J', 'GPE')	1
+('Syracuse', 'GPE')	1
+("DyDee Service 's", 'ORG')	1
+('The National Association of Diaper Services', 'ORG')	1
+('January', 'DATE')	1
+('more than 672', 'CARDINAL')	1
+('Elisa Hollis', 'PERSON')	1
+('State College', 'GPE')	1
+('Pa.', 'GPE')	1
+('this summer', 'DATE')	1
+('Stork Diaper Services', 'ORG')	1
+('Springfield', 'GPE')	1
+('Velcro', 'PRODUCT')	1
+('Only 57.6 %', 'PERCENT')	1
+('New Yorkers', 'NORP')	1
+('Impact Resources Inc.', 'ORG')	1
+('Columbus', 'GPE')	1
+('FreudToy', 'PRODUCT')	1
+('Sigmund Freud', 'PERSON')	1
+('24.95', 'MONEY')	1
+('Edward Egnuss', 'PERSON')	1
+('White Plains', 'GPE')	1
+('Leo Fields', 'PERSON')	1
+('Dorothy Arighi', 'PERSON')	1
+('Charles Schwab & Co.', 'ORG')	1
+('Buckhead', 'GPE')	1
+('Glenn Miller', 'PERSON')	1
+('A. Donald Anderson', 'PERSON')	1
+('59 - year - old', 'DATE')	1
+('Rick Wamre', 'PERSON')	1
+('31 - year - old', 'DATE')	1
+('Peter Anthony', 'PERSON')	1
+('Glenn Britta', 'PERSON')	1
+('25 - year - old', 'DATE')	1
+('Israel Silverman', 'PERSON')	1
+('a given day', 'DATE')	1
+('Jim Enzor', 'PERSON')	1
+('a real bad day', 'DATE')	1
+('Scott Taccetta', 'PERSON')	1
+('Taccetta', 'PERSON')	1
+('5,000', 'MONEY')	1
+('October', 'DATE')	1
+('Arighi', 'PERSON')	1
+('Lucille Gorman', 'PERSON')	1
+('84 - year - old', 'DATE')	1
+('Gorman', 'PERSON')	1
+('the Constitutional Convention of 1787', 'EVENT')	1
+('the Confederation Congress', 'ORG')	1
+('the Articles of Confederation', 'LAW')	1
+('the coming weeks', 'DATE')	1
+('the current fiscal year', 'DATE')	1
+('the Anti-Deficiency Act', 'LAW')	1
+('Office of Management and Budget', 'ORG')	1
+('Section 609', 'LAW')	1
+('Act', 'LAW')	1
+('the United States', 'GPE')	1
+("The Supreme Court 's", 'ORG')	1
+('INS', 'ORG')	1
+('Chadha', 'PERSON')	1
+('first year', 'DATE')	1
+('Jim Wright', 'PERSON')	1
+('Mikhail Gorbachev', 'PERSON')	1
+('SALT II', 'LAW')	1
+('Morrison', 'PERSON')	1
+('Olson', 'PERSON')	1
+('The Federalist No. 48', 'WORK_OF_ART')	1
+('Sidak', 'PERSON')	1
+('the Duke Law Journal', 'ORG')	1
+('later this year', 'DATE')	1
+('ORTEGA', 'PERSON')	1
+('19 - month - old', 'DATE')	1
+('Feb. 25', 'DATE')	1
+('Ortega', 'PERSON')	1
+('Contra', 'ORG')	1
+('Honduras', 'GPE')	1
+('Sandinista', 'ORG')	1
+('East German', 'NORP')	1
+('Krenz', 'PERSON')	1
+('East Germany', 'GPE')	1
+('Thousands', 'CARDINAL')	1
+('East Berlin', 'GPE')	1
+('the Berlin Wall', 'FAC')	1
+('HHS', 'ORG')	1
+('Dingell', 'PERSON')	1
+('$ 240 million', 'MONEY')	1
+('Namibian', 'NORP')	1
+('Angola', 'GPE')	1
+('Namibia', 'GPE')	1
+('Lebanon', 'GPE')	1
+('Saudi Arabian Embassy', 'ORG')	1
+('pro-Iranian', 'NORP')	1
+('Islamic Jihad', 'ORG')	1
+('16', 'CARDINAL')	1
+('Riyadh', 'GPE')	1
+('Beirut', 'GPE')	1
+('Nixon', 'PERSON')	1
+('Sino', 'NORP')	1
+('Pakistan', 'GPE')	1
+('Bhutto', 'PERSON')	1
+('42 - year', 'DATE')	1
+('11 - month - old', 'DATE')	1
+('Islamabad', 'GPE')	1
+('237', 'CARDINAL')	1
+('Malta', 'GPE')	1
+('Dec. 2 - 3', 'DATE')	1
+('Andean', 'NORP')	1
+('South America', 'LOC')	1
+('Pan Am', 'ORG')	1
+('FBI', 'ORG')	1
+('Scotland', 'GPE')	1
+('270', 'CARDINAL')	1
+('Israel', 'GPE')	1
+('James A. Attwood', 'PERSON')	1
+('62', 'DATE')	1
+('Mutual Life Insurance Co.', 'ORG')	1
+('New York City', 'GPE')	1
+('the World Series', 'EVENT')	1
+('San Francisco Giants', 'ORG')	1
+('Bob Lurie', 'PERSON')	1
+('The Pretty Big One', 'EVENT')	1
+('one - third', 'CARDINAL')	1
+('60', 'CARDINAL')	1
+('Cleveland', 'GPE')	1
+('San Antonio', 'GPE')	1
+('St. Petersburg', 'GPE')	1
+('Pepperdine University', 'ORG')	1
+('Dean Baim', 'PERSON')	1
+('only one', 'CARDINAL')	1
+('Dodger Stadium', 'FAC')	1
+('Last month', 'DATE')	1
+('Phoenix', 'GPE')	1
+('the Chamber of Commerce', 'ORG')	1
+('100,000', 'MONEY')	1
+('59 %', 'PERCENT')	1
+('41 %', 'PERCENT')	1
+('George Christopher', 'PERSON')	1
+('Candlestick', 'FAC')	1
+('10,000', 'CARDINAL')	1
+('only 1,500', 'CARDINAL')	1
+('Christopher', 'PERSON')	1
+('Miami Dolphins', 'ORG')	1
+('Joe Robbie', 'PERSON')	1
+('Several years ago', 'DATE')	1
+('Orange Bowl', 'FAC')	1
+('Robbie', 'PERSON')	1
+('Moon Landrieu', 'PERSON')	1
+('New Orleans', 'GPE')	1
+('the House Agriculture Committee', 'ORG')	1
+('some $ 100 million', 'MONEY')	1
+('EC', 'ORG')	1
+('Gary Ackerman', 'PERSON')	1
+('El Salvador', 'GPE')	1
+('Americana', 'NORP')	1
+("Haruki Murakami 's", 'PERSON')	1
+('320', 'CARDINAL')	1
+('18.95', 'MONEY')	1
+('Pacific', 'LOC')	1
+('Salty Dogs', 'PRODUCT')	1
+('Johnny B. Goode', 'WORK_OF_ART')	1
+('Mickey Spillane', 'PERSON')	1
+('Groucho', 'PERSON')	1
+('Harpo', 'PERSON')	1
+('nearly - 30', 'CARDINAL')	1
+('Christian', 'NORP')	1
+('the Sheep Man', 'PERSON')	1
+('40 - year - old', 'DATE')	1
+('Murakami', 'PERSON')	1
+('Norwegian Wood', 'WORK_OF_ART')	1
+('40', 'DATE')	1
+('more than four million', 'CARDINAL')	1
+("Robert Whiting 's", 'PERSON')	1
+('Macmillan', 'ORG')	1
+('339', 'CARDINAL')	1
+('Whiting', 'PERSON')	1
+('Japanese', 'LANGUAGE')	1
+('Tokyo Giants', 'ORG')	1
+('Tatsunori Hara', 'PERSON')	1
+('the Tokyo Giants', 'ORG')	1
+('Funny Business', 'WORK_OF_ART')	1
+('Soho', 'ORG')	1
+('228', 'CARDINAL')	1
+('Gary Katzenstein', 'PERSON')	1
+('Akio Morita', 'PERSON')	1
+('Morita', 'PERSON')	1
+('Kirkpatrick', 'PERSON')	1
+('three years', 'DATE')	1
+('meal hours', 'TIME')	1
+('Siti Zaharah Sulaiman', 'PERSON')	1
+('the Mara Institute of Technology', 'ORG')	1
+('Kuala Lumpur', 'GPE')	1
+('about 26,000', 'CARDINAL')	1
+('Backer Spielvogel Bates', 'ORG')	1
+('nearly half', 'CARDINAL')	1
+('about one - third', 'CARDINAL')	1
+('More than three', 'CARDINAL')	1
+('less than one', 'CARDINAL')	1
+('Thai', 'NORP')	1
+('Pramual Sabhavasu', 'PERSON')	1
+('$ 19 million', 'MONEY')	1
+('International Monetary Fund', 'ORG')	1
+('two years', 'DATE')	1
+('20,000', 'CARDINAL')	1
+('Bangkok', 'GPE')	1
+('the Central Plaza Hotel', 'ORG')	1
+('Yasser Arafat', 'PERSON')	1
+('the International Olympic Committee', 'ORG')	1
+('Palestine Liberation Organization', 'ORG')	1
+('WAFA', 'ORG')	1
+('the Palestinian Olympic Committee', 'ORG')	1
+('August of this year', 'DATE')	1
+('PLO', 'ORG')	1
+('the World Health Organization', 'ORG')	1
+('the World Tourism Organization', 'ORG')	1
+("the People 's Daily", 'ORG')	1
+('Polish', 'NORP')	1
+('150 %', 'PERCENT')	1
+('PAP', 'ORG')	1
+('$ 450 million', 'MONEY')	1
+('multibillion - dollar', 'MONEY')	1
+('River Danube', 'LOC')	1
+('Austrian', 'NORP')	1
+('100 miles', 'QUANTITY')	1
+('Miklos Nemeth', 'PERSON')	1
+('1977', 'DATE')	1
+('Nemeth', 'PERSON')	1
+('May', 'DATE')	1
+('Czech', 'NORP')	1
+('August Strindberg', 'PERSON')	1
+('Scandinavian', 'NORP')	1
+('Stockholm', 'GPE')	1
+('$ 2.44 million', 'MONEY')	1
+('Lighthouse II', 'WORK_OF_ART')	1
+('1901', 'DATE')	1
+('2.2 %', 'PERCENT')	1
+('271,124', 'CARDINAL')	1
+('the 400,000', 'CARDINAL')	1
+('1972', 'DATE')	1
+('the last year', 'DATE')	1
+('The Internal Revenue Service', 'ORG')	1
+('at least 100', 'CARDINAL')	1
+('1984', 'DATE')	1
+('Social Security', 'ORG')	1
+('last November', 'DATE')	1
+('up to 10 years', 'DATE')	1
+('Neal R. Sonnett', 'PERSON')	1
+('the National Association of Criminal Defense Lawyers', 'ORG')	1
+('Gerald Lefcourt', 'PERSON')	1
+("The American Bar Association 's House of Delegates", 'ORG')	1
+('Michael Ross', 'PERSON')	1
+('Christopher J. Lezovich', 'PERSON')	1
+('Justice', 'ORG')	1
+('Raul A. Ramirez', 'PERSON')	1
+('Dec. 31', 'DATE')	1
+('three or four years', 'DATE')	1
+('89,500', 'MONEY')	1
+('February', 'DATE')	1
+('Ramirez', 'PERSON')	1
+('44', 'DATE')	1
+('Orrick , Herrington & Sutcliffe', 'ORG')	1
+('DOONESBURY', 'WORK_OF_ART')	1
+('Garry Trudeau', 'PERSON')	1
+('the Writers Guild of America East', 'ORG')	1
+('$ 11 million', 'MONEY')	1
+('Darkhorse Productions Inc.', 'ORG')	1
+('Writers Guild', 'ORG')	1
+('Norman K. Samnick', 'PERSON')	1
+('next Monday', 'DATE')	1
+('Department of Health and Human Services', 'ORG')	1
+('the Second U.S. Circuit Court of Appeals', 'ORG')	1
+('TEXAS', 'GPE')	1
+('Jack Hampton', 'PERSON')	1
+('two weeks', 'DATE')	1
+('18 - year - old', 'DATE')	1
+('Robert R. Murray', 'PERSON')	1
+('the Texas Supreme Court', 'ORG')	1
+('the State Commission on Judicial Conduct', 'ORG')	1
+('GAF Corp.', 'ORG')	1
+('Mary Johnson Lowe', 'PERSON')	1
+('Wayne', 'GPE')	1
+('James T. Sherwin', 'PERSON')	1
+('Union Carbide Corp.', 'ORG')	1
+('November 1986', 'DATE')	1
+('five weeks', 'DATE')	1
+('Mayer , Brown & Platt', 'ORG')	1
+('Michael R. Bromwich', 'PERSON')	1
+('January 1987', 'DATE')	1
+('Oliver North', 'PERSON')	1
+('520', 'CARDINAL')	1
+('Bromwich', 'PERSON')	1
+('35', 'DATE')	1
+('the Southern District of New York', 'LOC')	1
+('The Nine Tailors', 'WORK_OF_ART')	1
+('ASLACTON', 'GPE')	1
+('St. Michael and All Angels', 'ORG')	1
+('1614', 'DATE')	1
+('autumn', 'DATE')	1
+('St. Michael', 'ORG')	1
+('64 - year - old', 'DATE')	1
+('Derek Hammond', 'PERSON')	1
+('East Anglia', 'GPE')	1
+('East Anglian', 'NORP')	1
+('nearly a third', 'CARDINAL')	1
+('Sundays', 'DATE')	1
+('380 years ago', 'DATE')	1
+('about three hours', 'TIME')	1
+('Kensington', 'GPE')	1
+('Ten', 'CARDINAL')	1
+('360 degrees', 'QUANTITY')	1
+('Stephanie Pattenden', 'PERSON')	1
+('the Church of England', 'ORG')	1
+('Two years ago', 'DATE')	1
+('Jeremy Hummerstone', 'PERSON')	1
+('Devon', 'GPE')	1
+('Hummerstone', 'PERSON')	1
+("St. Mary 's Church", 'ORG')	1
+('Ilminster', 'GPE')	1
+('Somerset', 'GPE')	1
+('W.D. Jones', 'PERSON')	1
+('C.J.B. Marshall', 'PERSON')	1
+('Marshall', 'PERSON')	1
+('The Central Council of Church Bell Ringers', 'ORG')	1
+('John C. Baldwin', 'PERSON')	1
+('The Bells in Your Care', 'WORK_OF_ART')	1
+('100,000', 'CARDINAL')	1
+('only 40,000', 'CARDINAL')	1
+('more than a third', 'CARDINAL')	1
+('the Ancient Society of College Youths', 'ORG')	1
+('1637', 'DATE')	1
+("St. Paul 's Cathedral", 'ORG')	1
+('Westminster Abbey', 'ORG')	1
+('The Ringing World', 'ORG')	1
+('Solihull', 'GPE')	1
+('Sheffield', 'GPE')	1
+('60 years', 'DATE')	1
+('India', 'GPE')	1
+('Brazil', 'GPE')	1
+('Carla Hills', 'PERSON')	1
+('next spring', 'DATE')	1
+('Canada', 'GPE')	1
+('Gary Hoffman', 'PERSON')	1
+('The 1988 trade act', 'LAW')	1
+('April 30', 'DATE')	1
+('301 provision', 'LAW')	1
+('EAST GERMANS', 'NORP')	1
+('40 - year', 'DATE')	1
+('at least 120,000', 'CARDINAL')	1
+('Leipzig', 'GPE')	1
+('more than 1,300', 'CARDINAL')	1
+('West German', 'NORP')	1
+('Germany', 'GPE')	1
+("the Soviet Union 's", 'GPE')	1
+('six hours', 'TIME')	1
+('Alaska', 'GPE')	1
+('Hawaii', 'GPE')	1
+('less than two hours', 'TIME')	1
+('E. Robert Wallach', 'PERSON')	1
+('250,000', 'MONEY')	1
+('Wedtech', 'ORG')	1
+('Wallach', 'PERSON')	1
+('Meese', 'PERSON')	1
+('425,000', 'MONEY')	1
+('NASA', 'ORG')	1
+('Atlantis', 'PRODUCT')	1
+('Galileo', 'PRODUCT')	1
+('91', 'CARDINAL')	1
+('Five', 'CARDINAL')	1
+('African', 'NORP')	1
+('Mubarak', 'PERSON')	1
+('Gadhafi', 'PERSON')	1
+('Mersa Metruh', 'FAC')	1
+('Libyan', 'NORP')	1
+('16 years', 'DATE')	1
+('Libya', 'GPE')	1
+('Pyongyang', 'GPE')	1
+('1945', 'DATE')	1
+('North and South Korean', 'NORP')	1
+('Marxist', 'NORP')	1
+('Oct. 3', 'DATE')	1
+('The Washington Post', 'ORG')	1
+('Solidarity', 'ORG')	1
+('Norway', 'GPE')	1
+('Olav V', 'PERSON')	1
+('non-Socialist', 'NORP')	1
+("Gro Harlem Brundtland 's", 'PERSON')	1
+('three - year - old', 'DATE')	1
+('19', 'CARDINAL')	1
+('Jan Syse', 'PERSON')	1
+('only 62', 'CARDINAL')	1
+('Oslo', 'GPE')	1
+('165', 'CARDINAL')	1
+("El Salvador 's", 'GPE')	1
+('Costa Rica', 'GPE')	1
+('The State Department', 'ORG')	1
+('Salvadoran', 'NORP')	1
+('Cornel Wilde', 'PERSON')	1
+('74', 'DATE')	1
+('Danilo Kis', 'PERSON')	1
+('54', 'DATE')	1
+('Yugoslav', 'NORP')	1
+('the China Traditional Martial Arts Imperial College', 'ORG')	1
+('the China Traditional Literature Imperial College', 'ORG')	1
+('the National Education Committee', 'ORG')	1
+('the Beijing Adult Education Bureau', 'ORG')	1
+('the National Physical Education Committee', 'ORG')	1
+('the Cultural Department', 'ORG')	1
+('the China Martial Arts Academy', 'ORG')	1
+('the China Art Academy', 'ORG')	1
+('10,000,000 New Taiwan Dollars', 'MONEY')	1
+('Brisbane', 'GPE')	1
+('April 23', 'DATE')	1
+("Fa'en Wang", 'PERSON')	1
+('USA', 'GPE')	1
+('29th', 'ORDINAL')	1
+('World Gymnastics Championships', 'EVENT')	1
+('4 days', 'DATE')	1
+('Russia', 'GPE')	1
+('Ukraine', 'GPE')	1
+('17 year old', 'DATE')	1
+('9.900', 'CARDINAL')	1
+('9.912', 'CARDINAL')	1
+('S. Georgina', 'PERSON')	1
+('9.875', 'CARDINAL')	1
+('D. Cochetegiva', 'PERSON')	1
+('9.850', 'CARDINAL')	1
+('sixth', 'ORDINAL')	1
+('Byelorussia', 'GPE')	1
+('Dashuang Li', 'PERSON')	1
+('Huadong Huang', 'PERSON')	1
+('Jian Zhang', 'PERSON')	1
+('the last 10 years', 'DATE')	1
+('Ya Qiao', 'PERSON')	1
+('Huilan Mo', 'PERSON')	1
+('R. Milisanidis', 'PERSON')	1
+('Byelorussian', 'NORP')	1
+('Milisanidis', 'PERSON')	1
+('9.687', 'CARDINAL')	1
+('N. Thomas', 'PERSON')	1
+('18 year - old', 'DATE')	1
+('M. Uzika', 'PERSON')	1
+('16 year - old', 'DATE')	1
+('G. Gogiea', 'PERSON')	1
+('9.712', 'CARDINAL')	1
+('9.812', 'CARDINAL')	1
+('Italian', 'NORP')	1
+('U. Kegie', 'PERSON')	1
+('Kegie', 'PERSON')	1
+('B. Ovneol', 'PERSON')	1
+('D. Bulinka', 'PERSON')	1
+('W. Belinki', 'PERSON')	1
+('9.700', 'CARDINAL')	1
+('Gogiea', 'PERSON')	1
+('9.800', 'CARDINAL')	1
+('Miller', 'PERSON')	1
+('August 30th', 'DATE')	1
+('Jiaxuan Tang', 'PERSON')	1
+('Haojing Song', 'PERSON')	1
+('the Foreign Affairs Ministry', 'ORG')	1
+('the last forty - some years', 'DATE')	1
+('the Korea Armistice Agreement', 'LAW')	1
+('the Korean Military Armistice Commission', 'ORG')	1
+("the Panmunjom Representative Office of the Korean People 's Army", 'ORG')	1
+("the Chinese People 's Volunteer Army", 'ORG')	1
+('Jan. 16th', 'DATE')	1
+('Weicheng Yang', 'PERSON')	1
+('8.5 million tons', 'QUANTITY')	1
+('May 1993', 'DATE')	1
+('584 kilometers', 'QUANTITY')	1
+('230 kilometers', 'QUANTITY')	1
+('more than four years', 'DATE')	1
+('2.2 billion yuan', 'MONEY')	1
+('the Great Southwest', 'LOC')	1
+('10,000 ton', 'QUANTITY')	1
+('14 kilometers', 'QUANTITY')	1
+('the Nanning - Fangchenggang railway', 'FAC')	1
+('more than 600,000 square meters', 'QUANTITY')	1
+('600,000 tons', 'QUANTITY')	1
+('500,000 tons', 'QUANTITY')	1
+('159', 'CARDINAL')	1
+('more than 64', 'CARDINAL')	1
+('50,000 ton', 'QUANTITY')	1
+('No. 9', 'CARDINAL')	1
+('25,000 ton', 'QUANTITY')	1
+('No. 10', 'CARDINAL')	1
+('August 8th', 'DATE')	1
+('21.91 million yuan', 'MONEY')	1
+('2000', 'DATE')	1
+('20 million tons', 'QUANTITY')	1
+('Xining', 'GPE')	1
+('January 3', 'DATE')	1
+('Hongwei Xu', 'PERSON')	1
+('the Qinghai Oil Field', 'LOC')	1
+('the New Year', 'DATE')	1
+('the end of December of 97', 'DATE')	1
+('1.6 million tons', 'QUANTITY')	1
+('1 million tons', 'QUANTITY')	1
+('7 years in a row', 'DATE')	1
+('The Qinhai Oil Field', 'LOC')	1
+('the Qingzang Plateau', 'LOC')	1
+('24 square kilometers', 'QUANTITY')	1
+('1954', 'DATE')	1
+('more than 15.5 million tons', 'QUANTITY')	1
+('almost 8 million tons', 'QUANTITY')	1
+('nearly one billion yuan', 'MONEY')	1
+('over 40 million tons', 'QUANTITY')	1
+('nearly 4.2 billion tons', 'QUANTITY')	1
+('22', 'CARDINAL')	1
+('more than 200 million tons', 'QUANTITY')	1
+('more than 150 billion cubic meters', 'QUANTITY')	1
+('Sichuan', 'GPE')	1
+('Shanganning', 'GPE')	1
+('Tarim', 'GPE')	1
+('fourth', 'ORDINAL')	1
+('ninth', 'ORDINAL')	1
+('1996 to 2000', 'DATE')	1
+('120,000 tons', 'QUANTITY')	1
+('200,000 tons', 'QUANTITY')	1
+('300,000 tons', 'QUANTITY')	1
+('nearly 300 kilometers', 'QUANTITY')	1
+('16 kilowatts', 'QUANTITY')	1
+('280 kilometer', 'QUANTITY')	1
+('the Qinghai Petroleum Bureau', 'ORG')	1
+('Gansu', 'GPE')	1
+('Dunhuang', 'GPE')	1
+("the Qinghai Petroleum Bureau 's", 'ORG')	1
+('260 million yuan', 'MONEY')	1
+('# 90', 'CARDINAL')	1
+('The China Petroleum and Natural Gas Corporation', 'ORG')	1
+('3 million tons', 'QUANTITY')	1
+('10 million tons', 'QUANTITY')	1
+('the year 2005', 'DATE')	1
+('March 14th', 'DATE')	1
+('Hankui Lu', 'PERSON')	1
+("the Guangxi Zhuang Autonomous Region 's", 'GPE')	1
+('Department of Transportation', 'ORG')	1
+('150 million US dollars', 'MONEY')	1
+('the Asian Bank', 'ORG')	1
+('over 2 million RMB', 'MONEY')	1
+('Xijiang', 'LOC')	1
+('80 million US dollars', 'MONEY')	1
+('80 %', 'PERCENT')	1
+('Qinzhou City', 'GPE')	1
+('52 million US dollars', 'MONEY')	1
+('the second half of this year', 'DATE')	1
+("Beihai Harbor 's", 'LOC')	1
+('10 million US dollars', 'MONEY')	1
+("Qinzhou Harbor 's", 'LOC')	1
+('13 million US dollars', 'MONEY')	1
+('Yanzhen Jie', 'PERSON')	1
+('Zhuqing Huang', 'PERSON')	1
+('the Southern Anhui incident', 'EVENT')	1
+('The Southern Anhui Incident', 'EVENT')	1
+('fifty years ago', 'DATE')	1
+('the Nationalist Party', 'ORG')	1
+('the Main Political Department', 'ORG')	1
+('More than 50', 'CARDINAL')	1
+('Jing County', 'GPE')	1
+('Zhenguo Zhang', 'PERSON')	1
+('the Party Central Committee', 'ORG')	1
+('Mausoleum of the Martyrs', 'FAC')	1
+('Jing County , Anhui Province', 'GPE')	1
+('Xiaoping Deng', 'PERSON')	1
+('Enlai Zhou', 'PERSON')	1
+('Jiangnan', 'LOC')	1
+('Chinese Communist Party Provincial Committee', 'ORG')	1
+('Anhui', 'GPE')	1
+('" Science and Life "', 'ORG')	1
+('1/70th', 'CARDINAL')	1
+('1/80th', 'CARDINAL')	1
+('February 13th', 'DATE')	1
+('Qing Yu', 'PERSON')	1
+('More than 200', 'CARDINAL')	1
+('tonight', 'TIME')	1
+('the Year of the Goat', 'DATE')	1
+('Zhenya Yang', 'PERSON')	1
+('Spring Festival', 'EVENT')	1
+("the 90's", 'DATE')	1
+('Yang', 'PERSON')	1
+('the Spring Festival', 'EVENT')	1
+('Wang Chen', 'PERSON')	1
+('the " Rebel Suppressing Period "', 'EVENT')	1
+('May of this year', 'DATE')	1
+('Chen', 'PERSON')	1
+('50 years', 'DATE')	1
+('Minxiong Chen', 'PERSON')	1
+("the People 's Association", 'ORG')	1
+('Taiwan Province', 'GPE')	1
+('Hangxiong Lu', 'PERSON')	1
+('Yokohama', 'GPE')	1
+('January 3rd', 'DATE')	1
+('Lan Wu', 'PERSON')	1
+('Dongping Wang', 'PERSON')	1
+('more than 1 billion US dollars', 'MONEY')	1
+('Foreign Investment Utilization Work Conference', 'EVENT')	1
+('the end of 1997', 'DATE')	1
+('1992 to 1996', 'DATE')	1
+('766 million US dollars', 'MONEY')	1
+('the more than past ten years', 'DATE')	1
+('185', 'CARDINAL')	1
+('2.320 billion US dollars', 'MONEY')	1
+('1.130 trillion US dollars', 'MONEY')	1
+('375 million US dollars', 'MONEY')	1
+('53 %', 'PERCENT')	1
+('more than 5 million US dollars', 'MONEY')	1
+('120,000', 'CARDINAL')	1
+("Shanxi province 's", 'GPE')	1
+('65 %', 'PERCENT')	1
+('the International Agriculture Development Fund', 'ORG')	1
+('the United Nations Grain Planning Office', 'ORG')	1
+("the United Nations Children 's Fund", 'ORG')	1
+('the Population Fund', 'ORG')	1
+('East', 'LOC')	1
+('April 2nd', 'DATE')	1
+("the People 's Bank of China", 'ORG')	1
+('the Ocean Bank Group', 'ORG')	1
+('6.1 %', 'PERCENT')	1
+('the coming few years', 'DATE')	1
+('6 %', 'PERCENT')	1
+('the end of December of last year', 'DATE')	1
+('30 billion US dollars', 'MONEY')	1
+('Pudong', 'GPE')	1
+('158', 'CARDINAL')	1
+('132', 'CARDINAL')	1
+('528', 'CARDINAL')	1
+('The Ocean Bank Group', 'ORG')	1
+('March 21st of this year', 'DATE')	1
+('January 10', 'DATE')	1
+('100 million ton', 'QUANTITY')	1
+('Petroleum & Natural Gas Corporation', 'ORG')	1
+('the Politburo of the Central Committee of the CCP', 'ORG')	1
+('the other day', 'DATE')	1
+('1.81 million tons', 'QUANTITY')	1
+('730 million cubic meters', 'QUANTITY')	1
+('nearly 1 million tons', 'QUANTITY')	1
+('1986 - 1990', 'DATE')	1
+('over 25.8 billion yuan', 'MONEY')	1
+('10 billion yuan', 'MONEY')	1
+('Tarim Basin', 'LOC')	1
+('Helsinki', 'GPE')	1
+('January 13th', 'DATE')	1
+('Huanqing Zheng', 'PERSON')	1
+('28 %', 'PERCENT')	1
+('October of last year', 'DATE')	1
+('10.7 billion Finland Marks', 'MONEY')	1
+('0.19 US dollar', 'MONEY')	1
+('the whole year of 1996', 'DATE')	1
+('1 %', 'PERCENT')	1
+('ten years ago', 'DATE')	1
+('6.2 %', 'PERCENT')	1
+('recently years', 'DATE')	1
+('December 22nd', 'DATE')	1
+('Chengbin Sun', 'PERSON')	1
+('Dongju Zhu', 'PERSON')	1
+("the Ministry of Foreign Affairs ' Special Appointee Office", 'ORG')	1
+('SAR', 'ORG')	1
+("the Central People 's Government", 'ORG')	1
+('nearly thirty', 'CARDINAL')	1
+('more than thirty', 'CARDINAL')	1
+('more than forty', 'CARDINAL')	1
+('more than 200', 'CARDINAL')	1
+('eleven', 'CARDINAL')	1
+('the UN Security Council', 'ORG')	1
+('World Bank', 'ORG')	1
+('International Monetary Fund Organization', 'ORG')	1
+('the Phnom Penh Airplane Disaster', 'EVENT')	1
+('Filipino', 'NORP')	1
+('Philippines', 'GPE')	1
+('the Phnom Penh Military Conflicts', 'EVENT')	1
+('over ninety', 'CARDINAL')	1
+('Government Office', 'ORG')	1
+('April 5th', 'DATE')	1
+('Guocheng Jiang', 'PERSON')	1
+('Five years ago', 'DATE')	1
+('36 %', 'PERCENT')	1
+('National Meteorological Bureau', 'ORG')	1
+("' Dawn 1000 '", 'PRODUCT')	1
+('2.5 billion', 'CARDINAL')	1
+('the " 863 Program "', 'ORG')	1
+('the National Science Commission', 'ORG')	1
+('Western', 'NORP')	1
+('more than 10,000', 'CARDINAL')	1
+('28 years old', 'DATE')	1
+('Wuhan University', 'ORG')	1
+("' Dawning 1000 '", 'PRODUCT')	1
+('about 30 years old', 'DATE')	1
+('10 billion yuan RMB', 'MONEY')	1
+('15 years', 'DATE')	1
+('more than 1200', 'CARDINAL')	1
+('more than 400', 'CARDINAL')	1
+('120 million', 'CARDINAL')	1
+("the next century 's", 'DATE')	1
+('December 30th', 'DATE')	1
+('Three comments on \' do n\'t rush , be patient \' " in Taiwan \'s " Daily Economy', 'WORK_OF_ART')	1
+('60 million Taiwan dollars', 'MONEY')	1
+('3.365 billion Taiwan dollars', 'MONEY')	1
+('10 billion Taiwan dollars', 'MONEY')	1
+('80 billion US dollars', 'MONEY')	1
+('December 26th', 'DATE')	1
+('the Shenzhen Special Zone', 'GPE')	1
+('113 billion yuan', 'MONEY')	1
+('14 billion yuan', 'MONEY')	1
+('6.3 %', 'PERCENT')	1
+('2.8 billion US dollars', 'MONEY')	1
+('15.6 %', 'PERCENT')	1
+('The Shenzhen Special Zone', 'GPE')	1
+('125.5 billion yuan', 'MONEY')	1
+('17.5 %', 'PERCENT')	1
+('Mobil', 'ORG')	1
+('Exxon', 'ORG')	1
+('Amoco', 'ORG')	1
+('Shell', 'ORG')	1
+('Yan Gu', 'ORG')	1
+('Cheung Kong Industries Limited', 'ORG')	1
+('the first 11 months of this year', 'DATE')	1
+('301', 'CARDINAL')	1
+('2.46 billion US dollars', 'MONEY')	1
+('889 million US dollars', 'MONEY')	1
+('the Shantou Special Zone', 'GPE')	1
+('the end of this year', 'DATE')	1
+('21.12 million tons', 'QUANTITY')	1
+('44', 'CARDINAL')	1
+('more than 770,000', 'CARDINAL')	1
+('more than 12,000', 'CARDINAL')	1
+('more than 5.1 billion US dollars', 'MONEY')	1
+('the first three - quarters of this year', 'DATE')	1
+('184', 'CARDINAL')	1
+('716 million US dollars', 'MONEY')	1
+('3.032 billion US dollars', 'MONEY')	1
+('84.3 %', 'PERCENT')	1
+('2.180 billion US dollars', 'MONEY')	1
+('30.2 %', 'PERCENT')	1
+('Lirong', 'GPE')	1
+('Wanhai', 'GPE')	1
+('Mediterranean', 'LOC')	1
+('January to October this year', 'DATE')	1
+('6.41 billion US dollars', 'MONEY')	1
+('3.52 billion US dollars', 'MONEY')	1
+('2.89 billion US dollars', 'MONEY')	1
+('7.7 billion US dollars', 'MONEY')	1
+('the first 10 months of this year', 'DATE')	1
+('1.637 billion US dollars', 'MONEY')	1
+('23.6 %', 'PERCENT')	1
+("Hainan Special Zone 's", 'GPE')	1
+('6.7 %', 'PERCENT')	1
+('1.9 %', 'PERCENT')	1
+('23 billion yuan', 'MONEY')	1
+('7.9 million', 'CARDINAL')	1
+('5.5 billion yuan', 'MONEY')	1
+('10.29 %', 'PERCENT')	1
+('December 16', 'DATE')	1
+('Fang Zhou', 'PERSON')	1
+('more than 800 million US dollars', 'MONEY')	1
+('the Jiangsu Agriculture and Forestry Department', 'ORG')	1
+('1994', 'DATE')	1
+('more than 700 million US dollars', 'MONEY')	1
+('threefold', 'ORDINAL')	1
+('sevenfold', 'ORDINAL')	1
+('the years before 1993', 'DATE')	1
+('100 million yuan RMB', 'MONEY')	1
+('more than 100', 'CARDINAL')	1
+('the Lianyugang Ruyi Group', 'ORG')	1
+('Jiangsu', 'GPE')	1
+('Luoshi', 'GPE')	1
+('February 7', 'DATE')	1
+('Baohong Shan', 'PERSON')	1
+('Jingguo Hu', 'PERSON')	1
+('the Yellow River', 'LOC')	1
+('Shaanxi', 'GPE')	1
+('Henan', 'GPE')	1
+("more than three years '", 'DATE')	1
+('the New Golden Triangle Mall', 'FAC')	1
+('60 million yuan', 'MONEY')	1
+('2000', 'CARDINAL')	1
+('10 kV', 'QUANTITY')	1
+('more than 30', 'CARDINAL')	1
+('31', 'CARDINAL')	1
+('320 million yuan', 'MONEY')	1
+('December 20th', 'DATE')	1
+('Chaozhou', 'GPE')	1
+('Silicon Valley', 'LOC')	1
+('Motorola', 'ORG')	1
+('Ericsson', 'ORG')	1
+('Shangtou', 'GPE')	1
+('1.8 billion yuan', 'MONEY')	1
+('370,000 square meters', 'QUANTITY')	1
+('the beginning of November of this year', 'DATE')	1
+('177', 'CARDINAL')	1
+('6.4 billion yuan', 'MONEY')	1
+('almost 50 %', 'PERCENT')	1
+('7', 'CARDINAL')	1
+('3.7 billion yuan', 'MONEY')	1
+('4.55 billion yuan', 'MONEY')	1
+('127.47 million US dollars', 'MONEY')	1
+('360 million yuan', 'MONEY')	1
+('more than 10', 'CARDINAL')	1
+('March 23rd', 'DATE')	1
+('Wen Chao', 'PERSON')	1
+('the Bank of China', 'ORG')	1
+('the Taikang Life Insurance Stock Company Ltd.', 'ORG')	1
+('Dongsheng Chen', 'PERSON')	1
+('Taikang Life Insurance Company , Ltd.', 'ORG')	1
+('China International Travel Service', 'ORG')	1
+('the China Foreign Trade Transportation Head Company', 'ORG')	1
+('500 million yuan RMB', 'MONEY')	1
+('26', 'CARDINAL')	1
+('more than one hundred', 'CARDINAL')	1
+('February 16th', 'DATE')	1
+('The Commune Bond Research Institute of Japan', 'ORG')	1
+('Import and Export Bank of China', 'ORG')	1
+('the Japan Assessment Institution', 'ORG')	1
+('Last October', 'DATE')	1
+('Nomura Securities', 'ORG')	1
+('the Commune Bond Research Institute of Japan', 'ORG')	1
+('the beginning of the year', 'DATE')	1
+('the Commune Bond Research Institute', 'ORG')	1
+('Hao Liu', 'PERSON')	1
+('British Ministry of Foreign Affairs', 'ORG')	1
+('the 31st', 'DATE')	1
+('UK', 'GPE')	1
+('the Caribbean Union', 'ORG')	1
+('266', 'CARDINAL')	1
+('United Nations', 'ORG')	1
+('Ghali', 'PERSON')	1
+('UN', 'ORG')	1
+('the same day', 'DATE')	1
+('Department of Defense', 'ORG')	1
+('Doetch', 'PERSON')	1
+('UNSC', 'ORG')	1
+('Aristide', 'PERSON')	1
+("national members ' representative convention", 'EVENT')	1
+('the five years', 'DATE')	1
+('1995 to 1999', 'DATE')	1
+('After 1950', 'DATE')	1
+('New China', 'GPE')	1
+('the Red Cross Society', 'ORG')	1
+('Red Cross Societies', 'ORG')	1
+('the International Red Cross Organization', 'ORG')	1
+('October 31 , 1993', 'DATE')	1
+('the Standing Committee', 'ORG')	1
+('8th', 'ORDINAL')	1
+('NPC', 'ORG')	1
+('" Laws of the PRC Red Cross Society "', 'LAW')	1
+('the Red Cross', 'ORG')	1
+('International Red Cross', 'ORG')	1
+('Puchu Zhao', 'PERSON')	1
+('Guangying Wang', 'PERSON')	1
+('Peiyao Li', 'PERSON')	1
+('Xinzhong Qian', 'PERSON')	1
+('Yueli Cui', 'PERSON')	1
+('Minzhang Chen', 'PERSON')	1
+('CPPCC', 'ORG')	1
+('Yingqi Gu', 'PERSON')	1
+('Baojun Fan', 'PERSON')	1
+('Chongchun Yang', 'PERSON')	1
+('Yanzhi Lin', 'PERSON')	1
+('Baiqiu Sun', 'PERSON')	1
+('Zhe Qu', 'PERSON')	1
+('Changming Li', 'PERSON')	1
+('George Weber', 'PERSON')	1
+('the International United Association of the Red Cross Society and the Red Crescent Society', 'ORG')	1
+('the Association of the Relationship between the Two Sides of the Straits', 'ORG')	1
+('the Foundation for the Exchange across the Straits', 'ORG')	1
+('April 12th', 'DATE')	1
+('Straits Association', 'ORG')	1
+('Firstly', 'ORDINAL')	1
+('the end of August of last year', 'DATE')	1
+('the " Wang - Gu Talks "', 'EVENT')	1
+('the Wang - Gu Talks', 'EVENT')	1
+('Secondly', 'ORDINAL')	1
+('the Wang - Gu talks "', 'EVENT')	1
+('Thirdly', 'ORDINAL')	1
+('the " regulation agreement of contact and talks between the two associations "', 'LAW')	1
+('Zhejiang', 'GPE')	1
+('Moldavia', 'GPE')	1
+('Rongke Liang', 'PERSON')	1
+('The " Representation Committee "', 'ORG')	1
+('Association', 'ORG')	1
+('Uruguay', 'GPE')	1
+('Bilyasainyaur', 'PERSON')	1
+('the Representation Committee', 'ORG')	1
+('Antonates', 'PERSON')	1
+('Latin American', 'LOC')	1
+('The Latin American Unification Association', 'ORG')	1
+('June 15th of this year', 'DATE')	1
+('the Latin American Association', 'ORG')	1
+('Yuming Gai', 'PERSON')	1
+('CCP', 'ORG')	1
+('the Military Commission of the Central Committee', 'ORG')	1
+('the Military Commission of the CCP', 'ORG')	1
+('Wannian Zhang', 'PERSON')	1
+('Military Commission', 'ORG')	1
+('Yongbo Yu', 'PERSON')	1
+('Quanyou Fu', 'PERSON')	1
+('the Central Office of the Military Commission', 'ORG')	1
+('the Communist Party of China', 'ORG')	1
+('National Member Congress', 'EVENT')	1
+('20 million', 'CARDINAL')	1
+('the Central Committee of the Chinese Communist Party', 'ORG')	1
+('State Council', 'ORG')	1
+('the past ninety years', 'DATE')	1
+('Red Crescent', 'ORG')	1
+('Yiren Rong', 'PERSON')	1
+('Qicheng Qian', 'PERSON')	1
+('Peiyun Peng', 'PERSON')	1
+('the past 90 years', 'DATE')	1
+('Shi Qiao', 'PERSON')	1
+('National Congress', 'EVENT')	1
+('Guangzhi Ling', 'PERSON')	1
+('the Global Chinese Physics Meeting', 'EVENT')	1
+('August 5th to 9th , 1995', 'DATE')	1
+('Global Chinese Physics Convention', 'EVENT')	1
+('the Overseas Chinese Physics Institute', 'ORG')	1
+('the Physics Institute of China', 'ORG')	1
+('the Physics Institute of Taipei , China', 'ORG')	1
+('the Hong Kong Physics Institute', 'ORG')	1
+('the National Natural Science Foundation of China', 'ORG')	1
+('the Chinese Academy of Science', 'ORG')	1
+('Zhengdao Li', 'PERSON')	1
+('Yuanzhe Li', 'PERSON')	1
+('Zhaozhong Ding', 'PERSON')	1
+('Jianxiong Wu', 'PERSON')	1
+('Daqiu Wu', 'PERSON')	1
+('Xide Xie', 'PERSON')	1
+('Jici Yan', 'PERSON')	1
+('Zhenning Yang', 'PERSON')	1
+('Guangzhao Zhou', 'PERSON')	1
+('Guangya Zhu', 'PERSON')	1
+('Auckland -LRB- New Zealand -RRB-', 'GPE')	1
+('Jinjun Chen', 'PERSON')	1
+('6 - day', 'DATE')	1
+('this evening', 'TIME')	1
+('Apia', 'GPE')	1
+("New Zealand 's", 'GPE')	1
+('Bolger', 'PERSON')	1
+('Papua New Guinea', 'GPE')	1
+('Madrid', 'GPE')	1
+('Tairan Hu', 'PERSON')	1
+('Spanish', 'NORP')	1
+('36', 'CARDINAL')	1
+('Cubans', 'NORP')	1
+('Mingxia Fu', 'PERSON')	1
+('Soviet Union', 'GPE')	1
+('Zhishan Cheng', 'PERSON')	1

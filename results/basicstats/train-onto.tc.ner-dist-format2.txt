@@ -1,0 +1,3503 @@
+{
+    "two": {
+        "CARDINAL": "52",
+        "DATE": "1"
+    },
+    "one": {
+        "CARDINAL": "37"
+    },
+    "three": {
+        "CARDINAL": "30",
+        "DATE": "1"
+    },
+    "first": {
+        "ORDINAL": "23",
+        "DATE": "1"
+    },
+    "English": {
+        "LANGUAGE": "22"
+    },
+    "New York": {
+        "GPE": "18"
+    },
+    "second": {
+        "ORDINAL": "16",
+        "DATE": "1"
+    },
+    "Monday": {
+        "DATE": "13"
+    },
+    "American": {
+        "NORP": "12",
+        "ORG": "3"
+    },
+    "four": {
+        "CARDINAL": "11"
+    },
+    "Japan": {
+        "GPE": "10"
+    },
+    "Omaha": {
+        "GPE": "10"
+    },
+    "Lizzy": {
+        "PERSON": "10"
+    },
+    "Finnish": {
+        "NORP": "10",
+        "LANGUAGE": "1"
+    },
+    "Detroit": {
+        "GPE": "9",
+        "PERSON": "1"
+    },
+    "Tokyo": {
+        "GPE": "8"
+    },
+    "Sunday": {
+        "DATE": "8"
+    },
+    "Kara": {
+        "PERSON": "8"
+    },
+    "Liz": {
+        "PERSON": "8"
+    },
+    "Ida": {
+        "PERSON": "8"
+    },
+    "Gaza": {
+        "LOC": "8"
+    },
+    "Robert": {
+        "PERSON": "8"
+    },
+    "Martha": {
+        "PERSON": "8"
+    },
+    "London": {
+        "GPE": "8"
+    },
+    "Hong Kong": {
+        "GPE": "8"
+    },
+    "Barney": {
+        "PERSON": "8"
+    },
+    "six": {
+        "CARDINAL": "7"
+    },
+    "Israel": {
+        "GPE": "7"
+    },
+    "David": {
+        "PERSON": "7"
+    },
+    "Germany": {
+        "GPE": "7"
+    },
+    "last year": {
+        "DATE": "7"
+    },
+    "two weeks": {
+        "DATE": "7"
+    },
+    "Philadelphia": {
+        "GPE": "7"
+    },
+    "five": {
+        "CARDINAL": "7",
+        "TIME": "2"
+    },
+    "Sarah": {
+        "PERSON": "7"
+    },
+    "Playboy": {
+        "WORK_OF_ART": "7",
+        "ORG": "1"
+    },
+    "Americans": {
+        "NORP": "6"
+    },
+    "this year": {
+        "DATE": "6"
+    },
+    "Arab": {
+        "NORP": "6"
+    },
+    "Jerusalem": {
+        "GPE": "6"
+    },
+    "October": {
+        "DATE": "6"
+    },
+    "Alison": {
+        "PERSON": "6"
+    },
+    "Atlanta": {
+        "GPE": "6"
+    },
+    "Ventalin": {
+        "PRODUCT": "6"
+    },
+    "Jochanan": {
+        "PERSON": "6"
+    },
+    "Noel": {
+        "PERSON": "6"
+    },
+    "Oscar": {
+        "PERSON": "6"
+    },
+    "February": {
+        "DATE": "5"
+    },
+    "British": {
+        "NORP": "5"
+    },
+    "Italian": {
+        "NORP": "5"
+    },
+    "two days": {
+        "DATE": "5"
+    },
+    "today": {
+        "DATE": "5"
+    },
+    "November": {
+        "DATE": "5"
+    },
+    "third": {
+        "ORDINAL": "5"
+    },
+    "last week": {
+        "DATE": "5"
+    },
+    "German": {
+        "NORP": "5",
+        "LANGUAGE": "2"
+    },
+    "January": {
+        "DATE": "5"
+    },
+    "Barry": {
+        "PERSON": "5"
+    },
+    "the U S": {
+        "GPE": "5"
+    },
+    "Des Moines": {
+        "GPE": "5"
+    },
+    "Laura": {
+        "PERSON": "5"
+    },
+    "Saturday": {
+        "DATE": "5"
+    },
+    "Thursday": {
+        "DATE": "5"
+    },
+    "Kansas City": {
+        "GPE": "5"
+    },
+    "Saint Louis": {
+        "GPE": "5"
+    },
+    "three days": {
+        "DATE": "5"
+    },
+    "Friday": {
+        "DATE": "5"
+    },
+    "America": {
+        "GPE": "5"
+    },
+    "Elsa": {
+        "PERSON": "5"
+    },
+    "Thanksgiving": {
+        "EVENT": "4"
+    },
+    "yesterday": {
+        "DATE": "4"
+    },
+    "Ferdie": {
+        "PERSON": "4"
+    },
+    "South Carolina": {
+        "GPE": "4"
+    },
+    "Dmitri": {
+        "PERSON": "4"
+    },
+    "Spain": {
+        "GPE": "4"
+    },
+    "Japanese": {
+        "NORP": "4"
+    },
+    "Holland": {
+        "GPE": "4"
+    },
+    "L A": {
+        "GPE": "4"
+    },
+    "Casper": {
+        "GPE": "4"
+    },
+    "Christmas": {
+        "EVENT": "4",
+        "DATE": "1"
+    },
+    "tomorrow": {
+        "DATE": "4"
+    },
+    "Florida": {
+        "GPE": "4"
+    },
+    "Jill": {
+        "PERSON": "4"
+    },
+    "Shawn": {
+        "PERSON": "4"
+    },
+    "Matt": {
+        "PERSON": "4"
+    },
+    "San Francisco": {
+        "GPE": "4"
+    },
+    "Grace": {
+        "PERSON": "4"
+    },
+    "Kate": {
+        "PERSON": "4"
+    },
+    "September": {
+        "DATE": "4"
+    },
+    "next week": {
+        "DATE": "4"
+    },
+    "Down": {
+        "PERSON": "4"
+    },
+    "a half an hour": {
+        "TIME": "4"
+    },
+    "Mindy": {
+        "PERSON": "4"
+    },
+    "Barclay": {
+        "FAC": "4"
+    },
+    "New Orleans": {
+        "GPE": "4"
+    },
+    "Eric": {
+        "PERSON": "4"
+    },
+    "Jackie": {
+        "PERSON": "4"
+    },
+    "Immaculate Conception": {
+        "FAC": "4"
+    },
+    "Jewish": {
+        "NORP": "4"
+    },
+    "Star Trek": {
+        "WORK_OF_ART": "4"
+    },
+    "Lida": {
+        "PERSON": "4"
+    },
+    "Ann Arbor": {
+        "GPE": "4"
+    },
+    "Irv": {
+        "PERSON": "4"
+    },
+    "Carl": {
+        "PERSON": "4"
+    },
+    "Lehia": {
+        "PERSON": "4"
+    },
+    "French": {
+        "LANGUAGE": "3",
+        "NORP": "1"
+    },
+    "Latin": {
+        "LANGUAGE": "3"
+    },
+    "Andy": {
+        "PERSON": "3"
+    },
+    "ten": {
+        "CARDINAL": "3",
+        "TIME": "2"
+    },
+    "June": {
+        "DATE": "3"
+    },
+    "Buffalo": {
+        "GPE": "3"
+    },
+    "Hugo": {
+        "PERSON": "3"
+    },
+    "Epsteins": {
+        "PERSON": "3"
+    },
+    "four days": {
+        "DATE": "3"
+    },
+    "Johnny": {
+        "PERSON": "3"
+    },
+    "Michigan": {
+        "GPE": "3"
+    },
+    "Eileen": {
+        "PERSON": "3"
+    },
+    "zero": {
+        "CARDINAL": "3"
+    },
+    "Europe": {
+        "GPE": "3",
+        "LOC": "1"
+    },
+    "France": {
+        "GPE": "3"
+    },
+    "ten years": {
+        "DATE": "3"
+    },
+    "Conti": {
+        "PERSON": "3"
+    },
+    "Billy Vaughan": {
+        "PERSON": "3"
+    },
+    "Ray": {
+        "PERSON": "3"
+    },
+    "Zeke": {
+        "PERSON": "3"
+    },
+    "eleven": {
+        "TIME": "3",
+        "CARDINAL": "1"
+    },
+    "May": {
+        "DATE": "3"
+    },
+    "Mondays": {
+        "DATE": "3"
+    },
+    "fourth": {
+        "ORDINAL": "3"
+    },
+    "Audrey": {
+        "PERSON": "3"
+    },
+    "to": {
+        "CARDINAL": "3",
+        "TIME": "1",
+        "NORP": "1"
+    },
+    "Texas": {
+        "GPE": "3"
+    },
+    "Ryan": {
+        "PERSON": "3"
+    },
+    "next year": {
+        "DATE": "3"
+    },
+    "Iraq": {
+        "GPE": "3"
+    },
+    "Boston": {
+        "GPE": "3"
+    },
+    "Swiss": {
+        "NORP": "3"
+    },
+    "two seven seven": {
+        "CARDINAL": "3"
+    },
+    "one eight two six": {
+        "CARDINAL": "3"
+    },
+    "Noam": {
+        "PERSON": "3"
+    },
+    "Mae": {
+        "PERSON": "3"
+    },
+    "Tina": {
+        "PERSON": "3"
+    },
+    "fifth": {
+        "ORDINAL": "3"
+    },
+    "Jack": {
+        "PERSON": "3"
+    },
+    "one year": {
+        "DATE": "3"
+    },
+    "Long Island": {
+        "GPE": "3"
+    },
+    "Joe": {
+        "PERSON": "3"
+    },
+    "Susan": {
+        "PERSON": "3"
+    },
+    "Tuesday": {
+        "DATE": "3"
+    },
+    "the twenty first": {
+        "DATE": "3"
+    },
+    "Nice": {
+        "GPE": "3"
+    },
+    "the Carribean": {
+        "LOC": "3"
+    },
+    "this week": {
+        "DATE": "3"
+    },
+    "four months": {
+        "DATE": "3"
+    },
+    "Wednesday": {
+        "DATE": "3"
+    },
+    "Tupperware": {
+        "ORG": "3"
+    },
+    "Washingtonian": {
+        "WORK_OF_ART": "3"
+    },
+    "Maid Brigade": {
+        "ORG": "3"
+    },
+    "Hawaii": {
+        "GPE": "3"
+    },
+    "Continental": {
+        "ORG": "3"
+    },
+    "Singapore Air": {
+        "ORG": "3"
+    },
+    "Delta": {
+        "ORG": "3"
+    },
+    "just one": {
+        "CARDINAL": "3"
+    },
+    "Chicago": {
+        "GPE": "3"
+    },
+    "two years": {
+        "DATE": "3"
+    },
+    "San Diego": {
+        "GPE": "3"
+    },
+    "Twenty Nine": {
+        "CARDINAL": "3"
+    },
+    "Pearl": {
+        "PERSON": "3"
+    },
+    "Deloitte Touche": {
+        "ORG": "3"
+    },
+    "twenty": {
+        "CARDINAL": "3",
+        "DATE": "1"
+    },
+    "Deverow": {
+        "PERSON": "3"
+    },
+    "Valerie": {
+        "PERSON": "3"
+    },
+    "Orioles": {
+        "ORG": "3"
+    },
+    "Pat": {
+        "PERSON": "3"
+    },
+    "Mormon": {
+        "NORP": "3"
+    },
+    "Hunter": {
+        "PERSON": "3"
+    },
+    "Russia": {
+        "GPE": "3"
+    },
+    "Tucson": {
+        "GPE": "3"
+    },
+    "Honduras": {
+        "GPE": "3"
+    },
+    "Diana": {
+        "PERSON": "3"
+    },
+    "those days": {
+        "DATE": "3"
+    },
+    "Shelly": {
+        "PERSON": "2"
+    },
+    "nine": {
+        "CARDINAL": "2",
+        "TIME": "2"
+    },
+    "Mary": {
+        "PERSON": "2"
+    },
+    "Joseph": {
+        "PERSON": "2"
+    },
+    "Middlebury": {
+        "GPE": "2"
+    },
+    "the eighties": {
+        "DATE": "2"
+    },
+    "Brits": {
+        "NORP": "2"
+    },
+    "Moroccan": {
+        "NORP": "2"
+    },
+    "Ascher": {
+        "PERSON": "2"
+    },
+    "five in the morning": {
+        "TIME": "2"
+    },
+    "New York city": {
+        "GPE": "2"
+    },
+    "Shoshana": {
+        "PERSON": "2"
+    },
+    "New York City": {
+        "GPE": "2"
+    },
+    "twenty - eighth": {
+        "DATE": "2"
+    },
+    "Ralph": {
+        "PERSON": "2"
+    },
+    "Ethan": {
+        "PERSON": "2"
+    },
+    "Andrew": {
+        "PERSON": "2"
+    },
+    "a week later": {
+        "DATE": "2"
+    },
+    "Interns For Peace": {
+        "ORG": "2"
+    },
+    "two months": {
+        "DATE": "2"
+    },
+    "Giva - Haviva": {
+        "ORG": "2"
+    },
+    "Borghausen": {
+        "GPE": "2"
+    },
+    "hundred": {
+        "CARDINAL": "2"
+    },
+    "Berlin": {
+        "GPE": "2"
+    },
+    "Katzman": {
+        "PERSON": "2"
+    },
+    "Charlie Mariano": {
+        "PERSON": "2"
+    },
+    "October ninth": {
+        "DATE": "2"
+    },
+    "next month": {
+        "DATE": "2"
+    },
+    "Al Cone": {
+        "PERSON": "2"
+    },
+    "Burt Yores": {
+        "PERSON": "2"
+    },
+    "Ray Peezie": {
+        "PERSON": "2"
+    },
+    "eighteen days": {
+        "DATE": "2"
+    },
+    "Charlie": {
+        "PERSON": "2"
+    },
+    "December fourth": {
+        "DATE": "2"
+    },
+    "New Zealand": {
+        "GPE": "2"
+    },
+    "Denver": {
+        "GPE": "2"
+    },
+    "twelve months": {
+        "DATE": "2"
+    },
+    "the": {
+        "TIME": "2",
+        "PERSON": "1",
+        "CARDINAL": "1"
+    },
+    "yeah": {
+        "PERSON": "2",
+        "DATE": "2"
+    },
+    "and": {
+        "PERSON": "2",
+        "NORP": "1",
+        "LANGUAGE": "1"
+    },
+    "she": {
+        "ORDINAL": "2",
+        "GPE": "1"
+    },
+    "babysitter": {
+        "PERSON": "2",
+        "PRODUCT": "1"
+    },
+    "Blimpie": {
+        "ORG": "2"
+    },
+    "Tom": {
+        "PERSON": "2"
+    },
+    "Magda": {
+        "PERSON": "2"
+    },
+    "Gainesville": {
+        "GPE": "2"
+    },
+    "Georgia": {
+        "GPE": "2"
+    },
+    "oh": {
+        "GPE": "2"
+    },
+    "a couple days": {
+        "DATE": "2"
+    },
+    "Patty": {
+        "PERSON": "2"
+    },
+    "McDonald": {
+        "ORG": "2"
+    },
+    "Jennings": {
+        "PERSON": "2"
+    },
+    "twenty - four hours": {
+        "TIME": "2"
+    },
+    "April": {
+        "DATE": "2"
+    },
+    "twenty - two": {
+        "DATE": "2",
+        "CARDINAL": "1"
+    },
+    "Jonathan": {
+        "PERSON": "2"
+    },
+    "One": {
+        "CARDINAL": "2"
+    },
+    "China": {
+        "GPE": "2"
+    },
+    "nineteen sixty seven": {
+        "DATE": "2"
+    },
+    "Arabs": {
+        "NORP": "2"
+    },
+    "Airobid": {
+        "PRODUCT": "2"
+    },
+    "First": {
+        "ORDINAL": "2"
+    },
+    "Gabby": {
+        "PERSON": "2"
+    },
+    "Uriel": {
+        "PERSON": "2"
+    },
+    "fifteen minutes": {
+        "TIME": "2"
+    },
+    "half an hour": {
+        "TIME": "2"
+    },
+    "three hours": {
+        "TIME": "2"
+    },
+    "Sonoma": {
+        "GPE": "2"
+    },
+    "ninety": {
+        "CARDINAL": "2"
+    },
+    "Asian": {
+        "NORP": "2"
+    },
+    "Yammi": {
+        "PERSON": "2"
+    },
+    "nineteen oh two": {
+        "DATE": "2"
+    },
+    "Frank Lloyd Wright": {
+        "PERSON": "2"
+    },
+    "Alexi": {
+        "PERSON": "2"
+    },
+    "eight": {
+        "TIME": "2",
+        "CARDINAL": "2"
+    },
+    "seven thirty": {
+        "TIME": "2"
+    },
+    "five twenty five": {
+        "TIME": "2"
+    },
+    "around three": {
+        "TIME": "2"
+    },
+    "Barcelona": {
+        "GPE": "2"
+    },
+    "thirty minutes": {
+        "TIME": "2"
+    },
+    "Connecticut": {
+        "GPE": "2"
+    },
+    "twentieth": {
+        "DATE": "2",
+        "ORDINAL": "1"
+    },
+    "three weeks": {
+        "DATE": "2"
+    },
+    "four weeks": {
+        "DATE": "2"
+    },
+    "a thousand": {
+        "CARDINAL": "2"
+    },
+    "Milan": {
+        "GPE": "2"
+    },
+    "the middle of August": {
+        "DATE": "2"
+    },
+    "five days": {
+        "DATE": "2"
+    },
+    "Norm": {
+        "PERSON": "2"
+    },
+    "Thumper": {
+        "PERSON": "2"
+    },
+    "the next morning": {
+        "TIME": "2"
+    },
+    "eighteen pounds": {
+        "QUANTITY": "2"
+    },
+    "eighteen": {
+        "DATE": "2",
+        "CARDINAL": "1"
+    },
+    "Tova": {
+        "PERSON": "2"
+    },
+    "Farrach": {
+        "PERSON": "2"
+    },
+    "Osh Kosh": {
+        "ORG": "2"
+    },
+    "Miami": {
+        "GPE": "2"
+    },
+    "month": {
+        "DATE": "2"
+    },
+    "Elliot": {
+        "PERSON": "2"
+    },
+    "around noon": {
+        "TIME": "2"
+    },
+    "noon": {
+        "TIME": "2"
+    },
+    "Singapore": {
+        "GPE": "2"
+    },
+    "Guam": {
+        "GPE": "2"
+    },
+    "T W A": {
+        "FAC": "2"
+    },
+    "ten two and a quarter": {
+        "CARDINAL": "2"
+    },
+    "ninety nine dollars": {
+        "MONEY": "2"
+    },
+    "twenty dollars": {
+        "MONEY": "2"
+    },
+    "the British Museum": {
+        "FAC": "2"
+    },
+    "Kiara": {
+        "PERSON": "2"
+    },
+    "twelve years ago": {
+        "DATE": "2"
+    },
+    "couple days": {
+        "DATE": "2"
+    },
+    "early June": {
+        "DATE": "2"
+    },
+    "eight weeks": {
+        "DATE": "2"
+    },
+    "ten weeks": {
+        "DATE": "2"
+    },
+    "eight and a half months": {
+        "DATE": "2"
+    },
+    "Erica": {
+        "PERSON": "2"
+    },
+    "Robin": {
+        "PERSON": "2"
+    },
+    "Mike Tyson": {
+        "PERSON": "2"
+    },
+    "about two weeks ago": {
+        "DATE": "2"
+    },
+    "since April": {
+        "DATE": "2"
+    },
+    "Vermont": {
+        "GPE": "2"
+    },
+    "the States": {
+        "GPE": "2"
+    },
+    "three years": {
+        "DATE": "2"
+    },
+    "March": {
+        "DATE": "2"
+    },
+    "Krulac": {
+        "PERSON": "2"
+    },
+    "Barb": {
+        "PERSON": "2"
+    },
+    "Nurse Corps": {
+        "ORG": "2"
+    },
+    "Jennifer": {
+        "PERSON": "2"
+    },
+    "five weeks": {
+        "DATE": "2"
+    },
+    "Hamlet": {
+        "WORK_OF_ART": "2"
+    },
+    "Shakespeare": {
+        "PERSON": "2"
+    },
+    "nineteen": {
+        "CARDINAL": "2"
+    },
+    "Boca Raton": {
+        "GPE": "2"
+    },
+    "Bob": {
+        "PERSON": "2"
+    },
+    "Atlantic City": {
+        "GPE": "2"
+    },
+    "California": {
+        "GPE": "2"
+    },
+    "twelve": {
+        "CARDINAL": "2"
+    },
+    "thirty": {
+        "CARDINAL": "2"
+    },
+    "John McCall": {
+        "PERSON": "2"
+    },
+    "Carol Anne": {
+        "PERSON": "2"
+    },
+    "Baltimore": {
+        "GPE": "2"
+    },
+    "Marcia": {
+        "PERSON": "2"
+    },
+    "Hebrew University": {
+        "ORG": "2"
+    },
+    "seven forty": {
+        "TIME": "2"
+    },
+    "Old Testament": {
+        "WORK_OF_ART": "2"
+    },
+    "Mohammed": {
+        "PERSON": "2"
+    },
+    "Clinton": {
+        "PERSON": "2"
+    },
+    "the Supreme Court": {
+        "ORG": "2"
+    },
+    "NASA": {
+        "ORG": "2"
+    },
+    "Russian": {
+        "NORP": "2",
+        "LANGUAGE": "2"
+    },
+    "Brooklyn": {
+        "GPE": "2"
+    },
+    "Rene": {
+        "PERSON": "2"
+    },
+    "midnight": {
+        "TIME": "2"
+    },
+    "eighty": {
+        "CARDINAL": "2"
+    },
+    "Linda": {
+        "PERSON": "2"
+    },
+    "Winston": {
+        "PERSON": "2"
+    },
+    "Dunya": {
+        "PERSON": "2"
+    },
+    "Thomas": {
+        "PERSON": "2"
+    },
+    "Stacey": {
+        "PERSON": "2"
+    },
+    "Beth": {
+        "PERSON": "2"
+    },
+    "sixty": {
+        "CARDINAL": "2"
+    },
+    "Language Magazine": {
+        "ORG": "2"
+    },
+    "like twenty bucks": {
+        "MONEY": "2"
+    },
+    "Furobiashi": {
+        "PERSON": "2"
+    },
+    "the ninth": {
+        "DATE": "2"
+    },
+    "ninth": {
+        "DATE": "2"
+    },
+    "Hiroki": {
+        "PERSON": "2"
+    },
+    "ten billion": {
+        "CARDINAL": "1"
+    },
+    "Kelley": {
+        "PERSON": "1"
+    },
+    "Nole": {
+        "PRODUCT": "1"
+    },
+    "Wheel Of Fortune": {
+        "PRODUCT": "1"
+    },
+    "where in the world is Carmen Sandiego": {
+        "WORK_OF_ART": "1"
+    },
+    "Carmen Sandiego": {
+        "PERSON": "1"
+    },
+    "Seven": {
+        "CARDINAL": "1"
+    },
+    "Colombia": {
+        "GPE": "1"
+    },
+    "ten years ago": {
+        "DATE": "1"
+    },
+    "Rich Munsen": {
+        "PERSON": "1"
+    },
+    "B M W": {
+        "PRODUCT": "1"
+    },
+    "a B M W": {
+        "PRODUCT": "1"
+    },
+    "Richard": {
+        "PERSON": "1"
+    },
+    "Jessie": {
+        "PERSON": "1"
+    },
+    "Brihana": {
+        "PERSON": "1"
+    },
+    "Pam Anderson ?": {
+        "PERSON": "1"
+    },
+    "Vince": {
+        "PERSON": "1"
+    },
+    "twenty eight days": {
+        "DATE": "1"
+    },
+    "Scottish": {
+        "NORP": "1"
+    },
+    "six hours": {
+        "TIME": "1"
+    },
+    "twenty - five hours": {
+        "TIME": "1"
+    },
+    "nine weeks": {
+        "DATE": "1"
+    },
+    "nine months ago": {
+        "DATE": "1"
+    },
+    "Edinburgh": {
+        "GPE": "1"
+    },
+    "the North Sea": {
+        "LOC": "1"
+    },
+    "two day": {
+        "DATE": "1"
+    },
+    "Sarda": {
+        "NORP": "1"
+    },
+    "Sardinia": {
+        "GPE": "1"
+    },
+    "Sudanese": {
+        "NORP": "1"
+    },
+    "Hamunses": {
+        "PERSON": "1"
+    },
+    "Libyan": {
+        "NORP": "1"
+    },
+    "Marie Antoinette": {
+        "PERSON": "1"
+    },
+    "the Sahara desert": {
+        "LOC": "1"
+    },
+    "Michael Ascher": {
+        "PERSON": "1"
+    },
+    "Michael": {
+        "PERSON": "1"
+    },
+    "+unknown+": {
+        "PERSON": "1"
+    },
+    "any": {
+        "LANGUAGE": "1",
+        "CARDINAL": "1",
+        "PERSON": "1"
+    },
+    "one week later": {
+        "DATE": "1"
+    },
+    "about three hundred dollars": {
+        "MONEY": "1"
+    },
+    "September fifth": {
+        "DATE": "1"
+    },
+    "six hundred and fifty dollars": {
+        "MONEY": "1"
+    },
+    "twelve hours": {
+        "TIME": "1"
+    },
+    "five in the evening": {
+        "TIME": "1"
+    },
+    "Bea": {
+        "PERSON": "1"
+    },
+    "Opa": {
+        "PERSON": "1"
+    },
+    "Beanie": {
+        "PERSON": "1"
+    },
+    "Queens": {
+        "GPE": "1"
+    },
+    "Ruth": {
+        "PERSON": "1"
+    },
+    "Henning": {
+        "PERSON": "1"
+    },
+    "Cathy": {
+        "PERSON": "1"
+    },
+    "eleven in the morning": {
+        "TIME": "1"
+    },
+    "thirty - first": {
+        "DATE": "1"
+    },
+    "one day": {
+        "DATE": "1"
+    },
+    "Cynthia": {
+        "PERSON": "1"
+    },
+    "Abby": {
+        "PERSON": "1"
+    },
+    "Michal": {
+        "PERSON": "1"
+    },
+    "Pevie": {
+        "PERSON": "1"
+    },
+    "Arlene": {
+        "PERSON": "1"
+    },
+    "Marianne": {
+        "PERSON": "1"
+    },
+    "Marilyn": {
+        "PERSON": "1"
+    },
+    "two years ago": {
+        "DATE": "1"
+    },
+    "a dollar": {
+        "MONEY": "1"
+    },
+    "Reuven": {
+        "PERSON": "1"
+    },
+    "Carnegie Mellon": {
+        "ORG": "1"
+    },
+    "Victor": {
+        "PERSON": "1"
+    },
+    "University of Michigan": {
+        "ORG": "1"
+    },
+    "Lori": {
+        "PERSON": "1"
+    },
+    "Moden Nisan": {
+        "ORG": "1"
+    },
+    "Haifa": {
+        "GPE": "1"
+    },
+    "the Young Women 's Leadership Program": {
+        "ORG": "1"
+    },
+    "Hebrew": {
+        "LANGUAGE": "1"
+    },
+    "Ma'anit": {
+        "LOC": "1"
+    },
+    "Savia": {
+        "PERSON": "1"
+    },
+    "three months ago": {
+        "DATE": "1"
+    },
+    "a week and a half ago": {
+        "DATE": "1"
+    },
+    "mid to late September": {
+        "DATE": "1"
+    },
+    "early October": {
+        "DATE": "1"
+    },
+    "three day": {
+        "DATE": "1"
+    },
+    "Saarbruecken": {
+        "GPE": "1"
+    },
+    "Mannheim": {
+        "GPE": "1"
+    },
+    "Cologne": {
+        "GPE": "1"
+    },
+    "Jigs": {
+        "PERSON": "1"
+    },
+    "Nuremburg": {
+        "GPE": "1"
+    },
+    "Austrian": {
+        "NORP": "1"
+    },
+    "last month": {
+        "DATE": "1"
+    },
+    "five hundred marks": {
+        "MONEY": "1"
+    },
+    "Mupo": {
+        "PERSON": "1"
+    },
+    "the beginning of next month": {
+        "DATE": "1"
+    },
+    "Manhasset": {
+        "GPE": "1"
+    },
+    "nineteen ninety": {
+        "DATE": "1"
+    },
+    "Percy Faith": {
+        "PERSON": "1"
+    },
+    "over thirty years ago": {
+        "DATE": "1"
+    },
+    "three years ago": {
+        "DATE": "1"
+    },
+    "Zad": {
+        "PERSON": "1"
+    },
+    "Mel": {
+        "PERSON": "1"
+    },
+    "seventy - five": {
+        "CARDINAL": "1"
+    },
+    "four years ago": {
+        "DATE": "1"
+    },
+    "Glenn Miller": {
+        "PERSON": "1"
+    },
+    "Chattanooga Choo Choo": {
+        "WORK_OF_ART": "1"
+    },
+    "Serenade &in Blue": {
+        "WORK_OF_ART": "1"
+    },
+    "Fiesta &in Blue": {
+        "WORK_OF_ART": "1"
+    },
+    "about three years ago": {
+        "DATE": "1"
+    },
+    "Lydia Van Damme": {
+        "PERSON": "1"
+    },
+    "Every two weeks": {
+        "DATE": "1"
+    },
+    "Bayerischer Rundfunk": {
+        "ORG": "1"
+    },
+    "seventieth": {
+        "ORDINAL": "1"
+    },
+    "about a month ago": {
+        "DATE": "1"
+    },
+    "about a week ago": {
+        "DATE": "1"
+    },
+    "Augsburg": {
+        "GPE": "1"
+    },
+    "five hundred": {
+        "CARDINAL": "1"
+    },
+    "every two weeks": {
+        "DATE": "1"
+    },
+    "eight thirty": {
+        "TIME": "1"
+    },
+    "Annetta": {
+        "PERSON": "1"
+    },
+    "eighty - seven": {
+        "DATE": "1"
+    },
+    "Karlsruhe": {
+        "GPE": "1"
+    },
+    "Stuttgart Nuremberg": {
+        "GPE": "1"
+    },
+    "Jig": {
+        "PERSON": "1"
+    },
+    "about %uh three weeks ago": {
+        "DATE": "1"
+    },
+    "Brookmeyer": {
+        "PERSON": "1"
+    },
+    "Stuttgart": {
+        "GPE": "1"
+    },
+    "Nuremberg": {
+        "GPE": "1"
+    },
+    "Belgium": {
+        "GPE": "1"
+    },
+    "October twenty - third": {
+        "DATE": "1"
+    },
+    "two weeks later": {
+        "DATE": "1"
+    },
+    "November third": {
+        "DATE": "1"
+    },
+    "Roman Schvala": {
+        "PERSON": "1"
+    },
+    "Jerry Hayes": {
+        "PERSON": "1"
+    },
+    "Herb Geller": {
+        "PERSON": "1"
+    },
+    "Murenau": {
+        "GPE": "1"
+    },
+    "November thirtieth": {
+        "DATE": "1"
+    },
+    "the following Monday": {
+        "DATE": "1"
+    },
+    "December %uh eighteenth": {
+        "DATE": "1"
+    },
+    "John Marshall": {
+        "PERSON": "1"
+    },
+    "ten until twelve": {
+        "TIME": "1"
+    },
+    "about two months ago": {
+        "DATE": "1"
+    },
+    "weeks ago": {
+        "DATE": "1"
+    },
+    "a hundred and fifty thousand": {
+        "CARDINAL": "1"
+    },
+    "sixty - six thousand": {
+        "CARDINAL": "1"
+    },
+    "The Valley Nursing Care Center": {
+        "ORG": "1"
+    },
+    "Christian Indian": {
+        "NORP": "1"
+    },
+    "about two weeks": {
+        "DATE": "1"
+    },
+    "Ti": {
+        "PERSON": "1"
+    },
+    "nineteen months": {
+        "DATE": "1"
+    },
+    "twenty - two months": {
+        "DATE": "1"
+    },
+    "Maybe fifteen months .": {
+        "DATE": "1"
+    },
+    "one hour": {
+        "TIME": "1"
+    },
+    "the fourteen weeks": {
+        "DATE": "1"
+    },
+    "four hours": {
+        "TIME": "1"
+    },
+    "four year": {
+        "DATE": "1"
+    },
+    "about eight twenty": {
+        "TIME": "1"
+    },
+    "thirty two hours": {
+        "TIME": "1"
+    },
+    "this": {
+        "DATE": "1"
+    },
+    "they give service": {
+        "DATE": "1"
+    },
+    "their friendship": {
+        "DATE": "1"
+    },
+    "that": {
+        "DATE": "1"
+    },
+    "very": {
+        "CARDINAL": "1",
+        "DATE": "1"
+    },
+    "know I said": {
+        "PERSON": "1"
+    },
+    "your apostolate": {
+        "FAC": "1"
+    },
+    "a couple": {
+        "TIME": "1"
+    },
+    "that sure in": {
+        "TIME": "1"
+    },
+    "otherwise": {
+        "TIME": "1"
+    },
+    "apparently": {
+        "DATE": "1"
+    },
+    "teaches about third": {
+        "MONEY": "1"
+    },
+    "this fe alegria": {
+        "MONEY": "1"
+    },
+    "where you": {
+        "CARDINAL": "1"
+    },
+    "sharing": {
+        "PERSON": "1"
+    },
+    "her": {
+        "PERSON": "1"
+    },
+    "you at": {
+        "DATE": "1"
+    },
+    "you": {
+        "CARDINAL": "1",
+        "PERSON": "1"
+    },
+    "about her": {
+        "CARDINAL": "1"
+    },
+    "letter": {
+        "CARDINAL": "1"
+    },
+    "touch with": {
+        "DATE": "1"
+    },
+    "spent %uh": {
+        "DATE": "1"
+    },
+    "of the Central": {
+        "MONEY": "1"
+    },
+    "McDougal": {
+        "DATE": "1"
+    },
+    "neat": {
+        "ORG": "1"
+    },
+    "'re doing": {
+        "PERSON": "1"
+    },
+    "little": {
+        "PERSON": "1",
+        "CARDINAL": "1"
+    },
+    "when": {
+        "CARDINAL": "1",
+        "TIME": "1"
+    },
+    "me that": {
+        "CARDINAL": "1"
+    },
+    "oh that 's right Peggy": {
+        "CARDINAL": "1"
+    },
+    "some of it": {
+        "TIME": "1"
+    },
+    "down here": {
+        "PERSON": "1"
+    },
+    "do": {
+        "PERSON": "1",
+        "CARDINAL": "1"
+    },
+    "had been": {
+        "PERSON": "1"
+    },
+    "June seventeenth": {
+        "PERSON": "1"
+    },
+    "enrollment": {
+        "GPE": "1"
+    },
+    "because": {
+        "NORP": "1"
+    },
+    "thrill for me": {
+        "ORG": "1"
+    },
+    "talk": {
+        "ORG": "1"
+    },
+    "Lupita": {
+        "PERSON": "1"
+    },
+    "were": {
+        "PERSON": "1",
+        "CARDINAL": "1"
+    },
+    "be": {
+        "CARDINAL": "1",
+        "PERSON": "1"
+    },
+    "question": {
+        "PERSON": "1"
+    },
+    "having": {
+        "GPE": "1"
+    },
+    "Windsor": {
+        "DATE": "1"
+    },
+    "Michelle": {
+        "PERSON": "1"
+    },
+    "she does": {
+        "DATE": "1"
+    },
+    "them": {
+        "DATE": "1"
+    },
+    "things": {
+        "PERSON": "1",
+        "NORP": "1"
+    },
+    "and the kids": {
+        "PERSON": "1"
+    },
+    "take": {
+        "PERSON": "1"
+    },
+    "an": {
+        "PERSON": "1"
+    },
+    "can": {
+        "PERSON": "1"
+    },
+    "paper": {
+        "PERSON": "1"
+    },
+    "n't": {
+        "PERSON": "1"
+    },
+    "classes": {
+        "PERSON": "1"
+    },
+    "true": {
+        "PERSON": "1"
+    },
+    "is": {
+        "PERSON": "1"
+    },
+    "for": {
+        "PERSON": "1"
+    },
+    "anyway": {
+        "DATE": "1"
+    },
+    "at all": {
+        "DATE": "1"
+    },
+    "god": {
+        "CARDINAL": "1"
+    },
+    "relaxed": {
+        "DATE": "1"
+    },
+    "been": {
+        "DATE": "1"
+    },
+    "I absolutely did": {
+        "DATE": "1"
+    },
+    "So they were": {
+        "DATE": "1"
+    },
+    "realtor": {
+        "PERSON": "1"
+    },
+    "three hundred": {
+        "PERSON": "1"
+    },
+    "dollars": {
+        "PERSON": "1"
+    },
+    "arrived and": {
+        "CARDINAL": "1"
+    },
+    "ages": {
+        "GPE": "1"
+    },
+    "said": {
+        "DATE": "1"
+    },
+    "just": {
+        "TIME": "1"
+    },
+    "vacation": {
+        "GPE": "1"
+    },
+    "many": {
+        "NORP": "1"
+    },
+    "Jemma": {
+        "PERSON": "1"
+    },
+    "sitting": {
+        "ORDINAL": "1"
+    },
+    "the baby": {
+        "DATE": "1"
+    },
+    "staying": {
+        "PERSON": "1"
+    },
+    "they wanted": {
+        "DATE": "1"
+    },
+    "right": {
+        "PERSON": "1"
+    },
+    "Kristen": {
+        "PERSON": "1"
+    },
+    "Yalinsky": {
+        "PERSON": "1"
+    },
+    "U N": {
+        "ORG": "1"
+    },
+    "Lodz Poland": {
+        "GPE": "1"
+    },
+    "Lodz": {
+        "GPE": "1"
+    },
+    "couple months": {
+        "DATE": "1"
+    },
+    "Jody": {
+        "PERSON": "1"
+    },
+    "Dorota": {
+        "PERSON": "1"
+    },
+    "Gainesville Florida": {
+        "GPE": "1"
+    },
+    "Well": {
+        "DATE": "1"
+    },
+    "mean": {
+        "DATE": "1"
+    },
+    "I": {
+        "PERSON": "1"
+    },
+    "kind": {
+        "GPE": "1",
+        "PERSON": "1"
+    },
+    "Is": {
+        "GPE": "1"
+    },
+    "Houston I think": {
+        "TIME": "1"
+    },
+    "there": {
+        "GPE": "1"
+    },
+    "had": {
+        "GPE": "1"
+    },
+    "wave": {
+        "CARDINAL": "1"
+    },
+    "for about a week and": {
+        "QUANTITY": "1"
+    },
+    "have": {
+        "PERSON": "1",
+        "ORG": "1"
+    },
+    "%um": {
+        "CARDINAL": "1"
+    },
+    ".": {
+        "CARDINAL": "1"
+    },
+    "Six pounds": {
+        "QUANTITY": "1"
+    },
+    "Reilly": {
+        "PERSON": "1"
+    },
+    "six in the morning": {
+        "TIME": "1"
+    },
+    "a couple hours": {
+        "TIME": "1"
+    },
+    "Drew": {
+        "PERSON": "1"
+    },
+    "thirty - six": {
+        "DATE": "1"
+    },
+    "twenty - six": {
+        "DATE": "1"
+    },
+    "Tad": {
+        "PERSON": "1"
+    },
+    "fault": {
+        "PERSON": "1"
+    },
+    "which leaves": {
+        "DATE": "1"
+    },
+    "seven": {
+        "DATE": "1",
+        "CARDINAL": "1"
+    },
+    "Washington": {
+        "DATE": "1",
+        "GPE": "1"
+    },
+    "Maybe": {
+        "CARDINAL": "1"
+    },
+    "fun": {
+        "CARDINAL": "1"
+    },
+    "explained": {
+        "CARDINAL": "1"
+    },
+    "**ouchies**": {
+        "CARDINAL": "1"
+    },
+    "back tomorrow": {
+        "ORG": "1"
+    },
+    "like": {
+        "PERSON": "1"
+    },
+    "you to be": {
+        "GPE": "1"
+    },
+    "come in": {
+        "PERSON": "1"
+    },
+    "fun . At all": {
+        "ORG": "1"
+    },
+    "forty": {
+        "ORDINAL": "1"
+    },
+    "wanted": {
+        "ORDINAL": "1"
+    },
+    "the end of the year": {
+        "DATE": "1"
+    },
+    "Syracuse": {
+        "GPE": "1"
+    },
+    "Wayne Meyers": {
+        "PERSON": "1"
+    },
+    "Dexadrin": {
+        "PRODUCT": "1"
+    },
+    "Harvard School of Ed": {
+        "ORG": "1"
+    },
+    "Sadie": {
+        "PERSON": "1"
+    },
+    "Twenty - one": {
+        "DATE": "1"
+    },
+    "Gib": {
+        "PERSON": "1"
+    },
+    "Lizzy Lizzy": {
+        "PERSON": "1"
+    },
+    "Israeli": {
+        "NORP": "1"
+    },
+    "Eric Kahn": {
+        "PERSON": "1"
+    },
+    "Cypress": {
+        "GPE": "1"
+    },
+    "Los Angeles": {
+        "GPE": "1"
+    },
+    "Columbia University": {
+        "ORG": "1"
+    },
+    "Savannah": {
+        "GPE": "1"
+    },
+    "A hundred": {
+        "CARDINAL": "1"
+    },
+    "West Bank": {
+        "LOC": "1"
+    },
+    "Rabin": {
+        "PERSON": "1"
+    },
+    "six day": {
+        "DATE": "1"
+    },
+    "Pinchas Sapir": {
+        "PERSON": "1"
+    },
+    "Kiriyah": {
+        "FAC": "1"
+    },
+    "Golda": {
+        "PERSON": "1"
+    },
+    "Levinsky": {
+        "PERSON": "1"
+    },
+    "Oklahoma": {
+        "GPE": "1"
+    },
+    "Kennedy airport": {
+        "FAC": "1"
+    },
+    "Zurich": {
+        "GPE": "1"
+    },
+    "Savta": {
+        "PERSON": "1"
+    },
+    "eight years old": {
+        "DATE": "1"
+    },
+    "Beverly Hills": {
+        "GPE": "1"
+    },
+    "three one zero": {
+        "CARDINAL": "1"
+    },
+    "the past week": {
+        "DATE": "1"
+    },
+    "Evancerol": {
+        "PRODUCT": "1"
+    },
+    "U C L A": {
+        "ORG": "1"
+    },
+    "fifteen years": {
+        "DATE": "1"
+    },
+    "three one eight": {
+        "CARDINAL": "1"
+    },
+    "the next day": {
+        "DATE": "1"
+    },
+    "in a week": {
+        "DATE": "1"
+    },
+    "nine months old": {
+        "DATE": "1"
+    },
+    "seven months old": {
+        "DATE": "1"
+    },
+    "five months old": {
+        "DATE": "1"
+    },
+    "five year's old": {
+        "DATE": "1"
+    },
+    "Thorazine": {
+        "PRODUCT": "1"
+    },
+    "the last three years": {
+        "DATE": "1"
+    },
+    "Phil": {
+        "PERSON": "1"
+    },
+    "Elizabeth": {
+        "PERSON": "1"
+    },
+    "less than a hundred": {
+        "CARDINAL": "1"
+    },
+    "about fifty": {
+        "CARDINAL": "1"
+    },
+    "fifty five": {
+        "CARDINAL": "1"
+    },
+    "last Thursday": {
+        "DATE": "1"
+    },
+    "Alexia": {
+        "PERSON": "1"
+    },
+    "Finns": {
+        "NORP": "1"
+    },
+    "January fifteenth": {
+        "DATE": "1"
+    },
+    "Helsinki": {
+        "GPE": "1"
+    },
+    "Frank Lloyd Wright 's": {
+        "PERSON": "1"
+    },
+    "sixty thousand dollars": {
+        "MONEY": "1"
+    },
+    "seventy thousand marks": {
+        "MONEY": "1"
+    },
+    "twenty four thousand": {
+        "CARDINAL": "1"
+    },
+    "couple weeks ago": {
+        "DATE": "1"
+    },
+    "fifty one fifty eight": {
+        "CARDINAL": "1"
+    },
+    "Hawthorn Drive": {
+        "LOC": "1"
+    },
+    "Hawthorn Drive ,": {
+        "LOC": "1"
+    },
+    "four six two two six": {
+        "CARDINAL": "1"
+    },
+    "two two six": {
+        "CARDINAL": "1"
+    },
+    "Tullyesa": {
+        "ORG": "1"
+    },
+    "six thirty": {
+        "TIME": "1"
+    },
+    "Eight pounds eight ounces .": {
+        "QUANTITY": "1"
+    },
+    "a few hours": {
+        "TIME": "1"
+    },
+    "couple minutes": {
+        "TIME": "1"
+    },
+    "Otto": {
+        "PERSON": "1"
+    },
+    "about five minutes": {
+        "TIME": "1"
+    },
+    "Sheila": {
+        "PERSON": "1"
+    },
+    "Madrid": {
+        "GPE": "1"
+    },
+    "August first": {
+        "DATE": "1"
+    },
+    "three weeks Tuesday": {
+        "DATE": "1"
+    },
+    "a week in a half": {
+        "DATE": "1"
+    },
+    "western Michigan": {
+        "LOC": "1"
+    },
+    "Lake Michigan": {
+        "LOC": "1"
+    },
+    "about four hours": {
+        "TIME": "1"
+    },
+    "almost a week": {
+        "DATE": "1"
+    },
+    "fourteen": {
+        "CARDINAL": "1"
+    },
+    "fifteen hours": {
+        "TIME": "1"
+    },
+    "Wisconsin": {
+        "GPE": "1"
+    },
+    "fifty - six": {
+        "CARDINAL": "1"
+    },
+    "Dubuque , Iowa": {
+        "GPE": "1"
+    },
+    "Elisa": {
+        "PERSON": "1"
+    },
+    "Chris": {
+        "PERSON": "1"
+    },
+    "Lou": {
+        "PERSON": "1"
+    },
+    "October sixth": {
+        "DATE": "1"
+    },
+    "ten days": {
+        "DATE": "1"
+    },
+    "Kansas": {
+        "GPE": "1"
+    },
+    "two year": {
+        "DATE": "1"
+    },
+    "seventeen thousand": {
+        "CARDINAL": "1"
+    },
+    "eighteen thousand five hundred": {
+        "CARDINAL": "1"
+    },
+    "Second": {
+        "ORDINAL": "1"
+    },
+    "eighteen five": {
+        "CARDINAL": "1"
+    },
+    "New Year": {
+        "EVENT": "1"
+    },
+    "the next year": {
+        "DATE": "1"
+    },
+    "Katie": {
+        "PERSON": "1"
+    },
+    "Oregon": {
+        "GPE": "1"
+    },
+    "the Metropolitan Museum &of Art": {
+        "ORG": "1"
+    },
+    "the Brooklyn Bridge": {
+        "FAC": "1"
+    },
+    "Central Park": {
+        "LOC": "1"
+    },
+    "Vick": {
+        "PERSON": "1"
+    },
+    "one minute": {
+        "TIME": "1"
+    },
+    "D C": {
+        "GPE": "1"
+    },
+    "Labor Day": {
+        "EVENT": "1"
+    },
+    "the first weekend of October": {
+        "DATE": "1"
+    },
+    "Fourth of July": {
+        "DATE": "1"
+    },
+    "traumatized": {
+        "GPE": "1"
+    },
+    "watering": {
+        "GPE": "1"
+    },
+    "know that": {
+        "TIME": "1"
+    },
+    "saying": {
+        "GPE": "1"
+    },
+    "about": {
+        "DATE": "1"
+    },
+    "the fleas are gone": {
+        "GPE": "1"
+    },
+    "if": {
+        "PERSON": "1"
+    },
+    "had a flea": {
+        "FAC": "1"
+    },
+    "the plates": {
+        "GPE": "1"
+    },
+    "%um you": {
+        "GPE": "1"
+    },
+    "know": {
+        "GPE": "1"
+    },
+    "definitely": {
+        "NORP": "1",
+        "PERCENT": "1"
+    },
+    "really": {
+        "GPE": "1"
+    },
+    "coming": {
+        "NORP": "1"
+    },
+    "mhm getting": {
+        "NORP": "1"
+    },
+    "there 's": {
+        "NORP": "1"
+    },
+    "nobody": {
+        "NORP": "1"
+    },
+    "him and": {
+        "NORP": "1"
+    },
+    "he": {
+        "NORP": "1"
+    },
+    "the middle": {
+        "ORG": "1"
+    },
+    "bit better": {
+        "PRODUCT": "1"
+    },
+    "to school": {
+        "LANGUAGE": "1"
+    },
+    "better": {
+        "LANGUAGE": "1"
+    },
+    "know my": {
+        "PERSON": "1"
+    },
+    "from": {
+        "GPE": "1"
+    },
+    "this kind of brocade fabric": {
+        "DATE": "1"
+    },
+    "you know": {
+        "GPE": "1"
+    },
+    "pairing": {
+        "GPE": "1"
+    },
+    "another": {
+        "DATE": "1"
+    },
+    "Gunda": {
+        "CARDINAL": "1"
+    },
+    "like a last you": {
+        "CARDINAL": "1"
+    },
+    "red": {
+        "GPE": "1"
+    },
+    "Hai": {
+        "GPE": "1"
+    },
+    "it": {
+        "TIME": "1"
+    },
+    "measly": {
+        "PERSON": "1"
+    },
+    "thrill": {
+        "GPE": "1"
+    },
+    "them one": {
+        "CARDINAL": "1"
+    },
+    "bought one": {
+        "CARDINAL": "1"
+    },
+    "it around": {
+        "TIME": "1"
+    },
+    "be engraved": {
+        "DATE": "1"
+    },
+    "considered officially": {
+        "PERSON": "1"
+    },
+    "under": {
+        "LANGUAGE": "1"
+    },
+    "cats": {
+        "GPE": "1"
+    },
+    "like three or four days": {
+        "DATE": "1"
+    },
+    "that day": {
+        "DATE": "1"
+    },
+    "a thousand dollars": {
+        "MONEY": "1"
+    },
+    "within a day or two": {
+        "DATE": "1"
+    },
+    "eighteen hundred": {
+        "CARDINAL": "1"
+    },
+    "a month ago": {
+        "DATE": "1"
+    },
+    "the rest of the year": {
+        "DATE": "1"
+    },
+    "nine hundred dollars": {
+        "MONEY": "1"
+    },
+    "the %uh first of August": {
+        "DATE": "1"
+    },
+    "Tuesdays": {
+        "DATE": "1"
+    },
+    "that Friday the twenty - first": {
+        "DATE": "1"
+    },
+    "that Friday": {
+        "DATE": "1"
+    },
+    "a little over three weeks": {
+        "DATE": "1"
+    },
+    "David Steel": {
+        "PERSON": "1"
+    },
+    "B B King": {
+        "PERSON": "1"
+    },
+    "Etta James": {
+        "PERSON": "1"
+    },
+    "the twenty third": {
+        "DATE": "1"
+    },
+    "the twenty second": {
+        "DATE": "1"
+    },
+    "the twentieth": {
+        "DATE": "1"
+    },
+    "a few days": {
+        "DATE": "1"
+    },
+    "The sixteenth": {
+        "DATE": "1"
+    },
+    "Neil": {
+        "PERSON": "1"
+    },
+    "+Saturday+": {
+        "DATE": "1"
+    },
+    "Georgio": {
+        "PERSON": "1"
+    },
+    "Shirl Clay": {
+        "PERSON": "1"
+    },
+    "North Park": {
+        "LOC": "1"
+    },
+    "Puerto Rico": {
+        "GPE": "1"
+    },
+    "twenty - four": {
+        "CARDINAL": "1"
+    },
+    "ten miles": {
+        "QUANTITY": "1"
+    },
+    "four pounds": {
+        "QUANTITY": "1"
+    },
+    "five inches": {
+        "QUANTITY": "1"
+    },
+    "five and a half months": {
+        "DATE": "1"
+    },
+    "about five weeks": {
+        "DATE": "1"
+    },
+    "Rosemary": {
+        "PERSON": "1"
+    },
+    "seventy five percent": {
+        "PERCENT": "1"
+    },
+    "the first three months": {
+        "DATE": "1"
+    },
+    "twenty years": {
+        "DATE": "1"
+    },
+    "the nine months": {
+        "DATE": "1"
+    },
+    "like eight and a half months": {
+        "DATE": "1"
+    },
+    "two year old": {
+        "DATE": "1"
+    },
+    "Like eight and a half pounds .": {
+        "QUANTITY": "1"
+    },
+    "like six foot four": {
+        "QUANTITY": "1"
+    },
+    "Gaelin": {
+        "PERSON": "1"
+    },
+    "Eighteen pounds": {
+        "QUANTITY": "1"
+    },
+    "Two": {
+        "CARDINAL": "1"
+    },
+    "Sara": {
+        "PERSON": "1"
+    },
+    "One minute": {
+        "TIME": "1"
+    },
+    "Brachalov": {
+        "PERSON": "1"
+    },
+    "Two and a half years old": {
+        "DATE": "1"
+    },
+    "fifteen and a half years": {
+        "DATE": "1"
+    },
+    "Shirley": {
+        "PERSON": "1"
+    },
+    "Lakewood": {
+        "GPE": "1"
+    },
+    "Tova Newberger": {
+        "PERSON": "1"
+    },
+    "Sarah Malkus": {
+        "PERSON": "1"
+    },
+    "the sixth": {
+        "DATE": "1"
+    },
+    "sixth": {
+        "DATE": "1"
+    },
+    "Michalam": {
+        "PERSON": "1"
+    },
+    "Remopolin Mikhail": {
+        "PERSON": "1"
+    },
+    "Chanamalka": {
+        "PERSON": "1"
+    },
+    "Remopolin": {
+        "PERSON": "1"
+    },
+    "Sarah Sarah Chimalback": {
+        "PERSON": "1"
+    },
+    "Shavuos": {
+        "EVENT": "1"
+    },
+    "the year and some ago": {
+        "DATE": "1"
+    },
+    "Rubbermaid": {
+        "ORG": "1"
+    },
+    "Brecha": {
+        "PERSON": "1"
+    },
+    "Chayita": {
+        "PERSON": "1"
+    },
+    "Rubin": {
+        "PERSON": "1"
+    },
+    "Phoenix": {
+        "GPE": "1"
+    },
+    "Arizona": {
+        "GPE": "1"
+    },
+    "Penn": {
+        "PERSON": "1",
+        "LOC": "1"
+    },
+    "half hour": {
+        "TIME": "1"
+    },
+    "a half hour": {
+        "TIME": "1"
+    },
+    "Baron": {
+        "PERSON": "1"
+    },
+    "the three days": {
+        "DATE": "1"
+    },
+    "three in the afternoon": {
+        "TIME": "1"
+    },
+    "January first": {
+        "DATE": "1"
+    },
+    "United": {
+        "ORG": "1"
+    },
+    "Singapore Hong Kong U S": {
+        "GPE": "1"
+    },
+    "U S": {
+        "GPE": "1"
+    },
+    "Leigh Turbush": {
+        "PERSON": "1"
+    },
+    "Singapo-": {
+        "GPE": "1"
+    },
+    "three thousand dollars": {
+        "MONEY": "1"
+    },
+    "J F K": {
+        "FAC": "1"
+    },
+    "eight hour": {
+        "TIME": "1"
+    },
+    "five hour": {
+        "TIME": "1"
+    },
+    "five hours": {
+        "TIME": "1"
+    },
+    "Hong Kong San Francisco": {
+        "GPE": "1"
+    },
+    "Hong Kong San Francisco San Francisco": {
+        "GPE": "1"
+    },
+    "Adam Holnick": {
+        "PERSON": "1"
+    },
+    "Adam Holnick ?": {
+        "PERSON": "1"
+    },
+    "Lisa": {
+        "PERSON": "1"
+    },
+    "Adam": {
+        "PERSON": "1"
+    },
+    "Alex": {
+        "PERSON": "1"
+    },
+    "Spencer": {
+        "PERSON": "1"
+    },
+    "more than one": {
+        "CARDINAL": "1"
+    },
+    "more than ten": {
+        "CARDINAL": "1"
+    },
+    "like twelve to fifteen .": {
+        "CARDINAL": "1"
+    },
+    "Drexel": {
+        "ORG": "1"
+    },
+    "the Art Alliance": {
+        "FAC": "1"
+    },
+    "eighty nine dollars": {
+        "MONEY": "1"
+    },
+    "eighty nine": {
+        "CARDINAL": "1"
+    },
+    "ninety nine": {
+        "CARDINAL": "1"
+    },
+    "a hundred and twenty": {
+        "CARDINAL": "1"
+    },
+    "the Holiday Inn": {
+        "FAC": "1",
+        "ORG": "1"
+    },
+    "a hundred and fourteen dollars": {
+        "MONEY": "1"
+    },
+    "Diner On The Square": {
+        "FAC": "1"
+    },
+    "two blocks": {
+        "QUANTITY": "1"
+    },
+    "The Reserve": {
+        "FAC": "1"
+    },
+    "Reserve": {
+        "FAC": "1"
+    },
+    "Patroli": {
+        "PERSON": "1"
+    },
+    "Graham": {
+        "PERSON": "1"
+    },
+    "Peter": {
+        "PERSON": "1"
+    },
+    "Italians": {
+        "NORP": "1"
+    },
+    "Florence": {
+        "GPE": "1"
+    },
+    "fifteen , sixteen years old": {
+        "DATE": "1"
+    },
+    "saturday the ninth": {
+        "DATE": "1"
+    },
+    "the preceding monday": {
+        "DATE": "1"
+    },
+    "the preceding Monday": {
+        "DATE": "1"
+    },
+    "Kevin": {
+        "PERSON": "1"
+    },
+    "six week": {
+        "DATE": "1"
+    },
+    "Idaho": {
+        "GPE": "1"
+    },
+    "Yellowstone": {
+        "LOC": "1"
+    },
+    "Grand Tetons": {
+        "LOC": "1"
+    },
+    "Jackson": {
+        "GPE": "1"
+    },
+    "five year": {
+        "DATE": "1"
+    },
+    "Benneton": {
+        "ORG": "1"
+    },
+    "three seconds": {
+        "TIME": "1"
+    },
+    "a year later": {
+        "DATE": "1"
+    },
+    "fourteen weeks": {
+        "DATE": "1"
+    },
+    "eight and half months": {
+        "DATE": "1"
+    },
+    "the eight and a half months": {
+        "DATE": "1"
+    },
+    "Dalia": {
+        "PERSON": "1"
+    },
+    "Jemilla": {
+        "PERSON": "1"
+    },
+    "Delila": {
+        "PERSON": "1"
+    },
+    "Ohio": {
+        "GPE": "1"
+    },
+    "Columbus": {
+        "GPE": "1"
+    },
+    "Koran": {
+        "WORK_OF_ART": "1"
+    },
+    "Muslims": {
+        "NORP": "1"
+    },
+    "Nine thousand": {
+        "CARDINAL": "1"
+    },
+    "nine thousand": {
+        "CARDINAL": "1"
+    },
+    "Saudi Arabia": {
+        "GPE": "1"
+    },
+    "Azarahim": {
+        "PERSON": "1"
+    },
+    "another three years": {
+        "DATE": "1"
+    },
+    "Goths": {
+        "NORP": "1"
+    },
+    "Germanic": {
+        "NORP": "1"
+    },
+    "England": {
+        "LANGUAGE": "1"
+    },
+    "Luke": {
+        "PERSON": "1"
+    },
+    "late August": {
+        "DATE": "1"
+    },
+    "about six months": {
+        "DATE": "1"
+    },
+    "five minutes": {
+        "TIME": "1"
+    },
+    "ten minutes": {
+        "TIME": "1"
+    },
+    "forty five minutes": {
+        "TIME": "1"
+    },
+    "Kerry": {
+        "PERSON": "1"
+    },
+    "Auschwitz": {
+        "FAC": "1"
+    },
+    "Barney &von Lipstien .": {
+        "PERSON": "1"
+    },
+    "Bill": {
+        "PERSON": "1"
+    },
+    "Sansabel": {
+        "GPE": "1"
+    },
+    "a couple of months ago": {
+        "DATE": "1"
+    },
+    "Chuck Krulac": {
+        "PERSON": "1"
+    },
+    "Engel": {
+        "PERSON": "1"
+    },
+    "Chelsea": {
+        "PERSON": "1"
+    },
+    "Barney Berens": {
+        "PERSON": "1"
+    },
+    "the White House": {
+        "FAC": "1"
+    },
+    "a year": {
+        "DATE": "1"
+    },
+    "Pete": {
+        "PERSON": "1"
+    },
+    "Teutonic": {
+        "NORP": "1"
+    },
+    "the end of next week": {
+        "DATE": "1"
+    },
+    "Shanley": {
+        "PERSON": "1"
+    },
+    "the past two weeks": {
+        "DATE": "1"
+    },
+    "seven hours": {
+        "TIME": "1"
+    },
+    "the seven hours": {
+        "TIME": "1"
+    },
+    "that eight hours": {
+        "TIME": "1"
+    },
+    "eight hours": {
+        "TIME": "1"
+    },
+    "sixteen hours": {
+        "TIME": "1"
+    },
+    "couple days in August": {
+        "DATE": "1"
+    },
+    "that sixteen hours": {
+        "TIME": "1"
+    },
+    "Patrick": {
+        "PERSON": "1"
+    },
+    "six months": {
+        "DATE": "1"
+    },
+    "this past week": {
+        "DATE": "1"
+    },
+    "sixty eight": {
+        "CARDINAL": "1"
+    },
+    "eight years": {
+        "DATE": "1"
+    },
+    "The Misfit": {
+        "WORK_OF_ART": "1"
+    },
+    "Flanner O 'Connery": {
+        "PERSON": "1"
+    },
+    "Mel Gibson": {
+        "PERSON": "1"
+    },
+    "Spanish": {
+        "LANGUAGE": "1"
+    },
+    "twenty year old": {
+        "DATE": "1"
+    },
+    "another Lee Worthy": {
+        "PERSON": "1"
+    },
+    "Lee": {
+        "PERSON": "1"
+    },
+    "a couple of bucks": {
+        "MONEY": "1"
+    },
+    "Suzanne": {
+        "PERSON": "1"
+    },
+    "eleventh": {
+        "DATE": "1"
+    },
+    "two hundred and fifty": {
+        "CARDINAL": "1"
+    },
+    "another half an hour": {
+        "TIME": "1"
+    },
+    "November October": {
+        "DATE": "1"
+    },
+    "December": {
+        "DATE": "1"
+    },
+    "Hilton": {
+        "ORG": "1"
+    },
+    "seventy - nine dollars": {
+        "MONEY": "1"
+    },
+    "Landau": {
+        "PERSON": "1"
+    },
+    "Huck": {
+        "PERSON": "1"
+    },
+    "ninety - nine dollars": {
+        "MONEY": "1"
+    },
+    "week": {
+        "DATE": "1"
+    },
+    "fiftieth": {
+        "ORDINAL": "1"
+    },
+    "Dick Bryner": {
+        "PERSON": "1"
+    },
+    "Marin": {
+        "GPE": "1"
+    },
+    "eight months": {
+        "DATE": "1"
+    },
+    "Sacramento": {
+        "GPE": "1"
+    },
+    "last week-": {
+        "DATE": "1"
+    },
+    "Mexico": {
+        "GPE": "1"
+    },
+    "Blue Shield": {
+        "ORG": "1"
+    },
+    "Olympics": {
+        "EVENT": "1"
+    },
+    "two - thirds": {
+        "CARDINAL": "1"
+    },
+    "about thirty - two": {
+        "CARDINAL": "1"
+    },
+    "Third": {
+        "ORDINAL": "1"
+    },
+    "seventh": {
+        "ORDINAL": "1"
+    },
+    "thirty - two": {
+        "CARDINAL": "1"
+    },
+    "Tammy": {
+        "PERSON": "1"
+    },
+    "forty - five minutes": {
+        "TIME": "1"
+    },
+    "Commodores": {
+        "PRODUCT": "1"
+    },
+    "I B M": {
+        "PRODUCT": "1"
+    },
+    "twenty - five years": {
+        "DATE": "1"
+    },
+    "forty minute": {
+        "TIME": "1"
+    },
+    "half - hour": {
+        "TIME": "1"
+    },
+    "that forty minutes": {
+        "TIME": "1"
+    },
+    "Henry": {
+        "PERSON": "1"
+    },
+    "the Inner Harbor": {
+        "LOC": "1"
+    },
+    "three hour": {
+        "TIME": "1"
+    },
+    "over three hours": {
+        "TIME": "1"
+    },
+    "about three": {
+        "CARDINAL": "1"
+    },
+    "Little Italy": {
+        "LOC": "1"
+    },
+    "south Philadelphia": {
+        "LOC": "1"
+    },
+    "Stone Harbor": {
+        "FAC": "1"
+    },
+    "Camden Yards": {
+        "FAC": "1"
+    },
+    "Lou Gehrig 's": {
+        "PERSON": "1"
+    },
+    "Phillies": {
+        "ORG": "1"
+    },
+    "tenth": {
+        "ORDINAL": "1"
+    },
+    "thirteen": {
+        "CARDINAL": "1"
+    },
+    "Annette": {
+        "PERSON": "1"
+    },
+    "about eleven": {
+        "TIME": "1"
+    },
+    "Heprin": {
+        "PRODUCT": "1"
+    },
+    "Ray Catherine": {
+        "PERSON": "1"
+    },
+    "Irene": {
+        "PERSON": "1"
+    },
+    "Lorraine": {
+        "PERSON": "1"
+    },
+    "Friday morning": {
+        "DATE": "1"
+    },
+    "Dorothy": {
+        "PERSON": "1"
+    },
+    "Marie Catherine": {
+        "PERSON": "1"
+    },
+    "Murphy": {
+        "PERSON": "1"
+    },
+    "about twelve": {
+        "CARDINAL": "1"
+    },
+    "Omar": {
+        "PERSON": "1"
+    },
+    "mount Scopeth": {
+        "LOC": "1"
+    },
+    "the mount Olif": {
+        "LOC": "1"
+    },
+    "about fifteen minutes": {
+        "TIME": "1"
+    },
+    "seven o'clock": {
+        "TIME": "1"
+    },
+    "Sabbath": {
+        "DATE": "1"
+    },
+    "Isaiah": {
+        "PERSON": "1"
+    },
+    "about seven forty": {
+        "TIME": "1"
+    },
+    "Skinner": {
+        "PERSON": "1"
+    },
+    "Bible": {
+        "WORK_OF_ART": "1"
+    },
+    "Abraham": {
+        "PERSON": "1"
+    },
+    "Rosen": {
+        "PERSON": "1"
+    },
+    "Muslim": {
+        "NORP": "1"
+    },
+    "Islam": {
+        "NORP": "1"
+    },
+    "Jesus": {
+        "PERSON": "1"
+    },
+    "the United States": {
+        "GPE": "1"
+    },
+    "Constitution": {
+        "WORK_OF_ART": "1"
+    },
+    "Korea": {
+        "GPE": "1"
+    },
+    "almost three years": {
+        "DATE": "1"
+    },
+    "August tenth": {
+        "DATE": "1"
+    },
+    "Mercer University": {
+        "ORG": "1"
+    },
+    "Russians": {
+        "NORP": "1"
+    },
+    "Siberians": {
+        "NORP": "1"
+    },
+    "Lyubov": {
+        "PERSON": "1"
+    },
+    "Carribean": {
+        "NORP": "1"
+    },
+    "about fifty miles": {
+        "QUANTITY": "1"
+    },
+    "about thirty three miles": {
+        "QUANTITY": "1"
+    },
+    "forty five minute": {
+        "TIME": "1"
+    },
+    "three miles": {
+        "QUANTITY": "1"
+    },
+    "hundred and twenty days": {
+        "DATE": "1"
+    },
+    "like two weeks ago": {
+        "DATE": "1"
+    },
+    "like a hundred and twenty days": {
+        "DATE": "1"
+    },
+    "sixty days": {
+        "DATE": "1"
+    },
+    "Williamsburg": {
+        "LOC": "1"
+    },
+    "the thirtieth of August": {
+        "DATE": "1"
+    },
+    "August": {
+        "DATE": "1"
+    },
+    "Three weeks .": {
+        "DATE": "1"
+    },
+    "about six weeks": {
+        "DATE": "1"
+    },
+    "McDowell": {
+        "ORG": "1"
+    },
+    "a couple of years": {
+        "DATE": "1"
+    },
+    "the Twilight Zone": {
+        "WORK_OF_ART": "1"
+    },
+    "the Next Generation": {
+        "WORK_OF_ART": "1"
+    },
+    "Picard": {
+        "PERSON": "1"
+    },
+    "Next Generation": {
+        "WORK_OF_ART": "1"
+    },
+    "Joan": {
+        "PERSON": "1"
+    },
+    "one second": {
+        "TIME": "1"
+    },
+    "The University of Pennsylvania": {
+        "ORG": "1"
+    },
+    "upstate New York": {
+        "LOC": "1"
+    },
+    "Micky": {
+        "PERSON": "1"
+    },
+    "Republican": {
+        "NORP": "1"
+    },
+    "about five years ago": {
+        "DATE": "1"
+    },
+    "some years before": {
+        "DATE": "1"
+    },
+    "eightieth": {
+        "ORDINAL": "1"
+    },
+    "Irv Teisher": {
+        "PERSON": "1"
+    },
+    "Borders": {
+        "ORG": "1"
+    },
+    "four years": {
+        "DATE": "1"
+    },
+    "Some years ago": {
+        "DATE": "1"
+    },
+    "seventy - nine": {
+        "CARDINAL": "1"
+    },
+    "Eighty": {
+        "CARDINAL": "1"
+    },
+    "Minneapolis": {
+        "GPE": "1"
+    },
+    "George Miller": {
+        "PERSON": "1"
+    },
+    "the last few years": {
+        "DATE": "1"
+    },
+    "Abe": {
+        "PERSON": "1"
+    },
+    "five years ago": {
+        "DATE": "1"
+    },
+    "Warren": {
+        "GPE": "1"
+    },
+    "Sterling Heights": {
+        "GPE": "1"
+    },
+    "Chrysler": {
+        "ORG": "1"
+    },
+    "San Jose": {
+        "GPE": "1"
+    },
+    "Jasmine": {
+        "PERSON": "1"
+    },
+    "Sophie": {
+        "PERSON": "1"
+    },
+    "Nicaragua": {
+        "GPE": "1"
+    },
+    "Peace Corps": {
+        "ORG": "1"
+    },
+    "maybe three months afterwards": {
+        "DATE": "1"
+    },
+    "Joel": {
+        "PERSON": "1"
+    },
+    "seven and a half": {
+        "DATE": "1"
+    },
+    "Thomas Enrique": {
+        "PERSON": "1"
+    },
+    "ten months": {
+        "DATE": "1"
+    },
+    "Logan Andres": {
+        "PERSON": "1"
+    },
+    "two and half hours": {
+        "TIME": "1"
+    },
+    "McDonalds": {
+        "ORG": "1"
+    },
+    "one year ago": {
+        "DATE": "1"
+    },
+    "Missouri": {
+        "GPE": "1"
+    },
+    "that next year": {
+        "DATE": "1"
+    },
+    "the Schwartz club": {
+        "ORG": "1"
+    },
+    "like five kilometers": {
+        "QUANTITY": "1"
+    },
+    "Writer 's Market": {
+        "ORG": "1"
+    },
+    "thirty percent": {
+        "PERCENT": "1"
+    },
+    "Craig": {
+        "PERSON": "1"
+    },
+    "like eight o'clock in the morning": {
+        "TIME": "1"
+    },
+    "like twelve": {
+        "TIME": "1"
+    },
+    "twelve thirty": {
+        "TIME": "1"
+    },
+    "over two million almost three million": {
+        "CARDINAL": "1"
+    },
+    "Shana": {
+        "PERSON": "1"
+    },
+    "Jessica": {
+        "PERSON": "1"
+    },
+    "Diane": {
+        "PERSON": "1"
+    },
+    "like five hours": {
+        "TIME": "1"
+    },
+    "Joanna Nichols": {
+        "PERSON": "1"
+    },
+    "N P R": {
+        "ORG": "1"
+    },
+    "Talk &of &the Nation": {
+        "WORK_OF_ART": "1"
+    },
+    "Darren": {
+        "PERSON": "1"
+    },
+    "the last few minutes": {
+        "TIME": "1"
+    },
+    "Thirty marks": {
+        "MONEY": "1"
+    },
+    "five marks": {
+        "MONEY": "1"
+    },
+    "like four bucks each": {
+        "MONEY": "1"
+    },
+    "Switzerland": {
+        "GPE": "1"
+    },
+    "this weekend": {
+        "DATE": "1"
+    },
+    "Utrecht": {
+        "GPE": "1"
+    },
+    "Oharshi": {
+        "PERSON": "1"
+    },
+    "the Friday night": {
+        "DATE": "1"
+    },
+    "the third": {
+        "DATE": "1"
+    },
+    "the fourth and fifth": {
+        "DATE": "1"
+    },
+    "the few days before": {
+        "DATE": "1"
+    },
+    "the evening of the eighth": {
+        "TIME": "1"
+    },
+    "eighth": {
+        "DATE": "1"
+    },
+    "Saturday the eleventh": {
+        "DATE": "1"
+    },
+    "days": {
+        "DATE": "1"
+    },
+    "Eighth": {
+        "DATE": "1"
+    },
+    "eighth and ninth": {
+        "DATE": "1"
+    },
+    "ninth and tenth": {
+        "DATE": "1"
+    },
+    "that week": {
+        "DATE": "1"
+    },
+    "the late afternoon or the evening of the eighth": {
+        "TIME": "1"
+    },
+    "the eighth": {
+        "DATE": "1"
+    },
+    "five ten": {
+        "TIME": "1"
+    },
+    "Five ten": {
+        "TIME": "1"
+    },
+    "the morning of the ninth": {
+        "TIME": "1"
+    },
+    "before noon on the ninth": {
+        "TIME": "1"
+    },
+    "seventeen": {
+        "CARDINAL": "1"
+    },
+    "the morning": {
+        "TIME": "1"
+    }
+}

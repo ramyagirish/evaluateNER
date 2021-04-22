@@ -1,0 +1,1501 @@
+{
+    "Iraq": {
+        "GPE": "37",
+        "EVENT": "1"
+    },
+    "Qingqing": {
+        "PERSON": "34"
+    },
+    "one": {
+        "CARDINAL": "22",
+        "ORDINAL": "1"
+    },
+    "Arab": {
+        "NORP": "20",
+        "PERSON": "1"
+    },
+    "first": {
+        "ORDINAL": "18",
+        "PERSON": "1"
+    },
+    "American": {
+        "NORP": "17"
+    },
+    "Israel": {
+        "GPE": "14"
+    },
+    "Saddam": {
+        "PERSON": "13"
+    },
+    "two": {
+        "CARDINAL": "12"
+    },
+    "China": {
+        "GPE": "12"
+    },
+    "Mao Zedong": {
+        "PERSON": "11"
+    },
+    "Moslem": {
+        "NORP": "10"
+    },
+    "Iran": {
+        "GPE": "10"
+    },
+    "Europe": {
+        "LOC": "10"
+    },
+    "US": {
+        "NORP": "9",
+        "GPE": "4"
+    },
+    "Americans": {
+        "NORP": "8"
+    },
+    "Chinese": {
+        "NORP": "8"
+    },
+    "One": {
+        "CARDINAL": "7"
+    },
+    "Haditha": {
+        "EVENT": "7"
+    },
+    "Syria": {
+        "GPE": "7"
+    },
+    "Saddam Hussein": {
+        "PERSON": "6"
+    },
+    "America": {
+        "GPE": "6"
+    },
+    "second": {
+        "ORDINAL": "6"
+    },
+    "Syrian": {
+        "NORP": "6",
+        "WORK_OF_ART": "1"
+    },
+    "Spain": {
+        "GPE": "6"
+    },
+    "Iraqi": {
+        "NORP": "5"
+    },
+    "year": {
+        "DATE": "5"
+    },
+    "U.S.": {
+        "NORP": "5",
+        "GPE": "2"
+    },
+    "CCP": {
+        "ORG": "5"
+    },
+    "Yale in China": {
+        "ORG": "5"
+    },
+    "Afghanistan": {
+        "GPE": "5"
+    },
+    "Mom": {
+        "PERSON": "5"
+    },
+    "dad": {
+        "PERSON": "5"
+    },
+    "Mao Zedong 's": {
+        "PERSON": "5"
+    },
+    "Israeli": {
+        "NORP": "4"
+    },
+    "Khan Younes": {
+        "GPE": "4"
+    },
+    "Palestinian": {
+        "NORP": "4"
+    },
+    "Golan": {
+        "LOC": "4"
+    },
+    "Ibn al - Faqeer": {
+        "PERSON": "4"
+    },
+    "Shiite": {
+        "NORP": "4"
+    },
+    "Memorial Day": {
+        "DATE": "4"
+    },
+    "Iraqis": {
+        "NORP": "4"
+    },
+    "four": {
+        "CARDINAL": "4"
+    },
+    "Mao": {
+        "PERSON": "4"
+    },
+    "thousands": {
+        "CARDINAL": "4"
+    },
+    "hundreds": {
+        "CARDINAL": "4",
+        "ORDINAL": "1"
+    },
+    "Turkey": {
+        "GPE": "4"
+    },
+    "European": {
+        "NORP": "4"
+    },
+    "Dad": {
+        "PERSON": "4"
+    },
+    "Arabism": {
+        "NORP": "3"
+    },
+    "Arabs": {
+        "NORP": "3"
+    },
+    "Lebanon": {
+        "GPE": "3"
+    },
+    "Gaza Strip": {
+        "GPE": "3"
+    },
+    "three": {
+        "CARDINAL": "3"
+    },
+    "Arabic": {
+        "LANGUAGE": "3"
+    },
+    "Rafida": {
+        "PERSON": "3"
+    },
+    "Baghdad": {
+        "GPE": "3"
+    },
+    "West": {
+        "LOC": "3"
+    },
+    "Macbeth": {
+        "PERSON": "3"
+    },
+    "WW2": {
+        "EVENT": "3"
+    },
+    "German": {
+        "NORP": "3"
+    },
+    "OSS": {
+        "ORG": "3"
+    },
+    "communists": {
+        "NORP": "3"
+    },
+    "WTC": {
+        "FAC": "3"
+    },
+    "Jewish": {
+        "NORP": "3"
+    },
+    "WWII": {
+        "EVENT": "3"
+    },
+    "Saudi Arabia": {
+        "GPE": "3"
+    },
+    "the Western World": {
+        "LOC": "3"
+    },
+    "Libya": {
+        "GPE": "3"
+    },
+    "the United States": {
+        "GPE": "3"
+    },
+    "Moslems": {
+        "NORP": "3"
+    },
+    "September 11": {
+        "EVENT": "3"
+    },
+    "Arafat": {
+        "PERSON": "3"
+    },
+    "Iranian": {
+        "NORP": "3"
+    },
+    "France": {
+        "GPE": "3"
+    },
+    "113th": {
+        "ORDINAL": "3"
+    },
+    "\" The Sun that Never Sets \"": {
+        "EVENT": "3",
+        "ORG": "2"
+    },
+    "Taiwanese": {
+        "NORP": "3"
+    },
+    "conjee": {
+        "PERSON": "3"
+    },
+    "Asad": {
+        "PERSON": "2"
+    },
+    "hundreds of millions": {
+        "CARDINAL": "2"
+    },
+    "Muslims": {
+        "NORP": "2"
+    },
+    "last": {
+        "ORDINAL": "2"
+    },
+    "Islamic": {
+        "NORP": "2"
+    },
+    "Al - Qaeda": {
+        "ORG": "2"
+    },
+    "Gaza": {
+        "GPE": "2"
+    },
+    "Nasser Hospital": {
+        "FAC": "2"
+    },
+    "Qisrin": {
+        "GPE": "2"
+    },
+    "Mahmoud bin Ali": {
+        "PERSON": "2"
+    },
+    "16241": {
+        "CARDINAL": "2"
+    },
+    "Muslim": {
+        "NORP": "2"
+    },
+    "the October War": {
+        "EVENT": "2"
+    },
+    "Abu Dilama": {
+        "PERSON": "2"
+    },
+    "Google": {
+        "ORG": "2"
+    },
+    "Abu Ali": {
+        "PERSON": "2"
+    },
+    "Zamzam": {
+        "PERSON": "2"
+    },
+    "SS": {
+        "NORP": "2"
+    },
+    "Nazi": {
+        "NORP": "2"
+    },
+    "holocaust": {
+        "EVENT": "2"
+    },
+    "Washington": {
+        "ORG": "2"
+    },
+    "Communist": {
+        "NORP": "2"
+    },
+    "World War II": {
+        "EVENT": "2"
+    },
+    "Maoists": {
+        "NORP": "2"
+    },
+    "Army": {
+        "ORG": "2"
+    },
+    "coalition": {
+        "ORG": "2"
+    },
+    "Abu Ghraib": {
+        "FAC": "2",
+        "EVENT": "1"
+    },
+    "Israelis": {
+        "NORP": "2"
+    },
+    "Dresden": {
+        "GPE": "2"
+    },
+    "Berlin": {
+        "GPE": "2"
+    },
+    "Texas": {
+        "GPE": "2"
+    },
+    "Israelites": {
+        "NORP": "2"
+    },
+    "OT": {
+        "WORK_OF_ART": "2"
+    },
+    "Christian": {
+        "NORP": "2"
+    },
+    "Alec Guinness": {
+        "PERSON": "2"
+    },
+    "Japanese": {
+        "NORP": "2"
+    },
+    "Sudan": {
+        "GPE": "2"
+    },
+    "Algeria": {
+        "GPE": "2"
+    },
+    "22": {
+        "CARDINAL": "2"
+    },
+    "the Gulf States": {
+        "GPE": "2"
+    },
+    "millions": {
+        "CARDINAL": "2",
+        "ORDINAL": "1"
+    },
+    "month": {
+        "DATE": "2"
+    },
+    "Russia": {
+        "GPE": "2"
+    },
+    "Spanish": {
+        "NORP": "2"
+    },
+    "English": {
+        "LANGUAGE": "2"
+    },
+    "Saudi": {
+        "NORP": "2"
+    },
+    "Jordan": {
+        "GPE": "2"
+    },
+    "Hezbollah": {
+        "ORG": "2"
+    },
+    "Hamas": {
+        "ORG": "2"
+    },
+    "Jinsheng": {
+        "LOC": "2"
+    },
+    "6": {
+        "CARDINAL": "2"
+    },
+    "duduyuu": {
+        "PERSON": "2"
+    },
+    "2007": {
+        "DATE": "2"
+    },
+    "Guo Kai 's Economic Notes": {
+        "PERSON": "2"
+    },
+    "200": {
+        "CARDINAL": "2"
+    },
+    "the Middle East": {
+        "LOC": "2"
+    },
+    "Hu Jintao": {
+        "PERSON": "2"
+    },
+    "Abd al - Bari Atwan": {
+        "PERSON": "1"
+    },
+    "the coming days": {
+        "DATE": "1"
+    },
+    "Koran": {
+        "WORK_OF_ART": "1"
+    },
+    "Umar al - Mukhtar": {
+        "PERSON": "1"
+    },
+    "Yusuf al - Azma": {
+        "PERSON": "1"
+    },
+    "the Green Zone": {
+        "GPE": "1"
+    },
+    "Islam": {
+        "ORG": "1"
+    },
+    "the day of the feast of Bairam": {
+        "DATE": "1"
+    },
+    "any other day": {
+        "DATE": "1"
+    },
+    "30": {
+        "CARDINAL": "1"
+    },
+    "decades to come": {
+        "DATE": "1"
+    },
+    "Muwaffaq al - Rabi": {
+        "PERSON": "1"
+    },
+    "the near future": {
+        "DATE": "1"
+    },
+    "Nouri al - Maliki": {
+        "PERSON": "1"
+    },
+    "Al - Talabani": {
+        "PERSON": "1"
+    },
+    "UPI": {
+        "ORG": "1"
+    },
+    "United Press International": {
+        "ORG": "1"
+    },
+    "Kamal Mohamed Al Bashiti": {
+        "PERSON": "1"
+    },
+    "-LRB- 33 years old -RRB-": {
+        "DATE": "1"
+    },
+    "Three": {
+        "CARDINAL": "1"
+    },
+    "350": {
+        "CARDINAL": "1"
+    },
+    "Mohamed Al Bashiti": {
+        "PERSON": "1"
+    },
+    "18 -LRB- years old -RRB-": {
+        "DATE": "1"
+    },
+    "Thursday": {
+        "DATE": "1"
+    },
+    "Majed Al Bashiti": {
+        "PERSON": "1"
+    },
+    "hundreds of meters": {
+        "QUANTITY": "1"
+    },
+    "Palestinians": {
+        "NORP": "1"
+    },
+    "the Ministry of Interior": {
+        "ORG": "1"
+    },
+    "the Palestinian Center for Human Rights": {
+        "ORG": "1"
+    },
+    "Yasser Abd Al Ghafoor": {
+        "PERSON": "1"
+    },
+    "the Gaza Strip": {
+        "GPE": "1"
+    },
+    "the third of last July": {
+        "DATE": "1"
+    },
+    "Amani Al Raqab": {
+        "PERSON": "1"
+    },
+    "1967 War": {
+        "EVENT": "1"
+    },
+    "The Cold of the North": {
+        "PERSON": "1"
+    },
+    "Dunya al - Watan": {
+        "ORG": "1"
+    },
+    "Alexander Ghuliyandrin": {
+        "PERSON": "1"
+    },
+    "Oleg Darutsigh": {
+        "PERSON": "1"
+    },
+    "last Saturday morning": {
+        "DATE": "1"
+    },
+    "Sunday": {
+        "DATE": "1"
+    },
+    "the June War": {
+        "EVENT": "1"
+    },
+    "June 1967": {
+        "DATE": "1"
+    },
+    "the morning of the blessed Eid": {
+        "DATE": "1"
+    },
+    "Real Player": {
+        "PRODUCT": "1"
+    },
+    "3 mb": {
+        "QUANTITY": "1"
+    },
+    "Monday evening": {
+        "DATE": "1"
+    },
+    "half a minute": {
+        "QUANTITY": "1"
+    },
+    "last week": {
+        "DATE": "1"
+    },
+    "Tonight": {
+        "DATE": "1"
+    },
+    "Rafid": {
+        "NORP": "1"
+    },
+    "Moqtada": {
+        "PERSON": "1"
+    },
+    "Yasmine": {
+        "PERSON": "1"
+    },
+    "Safawiya": {
+        "ORG": "1"
+    },
+    "gwardyola": {
+        "PERSON": "1"
+    },
+    "Tigris": {
+        "LOC": "1"
+    },
+    "Safawites": {
+        "NORP": "1"
+    },
+    "Faiz al - Arabi": {
+        "PERSON": "1"
+    },
+    "Leonard Cohen": {
+        "PERSON": "1"
+    },
+    "Abu Sifa": {
+        "GPE": "1",
+        "EVENT": "1"
+    },
+    "11": {
+        "CARDINAL": "1"
+    },
+    "Jesse Macbeth": {
+        "PERSON": "1"
+    },
+    "Iraq war": {
+        "EVENT": "1"
+    },
+    "Pentagon": {
+        "ORG": "1",
+        "FAC": "1"
+    },
+    "Iraq Veterans Against the War": {
+        "ORG": "1"
+    },
+    "COINTELPRO": {
+        "ORG": "1"
+    },
+    "20 years ago": {
+        "DATE": "1"
+    },
+    "Ronald Reagan": {
+        "PERSON": "1"
+    },
+    "the Bush family 's": {
+        "ORG": "1"
+    },
+    "Bitburg": {
+        "GPE": "1"
+    },
+    "the Republican Heritage Groups Council": {
+        "ORG": "1"
+    },
+    "Hadithas": {
+        "EVENT": "1"
+    },
+    "Jeff": {
+        "PERSON": "1"
+    },
+    "Goya": {
+        "PERSON": "1"
+    },
+    "A Rumour of War": {
+        "WORK_OF_ART": "1"
+    },
+    "Anonymous 2:52": {
+        "PERSON": "1"
+    },
+    "Francisco Goya 's": {
+        "PERSON": "1"
+    },
+    "Disasters of War": {
+        "WORK_OF_ART": "1"
+    },
+    "Caputo": {
+        "PERSON": "1"
+    },
+    "jeff": {
+        "PERSON": "1"
+    },
+    "america": {
+        "GPE": "1"
+    },
+    "ten": {
+        "CARDINAL": "1"
+    },
+    "Middle Eastern": {
+        "NORP": "1"
+    },
+    "anon 2:52": {
+        "PERSON": "1"
+    },
+    "Twilight Zone": {
+        "WORK_OF_ART": "1"
+    },
+    "earth": {
+        "LOC": "1"
+    },
+    "Neo-Con": {
+        "NORP": "1"
+    },
+    "the Project for a New American Century": {
+        "ORG": "1"
+    },
+    "Anotherwords": {
+        "PERSON": "1"
+    },
+    "Butler Shaffer": {
+        "PERSON": "1"
+    },
+    "12:53 PM": {
+        "TIME": "1"
+    },
+    "Marines": {
+        "NORP": "1",
+        "ORG": "1"
+    },
+    "24": {
+        "CARDINAL": "1"
+    },
+    "six": {
+        "CARDINAL": "1"
+    },
+    "tens or hundreds of thousands": {
+        "CARDINAL": "1"
+    },
+    "the oval office": {
+        "FAC": "1"
+    },
+    "a few years ago": {
+        "DATE": "1"
+    },
+    "Faux News": {
+        "ORG": "1"
+    },
+    "Maggot": {
+        "PERSON": "1"
+    },
+    "Telly Savalas": {
+        "PERSON": "1"
+    },
+    "The Dirty Dozen": {
+        "WORK_OF_ART": "1"
+    },
+    "Jim Brown": {
+        "PERSON": "1"
+    },
+    "today": {
+        "DATE": "1"
+    },
+    "Kill Bill": {
+        "WORK_OF_ART": "1"
+    },
+    "nazi": {
+        "NORP": "1"
+    },
+    "the Praetorian Guard": {
+        "ORG": "1"
+    },
+    "17 years ago": {
+        "DATE": "1"
+    },
+    "Bart": {
+        "PERSON": "1"
+    },
+    "Lisa": {
+        "GPE": "1"
+    },
+    "simpsons": {
+        "WORK_OF_ART": "1"
+    },
+    "mid to late 20s": {
+        "DATE": "1"
+    },
+    "Kill Bills": {
+        "WORK_OF_ART": "1"
+    },
+    "Roman": {
+        "NORP": "1"
+    },
+    "John the baptist": {
+        "PERSON": "1"
+    },
+    "the book of Luke": {
+        "WORK_OF_ART": "1"
+    },
+    "John": {
+        "PERSON": "1"
+    },
+    "Chinese Communists": {
+        "NORP": "1"
+    },
+    "Communist Party": {
+        "ORG": "1"
+    },
+    "East": {
+        "LOC": "1"
+    },
+    "1903": {
+        "DATE": "1"
+    },
+    "Yale Divinity School": {
+        "ORG": "1"
+    },
+    "Office of Strategic Services": {
+        "ORG": "1"
+    },
+    "' Yale in China '": {
+        "ORG": "1"
+    },
+    "Reuben Holden": {
+        "PERSON": "1"
+    },
+    "Bush": {
+        "PERSON": "1"
+    },
+    "the Skull and Bones": {
+        "ORG": "1"
+    },
+    "New York": {
+        "GPE": "1"
+    },
+    "Union Theological Seminary": {
+        "ORG": "1"
+    },
+    "Asia": {
+        "LOC": "1"
+    },
+    "Kathy Griggs": {
+        "PERSON": "1"
+    },
+    "William Donovan": {
+        "PERSON": "1"
+    },
+    "Marine Corp.": {
+        "ORG": "1"
+    },
+    "Abu Ghraib U.S. Military Prison": {
+        "FAC": "1"
+    },
+    "twenty miles": {
+        "QUANTITY": "1"
+    },
+    "A large percent": {
+        "PERCENT": "1"
+    },
+    "17": {
+        "CARDINAL": "1"
+    },
+    "Abu Ghraib Prison": {
+        "FAC": "1"
+    },
+    "one year": {
+        "DATE": "1"
+    },
+    "Kapinski": {
+        "PERSON": "1"
+    },
+    "`` Taguba Report '' Section 24": {
+        "WORK_OF_ART": "1"
+    },
+    "60 percent": {
+        "PERCENT": "1"
+    },
+    "Majowski": {
+        "PERSON": "1"
+    },
+    "2nd": {
+        "ORDINAL": "1"
+    },
+    "Iraq : Beyond Abu Ghraib : Detention and torture in Iraq": {
+        "WORK_OF_ART": "1"
+    },
+    "Amnesty International": {
+        "ORG": "1"
+    },
+    "February 2004": {
+        "DATE": "1"
+    },
+    "International Red Cross Report Section 7": {
+        "WORK_OF_ART": "1"
+    },
+    "70 to 90 percent": {
+        "PERCENT": "1"
+    },
+    "- Theodore Roosevelt -": {
+        "PERSON": "1"
+    },
+    "911": {
+        "EVENT": "1",
+        "DATE": "1"
+    },
+    "jews": {
+        "NORP": "1"
+    },
+    "12 hours": {
+        "QUANTITY": "1"
+    },
+    "Seattle": {
+        "GPE": "1"
+    },
+    "the east coast": {
+        "LOC": "1"
+    },
+    "Bin ladens '": {
+        "ORG": "1"
+    },
+    "five": {
+        "CARDINAL": "1"
+    },
+    "million": {
+        "CARDINAL": "1"
+    },
+    "Revelation 18": {
+        "WORK_OF_ART": "1"
+    },
+    "18:1": {
+        "CARDINAL": "1"
+    },
+    "18:2": {
+        "CARDINAL": "1"
+    },
+    "Babylon": {
+        "LOC": "1"
+    },
+    "18:3": {
+        "CARDINAL": "1"
+    },
+    "18:4": {
+        "CARDINAL": "1"
+    },
+    "18:5": {
+        "CARDINAL": "1"
+    },
+    "First": {
+        "ORDINAL": "1"
+    },
+    "The Boer war": {
+        "EVENT": "1"
+    },
+    "British": {
+        "NORP": "1"
+    },
+    "the British Empire": {
+        "GPE": "1"
+    },
+    "WWI": {
+        "EVENT": "1"
+    },
+    "allies": {
+        "ORG": "1"
+    },
+    "the Red Army": {
+        "ORG": "1"
+    },
+    "1945": {
+        "DATE": "1"
+    },
+    "Korea": {
+        "GPE": "1"
+    },
+    "Vietnam": {
+        "GPE": "1",
+        "EVENT": "1"
+    },
+    "My Lai": {
+        "EVENT": "1"
+    },
+    "the Tiger Force": {
+        "EVENT": "1"
+    },
+    "`` W '' Bush": {
+        "PERSON": "1"
+    },
+    "dozens": {
+        "CARDINAL": "1"
+    },
+    "more than 60 years": {
+        "DATE": "1"
+    },
+    "USA": {
+        "GPE": "1"
+    },
+    "Bill Hicks": {
+        "PERSON": "1"
+    },
+    "40 years from now": {
+        "DATE": "1"
+    },
+    "Remembrance Day": {
+        "DATE": "1"
+    },
+    "Groundhog Day": {
+        "DATE": "1"
+    },
+    "Rembembrance Day": {
+        "DATE": "1"
+    },
+    "DA": {
+        "PERSON": "1"
+    },
+    "Waco": {
+        "GPE": "1"
+    },
+    "Romans": {
+        "NORP": "1"
+    },
+    "Carthage": {
+        "GPE": "1"
+    },
+    "Hiroshima": {
+        "EVENT": "1"
+    },
+    "Nagasaki": {
+        "EVENT": "1"
+    },
+    "Fallujah": {
+        "EVENT": "1"
+    },
+    "Abu Graib": {
+        "EVENT": "1",
+        "FAC": "1"
+    },
+    "Hadifa": {
+        "EVENT": "1"
+    },
+    "Jerry Mander 's": {
+        "PERSON": "1"
+    },
+    "Mother Teresa": {
+        "PERSON": "1"
+    },
+    "Cal Thomas": {
+        "PERSON": "1"
+    },
+    "Edward Abbey 's": {
+        "PERSON": "1"
+    },
+    "Ed": {
+        "PERSON": "1"
+    },
+    "2:52 PM": {
+        "TIME": "1"
+    },
+    "Stan Goff": {
+        "PERSON": "1"
+    },
+    "Odessa": {
+        "GPE": "1"
+    },
+    "Kabul": {
+        "GPE": "1"
+    },
+    "Afghan": {
+        "NORP": "1"
+    },
+    "A couple of years prior": {
+        "DATE": "1"
+    },
+    "Richard": {
+        "PERSON": "1"
+    },
+    "3:10pm": {
+        "TIME": "1"
+    },
+    "Harry Truman": {
+        "PERSON": "1"
+    },
+    "Pat Benatar": {
+        "PERSON": "1"
+    },
+    "Pat Benatar ?": {
+        "PERSON": "1"
+    },
+    "1000 BC": {
+        "DATE": "1"
+    },
+    "Torah": {
+        "WORK_OF_ART": "1"
+    },
+    "Buddhist": {
+        "NORP": "1"
+    },
+    "Bridge Over the River Kwai": {
+        "WORK_OF_ART": "1"
+    },
+    "the Geneva Convention": {
+        "LAW": "1"
+    },
+    "Gitmo": {
+        "FAC": "1"
+    },
+    "G.C.": {
+        "LAW": "1"
+    },
+    "2:52": {
+        "TIME": "1"
+    },
+    "tenth": {
+        "CARDINAL": "1"
+    },
+    "David Koresh": {
+        "PERSON": "1"
+    },
+    "Christ": {
+        "PERSON": "1"
+    },
+    "several hundred years from now": {
+        "DATE": "1"
+    },
+    "Truman": {
+        "PERSON": "1"
+    },
+    "EricS": {
+        "PERSON": "1"
+    },
+    "shrubmegiddo": {
+        "PERSON": "1"
+    },
+    "Foxsies": {
+        "NORP": "1"
+    },
+    "Nick Keck": {
+        "PERSON": "1"
+    },
+    "`` A View from the Eye of the Storm ''": {
+        "WORK_OF_ART": "1"
+    },
+    "Haim Harari": {
+        "PERSON": "1"
+    },
+    "the International Advisory Board": {
+        "ORG": "1"
+    },
+    "April , 2004": {
+        "DATE": "1"
+    },
+    "Government": {
+        "ORG": "1"
+    },
+    "almost 200 years": {
+        "DATE": "1"
+    },
+    "the Israeli - Arab conflict": {
+        "EVENT": "1"
+    },
+    "Pakistan": {
+        "GPE": "1"
+    },
+    "Morocco": {
+        "GPE": "1"
+    },
+    "non-Arab": {
+        "NORP": "1"
+    },
+    "non-Moslem": {
+        "NORP": "1"
+    },
+    "100 year - old": {
+        "DATE": "1"
+    },
+    "Israeli - Arab conflict": {
+        "EVENT": "1"
+    },
+    "the Iran - Iraq war": {
+        "EVENT": "1"
+    },
+    "Arab Moslem": {
+        "NORP": "1"
+    },
+    "Algerians": {
+        "NORP": "1"
+    },
+    "Kuwait": {
+        "GPE": "1"
+    },
+    "Egypt": {
+        "GPE": "1"
+    },
+    "Yemen": {
+        "GPE": "1"
+    },
+    "the 60's": {
+        "DATE": "1"
+    },
+    "Assad the Father": {
+        "PERCENT": "1"
+    },
+    "tens of thousands": {
+        "ORDINAL": "1"
+    },
+    "one week": {
+        "DATE": "1"
+    },
+    "El Hamma": {
+        "GPE": "1"
+    },
+    "Taliban": {
+        "ORG": "1"
+    },
+    "Libyan": {
+        "NORP": "1"
+    },
+    "Pan - Am": {
+        "ORG": "1"
+    },
+    "Palestine": {
+        "GPE": "1"
+    },
+    "100 years": {
+        "DATE": "1"
+    },
+    "Mauritania": {
+        "GPE": "1"
+    },
+    "300 millions": {
+        "CARDINAL": "1"
+    },
+    "EU": {
+        "ORG": "1"
+    },
+    "Netherlands": {
+        "GPE": "1"
+    },
+    "Belgium": {
+        "GPE": "1"
+    },
+    "California": {
+        "GPE": "1"
+    },
+    "150 years ago": {
+        "DATE": "1"
+    },
+    "the UN Human Rights commission": {
+        "ORG": "1"
+    },
+    "U.N.": {
+        "ORG": "1"
+    },
+    "Greece": {
+        "GPE": "1"
+    },
+    "300 million": {
+        "CARDINAL": "1"
+    },
+    "6 million": {
+        "CARDINAL": "1"
+    },
+    "30 years ago": {
+        "DATE": "1"
+    },
+    "Judaism": {
+        "ORG": "1"
+    },
+    "Christianity": {
+        "ORG": "1"
+    },
+    "the last few years": {
+        "DATE": "1"
+    },
+    "A few more years": {
+        "DATE": "1"
+    },
+    "a World War": {
+        "EVENT": "1"
+    },
+    "World War III": {
+        "EVENT": "1"
+    },
+    "the last three years": {
+        "DATE": "1"
+    },
+    "one day": {
+        "DATE": "1"
+    },
+    "Africa": {
+        "LOC": "1",
+        "ORG": "1"
+    },
+    "Russians": {
+        "NORP": "1"
+    },
+    "Chechnya": {
+        "GPE": "1"
+    },
+    "Coalition": {
+        "ORG": "1"
+    },
+    "Bali": {
+        "GPE": "1"
+    },
+    "Paul Bremmer 's": {
+        "PERSON": "1"
+    },
+    "The United States": {
+        "GPE": "1"
+    },
+    "Istanbul": {
+        "GPE": "1"
+    },
+    "Mouhamad Said al-Sahaf": {
+        "PERSON": "1"
+    },
+    "Sahaf": {
+        "PERSON": "1"
+    },
+    "Jerusalem": {
+        "GPE": "1"
+    },
+    "Al Jazeera": {
+        "ORG": "1"
+    },
+    "three - year old": {
+        "DATE": "1"
+    },
+    "the Iraq war": {
+        "EVENT": "1"
+    },
+    "Bin Laden": {
+        "PERSON": "1"
+    },
+    "20": {
+        "CARDINAL": "1",
+        "NORP": "1"
+    },
+    "Joseph Goebbels": {
+        "PERSON": "1"
+    },
+    "the Palestinian Authority": {
+        "ORG": "1"
+    },
+    "third": {
+        "ORDINAL": "1"
+    },
+    "United Nations": {
+        "ORG": "1"
+    },
+    "Saudis": {
+        "NORP": "1"
+    },
+    "Half": {
+        "CARDINAL": "1"
+    },
+    "Switzerland": {
+        "GPE": "1"
+    },
+    "Paris": {
+        "GPE": "1"
+    },
+    "tens of thousands of dollars": {
+        "MONEY": "1"
+    },
+    "Palestinian Authority": {
+        "ORG": "1"
+    },
+    "the Al-Aksa brigade": {
+        "ORG": "1"
+    },
+    "a couple of hundred dollars": {
+        "MONEY": "1"
+    },
+    "Teheran": {
+        "GPE": "1"
+    },
+    "the Government of Iran": {
+        "ORG": "1"
+    },
+    "a few more years": {
+        "DATE": "1"
+    },
+    "Western Asia": {
+        "LOC": "1"
+    },
+    "two and a half": {
+        "CARDINAL": "1"
+    },
+    "Soviet Union": {
+        "GPE": "1"
+    },
+    "Islamic Jihad": {
+        "ORG": "1"
+    },
+    "South America": {
+        "LOC": "1"
+    },
+    "Uzbekistan": {
+        "GPE": "1"
+    },
+    "Sunni": {
+        "NORP": "1"
+    },
+    "Al Qaeda": {
+        "ORG": "1"
+    },
+    "Sadr": {
+        "ORG": "1"
+    },
+    "a few days earlier": {
+        "DATE": "1"
+    },
+    "20070107": {
+        "DATE": "1"
+    },
+    "2 degrees": {
+        "QUANTITY": "1"
+    },
+    "last night": {
+        "TIME": "1"
+    },
+    "the morning": {
+        "TIME": "1"
+    },
+    "Jinrunfa": {
+        "FAC": "1"
+    },
+    "the next day": {
+        "DATE": "1"
+    },
+    "Beauty Lover": {
+        "PERSON": "1"
+    },
+    "Xiaobai": {
+        "PERSON": "1"
+    },
+    "Shin - Chan 's": {
+        "PERSON": "1"
+    },
+    "Beijing": {
+        "GPE": "1"
+    },
+    "Thu Jan 25": {
+        "DATE": "1"
+    },
+    "21:38:45": {
+        "TIME": "1"
+    },
+    "years": {
+        "DATE": "1"
+    },
+    "another two years": {
+        "DATE": "1"
+    },
+    "half a year": {
+        "DATE": "1"
+    },
+    "25": {
+        "CARDINAL": "1"
+    },
+    "three years": {
+        "DATE": "1"
+    },
+    "68.109.": {
+        "CARDINAL": "1"
+    },
+    "0": {
+        "CARDINAL": "1"
+    },
+    "MCOA Cui Shizhong": {
+        "PERSON": "1"
+    },
+    "The Sun that Never Sets": {
+        "EVENT": "1"
+    },
+    "Marxist": {
+        "NORP": "1"
+    },
+    "MCOA": {
+        "PERSON": "1"
+    },
+    "the Beijing Institute of Civil Engineering and Architecture": {
+        "ORG": "1",
+        "FAC": "1"
+    },
+    "the National Market for High - Technology Industry Work Committee": {
+        "ORG": "1"
+    },
+    "Zhengzhou State Rail Logistics Rapid Transport Co. . Ltd.": {
+        "ORG": "1"
+    },
+    "December 27 , 2006": {
+        "DATE": "1"
+    },
+    "the Red Army 's": {
+        "ORG": "1"
+    },
+    "Long March": {
+        "EVENT": "1"
+    },
+    "the Party Central Committee": {
+        "ORG": "1"
+    },
+    "Jiang Yongzhi": {
+        "PERSON": "1"
+    },
+    "Wed Jan 31": {
+        "DATE": "1"
+    },
+    "11:16:04": {
+        "TIME": "1"
+    },
+    "A few days ago": {
+        "DATE": "1"
+    },
+    "the MINI COOPER": {
+        "PRODUCT": "1"
+    },
+    "190,000 HK dollars": {
+        "MONEY": "1"
+    },
+    "Hong Kong": {
+        "GPE": "1"
+    },
+    "Polo": {
+        "PRODUCT": "1"
+    },
+    "140,000 HK dollars": {
+        "MONEY": "1"
+    },
+    "Rolls - Royce": {
+        "PRODUCT": "1"
+    }
+}

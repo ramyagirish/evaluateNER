@@ -1,0 +1,201 @@
+('two', 'CARDINAL')	9
+('five', 'CARDINAL')	9
+('Hudson', 'GPE')	7
+('German', 'NORP')	7
+('America', 'GPE')	6
+('Lenny', 'PERSON')	6
+('one', 'CARDINAL')	5
+('the twelfth', 'DATE')	5
+('Bonn', 'GPE')	5
+('Spain', 'GPE')	4
+('first', 'ORDINAL')	4
+('Pam', 'PERSON')	4
+('Duesseldorf', 'GPE')	4
+('ten years', 'DATE')	3
+('Israel', 'GPE')	3
+('Israeli', 'NORP')	3
+('October', 'DATE')	3
+('Pesach', 'EVENT')	3
+('Mickey', 'PERSON')	3
+('Rachel', 'PERSON')	3
+('fifty - five percent', 'PERCENT')	3
+('the twentieth', 'DATE')	3
+('Ketwig', 'GPE')	3
+('six', 'CARDINAL')	2
+('six years', 'DATE')	2
+('eight', 'CARDINAL')	2
+('Emory', 'PERSON')	2
+('nine', 'CARDINAL')	2
+('French', 'NORP')	2
+('Gracia', 'GPE')	2
+('Oviato', 'GPE')	2
+('Friday', 'DATE')	2
+('Rosh Hashanah', 'EVENT')	2
+('the United States', 'GPE')	2
+('Allens', 'PERSON')	2
+('Middletown', 'GPE')	2
+('Worth Avenue', 'LOC')	2
+('Bessie', 'PERSON')	2
+('Gloria', 'PERSON')	2
+('three days', 'DATE')	2
+('nineteen', 'DATE')	2
+("Ta'al", 'PERSON')	2
+('Ramona', 'PERSON')	2
+('Westinghouse', 'ORG')	2
+('Hertzolia', 'GPE')	2
+('Tel Aviv', 'GPE')	2
+('Berlin', 'GPE')	2
+('Essen', 'GPE')	2
+('Rathingen', 'GPE')	2
+('American', 'NORP')	2
+('Bad Neuena', 'GPE')	2
+('in the next year', 'DATE')	1
+('seven years', 'DATE')	1
+('sixteen', 'DATE')	1
+('the early forties', 'DATE')	1
+('noon', 'TIME')	1
+('about ten', 'TIME')	1
+('Orient', 'LOC')	1
+('four', 'CARDINAL')	1
+('five years', 'DATE')	1
+('those two and half years', 'DATE')	1
+('eight thirty', 'TIME')	1
+('nine', 'TIME')	1
+("about twelve o'clock", 'TIME')	1
+('Laura', 'PERSON')	1
+('France', 'GPE')	1
+('these past two months', 'DATE')	1
+('next eight hours', 'TIME')	1
+('Spanish', 'NORP')	1
+('Barcelona', 'GPE')	1
+('Bario Gottigo', 'LOC')	1
+('Leotana', 'GPE')	1
+('England', 'GPE')	1
+('April', 'DATE')	1
+('like eight years', 'DATE')	1
+('Christmas', 'EVENT')	1
+('Golan', 'LOC')	1
+('May', 'DATE')	1
+('nine week', 'DATE')	1
+('July', 'DATE')	1
+('yesterday', 'DATE')	1
+('Sukkoth', 'EVENT')	1
+('about a month', 'DATE')	1
+('Simon Perez', 'PERSON')	1
+('Canada', 'GPE')	1
+('Israelis', 'GPE')	1
+("Sam 's Supermarket", 'ORG')	1
+('Europe', 'GPE')	1
+('Russians', 'NORP')	1
+('Holly', 'PERSON')	1
+('three and half years', 'DATE')	1
+('United States', 'GPE')	1
+("New Year 's", 'EVENT')	1
+('Jewish', 'NORP')	1
+('Passover', 'EVENT')	1
+('Fred Allen', 'PERSON')	1
+('nineteen forty eight', 'DATE')	1
+('ten minutes', 'TIME')	1
+('Seal', 'PERSON')	1
+('Ralph', 'PERSON')	1
+('Cornell', 'ORG')	1
+('three years', 'DATE')	1
+('fifty', 'CARDINAL')	1
+('nineteen thirty nine', 'DATE')	1
+('nineteen fifty', 'DATE')	1
+('South Portright', 'GPE')	1
+('Onianta', 'GPE')	1
+('Fred', 'PERSON')	1
+('Irene', 'PERSON')	1
+('Lenny Kocherstein', 'PERSON')	1
+('Bessie Kocherstein', 'PERSON')	1
+('two years', 'DATE')	1
+('Wayne', 'PERSON')	1
+('Kocherstein', 'PERSON')	1
+('Paula', 'PERSON')	1
+('Paula Kocherstein', 'PERSON')	1
+('Saint Louis Missouri', 'GPE')	1
+('Divensinville', 'GPE')	1
+('Sandra Potswool', 'PERSON')	1
+("Jerry Kocherstein 's", 'PERSON')	1
+('a few days', 'DATE')	1
+('a year', 'DATE')	1
+('Matty', 'PERSON')	1
+('Ellen', 'PERSON')	1
+('Ramon', 'PERSON')	1
+('Cocoa', 'PERSON')	1
+('Sephardic', 'NORP')	1
+('Yerushalaim', 'GPE')	1
+('Romanian', 'NORP')	1
+('eighteen and a half', 'DATE')	1
+('December', 'DATE')	1
+('second week in June', 'DATE')	1
+('September', 'DATE')	1
+('a month', 'DATE')	1
+('Ariella', 'PERSON')	1
+('June', 'DATE')	1
+('Natan', 'PERSON')	1
+("Ta'al Paer", 'PERSON')	1
+("B'nai", 'NORP')	1
+('China', 'GPE')	1
+('Singapore', 'GPE')	1
+('eighteen', 'DATE')	1
+('second', 'ORDINAL')	1
+('next week', 'DATE')	1
+('two weeks', 'DATE')	1
+('Liat', 'PERSON')	1
+('two thousand dollars', 'MONEY')	1
+('the end of the year', 'DATE')	1
+('seven hundred dollars', 'MONEY')	1
+('four thousand two hundred dollars', 'MONEY')	1
+('forty - five', 'CARDINAL')	1
+('forty - five percent', 'PERCENT')	1
+('Fifty - five', 'CARDINAL')	1
+('First', 'ORDINAL')	1
+('Gordon', 'PERSON')	1
+('David Gordon ?', 'PERSON')	1
+('about five hundred dollars', 'MONEY')	1
+('five fifty', 'CARDINAL')	1
+('three %uh hundred and fifty dollars', 'MONEY')	1
+('Tel Aviv Hertzolia', 'GPE')	1
+('Audrey', 'PERSON')	1
+('forty - five minutes', 'TIME')	1
+('Liz', 'PERSON')	1
+('One', 'CARDINAL')	1
+('The weekend after that', 'DATE')	1
+('English', 'LANGUAGE')	1
+('last year', 'DATE')	1
+('four weeks', 'DATE')	1
+('the day', 'DATE')	1
+('at least a week', 'DATE')	1
+('Ketting', 'GPE')	1
+('the S - bahn', 'FAC')	1
+('like twenty minutes', 'TIME')	1
+('NASA', 'ORG')	1
+('like two years', 'DATE')	1
+('German', 'LANGUAGE')	1
+('twentieth', 'DATE')	1
+('The twentieth', 'DATE')	1
+('eleven', 'TIME')	1
+('Schloss Ketwig', 'FAC')	1
+('lunchtime', 'TIME')	1
+("seven o'clock", 'TIME')	1
+('Heiko', 'PERSON')	1
+('Hamburg', 'GPE')	1
+('thirty - two', 'DATE')	1
+('twenty - one', 'DATE')	1
+('Heiko Hecht', 'PERSON')	1
+('Jessika', 'PERSON')	1
+('the University &of Virginia', 'ORG')	1
+('Virginia', 'GPE')	1
+('twelfth', 'DATE')	1
+('thirteenth', 'DATE')	1
+('Monday', 'DATE')	1
+('like three or four years', 'DATE')	1
+('eighty', 'DATE')	1
+('Bad Muenstereifel', 'GPE')	1
+('summer', 'DATE')	1
+('Bad Munstereifel', 'GPE')	1
+('Munstereifel', 'GPE')	1
+('two hours', 'TIME')	1
+('Cologne', 'GPE')	1

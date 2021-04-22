@@ -1,0 +1,2226 @@
+{
+    "Hong Kong": {
+        "GPE": "44"
+    },
+    "one": {
+        "CARDINAL": "27"
+    },
+    "first": {
+        "ORDINAL": "23"
+    },
+    "two": {
+        "CARDINAL": "21"
+    },
+    "three": {
+        "CARDINAL": "20",
+        "GPE": "1"
+    },
+    "today": {
+        "DATE": "18"
+    },
+    "Ye Daying": {
+        "PERSON": "18"
+    },
+    "tonight": {
+        "TIME": "12"
+    },
+    "Michael Jackson": {
+        "PERSON": "10"
+    },
+    "Dan": {
+        "PERSON": "10"
+    },
+    "four": {
+        "CARDINAL": "9"
+    },
+    "Zhuhai": {
+        "GPE": "9"
+    },
+    "Macao": {
+        "GPE": "9"
+    },
+    "Ye Ting": {
+        "PERSON": "9"
+    },
+    "Iraq": {
+        "GPE": "9"
+    },
+    "Martha Stewart": {
+        "PERSON": "9"
+    },
+    "Senate": {
+        "ORG": "9"
+    },
+    "Paula": {
+        "PERSON": "9"
+    },
+    "Ye Zhengming": {
+        "PERSON": "8"
+    },
+    "Natalee": {
+        "PERSON": "8"
+    },
+    "California": {
+        "GPE": "8"
+    },
+    "News Night": {
+        "WORK_OF_ART": "8"
+    },
+    "Disney": {
+        "ORG": "7",
+        "FAC": "6"
+    },
+    "Shanghai": {
+        "GPE": "7"
+    },
+    "FBI": {
+        "ORG": "7"
+    },
+    "Joran": {
+        "PERSON": "7"
+    },
+    "Smith": {
+        "PERSON": "7"
+    },
+    "Republican": {
+        "NORP": "7"
+    },
+    "CNN": {
+        "ORG": "7",
+        "WORK_OF_ART": "1"
+    },
+    "Thelma Wahl": {
+        "PERSON": "7"
+    },
+    "Lantau Island": {
+        "LOC": "6"
+    },
+    "Hong Kong 's": {
+        "GPE": "6"
+    },
+    "second": {
+        "ORDINAL": "6"
+    },
+    "Ye Daying 's": {
+        "PERSON": "6"
+    },
+    "Jackson": {
+        "PERSON": "6"
+    },
+    "Manhunt Sex Offenders on the Loose": {
+        "WORK_OF_ART": "6"
+    },
+    "Stacy": {
+        "PERSON": "6"
+    },
+    "US": {
+        "GPE": "6"
+    },
+    "Linda": {
+        "PERSON": "6"
+    },
+    "Camilla": {
+        "PERSON": "6"
+    },
+    "Martha": {
+        "PERSON": "6"
+    },
+    "Disneyland": {
+        "FAC": "5"
+    },
+    "five": {
+        "CARDINAL": "5"
+    },
+    "the day": {
+        "DATE": "5"
+    },
+    "Wang Shuo": {
+        "PERSON": "5"
+    },
+    "Joran Van Der Sloot": {
+        "PERSON": "5"
+    },
+    "EquuSearch": {
+        "ORG": "5"
+    },
+    "TJ": {
+        "PERSON": "5"
+    },
+    "Susan": {
+        "PERSON": "5"
+    },
+    "British": {
+        "NORP": "5"
+    },
+    "London": {
+        "GPE": "5"
+    },
+    "Bush": {
+        "PERSON": "5"
+    },
+    "Americans": {
+        "NORP": "5"
+    },
+    "Democrats": {
+        "NORP": "5"
+    },
+    "World War Two": {
+        "EVENT": "5"
+    },
+    "Democratic": {
+        "NORP": "5"
+    },
+    "Fitty Cent": {
+        "PERSON": "5"
+    },
+    "several years": {
+        "DATE": "4"
+    },
+    "Hong Kong Disneyland": {
+        "FAC": "4"
+    },
+    "China": {
+        "GPE": "4"
+    },
+    "Victoria Harbor": {
+        "LOC": "4"
+    },
+    "Hong Kong Island": {
+        "LOC": "4"
+    },
+    "2006": {
+        "DATE": "4"
+    },
+    "the Avenue of Stars": {
+        "FAC": "4"
+    },
+    "Hollywood": {
+        "GPE": "4"
+    },
+    "Hong Kong Wetland Park": {
+        "FAC": "4"
+    },
+    "KMT": {
+        "ORG": "4"
+    },
+    "Beijing": {
+        "GPE": "4"
+    },
+    "Quotations from Chairman Mao": {
+        "WORK_OF_ART": "4"
+    },
+    "'78": {
+        "DATE": "4"
+    },
+    "Carlos N' Charlie 's": {
+        "ORG": "4"
+    },
+    "Court TV": {
+        "ORG": "4"
+    },
+    "the morning": {
+        "TIME": "4"
+    },
+    "the United States": {
+        "GPE": "4"
+    },
+    "New York": {
+        "GPE": "4"
+    },
+    "American": {
+        "NORP": "4"
+    },
+    "Brown": {
+        "PERSON": "4"
+    },
+    "One": {
+        "CARDINAL": "3"
+    },
+    "Wetland Park": {
+        "FAC": "3"
+    },
+    "Shenzhen": {
+        "GPE": "3"
+    },
+    "Discover Hong Kong Year": {
+        "EVENT": "3"
+    },
+    "Ye": {
+        "PERSON": "3"
+    },
+    "'69": {
+        "DATE": "3"
+    },
+    "the Xi'an Film Studio": {
+        "ORG": "3"
+    },
+    "NBC": {
+        "ORG": "3"
+    },
+    "Michelle": {
+        "PERSON": "3"
+    },
+    "Beth": {
+        "PERSON": "3"
+    },
+    "Deepak": {
+        "PERSON": "3"
+    },
+    "Harold": {
+        "PERSON": "3"
+    },
+    "Mediterranean": {
+        "LOC": "3"
+    },
+    "Erin Runnion": {
+        "PERSON": "3"
+    },
+    "Samantha": {
+        "PERSON": "3"
+    },
+    "the Daily News": {
+        "ORG": "3"
+    },
+    "NBC News": {
+        "ORG": "3"
+    },
+    "Susan Filan": {
+        "PERSON": "3"
+    },
+    "Russian": {
+        "NORP": "3"
+    },
+    "Larry": {
+        "PERSON": "3"
+    },
+    "ten": {
+        "CARDINAL": "3"
+    },
+    "Fifty Cent": {
+        "PERSON": "3"
+    },
+    "Republicans": {
+        "NORP": "3"
+    },
+    "Erica": {
+        "PERSON": "3"
+    },
+    "Hurricane Katrina": {
+        "EVENT": "3"
+    },
+    "Prince Charles": {
+        "PERSON": "3"
+    },
+    "New Orleans": {
+        "GPE": "3"
+    },
+    "LA": {
+        "GPE": "3"
+    },
+    "Paramount": {
+        "ORG": "3"
+    },
+    "Allgate": {
+        "FAC": "3"
+    },
+    "Charles": {
+        "PERSON": "3"
+    },
+    "Diana": {
+        "PERSON": "3"
+    },
+    "fifth": {
+        "ORDINAL": "2"
+    },
+    "two years ago": {
+        "DATE": "2"
+    },
+    "Disney Corporation": {
+        "ORG": "2"
+    },
+    "recent years": {
+        "DATE": "2"
+    },
+    "Chinese": {
+        "NORP": "2"
+    },
+    "September 12": {
+        "DATE": "2"
+    },
+    "two years": {
+        "DATE": "2"
+    },
+    "East": {
+        "LOC": "2"
+    },
+    "more than twenty years": {
+        "DATE": "2"
+    },
+    "the New Territory": {
+        "GPE": "2"
+    },
+    "Two": {
+        "CARDINAL": "2"
+    },
+    "Buddha": {
+        "WORK_OF_ART": "2"
+    },
+    "Buddhas": {
+        "WORK_OF_ART": "2"
+    },
+    "September": {
+        "DATE": "2"
+    },
+    "First": {
+        "ORDINAL": "2"
+    },
+    "Wang Jin - pyng": {
+        "PERSON": "2"
+    },
+    "Taiwan": {
+        "GPE": "2"
+    },
+    "Taiwanese": {
+        "NORP": "2"
+    },
+    "Lien Chan": {
+        "PERSON": "2"
+    },
+    "The next year": {
+        "DATE": "2"
+    },
+    "86": {
+        "CARDINAL": "2"
+    },
+    "An Qi": {
+        "PERSON": "2"
+    },
+    "the Cultural Revolution": {
+        "EVENT": "2"
+    },
+    "sixth": {
+        "ORDINAL": "2"
+    },
+    "'74": {
+        "DATE": "2"
+    },
+    "13 yuan": {
+        "MONEY": "2"
+    },
+    "41 yuan": {
+        "MONEY": "2"
+    },
+    "English": {
+        "LANGUAGE": "2"
+    },
+    "the Beijing Film Institute": {
+        "ORG": "2"
+    },
+    "Natalee Holloway": {
+        "PERSON": "2"
+    },
+    "just days": {
+        "DATE": "2"
+    },
+    "Michelle Kosinski": {
+        "PERSON": "2"
+    },
+    "Aruba": {
+        "GPE": "2"
+    },
+    "Satish": {
+        "PERSON": "2"
+    },
+    "TJ Ward": {
+        "PERSON": "2"
+    },
+    "Harold Phipps": {
+        "PERSON": "2"
+    },
+    "twenty - two": {
+        "CARDINAL": "2"
+    },
+    "thousands": {
+        "CARDINAL": "2"
+    },
+    "weeklong": {
+        "DATE": "2"
+    },
+    "five year old": {
+        "DATE": "2"
+    },
+    "yesterday": {
+        "DATE": "2"
+    },
+    "Eleanor Cook": {
+        "PERSON": "2"
+    },
+    "Michael": {
+        "PERSON": "2"
+    },
+    "MSNBC": {
+        "ORG": "2"
+    },
+    "Ellie Cook": {
+        "PERSON": "2"
+    },
+    "Harvey": {
+        "PERSON": "2"
+    },
+    "Bob Jones": {
+        "PERSON": "2"
+    },
+    "last month": {
+        "DATE": "2"
+    },
+    "Dru Sjodin": {
+        "PERSON": "2"
+    },
+    "Tony Blair": {
+        "PERSON": "2"
+    },
+    "Iraqi": {
+        "NORP": "2"
+    },
+    "this week": {
+        "DATE": "2"
+    },
+    "Brooklyn": {
+        "GPE": "2"
+    },
+    "Orlando": {
+        "GPE": "2"
+    },
+    "Zalisko": {
+        "PERSON": "2"
+    },
+    "five foot nine": {
+        "QUANTITY": "2"
+    },
+    "Linda Walker": {
+        "PERSON": "2"
+    },
+    "Erin": {
+        "PERSON": "2"
+    },
+    "Dru": {
+        "PERSON": "2"
+    },
+    "Paula Zahn": {
+        "PERSON": "2"
+    },
+    "Los Angeles": {
+        "GPE": "2"
+    },
+    "seven point one billion dollar": {
+        "MONEY": "2"
+    },
+    "twenty million": {
+        "CARDINAL": "2"
+    },
+    "Washington": {
+        "GPE": "2"
+    },
+    "more than sixty years ago": {
+        "DATE": "2"
+    },
+    "twenty - five": {
+        "CARDINAL": "2"
+    },
+    "Thelma Gutierrez": {
+        "PERSON": "2"
+    },
+    "last": {
+        "ORDINAL": "2"
+    },
+    "Honolulu Hawaii": {
+        "GPE": "2"
+    },
+    "jpac": {
+        "ORG": "2"
+    },
+    "Robert Mann": {
+        "PERSON": "2"
+    },
+    "his twenties": {
+        "DATE": "2"
+    },
+    "nineteen forty - two": {
+        "DATE": "2"
+    },
+    "Mann": {
+        "PERSON": "2"
+    },
+    "Thelma": {
+        "PERSON": "2"
+    },
+    "DeLay": {
+        "PERSON": "2"
+    },
+    "Today": {
+        "DATE": "2"
+    },
+    "six seven": {
+        "CARDINAL": "2"
+    },
+    "Keith Oppenheim": {
+        "PERSON": "2"
+    },
+    "Priscilla Scott": {
+        "PERSON": "2"
+    },
+    "Priscilla": {
+        "PERSON": "2"
+    },
+    "twelve hours": {
+        "TIME": "2"
+    },
+    "Louisiana": {
+        "GPE": "2"
+    },
+    "Saint Rita 's": {
+        "ORG": "2"
+    },
+    "Shane Sellers": {
+        "PERSON": "2"
+    },
+    "Supreme Court": {
+        "ORG": "2"
+    },
+    "Bill Frist": {
+        "PERSON": "2"
+    },
+    "South Asia": {
+        "LOC": "2"
+    },
+    "Sanjay Gupto": {
+        "PERSON": "2"
+    },
+    "millions": {
+        "CARDINAL": "2"
+    },
+    "Andrew Carey": {
+        "PERSON": "2"
+    },
+    "Apprentice": {
+        "WORK_OF_ART": "2"
+    },
+    "the Donald": {
+        "PERSON": "2"
+    },
+    "Fortune magazine": {
+        "ORG": "2"
+    },
+    "the summer of 2005": {
+        "DATE": "1"
+    },
+    "2003": {
+        "DATE": "1"
+    },
+    "January of that year": {
+        "DATE": "1"
+    },
+    "200 hectares": {
+        "QUANTITY": "1"
+    },
+    "Hong Kong International Airport": {
+        "ORG": "1",
+        "FAC": "1"
+    },
+    "one month": {
+        "DATE": "1"
+    },
+    "the same day": {
+        "DATE": "1"
+    },
+    "the Individual Visit Scheme": {
+        "LAW": "1"
+    },
+    "more than seven million": {
+        "CARDINAL": "1"
+    },
+    "about two years": {
+        "DATE": "1"
+    },
+    "34": {
+        "CARDINAL": "1"
+    },
+    "one hundred years ago": {
+        "DATE": "1"
+    },
+    "Mong Kok": {
+        "LOC": "1"
+    },
+    "the Repulse Bay": {
+        "LOC": "1"
+    },
+    "Victoria Peak": {
+        "LOC": "1"
+    },
+    "Victoria Harbor 's": {
+        "LOC": "1"
+    },
+    "over a century": {
+        "DATE": "1"
+    },
+    "the past 28 years": {
+        "DATE": "1"
+    },
+    "the Ocean Park": {
+        "FAC": "1",
+        "LOC": "1",
+        "ORG": "1"
+    },
+    "the Ocean Theater": {
+        "FAC": "1"
+    },
+    "the South China Sea": {
+        "LOC": "1"
+    },
+    "5.5 billion": {
+        "MONEY": "1"
+    },
+    "the North Pole": {
+        "FAC": "1"
+    },
+    "the Marine Life Center": {
+        "FAC": "1"
+    },
+    "ten years": {
+        "DATE": "1"
+    },
+    "next year": {
+        "DATE": "1"
+    },
+    "one thousand - plus square kilometers": {
+        "QUANTITY": "1"
+    },
+    "New World Travel": {
+        "ORG": "1"
+    },
+    "the past 100 years": {
+        "DATE": "1"
+    },
+    "2004": {
+        "DATE": "1"
+    },
+    "the Waterfront Promenade": {
+        "FAC": "1"
+    },
+    "the Hong Kong Tourism Board": {
+        "ORG": "1"
+    },
+    "100 - year": {
+        "DATE": "1"
+    },
+    "The PLA Hong Kong Garrison Plaza": {
+        "FAC": "1"
+    },
+    "Bank of China Tower": {
+        "FAC": "1"
+    },
+    "8:00": {
+        "TIME": "1"
+    },
+    "HSBC Main Building": {
+        "FAC": "1"
+    },
+    "Center of the East Central .": {
+        "FAC": "1"
+    },
+    "Ten": {
+        "CARDINAL": "1"
+    },
+    "Hong Kong SAR": {
+        "GPE": "1"
+    },
+    "61 hectares": {
+        "QUANTITY": "1"
+    },
+    "10,000 square meter": {
+        "QUANTITY": "1"
+    },
+    "60 hectare": {
+        "QUANTITY": "1"
+    },
+    "the Wetland Park Exploration Center": {
+        "FAC": "1"
+    },
+    "Putian": {
+        "GPE": "1"
+    },
+    "Mai Po Marshes": {
+        "LOC": "1"
+    },
+    "Asia": {
+        "LOC": "1"
+    },
+    "50,000": {
+        "CARDINAL": "1"
+    },
+    "1,500": {
+        "CARDINAL": "1"
+    },
+    "two to three hundred": {
+        "CARDINAL": "1"
+    },
+    "the beginning of 2006": {
+        "DATE": "1"
+    },
+    "the year 2006": {
+        "DATE": "1"
+    },
+    "September of this year": {
+        "DATE": "1"
+    },
+    "Ngong Ping 360": {
+        "FAC": "1"
+    },
+    "the Giant Buddha": {
+        "WORK_OF_ART": "1"
+    },
+    "Symphony of Lights": {
+        "EVENT": "1"
+    },
+    "Kowloon": {
+        "GPE": "1"
+    },
+    "Chinese Buddhism": {
+        "NORP": "1"
+    },
+    "Tian Tan Giant Buddha": {
+        "WORK_OF_ART": "1"
+    },
+    "Lingshan Giant Buddha": {
+        "WORK_OF_ART": "1"
+    },
+    "Leshan Giant Buddha": {
+        "WORK_OF_ART": "1"
+    },
+    "Yungang Giant Buddha": {
+        "WORK_OF_ART": "1"
+    },
+    "Longmen Giant Buddha": {
+        "WORK_OF_ART": "1"
+    },
+    "the Central Plains": {
+        "LOC": "1"
+    },
+    "Chek Lap Kok": {
+        "GPE": "1"
+    },
+    "1992": {
+        "DATE": "1"
+    },
+    "Dongguan": {
+        "GPE": "1"
+    },
+    "Panyu": {
+        "GPE": "1"
+    },
+    "Zhongshan": {
+        "GPE": "1"
+    },
+    "A full twenty years ago": {
+        "DATE": "1"
+    },
+    "Hopewell Holdings Group": {
+        "ORG": "1"
+    },
+    "Wu Ying - sheung": {
+        "PERSON": "1"
+    },
+    "a little over one kilometer": {
+        "QUANTITY": "1"
+    },
+    "1999": {
+        "DATE": "1"
+    },
+    "20 years": {
+        "DATE": "1"
+    },
+    "an hour later": {
+        "TIME": "1"
+    },
+    "The Wonder Tour": {
+        "EVENT": "1"
+    },
+    "Hong Kong : a Shopping Paradise": {
+        "WORK_OF_ART": "1"
+    },
+    "Across China": {
+        "ORG": "1"
+    },
+    "Cross Strait": {
+        "ORG": "1"
+    },
+    "CCTV International Channel": {
+        "ORG": "1"
+    },
+    "Taipei Aerospace Exhibition": {
+        "EVENT": "1"
+    },
+    "2005": {
+        "DATE": "1"
+    },
+    "Ningxia Investment and Trade Fair": {
+        "EVENT": "1"
+    },
+    "Ningxia - Taiwan Economic and Trade Cooperation Seminar": {
+        "EVENT": "1"
+    },
+    "Yinchuan": {
+        "GPE": "1"
+    },
+    "More than three hundred": {
+        "CARDINAL": "1"
+    },
+    "the Great Wall": {
+        "WORK_OF_ART": "1"
+    },
+    "Ningxia": {
+        "GPE": "1"
+    },
+    "Hot Topic Analysis": {
+        "ORG": "1"
+    },
+    "the afternoon of": {
+        "TIME": "1"
+    },
+    "over an hour": {
+        "TIME": "1"
+    },
+    "Changchun": {
+        "GPE": "1"
+    },
+    "1958": {
+        "DATE": "1"
+    },
+    "12 years": {
+        "DATE": "1"
+    },
+    "Communist": {
+        "NORP": "1"
+    },
+    "many years": {
+        "DATE": "1"
+    },
+    "eighty - six": {
+        "CARDINAL": "1"
+    },
+    "77": {
+        "CARDINAL": "1"
+    },
+    "78": {
+        "CARDINAL": "1"
+    },
+    "79": {
+        "CARDINAL": "1"
+    },
+    "80": {
+        "CARDINAL": "1"
+    },
+    "81": {
+        "CARDINAL": "1"
+    },
+    "82": {
+        "CARDINAL": "1"
+    },
+    "83": {
+        "CARDINAL": "1"
+    },
+    "84": {
+        "CARDINAL": "1"
+    },
+    "85": {
+        "CARDINAL": "1"
+    },
+    "the Changchun Film Studio": {
+        "ORG": "1"
+    },
+    "the Wannan Incident": {
+        "EVENT": "1"
+    },
+    "Kuomnintang": {
+        "ORG": "1"
+    },
+    "eight years": {
+        "DATE": "1"
+    },
+    "'46": {
+        "DATE": "1"
+    },
+    "Liberation": {
+        "EVENT": "1"
+    },
+    "dozen": {
+        "CARDINAL": "1"
+    },
+    "There 's a Place Called Wangjiazhan": {
+        "WORK_OF_ART": "1"
+    },
+    "Wangjiazhuang": {
+        "GPE": "1"
+    },
+    "11 years": {
+        "DATE": "1"
+    },
+    "11": {
+        "DATE": "1"
+    },
+    "1966": {
+        "DATE": "1"
+    },
+    "the Great Cultural Revolution": {
+        "EVENT": "1"
+    },
+    "'76": {
+        "DATE": "1"
+    },
+    "The Flower Girl .": {
+        "WORK_OF_ART": "1"
+    },
+    "The Flower Girl": {
+        "WORK_OF_ART": "1"
+    },
+    "Titanic": {
+        "WORK_OF_ART": "1"
+    },
+    "Many years": {
+        "DATE": "1"
+    },
+    "'73": {
+        "DATE": "1"
+    },
+    "forty - some yuan": {
+        "MONEY": "1"
+    },
+    "the first year": {
+        "DATE": "1"
+    },
+    "the second year": {
+        "DATE": "1"
+    },
+    "15 yuan": {
+        "MONEY": "1"
+    },
+    "the third year": {
+        "DATE": "1"
+    },
+    "1976": {
+        "DATE": "1"
+    },
+    "three years": {
+        "DATE": "1"
+    },
+    "18th": {
+        "ORDINAL": "1"
+    },
+    "1978": {
+        "DATE": "1"
+    },
+    "20": {
+        "DATE": "1"
+    },
+    "21 - year": {
+        "DATE": "1"
+    },
+    "'80": {
+        "DATE": "1"
+    },
+    "that Teng Wenji": {
+        "PERSON": "1"
+    },
+    "thirty - some years": {
+        "DATE": "1"
+    },
+    "Xi'an Incident": {
+        "EVENT": "1"
+    },
+    "Zhang Xueliang": {
+        "PERSON": "1"
+    },
+    "Cheng Yin": {
+        "PERSON": "1"
+    },
+    "An Qi 's": {
+        "PERSON": "1"
+    },
+    "ten plus": {
+        "CARDINAL": "1"
+    },
+    "half a year": {
+        "DATE": "1"
+    },
+    "ten months": {
+        "DATE": "1"
+    },
+    "Wang Zhiwen": {
+        "PERSON": "1"
+    },
+    "'89": {
+        "DATE": "1"
+    },
+    "Beijning": {
+        "GPE": "1"
+    },
+    "Floating on the Sea": {
+        "WORK_OF_ART": "1"
+    },
+    "Wang Shuo 's": {
+        "PERSON": "1"
+    },
+    "Love the Hard Way": {
+        "WORK_OF_ART": "1"
+    },
+    "May thirtieth": {
+        "DATE": "1"
+    },
+    "the fourth straight day": {
+        "DATE": "1"
+    },
+    "a couple weeks ago": {
+        "DATE": "1"
+    },
+    "that day just days": {
+        "DATE": "1"
+    },
+    "a period of weeks": {
+        "DATE": "1"
+    },
+    "some ten feet": {
+        "QUANTITY": "1"
+    },
+    "a couple weeks later": {
+        "DATE": "1"
+    },
+    "the weekend": {
+        "DATE": "1"
+    },
+    "Beth Holloway Twitty": {
+        "PERSON": "1"
+    },
+    "this afternoon": {
+        "TIME": "1"
+    },
+    "Karin Janssen": {
+        "PERSON": "1"
+    },
+    "Janssen": {
+        "PERSON": "1"
+    },
+    "last night": {
+        "TIME": "1"
+    },
+    "eighteen year old": {
+        "DATE": "1"
+    },
+    "New Jersey": {
+        "GPE": "1"
+    },
+    "Joran Van Der Sloot Deepak Kalpoe": {
+        "PERSON": "1"
+    },
+    "Satish Kalpoe": {
+        "PERSON": "1"
+    },
+    "the month of April oh five": {
+        "DATE": "1"
+    },
+    "Deepak Kalpoe": {
+        "PERSON": "1"
+    },
+    "one fifty - one": {
+        "PRODUCT": "1"
+    },
+    "evening": {
+        "TIME": "1"
+    },
+    "Diario": {
+        "ORG": "1"
+    },
+    "Jossy Mansur": {
+        "PERSON": "1"
+    },
+    "Dutch": {
+        "LANGUAGE": "1"
+    },
+    "Aruban": {
+        "NORP": "1"
+    },
+    "Wednesday": {
+        "DATE": "1"
+    },
+    "Wednesday night": {
+        "TIME": "1"
+    },
+    "hundreds": {
+        "CARDINAL": "1"
+    },
+    "thirty - one years": {
+        "DATE": "1"
+    },
+    "the next uh couple weeks": {
+        "DATE": "1"
+    },
+    "September fourth": {
+        "DATE": "1"
+    },
+    "Joran Van Sloot": {
+        "PERSON": "1"
+    },
+    "a month": {
+        "DATE": "1"
+    },
+    "New York Daily News": {
+        "ORG": "1"
+    },
+    "Guilty as Sin Free as a Bird": {
+        "WORK_OF_ART": "1"
+    },
+    "Dianne Dimond": {
+        "PERSON": "1"
+    },
+    "Nancy Grace": {
+        "PERSON": "1"
+    },
+    "Stacy Brown": {
+        "PERSON": "1"
+    },
+    "Michael Jackson the Man Behind the Mask": {
+        "WORK_OF_ART": "1"
+    },
+    "Santa Maria": {
+        "GPE": "1"
+    },
+    "Paula Coccoz": {
+        "PERSON": "1"
+    },
+    "number ten": {
+        "CARDINAL": "1"
+    },
+    "number four": {
+        "CARDINAL": "1"
+    },
+    "Ellie": {
+        "PERSON": "1"
+    },
+    "number five": {
+        "CARDINAL": "1"
+    },
+    "Cook": {
+        "PERSON": "1"
+    },
+    "Katherine": {
+        "PERSON": "1"
+    },
+    "Katherine Jackson": {
+        "PERSON": "1"
+    },
+    "Celebrity Justice": {
+        "WORK_OF_ART": "1"
+    },
+    "Harvey Levin": {
+        "PERSON": "1"
+    },
+    "Daniel Horowitz": {
+        "PERSON": "1"
+    },
+    "Harv": {
+        "PERSON": "1"
+    },
+    "Tom Sneddon": {
+        "PERSON": "1"
+    },
+    "a minute": {
+        "TIME": "1"
+    },
+    "Daniel": {
+        "PERSON": "1"
+    },
+    "OJ Simpson": {
+        "PERSON": "1"
+    },
+    "Man Behind the Mask": {
+        "WORK_OF_ART": "1"
+    },
+    "Number one": {
+        "CARDINAL": "1"
+    },
+    "secondly": {
+        "ORDINAL": "1"
+    },
+    "Rita Cosby Live and Direct": {
+        "WORK_OF_ART": "1"
+    },
+    "Monday night at nine PM eastern": {
+        "TIME": "1"
+    },
+    "Harv Daniel Horowitz": {
+        "PERSON": "1"
+    },
+    "Milissa Rehberger": {
+        "PERSON": "1"
+    },
+    "seven": {
+        "CARDINAL": "1"
+    },
+    "six hundred and twenty - five feet": {
+        "QUANTITY": "1"
+    },
+    "the Pacific Ocean": {
+        "LOC": "1"
+    },
+    "US Airforce": {
+        "ORG": "1"
+    },
+    "ten to twelve hours": {
+        "TIME": "1"
+    },
+    "The Russian Navy 's": {
+        "ORG": "1"
+    },
+    "about twelve hours": {
+        "TIME": "1"
+    },
+    "more than twenty - four hours": {
+        "DATE": "1"
+    },
+    "Operation Quick Strike": {
+        "EVENT": "1"
+    },
+    "the Euphrates River Valley": {
+        "LOC": "1"
+    },
+    "Baghdad": {
+        "GPE": "1"
+    },
+    "the Abrams Report": {
+        "WORK_OF_ART": "1"
+    },
+    "Exactly a month": {
+        "DATE": "1"
+    },
+    "twenty - six year old": {
+        "DATE": "1"
+    },
+    "George Smith": {
+        "PERSON": "1"
+    },
+    "Royal Caribbean": {
+        "ORG": "1"
+    },
+    "Brilliance of the Seas": {
+        "PRODUCT": "1"
+    },
+    "the US Attorney 's Office": {
+        "ORG": "1"
+    },
+    "Barcelona Spain": {
+        "GPE": "1"
+    },
+    "June twenty - ninth": {
+        "DATE": "1"
+    },
+    "twelve day": {
+        "DATE": "1"
+    },
+    "July fifth": {
+        "DATE": "1"
+    },
+    "later that day": {
+        "TIME": "1"
+    },
+    "Kusadasi Turkey": {
+        "GPE": "1"
+    },
+    "Jennifer Hagel": {
+        "PERSON": "1"
+    },
+    "June twenty - fifth": {
+        "DATE": "1"
+    },
+    "Newport Rhode Island": {
+        "GPE": "1"
+    },
+    "Connecticut": {
+        "GPE": "1"
+    },
+    "Walter uh Zalisko": {
+        "PERSON": "1"
+    },
+    "Larry Kobilinsky": {
+        "PERSON": "1"
+    },
+    "NBC news": {
+        "ORG": "1"
+    },
+    "George": {
+        "PERSON": "1"
+    },
+    "Kevin O'Connor": {
+        "PERSON": "1"
+    },
+    "Oak Hill Florida": {
+        "GPE": "1"
+    },
+    "that uh uh day": {
+        "DATE": "1"
+    },
+    "the fifth": {
+        "DATE": "1"
+    },
+    "that day": {
+        "DATE": "1"
+    },
+    "night": {
+        "TIME": "1"
+    },
+    "early morning hours": {
+        "TIME": "1"
+    },
+    "maybe three to four feet": {
+        "QUANTITY": "1"
+    },
+    "about four in the morning": {
+        "TIME": "1"
+    },
+    "Turkey": {
+        "GPE": "1"
+    },
+    "United States": {
+        "GPE": "1"
+    },
+    "the night before": {
+        "TIME": "1"
+    },
+    "Cletus Hyman": {
+        "PERSON": "1"
+    },
+    "four in the morning": {
+        "TIME": "1"
+    },
+    "early that morning": {
+        "TIME": "1"
+    },
+    "five days later": {
+        "DATE": "1"
+    },
+    "the Oakhill Police Department": {
+        "ORG": "1"
+    },
+    "Susan Filan Larry Kobilinsky": {
+        "PERSON": "1"
+    },
+    "a moment": {
+        "TIME": "1"
+    },
+    "Tomas Meddaugh": {
+        "PERSON": "1"
+    },
+    "thirty": {
+        "DATE": "1"
+    },
+    "fifty": {
+        "DATE": "1"
+    },
+    "fifty year old": {
+        "DATE": "1"
+    },
+    "five foot seven a hundred and sixty - eight pounds": {
+        "QUANTITY": "1"
+    },
+    "thirteen year old": {
+        "DATE": "1"
+    },
+    "Francisco Paulino": {
+        "PERSON": "1"
+    },
+    "forty - six year old": {
+        "DATE": "1"
+    },
+    "Hispanic": {
+        "NORP": "1"
+    },
+    "hundred and forty": {
+        "CARDINAL": "1"
+    },
+    "fourteen year old": {
+        "DATE": "1"
+    },
+    "Dion Bryant": {
+        "PERSON": "1"
+    },
+    "twenty - four year old": {
+        "DATE": "1"
+    },
+    "five foot six": {
+        "QUANTITY": "1"
+    },
+    "one fifty - six": {
+        "CARDINAL": "1"
+    },
+    "New York 's": {
+        "GPE": "1"
+    },
+    "hundred": {
+        "CARDINAL": "1"
+    },
+    "Samantha Runnion": {
+        "PERSON": "1"
+    },
+    "eleven days": {
+        "DATE": "1"
+    },
+    "Alejandro Avila": {
+        "PERSON": "1"
+    },
+    "twenty - two year old": {
+        "DATE": "1"
+    },
+    "Alfonso Rodriguez": {
+        "PERSON": "1"
+    },
+    "Samantha Runnion 's": {
+        "PERSON": "1"
+    },
+    "Dru Sjodin 's": {
+        "PERSON": "1"
+    },
+    "six": {
+        "CARDINAL": "1"
+    },
+    "eighteen": {
+        "DATE": "1"
+    },
+    "over a hundred thousand": {
+        "CARDINAL": "1"
+    },
+    "over five hundred thousand": {
+        "CARDINAL": "1"
+    },
+    "May of two thousand five": {
+        "DATE": "1"
+    },
+    "Byron Dorgan": {
+        "PERSON": "1"
+    },
+    "North Dakota": {
+        "GPE": "1"
+    },
+    "Dru 's Law": {
+        "LAW": "1"
+    },
+    "Last night": {
+        "TIME": "1"
+    },
+    "Leslie Birdwhistell": {
+        "PERSON": "1"
+    },
+    "Bowling Green Kentucky": {
+        "GPE": "1"
+    },
+    "David Becker": {
+        "PERSON": "1"
+    },
+    "Bradenton Florida": {
+        "GPE": "1"
+    },
+    "Dave": {
+        "PERSON": "1"
+    },
+    "Chris O'Rourke": {
+        "PERSON": "1"
+    },
+    "Gardner Massachusetts": {
+        "GPE": "1"
+    },
+    "West Hollywood Californ-": {
+        "GPE": "1"
+    },
+    "the sixties": {
+        "DATE": "1"
+    },
+    "Oh Please": {
+        "WORK_OF_ART": "1"
+    },
+    "Moorhead Minnesota": {
+        "GPE": "1"
+    },
+    "one hundred and twenty dollar": {
+        "MONEY": "1"
+    },
+    "twelve thousand pennies": {
+        "MONEY": "1"
+    },
+    "Seattle": {
+        "GPE": "1"
+    },
+    "seventy": {
+        "CARDINAL": "1"
+    },
+    "fifty mile": {
+        "QUANTITY": "1"
+    },
+    "Hardball with Chris Matthews": {
+        "WORK_OF_ART": "1"
+    },
+    "weekend": {
+        "DATE": "1"
+    },
+    "a big week next week": {
+        "DATE": "1"
+    },
+    "Bob Novak": {
+        "PERSON": "1"
+    },
+    "Hardball": {
+        "WORK_OF_ART": "1"
+    },
+    "Anderson": {
+        "PERSON": "1"
+    },
+    "Aaron": {
+        "PERSON": "1"
+    },
+    "Paula Paula": {
+        "PERSON": "1"
+    },
+    "Anderson Cooper": {
+        "PERSON": "1"
+    },
+    "Aaron Brown": {
+        "PERSON": "1"
+    },
+    "Defense": {
+        "ORG": "1"
+    },
+    "Donald Rumsfeld": {
+        "PERSON": "1"
+    },
+    "December": {
+        "DATE": "1"
+    },
+    "Sierra Nevada mountains": {
+        "LOC": "1"
+    },
+    "this hour": {
+        "TIME": "1"
+    },
+    "the same time": {
+        "DATE": "1"
+    },
+    "the day he died": {
+        "DATE": "1"
+    },
+    "the Sierra Nevada Mountains": {
+        "LOC": "1"
+    },
+    "Two weeks ago": {
+        "DATE": "1"
+    },
+    "six decades": {
+        "DATE": "1"
+    },
+    "the joint powmia accounting command": {
+        "ORG": "1"
+    },
+    "more than a thousand": {
+        "CARDINAL": "1"
+    },
+    "at least twenty": {
+        "CARDINAL": "1"
+    },
+    "Caucasian": {
+        "NORP": "1"
+    },
+    "One two": {
+        "CARDINAL": "1"
+    },
+    "at least twenty - one years old": {
+        "DATE": "1"
+    },
+    "Andy Henry": {
+        "PERSON": "1"
+    },
+    "forty - five cents": {
+        "MONEY": "1"
+    },
+    "nineteen thirty - six": {
+        "DATE": "1"
+    },
+    "Schafer": {
+        "ORG": "1"
+    },
+    "Sunday Monday Tuesday": {
+        "DATE": "1"
+    },
+    "one nine four": {
+        "CARDINAL": "1"
+    },
+    "Nineteen forty - two /.": {
+        "DATE": "1"
+    },
+    "hours": {
+        "TIME": "1"
+    },
+    "twenty - something": {
+        "DATE": "1"
+    },
+    "Pleasant Grove": {
+        "GPE": "1"
+    },
+    "their eighties": {
+        "DATE": "1"
+    },
+    "Glen Munn": {
+        "PERSON": "1"
+    },
+    "the Sierra": {
+        "LOC": "1"
+    },
+    "weeks": {
+        "DATE": "1"
+    },
+    "months": {
+        "DATE": "1"
+    },
+    "a little over a week ago": {
+        "DATE": "1"
+    },
+    "CSI": {
+        "WORK_OF_ART": "1"
+    },
+    "six foot two inches": {
+        "QUANTITY": "1"
+    },
+    "Caucasoid": {
+        "NORP": "1"
+    },
+    "just one week later": {
+        "DATE": "1"
+    },
+    "about eight days ago": {
+        "DATE": "1"
+    },
+    "a few weeks": {
+        "DATE": "1"
+    },
+    "a few months": {
+        "DATE": "1"
+    },
+    "Erica Hill": {
+        "PERSON": "1"
+    },
+    "Headline News": {
+        "ORG": "1"
+    },
+    "Jason Hendrix": {
+        "PERSON": "1"
+    },
+    "Oklahoma": {
+        "GPE": "1"
+    },
+    "Austin Texas": {
+        "GPE": "1"
+    },
+    "Tom DeLay": {
+        "PERSON": "1"
+    },
+    "a quarter percent": {
+        "PERCENT": "1"
+    },
+    "twelfth": {
+        "ORDINAL": "1"
+    },
+    "June of last year": {
+        "DATE": "1"
+    },
+    "Royals": {
+        "NORP": "1"
+    },
+    "Britain": {
+        "GPE": "1"
+    },
+    "World Trade Center": {
+        "FAC": "1"
+    },
+    "the nine eleven attack": {
+        "EVENT": "1"
+    },
+    "eight day": {
+        "DATE": "1"
+    },
+    "all week": {
+        "DATE": "1"
+    },
+    "three hundred": {
+        "CARDINAL": "1"
+    },
+    "earlier tonight": {
+        "DATE": "1"
+    },
+    "post-Katrina": {
+        "EVENT": "1"
+    },
+    "thirteen": {
+        "CARDINAL": "1"
+    },
+    "Dozens": {
+        "CARDINAL": "1"
+    },
+    "at least thirteen": {
+        "CARDINAL": "1"
+    },
+    "ninety years old": {
+        "DATE": "1"
+    },
+    "Huntingdon": {
+        "ORG": "1"
+    },
+    "ninety year old": {
+        "DATE": "1"
+    },
+    "the Huntingdon Place Nursing Home": {
+        "ORG": "1"
+    },
+    "Chalmette": {
+        "GPE": "1"
+    },
+    "Sunday August twenty - eighth": {
+        "DATE": "1"
+    },
+    "Lafayette Louisiana": {
+        "PERSON": "1"
+    },
+    "three hour": {
+        "TIME": "1"
+    },
+    "Lafayette": {
+        "GPE": "1"
+    },
+    "Huntingdon Place": {
+        "ORG": "1"
+    },
+    "dozens": {
+        "CARDINAL": "1"
+    },
+    "Thirty - four": {
+        "CARDINAL": "1"
+    },
+    "Katrina": {
+        "EVENT": "1"
+    },
+    "Hurricane Rita": {
+        "EVENT": "1"
+    },
+    "Houston": {
+        "GPE": "1"
+    },
+    "Twenty - three": {
+        "CARDINAL": "1"
+    },
+    "Joe Dodges": {
+        "PERSON": "1"
+    },
+    "the Louisiana Nursing Home Association": {
+        "ORG": "1"
+    },
+    "a mile": {
+        "QUANTITY": "1"
+    },
+    "Dodges": {
+        "PERSON": "1"
+    },
+    "nine": {
+        "TIME": "1"
+    },
+    "Jeff Meitrod": {
+        "PERSON": "1"
+    },
+    "Steve Riddyah": {
+        "PERSON": "1"
+    },
+    "the Times Picayune": {
+        "WORK_OF_ART": "1"
+    },
+    "New Orleans '": {
+        "GPE": "1"
+    },
+    "last spring": {
+        "DATE": "1"
+    },
+    "State of Neglect": {
+        "WORK_OF_ART": "1"
+    },
+    "Huntington Place": {
+        "ORG": "1"
+    },
+    "Huntington": {
+        "ORG": "1"
+    },
+    "Tomorrow night": {
+        "TIME": "1"
+    },
+    "more than ten million": {
+        "CARDINAL": "1"
+    },
+    "one million": {
+        "CARDINAL": "1"
+    },
+    "ten o'clock": {
+        "TIME": "1"
+    },
+    "an hour": {
+        "TIME": "1"
+    },
+    "four or five pounds": {
+        "QUANTITY": "1"
+    },
+    "two hours": {
+        "TIME": "1"
+    },
+    "a couple hours": {
+        "TIME": "1"
+    },
+    "two or three pounds": {
+        "QUANTITY": "1"
+    },
+    "Sellers": {
+        "PERSON": "1"
+    },
+    "tomorrow night": {
+        "TIME": "1"
+    },
+    "Walking the Thin Line": {
+        "WORK_OF_ART": "1"
+    },
+    "Paula Zahn Now": {
+        "WORK_OF_ART": "1"
+    },
+    "eight pm eastern": {
+        "TIME": "1"
+    },
+    "billions": {
+        "CARDINAL": "1"
+    },
+    "Samuel Alito 's": {
+        "PERSON": "1"
+    },
+    "CNN USA Today Gallup": {
+        "ORG": "1"
+    },
+    "just minutes ago": {
+        "TIME": "1"
+    },
+    "Alito": {
+        "PERSON": "1"
+    },
+    "Sandra Day O'Connor": {
+        "PERSON": "1"
+    },
+    "Seventeen percent": {
+        "PERCENT": "1"
+    },
+    "twenty - six percent": {
+        "PERCENT": "1"
+    },
+    "twenty - two percent": {
+        "PERCENT": "1"
+    },
+    "seventeen percent": {
+        "PERCENT": "1"
+    },
+    "Ed Henry": {
+        "PERSON": "1"
+    },
+    "Harry Reed": {
+        "PERSON": "1"
+    },
+    "the White House": {
+        "ORG": "1",
+        "FAC": "1"
+    },
+    "rule twenty - one": {
+        "LAW": "1"
+    },
+    "Reed": {
+        "PERSON": "1"
+    },
+    "Cheney": {
+        "PERSON": "1"
+    },
+    "over two thousand": {
+        "CARDINAL": "1"
+    },
+    "over fifteen thousand": {
+        "CARDINAL": "1"
+    },
+    "more than six million dollars": {
+        "MONEY": "1"
+    },
+    "Samuel Alito": {
+        "PERSON": "1"
+    },
+    "Capitol Hill": {
+        "LOC": "1"
+    },
+    "many many months to come": {
+        "DATE": "1"
+    },
+    "Europe": {
+        "LOC": "1"
+    },
+    "the past two years": {
+        "DATE": "1"
+    },
+    "at least sixty - two": {
+        "CARDINAL": "1"
+    },
+    "about half": {
+        "CARDINAL": "1"
+    },
+    "Hundreds of millions": {
+        "CARDINAL": "1"
+    },
+    "Gupto": {
+        "PERSON": "1"
+    },
+    "the Emory University hospital": {
+        "ORG": "1"
+    },
+    "Atlanta": {
+        "GPE": "1"
+    },
+    "nineteen eighteen": {
+        "DATE": "1"
+    },
+    "eighty to ninety percent": {
+        "PERCENT": "1"
+    },
+    "a billion dollars": {
+        "MONEY": "1"
+    },
+    "ninteen hour": {
+        "TIME": "1"
+    },
+    "News Night Tonight": {
+        "WORK_OF_ART": "1"
+    },
+    "Nielson": {
+        "ORG": "1"
+    },
+    "Fifty Cents": {
+        "PERSON": "1"
+    },
+    "PIMP": {
+        "WORK_OF_ART": "1"
+    },
+    "Fitty Cent 's": {
+        "PERSON": "1"
+    },
+    "South Central Los Angeles": {
+        "LOC": "1"
+    },
+    "two thousand": {
+        "DATE": "1"
+    },
+    "eight hundred": {
+        "CARDINAL": "1"
+    },
+    "A day": {
+        "DATE": "1"
+    },
+    "about twenty five": {
+        "CARDINAL": "1"
+    },
+    "Hyde Park": {
+        "LOC": "1"
+    },
+    "about half a dozen": {
+        "CARDINAL": "1"
+    },
+    "African American": {
+        "NORP": "1"
+    },
+    "City Hall": {
+        "ORG": "1"
+    },
+    "Brooklyn New York": {
+        "GPE": "1"
+    },
+    "a week": {
+        "DATE": "1"
+    },
+    "Golden Day preschool": {
+        "ORG": "1"
+    },
+    "Curtis Jackson": {
+        "PERSON": "1"
+    },
+    "Savela Vargas": {
+        "PERSON": "1"
+    },
+    "Iraq US": {
+        "GPE": "1"
+    },
+    "northern Bavil province": {
+        "LOC": "1"
+    },
+    "Ross Brown": {
+        "PERSON": "1"
+    },
+    "the Triangle of Death": {
+        "LOC": "1"
+    },
+    "Iraqis": {
+        "NORP": "1"
+    },
+    "the day before": {
+        "DATE": "1"
+    },
+    "Morales": {
+        "PERSON": "1"
+    },
+    "Bible Psalms ninety - one": {
+        "WORK_OF_ART": "1"
+    },
+    "moments ago": {
+        "TIME": "1"
+    },
+    "William Wood": {
+        "PERSON": "1"
+    },
+    "tomorrow": {
+        "DATE": "1"
+    },
+    "northern Bavil Province": {
+        "LOC": "1"
+    },
+    "fifty - two": {
+        "CARDINAL": "1"
+    },
+    "July": {
+        "DATE": "1"
+    },
+    "Queen Elizabeth": {
+        "PERSON": "1"
+    },
+    "Four": {
+        "CARDINAL": "1"
+    },
+    "nine o'clock": {
+        "TIME": "1"
+    },
+    "about a minute past nine": {
+        "TIME": "1"
+    },
+    "Allgate tube station": {
+        "FAC": "1"
+    },
+    "July the seventh": {
+        "DATE": "1"
+    },
+    "eight fifty in the morning": {
+        "TIME": "1"
+    },
+    "Paul Kelly Steve Sodbury": {
+        "PERSON": "1"
+    },
+    "Mel Anderson": {
+        "PERSON": "1"
+    },
+    "one second": {
+        "TIME": "1"
+    },
+    "Steve Paul": {
+        "PERSON": "1"
+    },
+    "half": {
+        "CARDINAL": "1"
+    },
+    "Eight": {
+        "CARDINAL": "1"
+    },
+    "one hundred and twenty": {
+        "CARDINAL": "1"
+    },
+    "the end of the day": {
+        "TIME": "1"
+    },
+    "just yesterday": {
+        "DATE": "1"
+    },
+    "Five months": {
+        "DATE": "1"
+    },
+    "that time": {
+        "DATE": "1"
+    },
+    "The Apprentice": {
+        "WORK_OF_ART": "1"
+    },
+    "The Apprentice Martha Stewart": {
+        "WORK_OF_ART": "1"
+    },
+    "about forty - seven percent": {
+        "PERCENT": "1"
+    },
+    "March": {
+        "DATE": "1"
+    },
+    "Donald Trump": {
+        "PERSON": "1"
+    },
+    "Donald": {
+        "PERSON": "1"
+    },
+    "This week": {
+        "DATE": "1"
+    },
+    "Jeanie Mowth": {
+        "PERSON": "1"
+    },
+    "two decades": {
+        "DATE": "1"
+    },
+    "a JC Penney 's": {
+        "FAC": "1"
+    },
+    "Twenty years later": {
+        "DATE": "1"
+    },
+    "the Museum of Modern Art": {
+        "ORG": "1"
+    },
+    "Yoko Ono Diane Sawyer Henry Kissinger Donald Trump Joan Collins": {
+        "PERSON": "1"
+    },
+    "Sting": {
+        "PERSON": "1"
+    },
+    "Princess Di": {
+        "PERSON": "1"
+    },
+    "John Travolta": {
+        "PERSON": "1"
+    },
+    "the UN": {
+        "FAC": "1"
+    },
+    "Only ninteen per cent": {
+        "PERCENT": "1"
+    },
+    "eighty - one per cent": {
+        "PERCENT": "1"
+    },
+    "Princess Diana": {
+        "PERSON": "1"
+    },
+    "Ground Zero": {
+        "LOC": "1"
+    },
+    "Nine Eleven": {
+        "EVENT": "1"
+    }
+}

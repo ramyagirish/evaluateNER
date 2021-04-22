@@ -1,0 +1,40 @@
+Stats on sentences with N number of entities:
+
+For  train/onto.bc.ner : num. sents:  11013  and sent stats: 
+{0: 6426, 1: 2442, 2: 1135, 3: 539, 4: 258, 5: 111, 6: 44, 7: 28, 8: 15, 9: 5, 10: 3, 11: 4, 12: 1, 13: 1, 14: 1}
+For  train/onto.bn.ner : num. sents:  12011  and sent stats: 
+{0: 5070, 1: 2261, 2: 1763, 3: 1404, 4: 705, 5: 425, 6: 206, 7: 96, 8: 44, 9: 21, 10: 8, 11: 3, 12: 2, 13: 1, 14: 1, 16: 1}
+For  train/onto.mz.ner : num. sents:  7792  and sent stats: 
+{0: 3107, 1: 1965, 2: 1126, 3: 706, 4: 410, 5: 222, 6: 122, 7: 64, 8: 34, 9: 11, 10: 12, 11: 6, 12: 3, 13: 2, 17: 1, 20: 1}
+For  train/onto.nw.ner : num. sents:  17522  and sent stats: 
+{0: 5614, 1: 3144, 2: 2719, 3: 2198, 4: 1631, 5: 983, 6: 546, 7: 293, 8: 163, 9: 103, 10: 45, 11: 28, 12: 18, 13: 8, 14: 5, 15: 10, 16: 4, 18: 3, 19: 1, 21: 1, 24: 1, 25: 1, 29: 1, 32: 2}
+For  train/onto.tc.ner : num. sents:  11417  and sent stats: 
+{0: 9693, 1: 1346, 2: 287, 3: 65, 4: 20, 5: 3, 6: 1, 8: 1, 9: 1}
+For  train/onto.wb.ner : num. sents:  6839  and sent stats: 
+{0: 3564, 1: 1726, 2: 732, 3: 378, 4: 208, 5: 98, 6: 48, 7: 34, 8: 19, 9: 15, 10: 3, 11: 5, 12: 4, 14: 1, 16: 1, 17: 1, 18: 1, 19: 1}
+For  test/onto.bc.ner : num. sents:  2150  and sent stats: 
+{0: 1261, 1: 473, 2: 206, 3: 123, 4: 41, 5: 26, 6: 12, 7: 2, 8: 3, 9: 1, 12: 1, 18: 1}
+For  test/onto.bn.ner : num. sents:  1530  and sent stats: 
+{0: 657, 1: 314, 2: 205, 3: 160, 4: 87, 5: 57, 6: 27, 7: 9, 8: 7, 9: 5, 10: 1, 11: 1}
+For  test/onto.mz.ner : num. sents:  876  and sent stats: 
+{0: 387, 1: 193, 2: 134, 3: 67, 4: 33, 5: 30, 6: 19, 7: 7, 8: 2, 9: 2, 10: 1, 12: 1}
+For  test/onto.nw.ner : num. sents:  2164  and sent stats: 
+{0: 624, 1: 417, 2: 323, 3: 274, 4: 218, 5: 140, 6: 81, 7: 32, 8: 25, 9: 13, 10: 5, 11: 3, 12: 5, 15: 1, 16: 1, 17: 1, 21: 1}
+For  test/onto.tc.ner : num. sents:  1402  and sent stats: 
+{0: 1120, 1: 216, 2: 53, 3: 6, 4: 4, 5: 1, 7: 1, 12: 1}
+For  test/onto.wb.ner : num. sents:  985  and sent stats: 
+{0: 434, 1: 268, 2: 133, 3: 77, 4: 36, 5: 20, 6: 6, 7: 4, 8: 3, 9: 1, 10: 2, 11: 1}
+For  development/onto.bc.ner : num. sents:  2067  and sent stats: 
+{0: 1305, 1: 415, 2: 177, 3: 81, 4: 48, 5: 20, 6: 9, 7: 5, 8: 4, 10: 1, 11: 1, 13: 1}
+For  development/onto.bn.ner : num. sents:  1444  and sent stats: 
+{0: 591, 1: 253, 2: 232, 3: 189, 4: 93, 5: 39, 6: 28, 7: 7, 8: 9, 9: 2, 14: 1}
+For  development/onto.mz.ner : num. sents:  728  and sent stats: 
+{0: 236, 1: 183, 2: 115, 3: 81, 4: 53, 5: 33, 6: 9, 7: 13, 8: 1, 9: 2, 11: 1, 17: 1}
+For  development/onto.nw.ner : num. sents:  2317  and sent stats: 
+{0: 697, 1: 393, 2: 386, 3: 327, 4: 222, 5: 127, 6: 74, 7: 42, 8: 28, 9: 8, 10: 3, 11: 2, 12: 2, 13: 2, 15: 1, 19: 1, 20: 1, 24: 1}
+For  development/onto.tc.ner : num. sents:  1670  and sent stats: 
+{0: 1423, 1: 192, 2: 47, 3: 7, 4: 1}
+For  development/onto.wb.ner : num. sents:  1141  and sent stats: 
+{0: 666, 1: 225, 2: 119, 3: 56, 4: 37, 5: 20, 6: 8, 7: 6, 8: 2, 9: 1, 15: 1}
+
+Process finished with exit code 0
