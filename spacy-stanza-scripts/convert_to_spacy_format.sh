@@ -10,6 +10,6 @@ for i in $listvar; do
      echo $home$i$j
      echo $output$i$j
      python3 -m spacy convert $home$i$j -c ner > $output$i$j".json"
+     #NOTE: This won't work with Spacy 3.0 anymore. Check the other spacy conversion script.
    done
    done
-
