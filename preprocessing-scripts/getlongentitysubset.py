@@ -86,6 +86,7 @@ def read_file(filepath):
     return sentences, netags
 
 mypath = "C:/Users/vajjalas/Downloads/NERProject_Materials/bio/bio-everything/onto.test.ner"
+maxlen_const = 2#Choose the entity length here. 2--21
 
 # setting up spacy and stanza
 nlp = spacy.load("en_core_web_lg")  # can try with other models later
@@ -100,7 +101,7 @@ gold_netags = []
 sentences,netags = read_file(mypath)
 for i in range(0,len(netags)):
     maxlen = get_max_len(netags[i])
-    if maxlen < 2:
+    if maxlen > maxlen_const: #change to > if we need "all entites longer than N etc"
         #print(netags[i])
         #print(sentences[i])
         #add spacy/stanza eval code here along with a comparison. output can be a spreadsheet too, to manually go through
