@@ -127,6 +127,10 @@ def flair_eval():
 flair_eval()
 """
 
-#Specify the path of the test file in bio format, and the function gives performance eval for spacy and stanza.
-mypath = "C:/Users/vajjalas/Downloads/NERProject_Materials/bio/bio/test/onto.mz.ner"
-spacy_and_stanza(mypath)
+def main():
+    #Specify the path of the test file in bio format, and the function gives performance eval for spacy and stanza.
+    mypath = "input_perturb/perturb_en-ie_gpe.ner"
+    spacy_and_stanza(mypath)
+
+if __name__ == "__main__":
+    main()
