@@ -129,7 +129,7 @@ flair_eval()
 
 def main():
     #Specify the path of the test file in bio format, and the function gives performance eval for spacy and stanza.
-    mypath = "input_perturb/perturb_en-ie_gpe.ner"
+    mypath = "input_perturb/onto.all.test.perturb2.ner"
     spacy_and_stanza(mypath)
 
 if __name__ == "__main__":
