@@ -1,4 +1,5 @@
-import os, json
+import os, json, pprint, collections
+
 dir = "C:/Users/vajjalas/Downloads/NERProject_Materials/bio/bio/"
 subdirs = ["train", "test", "development"]
 filepaths = ["onto.bc.ner", "onto.bn.ner", "onto.mz.ner", "onto.nw.ner", "onto.tc.ner", "onto.wb.ner"]
@@ -231,12 +232,54 @@ def get_entity_length_stats():
             master_dict[subdir][genre] = tags_dict
     return master_dict
 
+"""
+Return the number of unique entities of a given category, for a given file
+"""
+def get_all_ents_list(filepath, cat):
+    allents = []
+    fh = open(filepath, encoding="utf-8")
+    for line in fh:
+      if "\t" in line:
+        splits = line.strip().split("\t")
+        entity = splits[0]
+        tag = splits[3]
+        if cat in tag:
+            allents.append(entity)
+    fh.close()
+    return allents
+
 
 #get_entity_pair_counts()
 #get_entity_level_stats()
-
 #get_cat_level_stats()
 #print_ent_stats_table()
 
 #get_sent_ent_counts()
-get_ent_len_stats()
+#get_ent_len_stats()
+
+filename_train = "C:/Users/vajjalas/Downloads/NERProject_Materials/bio/bio-everything/onto.train.ner"
+gpestrain = get_all_ents_list(filename_train, "GPE")
+perstrain = get_all_ents_list(filename_train, "PERSON")
+uniqents_GPE_train = set(gpestrain)
+uniqents_PER_train = set(perstrain)
+
+filename_test = "C:/Users/vajjalas/Downloads/NERProject_Materials/bio/bio-everything/onto.test.ner"
+
+gpestest = get_all_ents_list(filename_test, "GPE")
+perstest = get_all_ents_list(filename_test, "PERSON")
+uniqents_GPE_test = set(gpestest)
+uniqents_PER_test = set(perstest)
+
+print("Everything is token level stats!")
+
+print("Total entity tokens for GPE in train and test: ", len(gpestrain), len(gpestest))
+print("Total unique entity tokens for GPE in train and test: ",len(uniqents_GPE_train), len(uniqents_GPE_test))
+
+print("Total entity tokens for PER in train and test: ", len(perstrain), len(perstest))
+print("Total unique entity tokens for PER in train and test: ",len(uniqents_PER_train), len(uniqents_PER_test))
+
+print("Percentage of test PER tokens that overlaps with train PER: ",
+       len(uniqents_PER_test.intersection(uniqents_PER_train))/len(uniqents_PER_test))
+
+print("Percentage of test GPE tokens that overlaps with train GPE: ",
+       len(uniqents_GPE_test.intersection(uniqents_GPE_train))/len(uniqents_GPE_test))
